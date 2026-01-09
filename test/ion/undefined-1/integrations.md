@@ -15,11 +15,11 @@ layout:
     visible: true
 ---
 
-# 태블릿
+# GNSS 리시버
 
-### 태블릿
+### GNSS 리시버
 
-태블릿은 자율주행 시스템의 디스플레이입니다.  작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행하며, 실시간 위치/주행 정보/오류 상태를 확인할 수 있습니다.
+GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의 위치를 정밀하게 파악합니다.  별도의 복잡한 설정 없이 자동 위치 보정 서비스를 지원합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
