@@ -43,7 +43,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-1/">iON 제품소개</a></summary>
+<summary><a href="ion/undefined-1/">개요</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Pluva iON 이란?</td><td><a href="ion/undefined-1/pluva-ion.md">pluva-ion.md</a></td></tr><tr><td>제품의 구성</td><td><a href="ion/undefined-1/images-and-media.md">images-and-media.md</a></td></tr><tr><td>주요 제품별 인터페이스</td><td><a href="ion/undefined-1/integrations.md">integrations.md</a></td></tr><tr><td>안내 음성 및 작동음</td><td><a href="ion/undefined-1/undefined-2.md">undefined-2.md</a></td></tr></tbody></table>
 
