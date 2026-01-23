@@ -15,11 +15,11 @@ layout:
     visible: true
 ---
 
-# 정비
+# 소비자 정보
 
-### 정비
+### 소비자 정보
 
-장비 사용 중 발생할 수 있는 문제를 빠르게 해결하고, 주기적인 점검을 통해 최상의 성능을 유지할 수 있도록 정비 관련 정보를 제공합니다.
+사용자가 제품을 안전하게 이해하고 사용할 수 있도록 필요한 정보와 기준을 제공합니다. 제품 사용 시 참고해야 할 책임 범위, 개인정보 처리 내용, 기술 성능 정보 등을 확인할 수 있습니다.
 
 
 
@@ -29,5 +29,9 @@ layout:
 
 {% content-ref url="undefined-1.md" %}
 [undefined-1.md](undefined-1.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-2.md" %}
+[undefined-2.md](undefined-2.md)
 {% endcontent-ref %}
 
