@@ -15,18 +15,18 @@ layout:
     visible: true
 ---
 
-# 유턴 모드
+# 네트워크 설정
 
-### 유턴 모드
+### 네트워크 설정
 
-유턴 모드는 자율주행 농기계가 작업 라인 끝에 도달했을 때 자동으로 방향을 전환하여 다음 작업 라인으로 이동하는 핵심 기능입니다. 작업 효율성, 연료 절약, 작물 보호를 동시에 고려한 지능형 유턴 패턴을 제공합니다.
+안정적인 자율주행과 장비 연동을 위해 필요한 네트워크 연결 및 환경 설정 절차를 안내합니다. GNSS 연결과 통신 설정을 통해 정확한 위치 기반 작업을 지원합니다.
 
 
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="rtk.md" %}
+[rtk.md](rtk.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
