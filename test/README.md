@@ -85,7 +85,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-5/">메인컨트롤러 설정</a></summary>
+<summary><a href="/broken/pages/xdqyrotcpSCEu9dbvcVk">메인컨트롤러 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>차량 관리</td></tr><tr><td>작업기 관리</td></tr></tbody></table>
 
@@ -93,7 +93,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-6/">작업 관리 및 리포트</a></summary>
+<summary><a href="/broken/pages/4zACjAuvhJpn2Zy8Hlpz">작업 관리 및 리포트</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>차량 관리</td></tr><tr><td>작업기 관리</td></tr></tbody></table>
 
@@ -101,7 +101,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-7/">네트워크 설정</a></summary>
+<summary><a href="ion/undefined-5/">네트워크 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>RTK 설정</td></tr><tr><td>네트워크 설정</td></tr></tbody></table>
 
@@ -109,7 +109,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-8/">화면 및 카메라 설정</a></summary>
+<summary><a href="/broken/pages/NdhND7Pwj2O8wWizldnA">화면 및 카메라 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>화면 설정</td></tr><tr><td>카메라 설정</td></tr></tbody></table>
 
@@ -117,7 +117,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-9/">알림 설정</a></summary>
+<summary><a href="/broken/pages/yN7fzMd3K1SsCFdfIUsq">알림 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>알림 종류</td></tr><tr><td>알림 설정 방식</td></tr></tbody></table>
 
@@ -125,7 +125,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-10/">기타 설정</a></summary>
+<summary><a href="/broken/pages/T4HAokmzPeBVwXF6kYZk">기타 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>시스템 설정</td></tr><tr><td>개인정보 관리</td></tr><tr><td>소프트웨어 관리</td></tr></tbody></table>
 
@@ -133,17 +133,17 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-11/">정비</a></summary>
+<summary><a href="ion/undefined-6/">정비</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/undefined-11/undefined.md">undefined.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/undefined-11/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/undefined-6/undefined.md">undefined.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/undefined-6/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="ion/undefined-12/">소비자 정보</a></summary>
+<summary><a href="ion/undefined-7/">소비자 정보</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>면책 조항</td><td><a href="ion/undefined-12/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="ion/undefined-12/undefined-1.md">undefined-1.md</a></td></tr><tr><td>제원 정보</td><td><a href="ion/undefined-12/undefined-2.md">undefined-2.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>면책 조항</td><td><a href="ion/undefined-7/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="ion/undefined-7/undefined-1.md">undefined-1.md</a></td></tr><tr><td>제원 정보</td><td><a href="ion/undefined-7/undefined-2.md">undefined-2.md</a></td></tr></tbody></table>
 
 </details>
 
