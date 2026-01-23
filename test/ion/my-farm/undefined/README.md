@@ -39,6 +39,6 @@ My Farm의 농장관리의 농장 탭을 누릅니다.
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="../../undefined-2/undefined-2/" %}
-[undefined-2](../../undefined-2/undefined-2/)
+{% content-ref url="../../driving/u-turn/" %}
+[u-turn](../../driving/u-turn/)
 {% endcontent-ref %}

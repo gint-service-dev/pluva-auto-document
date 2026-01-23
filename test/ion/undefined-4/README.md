@@ -15,8 +15,23 @@ layout:
     visible: true
 ---
 
-# 차량, 작업기 설정
+# 소비자 정보
 
-### 차량, 작업기 관리
+### 소비자 정보
 
-작업에 사용되는 차량과 작업기의 상태를 관리하고 설정할 수 있는 공간입니다. 장비별 정보 관리 및 유지 관리 기능을 제공합니다.
+사용자가 제품을 안전하게 이해하고 사용할 수 있도록 필요한 정보와 기준을 제공합니다. 제품 사용 시 참고해야 할 책임 범위, 개인정보 처리 내용, 기술 성능 정보 등을 확인할 수 있습니다.
+
+
+
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-1.md" %}
+[undefined-1.md](undefined-1.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-2.md" %}
+[undefined-2.md](undefined-2.md)
+{% endcontent-ref %}
+
