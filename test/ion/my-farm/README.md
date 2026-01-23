@@ -23,14 +23,14 @@ layout:
 
 
 
+{% content-ref url="farm-management/" %}
+[farm-management](farm-management/)
+{% endcontent-ref %}
+
+{% content-ref url="field-management/" %}
+[field-management](field-management/)
+{% endcontent-ref %}
+
 {% content-ref url="undefined/" %}
 [undefined](undefined/)
-{% endcontent-ref %}
-
-{% content-ref url="undefined-1/" %}
-[undefined-1](undefined-1/)
-{% endcontent-ref %}
-
-{% content-ref url="undefined-2/" %}
-[undefined-2](undefined-2/)
 {% endcontent-ref %}
