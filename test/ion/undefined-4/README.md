@@ -15,19 +15,8 @@ layout:
     visible: true
 ---
 
-# 정비
+# 차량, 작업기 설정
 
-### 정비
+### 차량, 작업기 관리
 
-장비 사용 중 발생할 수 있는 문제를 빠르게 해결하고, 주기적인 점검을 통해 최상의 성능을 유지할 수 있도록 정비 관련 정보를 제공합니다.
-
-
-
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
-{% endcontent-ref %}
-
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
-{% endcontent-ref %}
-
+작업에 사용되는 차량과 작업기의 상태를 관리하고 설정할 수 있는 공간입니다. 장비별 정보 관리 및 유지 관리 기능을 제공합니다.

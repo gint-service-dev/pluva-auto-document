@@ -15,23 +15,18 @@ layout:
     visible: true
 ---
 
-# 소비자 정보
+# 네트워크 설정
 
-### 소비자 정보
+### 네트워크 설정
 
-사용자가 제품을 안전하게 이해하고 사용할 수 있도록 필요한 정보와 기준을 제공합니다. 제품 사용 시 참고해야 할 책임 범위, 개인정보 처리 내용, 기술 성능 정보 등을 확인할 수 있습니다.
+안정적인 자율주행과 장비 연동을 위해 필요한 네트워크 연결 및 환경 설정 절차를 안내합니다. GNSS 연결과 통신 설정을 통해 정확한 위치 기반 작업을 지원합니다.
 
 
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="rtk.md" %}
+[rtk.md](rtk.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
-
-{% content-ref url="undefined-2.md" %}
-[undefined-2.md](undefined-2.md)
-{% endcontent-ref %}
-

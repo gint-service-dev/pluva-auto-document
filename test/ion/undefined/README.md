@@ -15,22 +15,36 @@ layout:
     visible: true
 ---
 
-# 주행
+# 개요
 
-### 주행모드 (경로플래닝)
+### 개요
 
-주행 기능은 사용자가 설정한 경로를 따라 농기계가 자동으로 이동하며 농작업을 수행하도록 돕는 핵심 기능입니다. 주행 중에는 주행 모드, 속도, 작업 면적, 작업 시간, OTE 편차(직진 정확도)와 차량·작업기 상태를 실시간으로 표시하여, 운전자가 현재 작업 상황을 한눈에 파악하고 안전하게 자율주행과 수동 조작을 전환할 수 있도록 지원합니다.
+플루바 아이온의 시스템 구성과 인터페이스 요소를 소개합니다. 장치별 역할을 이해하고 사용 준비를 완료할 수 있습니다.
 
+{% content-ref url="pluva-ion.md" %}
+[pluva-ion.md](pluva-ion.md)
+{% endcontent-ref %}
 
+{% content-ref url="images-and-media.md" %}
+[images-and-media.md](images-and-media.md)
+{% endcontent-ref %}
+
+{% content-ref url="integrations.md" %}
+[integrations.md](integrations.md)
+{% endcontent-ref %}
 
 {% content-ref url="undefined.md" %}
 [undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/tFVxXIvqJwGsUJYX1vzo" %}
-[Broken link](/broken/pages/tFVxXIvqJwGsUJYX1vzo)
+{% content-ref url="../overview/switch.md" %}
+[switch.md](../overview/switch.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2/" %}
-[undefined-2](undefined-2/)
+{% content-ref url="undefined-2.md" %}
+[undefined-2.md](undefined-2.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-3.md" %}
+[undefined-3.md](undefined-3.md)
 {% endcontent-ref %}
