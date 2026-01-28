@@ -18,11 +18,11 @@ metaLinks:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview
 ---
 
-# 개요
+# 概要
 
-### 개요
+### 概要
 
-플루바 아이온의 시스템 구성과 인터페이스 요소를 소개합니다. 장치별 역할을 이해하고 사용 준비를 완료할 수 있습니다.
+PLUVA iONのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解したうえで、取り付け及び使用準備を完了することを目的としています。
 
 {% content-ref url="pluva-ion-introduction.md" %}
 [pluva-ion-introduction.md](pluva-ion-introduction.md)
@@ -44,8 +44,8 @@ metaLinks:
 [switch.md](switch.md)
 {% endcontent-ref %}
 
-{% content-ref url="voice-and-sound.md" %}
-[voice-and-sound.md](voice-and-sound.md)
+{% content-ref url="/broken/pages/5pp2QvCo5ytDVl1Nt0jZ" %}
+[Broken link](/broken/pages/5pp2QvCo5ytDVl1Nt0jZ)
 {% endcontent-ref %}
 
 {% content-ref url="camera.md" %}

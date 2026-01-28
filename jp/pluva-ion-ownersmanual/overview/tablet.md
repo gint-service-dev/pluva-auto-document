@@ -18,9 +18,9 @@ metaLinks:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/tablet
 ---
 
-# 태블릿
+# タブレット
 
-### 태블릿
+### タブレット
 
 태블릿은 자율주행 시스템의 디스플레이입니다.  작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행하며, 실시간 위치/주행 정보/오류 상태를 확인할 수 있습니다.
 
