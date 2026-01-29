@@ -17,6 +17,8 @@ layout:
 
 # PLUVA iON
 
+<figure><img src=".gitbook/assets/pluva-package.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 ご参考\
 自動操舵キットのモデルによって、提供される製品マニュアルの種類や内容は一部異なる場合があります。マニュアル内容の一部の装置及びソフトウェアは、メーカーのポリシーによって変更される可能性があり、バージョンが異なる場合があります。
