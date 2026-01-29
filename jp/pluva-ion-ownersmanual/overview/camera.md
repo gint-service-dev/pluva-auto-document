@@ -24,7 +24,7 @@ metaLinks:
 
 PLUVA iONには、周辺環境をモニタリングするためのカメラが構成品として含まれています。
 
-<div align="left"><figure><img src="../../.gitbook/assets/태블릿.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="/broken/files/AOwVAoanYjD86QnhygZV" alt="" width="563"><figcaption></figcaption></figure></div>
 
 トラクターの後部上側にカメラが取り付けられ、後方作業をモニタリングします。
 

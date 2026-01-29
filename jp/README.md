@@ -20,7 +20,7 @@ metaLinks:
 
 # PLUVA iON
 
-<figure><img src=".gitbook/assets/iON 패키지 이미지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/pxuPKc2cdXmBWhMWQsoa" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ご参考\

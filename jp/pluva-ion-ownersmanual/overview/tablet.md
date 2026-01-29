@@ -24,7 +24,7 @@ metaLinks:
 
 タブレットは、自動操舵システムを制御するためのディスプレイ装置です。 作業経路の設定や走行状態のモニタリング、システム制御及び各種設定ができ、リアルタイムでの位置情報や走行情報及びエラー状態を確認できます。
 
-<div align="left"><figure><img src="../../.gitbook/assets/태블릿.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="/broken/files/AOwVAoanYjD86QnhygZV" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="74.7265625">番号</th><th width="115.2109375">形状</th><th width="153.8133544921875">名称</th><th>機能</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/1.svg" alt=""></td><td></td><td>メイン電源スイッチ</td><td>電動ステアリングホイールやGNSS受信機、タブレットなど、接続されたすべてのデバイスの電源を一回でオン/オフできます。</td></tr><tr><td><img src="../../.gitbook/assets/2.svg" alt=""></td><td></td><td>タブレットの電源</td><td>タブレットの電源をオン、またはオフにします。</td></tr><tr><td><img src="../../.gitbook/assets/3.svg" alt=""></td><td></td><td>右へ移動</td><td><ol><li>設定画面：選択項目を右へ移動します。</li><li>自動操舵中：等間隔のラインを右側に一定間隔で移動させます。</li><li>Uターン中：右側へ即時Uターンします。</li></ol></td></tr><tr><td><img src="../../.gitbook/assets/4.svg" alt=""></td><td></td><td>左へ移動</td><td><ol><li>設定画面：選択項目を左へ移動します。</li><li>自動操舵中：等間隔ラインを左側に一定間隔で移動させます。</li><li>Uターン中：左側へ即時Uターンします。</li></ol></td></tr><tr><td><img src="../../.gitbook/assets/5.svg" alt=""></td><td></td><td>選択 / 自動操舵ON・OFF</td><td><ol><li>設定画面：選択項目を確定させます。</li><li>自動操舵中：自動操舵を開始、または解除します。</li></ol></td></tr><tr><td>/</td><td></td><td>キャンセル/前へ</td><td>前の画面に移動、または実施中の動作を中断します。</td></tr><tr><td></td><td></td><td>マルチ機能（お気に入り）</td><td>お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。</td></tr><tr><td></td><td></td><td>メインコネクター</td><td>タブレットに電源やGNSS受信機、電動ステアリングホイールなどの各種製品を接続する装置です</td></tr></tbody></table>
 
