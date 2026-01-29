@@ -10,7 +10,7 @@
   * [電動ステアリングホイール](pluva-ion-ownersmanual/overview/electric-steering-wheel.md)
   * [GNSS受信機](pluva-ion-ownersmanual/overview/gnss-receiver.md)
   * [タブレット](pluva-ion-ownersmanual/overview/tablet.md)
-  * [ワンタッチスイッチ](pluva-ion-ownersmanual/overview/switch.md)
+  * [ワンタッチスイッチ (オプション品)](pluva-ion-ownersmanual/overview/switch.md)
   * [カメラ](pluva-ion-ownersmanual/overview/camera.md)
 * [走行モード(経路のプランニング)](pluva-ion-ownersmanual/driving/README.md)
   * [경로플래닝 설정 방법](pluva-ion-ownersmanual/driving/route-planning-settings.md)
