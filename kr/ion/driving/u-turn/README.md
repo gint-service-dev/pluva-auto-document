@@ -97,14 +97,14 @@ layout:
 
 ### 유턴 설명
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="type-settings.md" %}
+[type-settings.md](type-settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="pattern-settings.md" %}
+[pattern-settings.md](pattern-settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2.md" %}
-[undefined-2.md](undefined-2.md)
+{% content-ref url="shape-settings.md" %}
+[shape-settings.md](shape-settings.md)
 {% endcontent-ref %}
