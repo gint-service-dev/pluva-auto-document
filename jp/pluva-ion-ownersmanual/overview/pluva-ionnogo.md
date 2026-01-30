@@ -116,4 +116,4 @@ Pluva iON은 농작업 환경에서 사용 가능한 자율주행 보조 기능�
 
 각 구성품은 농기계에 지정된 위치로 설치됩니다. 실제 장착 위치는 차량 모델 및 장착 키트에 따라 달라질 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/제품 설치 위치.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Installation-location.png" alt=""><figcaption></figcaption></figure>
