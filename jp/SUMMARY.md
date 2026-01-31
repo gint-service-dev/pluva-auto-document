@@ -12,7 +12,7 @@
   * [タブレット](pluva-ion-ownersmanual/overview/taburetto.md)
   * [ワンタッチスイッチ](pluva-ion-ownersmanual/overview/wantatchisuitchi.md)
   * [カメラ](pluva-ion-ownersmanual/overview/kamera.md)
-* [走行モード(経路のプランニング)](pluva-ion-ownersmanual/driving/README.md)
+* [走行モード(経路のプランニング)](pluva-ion-ownersmanual/driving.md)
   * [経路のプランニングの設定方法](pluva-ion-ownersmanual/driving/nopuranninguno.md)
   * [AB直進](pluva-ion-ownersmanual/driving/ab-zhi-jin.md)
   * [A+直進](pluva-ion-ownersmanual/driving/a+-zhi-jin.md)
