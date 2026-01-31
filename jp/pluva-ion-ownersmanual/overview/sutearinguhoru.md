@@ -17,14 +17,14 @@ layout:
 
 # 電動ステアリングホイール
 
-### 일렉트릭 스티어 휠
+### 電動ステアリングホイール
 
-전동 스티어링 휠은 농기계의 기존 핸들을 탈착한 뒤, 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다. 생성된 주행 경로를 기반으로 조향을 제어하여, 조건부로 운전자의 조향 작업을 보조합니다.
+農業機械の従来のハンドルを取り外し、ステアリング位置に取り付ける電動モーター式のステアリング装置です。生成された走行経路に基づきステアリングを制御し、一定の条件下で運転者のステアリング作業を補助します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/Electric Steering Wheel-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 
-![](../../.gitbook/assets/icon-1.svg) 핸들
+![](../../.gitbook/assets/icon-1.svg) ハンドル
 
-![](../../.gitbook/assets/icon-2.svg) 모터
+![](../../.gitbook/assets/icon-2.svg) モーター

@@ -17,101 +17,189 @@ layout:
 
 # タブレット
 
-### 태블릿
+### タブレット
 
-태블릿은 자율주행 시스템의 디스플레이입니다.  작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행하며, 실시간 위치/주행 정보/오류 상태를 확인할 수 있습니다.
+タブレットは、自動操舵システムを制御するためのディスプレイ装置です。 作業経路の設定や走行状態のモニタリング、システム制御及び各種設定ができ、リアルタイムでの位置情報や走行情報及びエラー状態を確認できます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-1.svg) **전원 ON/OFF**
+![](../../.gitbook/assets/icon-1.svg) **メイン電源スイッチ**
 
-* 전원을 켜거나 끕니다.
+* 電動ステアリングホイールやGNSS受信機、タブレットなど、接続されたすべてのデバイスの電源を一回でオン/オフできます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn1.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-2.svg) **우(▶)버튼**
+![](../../.gitbook/assets/icon-2.svg) **タブレットの電源**
 
-* 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
-* 자율주행 중: Shift(좌/우 오프셋)를 조정합니다.
-* 유턴 중: 즉시 유턴을 실행합니다.
+* タブレットの電源をオン、またはオフにします。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn1.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-2.svg) **右側(▶)**
+
+* 設定画面：選択項目を右へ移動します。
+* 自動操舵中：等間隔のラインを右側に一定間隔で移動させます。
+* Uターン中：右側へ即時Uターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn2.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-3.svg) **좌(◀)버튼**
+![](../../.gitbook/assets/icon-3.svg) **左側(◀)**
 
-* 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
-* 자율주행 중: Shift(좌/우 오프셋)를 조정합니다.
-* 유턴 중: 즉시 유턴을 실행합니다.
+* 設定画面：選択項目を左へ移動します。
+* 自動操舵中：等間隔ラインを左側に一定間隔で移動させます。
+* Uターン中：左側へ即時Uターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn3.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-3.svg) **선택 / OK /자율주행 ON·OFF**
+![](../../.gitbook/assets/icon-4.svg) **選択 / 自動操舵ON・OFF**
 
-* 선택 항목을 확정합니다.
-* 자율주행 진입 또는 해제를 수행합니다.
+* 設定画面：選択項目を確定させます。
+* 自動操舵中：自動操舵を開始、または解除します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn4.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-4.svg) **취소 (Cancel)/ 이전 (Back)**
+![](../../.gitbook/assets/icon-5.svg) **キャンセル/前へ**
 
-* 이전 화면으로 이동하거나 진행 중 동작을 취소합니다.
+* 前の画面に移動、または実施中の動作を中断します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn5.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-5.svg) **멀티펑션 기능**
+![](../../.gitbook/assets/icon-5.svg) **マルチ機能（お気に入り）**
 
-* 즐겨찾기를 실행합니다.
+* お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-5.svg) **メインコネクター**
+
+* タブレットに電源やGNSS受信機、電動ステアリングホイールなどの各種製品を接続する装置です
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ***
 
-#### 터치스크린 구성
+#### タッチスクリーンの構成
 
-![](../../.gitbook/assets/icon-1.svg) **주행 정보**
+![](../../.gitbook/assets/icon-1.svg) **走行情報**
 
-* 주행 모드, 작업 시간, 작업 면적, 속도 등을 표시합니다.
+* 走行モード、作業時間、作業面積、速度などが表示されます。
 
-![](../../.gitbook/assets/icon-2.svg) **OTE 정보**
+![](../../.gitbook/assets/icon-2.svg) **経路偏差に関する情報**
 
-* 기준 라인 대비 좌/우 편차를 실시간으로 표시합니다. 값이 0에 가까울수록 기준 라인에 정렬된 상태입니다.
+* 走行経路に沿って正確に走行しているかが表示されます。数字が「0」に近いほど経路をより精密に走行します。
 
-![](../../.gitbook/assets/icon-3.svg) **실시간 작업 상태**
+![](../../.gitbook/assets/icon-3.svg) **リアルタイムでの作業状態**
 
-* 차량/작업기 상태를 3D로 표시합니다.&#x20;
-* GPS/IMU 등 센서 값이 반영되며, 상태 변화가 실시간으로 업데이트됩니다.
+* 車両/作業機の状態が3Dで表示されます。GPS/IMUなどのセンサー値が反映され、作業状態がリアルタイムでアップデートされます。
 
-![](../../.gitbook/assets/icon-3.svg) **등간격·작업기·골간격 폭 정보 버튼**
+![](../../.gitbook/assets/icon-4.svg) **作業幅に関するボタン**
 
-* 현재 설정된 등간격, 작업기, 골간격 폭 정보를 확인할 수 있습니다.
-* 버튼을 누르면 수치 정보 모달이 표시됩니다.
+* 現在設定されている等間隔、作業機、畝間の幅に関する情報を確認できます。ボタンを押すとポップアップで数値情報が表示されます。
 
-![](../../.gitbook/assets/icon-4.svg) **화면 비율 조정 기능**
+![](../../.gitbook/assets/icon-5.svg) **画面の表示比率の調整**
 
-* 3D/지도 우선순위 등 화면 구성을 전환합니다.
+* 画面分割の境界線をドラッグすると、3D/地図領域の比率が調整されます。 これにより、1:2分割、2:1分割、全体画面などの画面構成を作業状況に合わせて変更することができます。
 
-![](../../.gitbook/assets/icon-5.svg) **전체메뉴**
+![](../../.gitbook/assets/icon-5.svg) **メニュー一覧**
 
-* 시스템의 모든 기능/설정 메뉴로 이동합니다.
+* システムのすべての機能/設定メニューへ移動します。
 
-![](../../.gitbook/assets/icon-5.svg) **홈**
+![](../../.gitbook/assets/icon-5.svg) **ホーム**
 
-* 어느 메뉴에 있더라도 한 번의 터치로 주행 화면(기본 화면)으로 즉시 복귀합니다.
+* 現在の画面と関係なく走行画面（基本画面）に移動します。
 
-![](../../.gitbook/assets/icon-5.svg) **차량**
+![](../../.gitbook/assets/icon-5.svg) **車両**
 
-* 차량 프로필, 제원, 조향 설정 등 차량 관련 설정으로 이동합니다.
+* 車両情報、仕様、ステアリング設定など、車両関連の設定に移動します。
 
-![](../../.gitbook/assets/icon-5.svg) **작업기**
+![](../../.gitbook/assets/icon-5.svg) **作業機**
 
-* 작업기 프로필, 제원, 오프셋 등 작업기 관련 설정으로 이동합니다.
+* 作業機の追加、作業機情報、仕様、オフセットなど、作業機関連の設定に移動します。
 
-![](../../.gitbook/assets/icon-5.svg) **경로플래닝**
+![](../../.gitbook/assets/icon-5.svg) **経路のプランニング**
 
-* AB 직진, A+, AB 커브 등 작업 패턴을 선택·설정하는 메뉴입니다.
-* 다양한 주행 모드를 한 곳에서 관리합니다.
+* 経路プランニングはAB直進、A+、四角形走行などの作業パターンを選択及び設定するメニューです。様々な走行モードを一箇所で確認でき、必要なモードで進入できます。詳細については、経路のプランニングをご参照ください。
 
-![](../../.gitbook/assets/icon-5.svg) 등간격 편의 기능
+![](../../.gitbook/assets/icon-5.svg) **等間隔に関する便利機能**
 
-* AB 직진, A+, AB 커브 등 작업 패턴을 선택·설정하는 메뉴입니다.
-* 다양한 주행 모드를 한 곳에서 관리합니다.
+* 等間隔の移動、引っ張ってくる、90度回転など、等間隔に関する機能を確認し使用できます。\
+  詳細は等間隔に関する便利機能をご参照ください。
+
+![](../../.gitbook/assets/icon-5.svg) **作業オプション**
+
+* 作業中、Uターンモード、経路の取り込み、経路のリセットなど、作業中に必要な補助機能をご提供します。 作業方法の設定や経路に関する機能を速やかに使用できます。
+
+![](../../.gitbook/assets/icon-5.svg) **エンターテインメント**
+
+* YouTubeのエンターテインメント機能を実行します。
+
+![](../../.gitbook/assets/icon-5.svg) **カメラ**
+
+* 作業機の状態をリアルタイムで監視するカメラビューです。 後方の作業機を確認し、安全かつ正確な作業ができるようサポートいたします。詳細については概要-カメラをご参照ください。
+
+![](../../.gitbook/assets/icon-5.svg) **システム状態**
+
+* 画面の最上段に表示され、作業に必要な重要システム情報をリアルタイムでご提供します。\
+  詳細については、システムのステータスアイコンをご参照ください。
+
+![](../../.gitbook/assets/icon-5.svg) **方角**
+
+* 車両の進行方向がリアルタイムで表示されます。地図の拡大/縮小変更時に車両の進行方向が一目で分かります。
+  * 車両の進行方向: 車両の前方が向いている方向です
+
+![](../../.gitbook/assets/icon-5.svg) **地図の切り替え**
+
+* 圃場全体または作業エリアの拡大モードに切り替わります。
+
+![](../../.gitbook/assets/icon-5.svg) **自動操舵のコントロールボタン**
+
+* 現在の作業状態に応じて、必要な操作ボタンが自動で表示されます。
+  * A/B/A+：経路基準点の設定
+  * スタート：自動操舵の開始
+  * 停止：自動操舵の終了
+
+***
+
+#### システムのステータスアイコン
+
+
+
+1. **RTK通信状態**
+
+* 衛星信号の受信状態が表示されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+2. **ネットワーク通信状態**
+
+* タブレットのネットワーク通信状態が表示されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+3. **現在の作業ライン**
+
+* 現在作業中のラインの位置が表示されます。
+  * 基準となるラインは0、基準ラインから右は+1、+2··· 左は-1、-2···と表示されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+4. **現在の温度**
+
+* 作業場所の現在の気温が表示されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+5. **現在の時刻**
+
+* システムの時刻が表示されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+

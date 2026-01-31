@@ -17,36 +17,43 @@ layout:
 
 # GNSS受信機
 
-### GNSS 리시버
+### GNSS受信機
 
-GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의 위치를 정밀하게 파악합니다.  별도의 복잡한 설정 없이 자동 위치 보정 서비스를 지원합니다.
+GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農業機械の位置を精密に把握できます。\
+補正データを用いて位置補正が行われ、設定内容は使用環境により変更される場合があります。
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-1.svg) 상태 표시 LED
+![](../../.gitbook/assets/icon-1.svg) ステータス表示LED
 
-1. 좌측 LED: 전원 및 시스템의 H/W 이상 여부
+1. 左側のLED
+   1. 表示状態: 電源及びシステムのハードウェアにおける異常有無
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<table data-header-hidden><thead><tr><th width="100.4921875"></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>노란색 점멸</td></tr><tr><td>상태</td><td>정상</td><td>오류 발생</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-3.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-4.png" alt=""></td></tr></tbody></table>
+ステータス区分
+
+<table data-header-hidden><thead><tr><th width="100.4921875"></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>黄色で点滅</td></tr><tr><td>ステータス</td><td>正常</td><td>エラー発生</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-3.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-4.png" alt=""></td></tr></tbody></table>
 
 
 
-2. 중앙 LED: GNSS 보정 정보 수신 여부
+2. 中央のLED
+   1. 表示状態: GNSS補正情報の受信有無
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>정상</td><td>5초 이상 미수신</td><td>60초 이상 미수신 (또는 수신된적 없음)</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-3.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-6.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-7.png" alt=""></td></tr></tbody></table>
+ステータス区分
+
+<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>正常</td><td>5秒以上未受信</td><td>60秒以上未受信<br>（または受信記録なし）</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-3.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-6.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-7.png" alt=""></td></tr></tbody></table>
 
 
 
-3. 우측 LED: GNSS RTK 상태
+3. 右側のLED
+   1. 表示状態: GNSS RTKのステータス
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS-8.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<table data-header-hidden><thead><tr><th width="126.7890625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>RTK Fixed</td><td>RTK Fixed Float</td><td>그 밖의 상태</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-9.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-10.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-11.png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="126.7890625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>RTK信号良好</td><td>RTK信号普通</td><td>その他のステータス</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS-9.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-10.png" alt=""></td><td><img src="../../.gitbook/assets/GNSS-11.png" alt=""></td></tr></tbody></table>
 
-![](../../.gitbook/assets/icon-2.svg) QR코드: 제품 등록시 사용되는 QR 코드입니다.
+![](../../.gitbook/assets/icon-2.svg) QRコード：製品登録時に使用されるQRコードです。
 
-***

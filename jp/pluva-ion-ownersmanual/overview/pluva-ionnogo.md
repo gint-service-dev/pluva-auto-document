@@ -17,64 +17,58 @@ layout:
 
 # PLUVA iONのご紹介
 
-### Pluva iON 소개
+### PLUVA iONのご紹介
 
-Pluva iON은 농작업 환경에서 사용 가능한 자율주행 보조 기능을 제공합니다. 본 제품은 KS B 7951 기준 Level 2\~3.5 수준의 자율주행 기능을 지원합니다.
+PLUVA iONは、トラクター及び田植え機向けのオートガイダンス（Autoguidance）システムとして、GNSS（衛星測位システム）及び電動ステアリングを用いて、高精度な直進走行や自動Uターンなどをサポートする装置です。運転者の操作負担を軽減し、作業品質及び作業効率の向上を目的とした作業補助システムです。
 
 
 
-자율주행 기능은 여러 구성품의 연동으로 동작합니다. 아래에서 구성품과 각 장치의 역할을 확인하세요.
+自動操舵機能は、複数の構成品が連携して動作します。下記にて、構成品と各装置の役割について説明いたします。
 
 ***
 
-### 1. 제품의 구성
+### 製品構成
 
-제품을 구입하시면 다음과 같은 구성물을 제공하고 있으니 반드시 확인하세요.\
-제품의 구성물 중 일부는 모델 타입에 따라 외관 및 색상이 그림과 다를 수 있습니다.
+※本製品をご購入いただくと、下記の構成品が同梱されていますので必ずご確認ください。\
+構成品の一部は、モデルタイプによって外観や色がイメージと異なる場合があります。
 
 
 
-#### 풀세트
+#### フルセット
 
-> Pluva iON의 전체 구성품입니다. GNSS 수신기(리시버), 전동 스티어링 휠(모터), 태블릿, 카메라를 포함합니다.
+> PLUVA iONの全構成品です。GNSS受信機、電動ステアリングホイール、タブレット、カメラが含まれています。
 
 <figure><img src="../../.gitbook/assets/fullset.png" alt=""><figcaption></figcaption></figure>
 
-#### 반세트
+#### ハーフセット
 
-> 태블릿을 제외한 구성품입니다. GNSS 수신기(리시버), 전동 스티어링 휠(모터), 카메라를 포함합니다. 반세트 주문 전, Pluva iON 태블릿을 보유하고 있는지 확인이 필요합니다.
+> 本製品はタブレットを含みません。GNSS受信機、電動ステアリングホイール、カメラが含まれています。 ハーフセットをご購入の際には、すでにPLUVA iONのタブレットをお持ちであることをご確認ください。
 
 <figure><img src="../../.gitbook/assets/Expansion Kit.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 2. 주요 구성품 소개
+### 主な構成品のご紹介
 
 
 
 {% columns %}
 {% column %}
-#### **Electric Steering Wheel**&#x20;
-
-**:** 전동 스티어링 휠
+#### 電動ステアリングホイール
 
 <figure><img src="../../.gitbook/assets/Electric Steering Wheel.png" alt=""><figcaption></figcaption></figure>
 
-농기계의 기존 핸들을 탈착한 뒤 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다.
-
-> 자세한 내용은 [일렉트릭 스티어링 휠](/broken/pages/scPRmf2UHNygzfDCY7Iu) 참조
+農業機械の従来のハンドルを取り外し、ステアリング位置に取り付ける電動モーター式のステアリング装置です。\
+詳細は、[電動ステアリングホイール](sutearinguhoru.md)をご参照ください。
 {% endcolumn %}
 
 {% column %}
-#### **GNSS Receiver**
-
-: GNSS 수신기
+#### GNSS受信機
 
 <figure><img src="../../.gitbook/assets/Gnss.png" alt=""><figcaption></figcaption></figure>
 
-고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 산출합니다.
-
-> 자세한 내용은 [GNSS 리시버](/broken/pages/lWdZgI2P4YIODQ7uazsl) 참조
+高精度測位（RTK）技術を活用し、農業機械のリアルタイムでの位置を精密に測定する装置です。\
+ 詳しい仕様及び機能に関しては、[GNSS受信機](gnss-shou-xin-ji.md)をご参照ください。
 {% endcolumn %}
 {% endcolumns %}
 
@@ -82,38 +76,39 @@ Pluva iON은 농작업 환경에서 사용 가능한 자율주행 보조 기능�
 
 {% columns %}
 {% column %}
-#### Tablet
-
-**:** 태블릿
+#### タブレット
 
 <figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
 
-자율주행 시스템의 디스플레이로, 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행합니다.
-
-> 자세한 내용은 [태블릿](/broken/pages/JktgjzwXNjPEajyHsla4)을 참조
+自動操舵システムのディスプレイ装置として、作業経路の設定、走行状態のモニタリング、システム制御及び各種設定機能をご提供します。\
+ 詳しい使用方法は[タブレット](taburetto.md)をご参照ください。
 {% endcolumn %}
 
 {% column %}
-#### Switch(옵션품)
-
-: 스위치&#x20;
+#### ワンタッチスイッチ (オプション品)
 
 <figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
-작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
+作業者が操作しやすい位置に取り付けられ、自動操舵システムの開始/停止などの主要機能を簡単に制御できます。
 
-> 자세한 내용은 [스위치](/broken/pages/y9S1JIw5wSWooyFebAuU)를 참조
-
-{% hint style="warning" %}
-별도의 구매가 필요한 상품입니다
-{% endhint %}
+オプション品は別途ご購入が必要です。\
+詳細は[ワンタッチスイッチ](wantatchisuitchi.md)をご参照ください。
 {% endcolumn %}
 {% endcolumns %}
 
 ***
 
-### 3. 제품 설치 위치
+### 製品の取り付け位置
 
-각 구성품은 농기계에 지정된 위치로 설치됩니다. 실제 장착 위치는 차량 모델 및 장착 키트에 따라 달라질 수 있습니다.
+各構成品は、農業機械の指定された位置に取り付けられます。\
+ただし、実際の取り付け位置は、車両モデル及び取り付けキットの構成によって異なる場合があります。
+
+<figure><img src="../../.gitbook/assets/Installation-location.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### 農業機械におけるデュアル使用方法（ハーフセット）
+
+トラクター及び田植え機の両方に取り付けでき、必要に応じて農業機械間での取り付け・取外し及び移動ができます。
 
 <figure><img src="../../.gitbook/assets/Installation-location.png" alt=""><figcaption></figcaption></figure>
