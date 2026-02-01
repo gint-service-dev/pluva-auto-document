@@ -82,13 +82,13 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 {% step %}
 使用したいUターンのタイプを選択します。
 
-
+<figure><img src="../../.gitbook/assets/uturn-type-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 詳細値を設定し、\[次へ]をクリックします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-type-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -96,41 +96,53 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 
 #### Uターンタイプのご案内
 
-![](../../.gitbook/assets/icon-circle-1.svg) **Uターンのタイプ**
+<figure><img src="../../.gitbook/assets/uturn-type-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-AB直進Uターン
+![](../../.gitbook/assets/icon-square-1.svg) **Uターンのタイプ**
+
+**AB直進Uターン**
 
 * ABラインの基準点を中心に設定値を基にUターンします。
+
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 AB直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-A＋Uターン
+**A＋Uターン**
 
 * A点と境界の長さの基準点を中心に設定値を基にUターンします。
+
+<div align="left"><figure><img src="../../.gitbook/assets/a+-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 A+直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-ABカーブUターン
+**ABカーブUターン**
 
 * ABカーブラインの基準点を中心に設定値を基にUターンします。
+
+<div align="left"><figure><img src="../../.gitbook/assets/ab-curve-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 ABカーブモードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-枕地Uターン
+**枕地Uターン**
 
 * 枕地の境界を基準に、緩衝帯内でUターンします。
 
-境界線Uターン
+<div align="left"><figure><img src="../../.gitbook/assets/headland-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
+
+**境界線Uターン**
 
 * 圃場の境界（バウンダリー）に到達する前に、設定されたオフセット地点でUターンします。
 
-![](../../.gitbook/assets/icon-circle-2.svg) **制限速度の設定**
+<div align="left"><figure><img src="../../.gitbook/assets/boundary-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-2.svg) **制限速度の設定**
 
 * Uターン時に可能な最大速度を設定します。
 
@@ -142,33 +154,43 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 {% step %}
 使用したいUターンのパターンを選択します。
 
-
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ターンの方向と細かい数値を設定し、\[次へ]をクリックします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 #### Uターンパターン画面の説明
 
-![](../../.gitbook/assets/icon-circle-1.svg) **Uターンのパターン**
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-circle-2.svg) **Uターンパターンのプレビュー**
+![](../../.gitbook/assets/icon-square-1.svg) **Uターンのパターン**
+
+![](../../.gitbook/assets/icon-square-2.svg) **Uターンパターンのプレビュー**
 
 * 現在設定されているUターンのパターンが実際の作業ラインにどのように適用されるかを事前に確認することができます。
 
-![](../../.gitbook/assets/icon-circle-3.svg) **ラインをスキップ**
+<div align="left"><figure><img src="../../.gitbook/assets/turn-immediately.png" alt="" width="550"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/tip-off-turn.png" alt="" width="550"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/one-way-turn.png" alt="" width="550"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/extended-turn.png" alt="" width="550"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-3.svg) **ラインをスキップ**
 
 * Uターン時のスキップするライン（畝）の数を設定します。
 
-![](../../.gitbook/assets/icon-circle-4.svg) **最小回転半径**
+![](../../.gitbook/assets/icon-square-4.svg) **最小回転半径**
 
 * Uターンするときの最小回転半径を設定します。
 
-![](../../.gitbook/assets/icon-circle-5.svg) **開始方向**
+![](../../.gitbook/assets/icon-square-5.svg) **開始方向**
 
 * 直進走行後、一回目に回転する方向（左回り/右回り）を設定します。
 
@@ -180,44 +202,58 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 {% step %}
 使用するUターンの形態を選択します。最小回転半径などのUターン設定値に基づいて可能なUターン形態のみが有効になります。
 
-
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[確認]をクリックします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Uターン経路が生成されたら\[]\[自動操舵]を押し、Uターンが含まれた自動操舵を開始します。
 
-
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 #### Uターン形態画面のご案内
 
-![](../../.gitbook/assets/icon-circle-1.svg) **Kターン**
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-screen.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/icon-square-1.svg) **Kターン**
 
 * 角張った直角型のUターンです。素早い方向転換が可能で、狭いスペースで有利です。
 
-![](../../.gitbook/assets/icon-circle-2.svg) **オメガターン**
+<div align="left"><figure><img src="../../.gitbook/assets/kturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-2.svg) **オメガターン**
 
 * 丸いU字型の滑らかなUターンです。機械の負荷を軽減し、Uターンの安定性を高めるのに適しています。
 
-![](../../.gitbook/assets/icon-circle-3.svg) **Rターン**
+<div align="left"><figure><img src="../../.gitbook/assets/omegaturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-3.svg) **Rターン**
 
 * 滑らかな曲線のUターンです。余裕のある枕地や追加の枕地（回耕）作業をする場合に適しています。
 
-![](../../.gitbook/assets/icon-circle-4.svg) **Uターン**
+<div align="left"><figure><img src="../../.gitbook/assets/rturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-4.svg) **Uターン**
 
 * 滑らかな曲線Uターンです。一般的な作業や中距離の圃場に適しています。
 
-![](../../.gitbook/assets/icon-circle-5.svg) **拡張ターン**
+<div align="left"><figure><img src="../../.gitbook/assets/uturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-5.svg) **拡張ターン**
 
 * 直線状のUターンです。不整形な圃場、障害物を回避する時に適しています。
 
-![](../../.gitbook/assets/icon-circle-5.svg) **プレビュー**
+<div align="left"><figure><img src="../../.gitbook/assets/extension-uturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-6.svg) **プレビュー**
 
 * ボタンを押すと、設定済みのUターンの形態を地図上で事前に確認することができます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/uturn-shape-explanation-preview.png" alt="" width="300"><figcaption></figcaption></figure></div>
