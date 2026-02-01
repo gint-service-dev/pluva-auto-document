@@ -35,7 +35,7 @@ layout:
 
 
 
-<figure><img src="../.gitbook/assets/Group 1000001175.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pluva-relation-logo.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -92,7 +92,7 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 
 #### Uターンタイプのご案内
 
-![](../../.gitbook/assets/icon-1.svg) **Uターンのタイプ**
+![](../../.gitbook/assets/icon-circle-1.svg) **Uターンのタイプ**
 
 AB直進Uターン
 
@@ -126,7 +126,7 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 
 * 圃場の境界（バウンダリー）に到達する前に、設定されたオフセット地点でUターンします。
 
-![](../../.gitbook/assets/icon-2.svg) **制限速度の設定**
+![](../../.gitbook/assets/icon-circle-2.svg) **制限速度の設定**
 
 * Uターン時に可能な最大速度を設定します。
 
@@ -150,21 +150,21 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 
 #### Uターンパターン画面の説明
 
-![](../../.gitbook/assets/icon-1.svg) **Uターンのパターン**
+![](../../.gitbook/assets/icon-circle-1.svg) **Uターンのパターン**
 
-![](../../.gitbook/assets/icon-2.svg) **Uターンパターンのプレビュー**
+![](../../.gitbook/assets/icon-circle-2.svg) **Uターンパターンのプレビュー**
 
 * 現在設定されているUターンのパターンが実際の作業ラインにどのように適用されるかを事前に確認することができます。
 
-![](../../.gitbook/assets/icon-3.svg) **ラインをスキップ**
+![](../../.gitbook/assets/icon-circle-3.svg) **ラインをスキップ**
 
 * Uターン時のスキップするライン（畝）の数を設定します。
 
-![](../../.gitbook/assets/icon-4.svg) **最小回転半径**
+![](../../.gitbook/assets/icon-circle-4.svg) **最小回転半径**
 
 * Uターンするときの最小回転半径を設定します。
 
-![](../../.gitbook/assets/icon-5.svg) **開始方向**
+![](../../.gitbook/assets/icon-circle-5.svg) **開始方向**
 
 * 直進走行後、一回目に回転する方向（左回り/右回り）を設定します。
 
@@ -194,26 +194,26 @@ Uターン経路が生成されたら\[]\[自動操舵]を押し、Uターンが
 
 #### Uターン形態画面のご案内
 
-![](../../.gitbook/assets/icon-1.svg) **Kターン**
+![](../../.gitbook/assets/icon-circle-1.svg) **Kターン**
 
 * 角張った直角型のUターンです。素早い方向転換が可能で、狭いスペースで有利です。
 
-![](../../.gitbook/assets/icon-2.svg) **オメガターン**
+![](../../.gitbook/assets/icon-circle-2.svg) **オメガターン**
 
 * 丸いU字型の滑らかなUターンです。機械の負荷を軽減し、Uターンの安定性を高めるのに適しています。
 
-![](../../.gitbook/assets/icon-3.svg) **Rターン**
+![](../../.gitbook/assets/icon-circle-3.svg) **Rターン**
 
 * 滑らかな曲線のUターンです。余裕のある枕地や追加の枕地（回耕）作業をする場合に適しています。
 
-![](../../.gitbook/assets/icon-4.svg) **Uターン**
+![](../../.gitbook/assets/icon-circle-4.svg) **Uターン**
 
 * 滑らかな曲線Uターンです。一般的な作業や中距離の圃場に適しています。
 
-![](../../.gitbook/assets/icon-5.svg) **拡張ターン**
+![](../../.gitbook/assets/icon-circle-5.svg) **拡張ターン**
 
 * 直線状のUターンです。不整形な圃場、障害物を回避する時に適しています。
 
-![](../../.gitbook/assets/icon-5.svg) **プレビュー**
+![](../../.gitbook/assets/icon-circle-5.svg) **プレビュー**
 
 * ボタンを押すと、設定済みのUターンの形態を地図上で事前に確認することができます。

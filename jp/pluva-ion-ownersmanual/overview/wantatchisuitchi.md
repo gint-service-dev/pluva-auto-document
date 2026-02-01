@@ -21,9 +21,9 @@ layout:
 
 ワンタッチスイッチは作業者が操作しやすい位置に取り付けられ、自動操舵システムの開始や停止などの主要機能を簡単に制御できます。 オプション品のため別途ご購入が必要となり、モデルタイプによっては外観や色がイメージと異なる場合があります。
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-description.png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-1.svg) **状態**
+![](../../.gitbook/assets/icon-circle-1.svg) **状態**
 
 * 機能
   * 測位システムのステータス表記
@@ -32,9 +32,9 @@ layout:
   * GPS信号良好 - 緑で点灯
   * GPS信号普通 - 緑で点滅
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn1.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-2.svg) **マルチ機能**
+![](../../.gitbook/assets/icon-circle-2.svg) **マルチ機能**
 
 * 機能
   * お気に入り機能
@@ -42,9 +42,9 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn1.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-3.svg) **キャンセル or　前へ**
+![](../../.gitbook/assets/icon-circle-3.svg) **キャンセル or　前へ**
 
 * 機能
   * 状況に応じたキャンセル/前のメニューへ移動
@@ -52,9 +52,9 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn2.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-4.svg) **Enterキー**
+![](../../.gitbook/assets/icon-circle-4.svg) **Enterキー**
 
 * 機能
   * A/B設定
@@ -63,9 +63,9 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn3.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-4.svg) **左側(◀)**
+![](../../.gitbook/assets/icon-circle-4.svg) **左側(◀)**
 
 * 機能
   * 設定画面：選択項目を左へ移動します。
@@ -75,9 +75,9 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn4.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-5.svg) **右側(▶)**
+![](../../.gitbook/assets/icon-circle-5.svg) **右側(▶)**
 
 * 機能
   * 設定画面：選択項目を右へ移動します。
@@ -87,9 +87,9 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn5.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-5.svg) **自動操舵のON/OFF**
+![](../../.gitbook/assets/icon-circle-5.svg) **自動操舵のON/OFF**
 
 * 機能
   * 自動操舵モードの開始及び解除
@@ -97,4 +97,4 @@ layout:
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-btn6.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>

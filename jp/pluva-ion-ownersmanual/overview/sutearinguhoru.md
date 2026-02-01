@@ -25,6 +25,6 @@ layout:
 
 
 
-![](../../.gitbook/assets/icon-1.svg) ハンドル
+![](../../.gitbook/assets/icon-circle-1.svg) ハンドル
 
-![](../../.gitbook/assets/icon-2.svg) モーター
+![](../../.gitbook/assets/icon-circle-2.svg) モーター
