@@ -65,7 +65,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-4.svg) **左側(◀)**
+![](../../.gitbook/assets/icon-circle-5.svg) **左側(◀)**
 
 * 機能
   * 設定画面：選択項目を左へ移動します。
@@ -77,7 +77,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-5.svg) **右側(▶)**
+![](../../.gitbook/assets/icon-circle-6.svg) **右側(▶)**
 
 * 機能
   * 設定画面：選択項目を右へ移動します。
@@ -89,7 +89,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-5.svg) **自動操舵のON/OFF**
+![](../../.gitbook/assets/icon-circle-7.svg) **自動操舵のON/OFF**
 
 * 機能
   * 自動操舵モードの開始及び解除
