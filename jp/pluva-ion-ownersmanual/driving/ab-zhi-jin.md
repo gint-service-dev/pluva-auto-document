@@ -29,19 +29,19 @@ AB直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button.png" alt="" data-size="line"> を押してA地点を生成します。
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">を押してA地点を生成します。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-10m以上直進走行した後、ご希望の地点で <img src="../../.gitbook/assets/b-button.png" alt="" data-size="line"> を押してB地点を生成します。
+10m以上直進走行した後、ご希望の地点で<img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original">を押してB地点を生成します。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-AB直進経路が生成されたら <img src="../../.gitbook/assets/drive-button.png" alt="" data-size="line"> \[自動操舵の開始]を押して自動操舵を始めます。
+AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[自動操舵の開始]を押して自動操舵を始めます。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -55,7 +55,7 @@ AB直進経路が生成されたら <img src="../../.gitbook/assets/drive-button
 
 {% stepper %}
 {% step %}
-AB直進モードで、 <img src="../../.gitbook/assets/automatic-path-button.png" alt="" data-size="line"> \[ABラインの自動生成ボタン]を押します。
+AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original">\[ABラインの自動生成ボタン]を押します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,7 +104,7 @@ AB直進モードで、 <img src="../../.gitbook/assets/automatic-path-button.pn
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button.png" alt="" data-size="line">\[自動操舵]ボタンを押すと、生成された経路に沿って走行が開始されます。
+<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">\[自動操舵]ボタンを押すと、生成された経路に沿って走行が開始されます。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

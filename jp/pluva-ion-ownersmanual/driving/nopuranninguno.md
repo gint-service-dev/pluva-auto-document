@@ -47,7 +47,7 @@ A+直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button.png" alt="" data-size="line"> \[経路のプランニング]ボタンを押します。
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[経路のプランニング]ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
