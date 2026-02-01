@@ -34,9 +34,9 @@ Uターン設定では、Uターンを開始する位置、Uターン方法、�
 
 {% stepper %}
 {% step %}
-ABラインを生成した状態で\[]\[作業] ボタンを押します。
+ABラインを生成した状態で![](../../.gitbook/assets/drive-function-button.svg)\[作業] ボタンを押します。
 
-
+<figure><img src="../../.gitbook/assets/uturn-entry-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 経路が生成されたときのみUターンモードを使用できます。
@@ -46,27 +46,31 @@ ABラインを生成した状態で\[]\[作業] ボタンを押します。
 {% step %}
 \[Uターンモード]をクリックします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-entry-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Uターンのオン/オフを押して、Uターンを有効にします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-entry-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 AまたはBを選択した後、Uターンラインの位置を数字で調整します。
 
+<figure><img src="../../.gitbook/assets/uturn-entry-explanation-4.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 A、B点を同じく調整：位置の修正値を入力すると、A・B点の位置が同じく調整されます。
+
+<img src="../../.gitbook/assets/ab-points-same.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 \[次へ]をクリックします。
 
-
+<figure><img src="../../.gitbook/assets/uturn-entry-explanation-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
