@@ -27,13 +27,13 @@ AB直進
 
 * A点とB点を結ぶ方向へ直進走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="100"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 A+直進
 
 * A点を基準として設定した角度の斜め直線経路で走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="100"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 四角形走行
 
