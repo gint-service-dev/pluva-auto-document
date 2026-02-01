@@ -179,7 +179,15 @@ layout:
 
 * 衛星信号の受信状態が表示されます。
 
-<div align="left"><figure><img src="/broken/files/EDFWjTb7aHwVXvwnDDFu" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/network-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
+
+> <img src="../../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line">: 衛星信号が良好
+>
+> <img src="../../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line">: 衛星信号が普通
+>
+> <img src="../../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line">: 衛星信号が不良
+>
+> <img src="../../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line">: 信号なし
 
 
 
@@ -187,7 +195,15 @@ layout:
 
 * タブレットのネットワーク通信状態が表示されます。
 
-<div align="left"><figure><img src="/broken/files/EDFWjTb7aHwVXvwnDDFu" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/RTK-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
+
+> <img src="../../.gitbook/assets/status-lte-lte.png" alt="" data-size="line">: LTE信号が良好
+>
+> <img src="../../.gitbook/assets/status-lte-3g.png" alt="" data-size="line">: 3G信号が良好
+>
+> <img src="../../.gitbook/assets/status-lte-not-fixed.png" alt="" data-size="line">: 信号なし
+>
+> <img src="../../.gitbook/assets/status-lte-wifi.png" alt="" data-size="line">: Wi-Fi接続
 
 
 
@@ -196,7 +212,7 @@ layout:
 * 現在作業中のラインの位置が表示されます。
   * 基準となるラインは0、基準ラインから右は+1、+2··· 左は-1、-2···と表示されます。
 
-<div align="left"><figure><img src="/broken/files/EDFWjTb7aHwVXvwnDDFu" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/current-work-line.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
 
 
@@ -204,7 +220,7 @@ layout:
 
 * 作業場所の現在の気温が表示されます。
 
-<div align="left"><figure><img src="/broken/files/EDFWjTb7aHwVXvwnDDFu" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/current-temperature.png" alt="" width="82"><figcaption></figcaption></figure></div>
 
 
 
@@ -212,5 +228,5 @@ layout:
 
 * システムの時刻が表示されます。
 
-<div align="left"><figure><img src="/broken/files/EDFWjTb7aHwVXvwnDDFu" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/current-time.png" alt="" width="98"><figcaption></figcaption></figure></div>
 

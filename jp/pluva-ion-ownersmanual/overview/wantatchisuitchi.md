@@ -21,7 +21,7 @@ layout:
 
 ワンタッチスイッチは作業者が操作しやすい位置に取り付けられ、自動操舵システムの開始や停止などの主要機能を簡単に制御できます。 オプション品のため別途ご購入が必要となり、モデルタイプによっては外観や色がイメージと異なる場合があります。
 
-<div align="left"><figure><img src="../../.gitbook/assets/switch-description.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/switch-description.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-circle-1.svg) **状態**
 

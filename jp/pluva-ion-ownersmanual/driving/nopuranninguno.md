@@ -23,12 +23,23 @@ layout:
 
 #### 経路のプランニングモードの種類
 
-AB直進: A点とB点を結ぶ方向へ直進走行します。
+AB直進
 
-A+直進: A点を基準として設定した角度の斜め直線経路で走行します。
+* A点とB点を結ぶ方向へ直進走行します。
 
-四角形走行: A-Bラインを基準に90度直角方向の自動操舵経路を生成し、四角形パターンで\
-走行します。
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="100"><figcaption></figcaption></figure></div>
+
+A+直進
+
+* A点を基準として設定した角度の斜め直線経路で走行します。
+
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="100"><figcaption></figcaption></figure></div>
+
+四角形走行
+
+* A-Bラインを基準に90度直角方向の自動操舵経路を生成し、四角形パターンで走行します。
+
+<div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -36,15 +47,15 @@ A+直進: A点を基準として設定した角度の斜め直線経路で走行
 
 {% stepper %}
 {% step %}
-\[経路のプランニング]ボタンを押します。
+<img src="../../.gitbook/assets/autoplanning-button.png" alt="" data-size="line"> \[経路のプランニング]ボタンを押します。
 
-
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ご希望の走行モードを選択し、\[確認]をタップします。
+ご希望の走行モードを選択し、 \[確認]をタップします
 
-
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -54,4 +65,6 @@ A+直進: A点を基準として設定した角度の斜め直線経路で走行
 
 {% hint style="info" %}
 現在選択されている走行モードは、画面左上の走行情報エリアから確認できます。
+
+<img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
 {% endhint %}
