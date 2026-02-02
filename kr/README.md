@@ -77,7 +77,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-1/">차량, 작업기 관리</a></summary>
+<summary><a href="ion/vehicle-settings/">차량, 작업기 관리</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>차량 관리</td></tr><tr><td>작업기 관리</td></tr></tbody></table>
 
@@ -101,7 +101,7 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-2/">네트워크 설정</a></summary>
+<summary><a href="ion/network-settings/">네트워크 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>RTK 설정</td></tr><tr><td>네트워크 설정</td></tr></tbody></table>
 
@@ -133,17 +133,17 @@ layout:
 
 <details>
 
-<summary><a href="ion/undefined-3/">정비</a></summary>
+<summary><a href="ion/maintenance/">정비</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/undefined-3/undefined.md">undefined.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/undefined-3/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/maintenance/undefined.md">undefined.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/maintenance/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="ion/undefined-4/">소비자 정보</a></summary>
+<summary><a href="ion/consumer-info/">소비자 정보</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>면책 조항</td><td><a href="ion/undefined-4/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="ion/undefined-4/undefined-1.md">undefined-1.md</a></td></tr><tr><td>제원 정보</td><td><a href="ion/undefined-4/undefined-2.md">undefined-2.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>면책 조항</td><td><a href="ion/consumer-info/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="ion/consumer-info/undefined-1.md">undefined-1.md</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/undefined-2.md">undefined-2.md</a></td></tr></tbody></table>
 
 </details>
 
