@@ -125,7 +125,7 @@ layout:
 
 <summary><a href="ion/consumer-info/">고객 지원</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/consumer-info/problem-solving.md">problem-solving.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>정비 진단 및 예약 방법</td><td><a href="ion/maintenance/undefined.md">undefined.md</a></td></tr><tr><td>빠른 문제 해결 방법</td><td><a href="ion/maintenance/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
 
 </details>
 

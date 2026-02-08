@@ -21,19 +21,19 @@ layout:
 
 플루바 아이온 사용 중 발생하는 문제를 빠르게 해결하고, 점검·수리·교환 기준과 접수 방법을 안내합니다.
 
-{% content-ref url="problem-solving.md" %}
-[problem-solving.md](problem-solving.md)
+{% content-ref url="../maintenance/undefined-1.md" %}
+[undefined-1.md](../maintenance/undefined-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="maintenance.md" %}
-[maintenance.md](maintenance.md)
+{% content-ref url="../maintenance/undefined.md" %}
+[undefined.md](../maintenance/undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="privacy-policy.md" %}
-[privacy-policy.md](privacy-policy.md)
+{% content-ref url="undefined-1.md" %}
+[undefined-1.md](undefined-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="specification-information.md" %}
-[specification-information.md](specification-information.md)
+{% content-ref url="undefined-2.md" %}
+[undefined-2.md](undefined-2.md)
 {% endcontent-ref %}
 
