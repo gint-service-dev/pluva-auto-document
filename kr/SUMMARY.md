@@ -49,7 +49,7 @@
   * [작업기 추가](ion/workstation-management/undefined-1.md)
 * [네트워크 설정](ion/network-settings/README.md)
   * [네트워크 설정 진입 및 화면 설명](ion/network-settings/enter-network.md)
-  * [RTK 설정](ion/network-settings/rtk.md)
+  * [위치 보정 설정](ion/network-settings/rtk-setting.md)
   * [네트워크 설정 ](ion/network-settings/undefined.md)
 * [고객지원](ion/consumer-info/README.md)
   * [문제해결 안내](ion/maintenance/undefined-1.md)
