@@ -38,7 +38,7 @@ layout:
 
 > 플루바 아이온의 전체 구성품입니다. GNSS 수신기, 전동 스티어링 휠, 태블릿, 카메라를 포함합니다.
 
-<figure><img src="../../.gitbook/assets/full-set kr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pluva iON 소개-풀세트(kr).png" alt=""><figcaption></figcaption></figure>
 
 #### Expansion Kit
 
@@ -65,7 +65,7 @@ layout:
 {% column %}
 #### GNSS 수신기
 
-<figure><img src="../../.gitbook/assets/gnss-receiver.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/주요 구성품 소개-리시버.png" alt=""><figcaption></figcaption></figure>
 
 고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 측정합니다.\
  자세한 사양 및 기능 설명은 [GNSS 수신기](gnss-receiver.md) 항목을 참조하십시오.
@@ -78,7 +78,7 @@ layout:
 {% column %}
 #### 태블릿
 
-<figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/주요 구성품 소개-테블릿.png" alt=""><figcaption></figcaption></figure>
 
 자율주행 시스템의 디스플레이 장치로, 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정 기능을 제공합니다.\
  자세한 사용 방법은 [태블릿](tablet.md) 항목을 참조해주세요.

@@ -45,7 +45,7 @@ layout:
 
 이 문서의 모든 정보 및 모든 제품 소프트웨어는 GINT 및 기타 라이선스 소유자의 저작권 및 기타 지적재산권에 적용을 받습니다. (주) 긴트의 사전 서면 허락이 없이는 이 자료의 일부 또는 전체를 수정, 공중 송신, 배포, 번역, 재생산 또는 복사할 수 없습니다. 추가적인 정보는 요청에 따라 제공 가능합니다. 아래에 표시된 항목은 한국 및 기타 국가에서 (주)긴트의 상표 또는 등록 상표 입니다.
 
-<figure><img src="../.gitbook/assets/pluva-relation-logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 1000001175.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
