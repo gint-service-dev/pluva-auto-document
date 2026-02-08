@@ -74,7 +74,7 @@ layout:
 
 <품목별 보증기간 표>
 
-<table><thead><tr><th width="114.72943115234375">구분</th><th width="244.27130126953125">품목</th><th width="94.05108642578125">보증기간</th><th width="118.1917724609375">교환, 수리 후 보증기간</th><th>비교</th><th></th></tr></thead><tbody><tr><td>제품 구성품</td><td>GNSS 수신기</td><td>2년</td><td>1년</td><td></td><td></td></tr><tr><td>제품 구성품</td><td>태블릿</td><td>2년</td><td>1년</td><td></td><td></td></tr><tr><td>제품 구성품</td><td>전동 스티어링 휠</td><td>2년</td><td>1년</td><td></td><td></td></tr><tr><td>제품 구성품</td><td>카메라</td><td>2년</td><td>1년</td><td></td><td></td></tr><tr><td>제품 구성품</td><td>스위치</td><td>2년</td><td>1년</td><td></td><td></td></tr><tr><td>소모품</td><td>하네스</td><td>1년</td><td>0.5년</td><td></td><td></td></tr><tr><td>소모품</td><td>구조물 (브라켓, U마운트, 스플라인 등)</td><td>1년</td><td>0.5년</td><td>하네스 제외한 모든 부품</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="114.72943115234375">구분</th><th width="244.27130126953125">품목</th><th width="94.05108642578125">보증기간</th><th width="118.1917724609375">교환, 수리 후 보증기간</th><th>비교</th></tr></thead><tbody><tr><td>제품 구성품</td><td>GNSS 수신기</td><td>2년</td><td>1년</td><td></td></tr><tr><td>제품 구성품</td><td>태블릿</td><td>2년</td><td>1년</td><td></td></tr><tr><td>제품 구성품</td><td>전동 스티어링 휠</td><td>2년</td><td>1년</td><td></td></tr><tr><td>제품 구성품</td><td>카메라</td><td>2년</td><td>1년</td><td></td></tr><tr><td>제품 구성품</td><td>스위치</td><td>2년</td><td>1년</td><td></td></tr><tr><td>소모품</td><td>하네스</td><td>1년</td><td>0.5년</td><td></td></tr><tr><td>소모품</td><td>구조물 (브라켓, U마운트, 스플라인 등)</td><td>1년</td><td>0.5년</td><td>하네스 제외한 모든 부품</td></tr></tbody></table>
 
 {% hint style="warning" %}
 제품 구성품이 단종된 경우 최신 호환 가능한 모델로 대체될 수 있습니다.
