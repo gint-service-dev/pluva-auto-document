@@ -56,7 +56,7 @@ layout:
 {% column %}
 #### 전동 스티어링 휠
 
-<figure><img src="../../.gitbook/assets/주요 구성품 소개-전동 휠.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/electric-steering-wheel.png" alt=""><figcaption></figcaption></figure>
 
 농기계의 기존 핸들을 탈착한 뒤 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다.\
 자세한 내용은 [전동 스티어링 휠](electric-steering-wheel.md)을 참조해주세요.
@@ -87,7 +87,7 @@ layout:
 {% column %}
 #### 스위치 (옵션품)
 
-<figure><img src="/broken/files/rRgflaYvY49vITHNI76O" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
 

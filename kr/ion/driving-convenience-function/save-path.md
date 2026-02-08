@@ -49,7 +49,7 @@ AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-b
 
 {% hint style="info" %}
 저장된 경로는 경로 불러오기를 통해 사용할 수 있습니다.\
-자세한 내용은 경로 불러오기를 참고하세요.
+자세한 내용은 [경로 불러오기](bringing-up-path.md)를 참고하세요.
 
 <img src="../../.gitbook/assets/save-path-bringing-in.png" alt="" data-size="original">
 {% endhint %}

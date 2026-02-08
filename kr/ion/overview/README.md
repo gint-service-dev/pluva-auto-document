@@ -41,10 +41,6 @@ layout:
 [switch.md](switch.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/5pp2QvCo5ytDVl1Nt0jZ" %}
-[Broken link](/broken/pages/5pp2QvCo5ytDVl1Nt0jZ)
-{% endcontent-ref %}
-
 {% content-ref url="camera.md" %}
 [camera.md](camera.md)
 {% endcontent-ref %}

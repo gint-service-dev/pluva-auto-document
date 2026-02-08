@@ -27,7 +27,7 @@ layout:
 
 {% stepper %}
 {% step %}
-<img src="../../../.gitbook/assets/adjusting-icon.svg" alt="" data-size="original"> 화면 비율 조정 아이콘을 조정을 원하는 방향으로 움직이면 화면 비율 조정이 진행됩니다.
+<img src="../../../.gitbook/assets/adjusting-icon.svg" alt="" data-size="line"> 화면 비율 조정 아이콘을 조정을 원하는 방향으로 움직이면 화면 비율 조정이 진행됩니다.
 
 <figure><img src="../../../.gitbook/assets/screen-ratio-adjustment-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
