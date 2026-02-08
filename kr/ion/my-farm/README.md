@@ -27,8 +27,8 @@ My Farm은 농장과 필드 정보를 정리해 작업 환경을 관리하는 �
 [farm-management](farm-management/)
 {% endcontent-ref %}
 
-{% content-ref url="field-management/" %}
-[field-management](field-management/)
+{% content-ref url="field-add.md" %}
+[field-add.md](field-add.md)
 {% endcontent-ref %}
 
 {% content-ref url="undefined/" %}
