@@ -30,7 +30,7 @@
   * [등간격 편의 기능](ion/driving/undefined/undefined.md)
   * [주행 화면 조정](ion/driving/undefined/undefined-1.md)
 * [내 농장 관리 (MY Farm)](ion/my-farm/README.md)
-  * [농장 관리](ion/my-farm/farm-management.md)
+  * [농장 관리](ion/my-farm/farm-management/README.md)
   * [농장 소유자 관리](ion/my-farm/farm-owner-management.md)
   * [필드 관리](ion/my-farm/field-management/README.md)
     * [필드 등록](ion/my-farm/field-management/undefined.md)

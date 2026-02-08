@@ -62,3 +62,63 @@ My Farm의 농장관리의 \[농장 소유자 탭]을 누르면 농장 소유자
 <figure><img src="../../.gitbook/assets/add-farm-owner-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+***
+
+#### 농장 소유자 수정하기
+
+{% stepper %}
+{% step %}
+원하는 농장 소유자 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/modifying-farm-owners-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[수정]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/modifying-farm-owners-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+원하는 내용을 수정하고 \[수정 완료]를 누릅니다.
+
+<figure><img src="../../.gitbook/assets/modifying-farm-owners-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+수정이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/modifying-farm-owners-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+#### 농장 소유자 삭제하기
+
+{% stepper %}
+{% step %}
+원하는 농장 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/delete-farm-owner-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[삭제]를 누릅니다.
+
+<figure><img src="../../.gitbook/assets/delete-farm-owner-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[농장 소유자 삭제 팝업]에서 삭제를 누릅니다.
+
+<figure><img src="../../.gitbook/assets/delete-farm-owner-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+농장 소유자 삭제가 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/delete-farm-owner-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}

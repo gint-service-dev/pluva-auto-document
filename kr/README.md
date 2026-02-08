@@ -93,7 +93,7 @@ layout:
 
 <summary><a href="ion/my-farm/">내 농장 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="ion/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>필드 관리</td><td><a href="ion/my-farm/field-management/">field-management</a></td></tr><tr><td>헤드랜드 관리</td><td><a href="ion/my-farm/undefined/">undefined</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="ion/my-farm/farm-management/">farm-management</a></td></tr><tr><td>필드 관리</td><td><a href="ion/my-farm/field-management/">field-management</a></td></tr><tr><td>헤드랜드 관리</td><td><a href="ion/my-farm/undefined/">undefined</a></td></tr></tbody></table>
 
 </details>
 
