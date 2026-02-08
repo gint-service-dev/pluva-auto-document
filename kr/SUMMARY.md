@@ -43,6 +43,7 @@
   * [롤/피치/요 보정(IMU)](ion/vehicle-settings/imu-calibration.md)
   * [관성센서 보정](ion/vehicle-settings/inertial-sensor-calibration.md)
   * [차량제어설정](ion/vehicle-settings/vehicle-control-settings.md)
+  * [GNSS 수신기 설정](ion/vehicle-settings/gnss-receiver-setting.md)
 * [네트워크 설정](ion/network-settings/README.md)
   * [RTK 설정](ion/network-settings/rtk.md)
   * [네트워크 설정 ](ion/network-settings/undefined.md)
