@@ -27,10 +27,22 @@ My Farm은 농장과 필드 정보를 정리해 작업 환경을 관리하는 �
 [farm-management](farm-management/)
 {% endcontent-ref %}
 
+{% content-ref url="farm-owner-management.md" %}
+[farm-owner-management.md](farm-owner-management.md)
+{% endcontent-ref %}
+
 {% content-ref url="field-management/" %}
 [field-management](field-management/)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/OvNEfUoHcQuNNp4FKCLX" %}
-[Broken link](/broken/pages/OvNEfUoHcQuNNp4FKCLX)
+{% content-ref url="managing-field-information.md" %}
+[managing-field-information.md](managing-field-information.md)
+{% endcontent-ref %}
+
+{% content-ref url="headland-add.md" %}
+[headland-add.md](headland-add.md)
+{% endcontent-ref %}
+
+{% content-ref url="managing-headland-information.md" %}
+[managing-headland-information.md](managing-headland-information.md)
 {% endcontent-ref %}
