@@ -17,7 +17,7 @@ layout:
 
 # PLUVA iON
 
-<figure><img src=".gitbook/assets/iON 패키지 이미지.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **참고**\
