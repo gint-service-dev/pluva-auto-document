@@ -42,6 +42,7 @@
   * [오토스티어 보정](ion/vehicle-settings/autostere-calibration.md)
   * [롤/피치/요 보정(IMU)](ion/vehicle-settings/imu-calibration.md)
   * [관성센서 보정](ion/vehicle-settings/inertial-sensor-calibration.md)
+  * [차량제어설정](ion/vehicle-settings/vehicle-control-settings.md)
 * [네트워크 설정](ion/network-settings/README.md)
   * [RTK 설정](ion/network-settings/rtk.md)
   * [네트워크 설정 ](ion/network-settings/undefined.md)
