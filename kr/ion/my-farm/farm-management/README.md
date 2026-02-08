@@ -29,7 +29,7 @@ layout:
 {% step %}
 My Farm의 농장관리의 농장 탭을 누릅니다.
 
-<figure><img src="../../../.gitbook/assets/5-b-3.A+ 직진(2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/broken/files/fQR2rlb05pzLGbnBfPMq" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
