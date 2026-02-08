@@ -15,23 +15,25 @@ layout:
     visible: true
 ---
 
-# 소비자 정보
+# 고객지원
 
-### 소비자 정보
+### 고객지원
 
-사용자가 제품을 안전하게 이해하고 사용할 수 있도록 필요한 정보와 기준을 제공합니다. 제품 사용 시 참고해야 할 책임 범위, 개인정보 처리 내용, 기술 성능 정보 등을 확인할 수 있습니다.
+플루바 아이온 사용 중 발생하는 문제를 빠르게 해결하고, 점검·수리·교환 기준과 접수 방법을 안내합니다.
 
-
-
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="problem-solving.md" %}
+[problem-solving.md](problem-solving.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="maintenance.md" %}
+[maintenance.md](maintenance.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-2.md" %}
-[undefined-2.md](undefined-2.md)
+{% content-ref url="privacy-policy.md" %}
+[privacy-policy.md](privacy-policy.md)
+{% endcontent-ref %}
+
+{% content-ref url="specification-information.md" %}
+[specification-information.md](specification-information.md)
 {% endcontent-ref %}
 
