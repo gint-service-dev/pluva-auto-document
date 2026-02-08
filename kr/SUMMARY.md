@@ -40,6 +40,7 @@
   * [내 차량 진입 및 화면 설명](ion/vehicle-settings/undefined.md)
   * [내 차량 정보 수정](ion/vehicle-settings/undefined-1.md)
   * [오토스티어 보정](ion/vehicle-settings/autostere-calibration.md)
+  * [롤/피치/요 보정(IMU)](ion/vehicle-settings/imu-calibration.md)
 * [네트워크 설정](ion/network-settings/README.md)
   * [RTK 설정](ion/network-settings/rtk.md)
   * [네트워크 설정 ](ion/network-settings/undefined.md)
