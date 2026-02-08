@@ -15,44 +15,41 @@ layout:
     visible: true
 ---
 
-# 자동 경로 생성
+# 자동 경로 (Pluava AI)
 
-### 자동 경로 생성
+### 자동 경로 (Pluva AI)
+
+자동 경로 (Pluva AI)
+
+* 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
+
+
 
 {% stepper %}
 {% step %}
-원하는 필지를 선택합니다.
+\[자동 경로 추천] 버튼을 누른다.
 
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-플루바 AI 자동 추천 버튼을 누릅니다.
+Pluva AI가 경로를 생성합니다.
 
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-선택한 필지의 바운더리가 자동으로 추출됩니다.
+경로가 생성 완료되면 \[추천된 경로로 주행시작]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-추출된 바운더리를 바탕으로 헤드랜드를 계산합니다.
+시작점으로 이동한 뒤![](../../.gitbook/assets/drive_ai-button.svg)\[자율주행 시작] 버튼을 누르면 주행이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(4).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-헤드랜드 계산 후 최적 경로를 분석합니다.
-
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(5).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-분석이 완료되면 자동 경로가 생성되며 \[자율주행] 버튼을 누르면 주행이 시작됩니다.
-
-<figure><img src="../../.gitbook/assets/5-b-5.자동 경로(6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
