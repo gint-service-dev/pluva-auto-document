@@ -37,10 +37,10 @@ layout:
 [delete-path.md](../../driving-convenience-function/delete-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../driving-convenience-function/equal-interval.md" %}
-[equal-interval.md](../../driving-convenience-function/equal-interval.md)
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../driving-convenience-function/adjusting-driving-scree.md" %}
-[adjusting-driving-scree.md](../../driving-convenience-function/adjusting-driving-scree.md)
+{% content-ref url="../../driving-convenience-function/adjusting-driving-screen.md" %}
+[adjusting-driving-screen.md](../../driving-convenience-function/adjusting-driving-screen.md)
 {% endcontent-ref %}
