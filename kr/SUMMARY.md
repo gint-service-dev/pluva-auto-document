@@ -54,5 +54,5 @@
 * [고객지원](ion/consumer-info/README.md)
   * [문제해결 안내](ion/maintenance/undefined-1.md)
   * [정비](ion/maintenance/undefined.md)
-  * [개인정보 처리 방침](ion/consumer-info/undefined-1.md)
-  * [제원 정보](ion/consumer-info/undefined-2.md)
+  * [개인정보 처리 방침](ion/consumer-info/privacy-polic.md)
+  * [제원 정보](ion/consumer-info/specification-informatio.md)
