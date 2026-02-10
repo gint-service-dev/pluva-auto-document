@@ -13,7 +13,7 @@
   * [스위치](ion/overview/switch.md)
   * [카메라](ion/overview/camera.md)
 * [초기 설정법](ion/initial-setup/README.md)
-  * [소프트웨어 업데이트(OTA)](ion/initial-setup/ot.md)
+  * [소프트웨어 업데이트(OTA)](ion/initial-setup/ota.md)
 * [주행모드(경로플래닝)](ion/driving/README.md)
   * [경로플래닝 설정 방법](ion/driving/route-planning-settings.md)
   * [AB직진](ion/driving/ab-straight.md)
