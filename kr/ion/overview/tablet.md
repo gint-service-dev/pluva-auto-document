@@ -133,7 +133,7 @@ layout:
 ![](../../.gitbook/assets/icon-circle-11.svg) 등간격 편의 기능
 
 * 등간격 이동, 당겨오기, 90도 회전 등 등간격 관련 기능을 확인하고 사용할 수 있습니다.\
-  자세한 내용은 [등간격 편의기능](../driving-convenience-function/equal-interva.md)을 참고해주세요.
+  자세한 내용은 [등간격 편의기능](../driving-convenience-function/equal-interval.md)을 참고해주세요.
 
 ![](../../.gitbook/assets/icon-circle-12.svg) 작업 옵션
 
