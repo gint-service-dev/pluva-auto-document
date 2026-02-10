@@ -35,5 +35,5 @@ layout:
 
 차량 터치스크린에서 하단 메뉴에서 카메라 아이콘을 터치하여 카메라를 켤 수 있습니다.
 
-자세한 내용은 [카메라뷰 켜기](../driving-convenience-functio/adjusting-driving-screen.md#undefined-2)을(를) 참조하세요.
+자세한 내용은 [카메라뷰 켜기](../driving-convenience-function/adjusting-driving-screen.md#undefined-2)을(를) 참조하세요.
 

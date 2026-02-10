@@ -37,8 +37,8 @@ layout:
 [delete-path.md](delete-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="equal-interval.md" %}
-[equal-interval.md](equal-interval.md)
+{% content-ref url="equal-interva.md" %}
+[equal-interva.md](equal-interva.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjusting-driving-screen.md" %}
