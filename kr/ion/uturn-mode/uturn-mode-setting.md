@@ -240,7 +240,7 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <div align="left"><figure><img src="../../.gitbook/assets/rturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/4.svg) U턴
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) U턴
 
 * 부드러운 곡선 유턴입니다. 일반적인 작업, 중간 거리 필지에 적합합니다.
 
