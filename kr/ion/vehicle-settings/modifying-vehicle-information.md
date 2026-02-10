@@ -51,11 +51,11 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/modifying-vehicle-information-modal.png" alt="" width="278"><figcaption></figcaption></figure></div>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **별칭**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **별칭**
 
 * 차량을 별칭을 표시합니다.
 
-&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **제조사**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **제조사**
 
 * 차량의 제조사를 선택합니다.
 

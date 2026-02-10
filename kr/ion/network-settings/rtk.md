@@ -64,11 +64,11 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **RTK 직접 수신 연결**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **RTK 직접 수신 연결**
 
 * 서버 정보를 입력해 보정 신호를 직접 수신합니다.
 
-&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **RTK 블루투스 연결**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **RTK 블루투스 연결**
 
 * 스마트폰의 외부 앱을 통해 보정 신호를 받은 뒤, 블루투스로 연결합니다.\
   외부 앱이 꺼지면 보정 신호가 끊길 수 있습니다.

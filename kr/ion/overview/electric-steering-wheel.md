@@ -25,7 +25,7 @@ layout:
 
 
 
-![](../../.gitbook/assets/1.svg) 핸들
+![](../../.gitbook/assets/icon-circle-1.svg) 핸들
 
-![](../../.gitbook/assets/2.svg) 모터
+![](../../.gitbook/assets/icon-circle-2.svg) 모터
 

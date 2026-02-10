@@ -53,11 +53,11 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/imu-calibration-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **ROll 롤**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **ROll 롤**
 
 * GNSS 수신기가 좌/우 방향으로 기울어진 각도를 의미합니다.
 
-&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **Pitch 피치**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **Pitch 피치**
 
 * GNSS 수신기가 앞/뒤 방향으로 기울어진 각도를 의미합니다.
 

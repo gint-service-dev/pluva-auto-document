@@ -98,7 +98,7 @@ A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) 유턴 타입
+![](../../.gitbook/assets/icon-square-1-1.svg) 유턴 타입
 
 AB 직진 유턴
 
@@ -142,7 +142,7 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <div align="left"><figure><img src="../../.gitbook/assets/boundary-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 제한 속도 설정
+![](../../.gitbook/assets/icon-square-2-2.svg) 제한 속도 설정
 
 * 유턴 시 허용되는 최대 속도를 설정합니다.
 
@@ -168,7 +168,7 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) 유턴패턴
+![](../../.gitbook/assets/icon-square-1-1.svg) 유턴패턴
 
 <div align="left"><figure><img src="../../.gitbook/assets/turn-immediately.png" alt="" width="550"><figcaption></figcaption></figure></div>
 
@@ -178,7 +178,7 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <div align="left"><figure><img src="../../.gitbook/assets/extended-turn.png" alt="" width="550"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 유턴 패턴 미리보기
+![](../../.gitbook/assets/icon-square-2-2.svg) 유턴 패턴 미리보기
 
 * 현재 설정된 유턴 패턴이 실제 작업 라인에 어떻게 적용되는지 미리 확인할 수 있습니다.
 
@@ -222,13 +222,13 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) K턴
+![](../../.gitbook/assets/icon-square-1-1.svg) K턴
 
 * 각진 직각 형태의 유턴입니다. 빠른 방향 전환이 가능하며, 좁은 공간에서 유리합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/kturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 오메가턴
+![](../../.gitbook/assets/icon-square-2-2.svg) 오메가턴
 
 * 둥근 U자 형태의 부드러운 유턴입니다. 기계 부하를 줄이고 유턴 안정성을 높이는 데 적합합니다.
 
@@ -252,7 +252,7 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <div align="left"><figure><img src="../../.gitbook/assets/extension-uturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-6 (1).svg>) 미리보기
+![](../../.gitbook/assets/icon-square-6-6.svg) 미리보기
 
 * 버튼을 누르면 현재 설정한 유턴 형태를 지도 상에서 미리 확인할 수 있습니다.
 

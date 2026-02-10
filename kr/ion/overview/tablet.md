@@ -25,19 +25,19 @@ layout:
 
 <figure><img src="../../.gitbook/assets/tablet-description-2.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/1.svg) 메인 전원 스위치
+![](../../.gitbook/assets/icon-circle-1.svg) 메인 전원 스위치
 
 * 전동 스티어링 휠, GNSS 수신기, 태블릿 등 연결된 모든 장치의 전원을 한 번에 켜거나 끕니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/2.svg) 태블릿 전원
+![](../../.gitbook/assets/icon-circle-2.svg) 태블릿 전원
 
 * 태블릿의 전원을 켜거나 끕니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/태블릿-전원.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/3.svg) 우측(▶)
+![](../../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
 * 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
@@ -47,7 +47,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/4.svg) 좌측(◀)
+![](../../.gitbook/assets/icon-circle-4.svg) 좌측(◀)
 
 * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
 * 자율주행 중: 등간격을 좌측으로 일정 간격 이동합니다.
@@ -55,7 +55,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/5.svg) 선택 / 자율주행 ON·OFF
+![](../../.gitbook/assets/icon-circle-5.svg) 선택 / 자율주행 ON·OFF
 
 * 설정 화면: 선택 항목을 확정합니다.
 * 자율주행 중: 자율주행을 시작하거나 해제합니다.
@@ -86,25 +86,25 @@ layout:
 
 <figure><img src="../../.gitbook/assets/touchscreen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/1.svg) 주행 정보
+![](../../.gitbook/assets/icon-circle-1.svg) 주행 정보
 
 * 주행 모드, 작업 시간, 작업 면적, 속도 등을 표시합니다.
 
-![](../../.gitbook/assets/2.svg) 경로 편차 정보
+![](../../.gitbook/assets/icon-circle-2.svg) 경로 편차 정보
 
 * 주행 경로를 정확히 따라 주행하는지 표시합니다. 숫자가 0에 가까울수록 경로를 더 정밀하게 주행합니다.
 
-![](../../.gitbook/assets/3.svg) 실시간 작업 상태
+![](../../.gitbook/assets/icon-circle-3.svg) 실시간 작업 상태
 
 * 차량/작업기 상태를 3D로 표시합니다. GPS/IMU 등 센서 값이 반영되며, 상태 변화가 실시간으로 업데이트됩니다.
 
-![](../../.gitbook/assets/4.svg) 작업 폭 정보 버튼
+![](../../.gitbook/assets/icon-circle-4.svg) 작업 폭 정보 버튼
 
 * 현재 설정된 등간격, 작업기, 골간격 폭 정보를 확인할 수 있습니다. 버튼을 누르면 수치 정보 팝업이 표시됩니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/work-width-pop-up.png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/5.svg) 화면 비율 조정 기능
+![](../../.gitbook/assets/icon-circle-5.svg) 화면 비율 조정 기능
 
 * 분할 화면의 경계선을 끌어 옮기면 3D/지도 영역의 비율이 조정됩니다. 이를 통해 1:2분할, 2:1분할, 전체 화면 등 화면 구성을 작업 상황에 맞게 변경할 수 있습니다.
 

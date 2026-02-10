@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# GNSS 리시버
+# GNSS 수신기
 
 ### GNSS 수신기
 
@@ -23,7 +23,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/1.svg) 상태 표시 LED
+![](../../.gitbook/assets/icon-circle-1.svg) 상태 표시 LED
 
 1. 좌측 LED
    1. 전원 및 시스템의 H/W 이상 여부
@@ -56,4 +56,4 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <table data-header-hidden><thead><tr><th width="126.7890625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>RTK Fixed</td><td>RTK Fixed Float</td><td>그 밖의 상태</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/GNSS 리시버 - 우측 LED(RTK Fixed).png" alt=""></td><td><img src="../../.gitbook/assets/GNSS 리시버 - 우측 LED(RTK Fixed Float).png" alt=""></td><td><img src="../../.gitbook/assets/GNSS 리시버 - 우측 LED(그밖의 상태).png" alt=""></td></tr></tbody></table>
 
-![](../../.gitbook/assets/2.svg) QR코드: 제품 등록시 사용되는 QR 코드입니다.
+![](../../.gitbook/assets/icon-circle-2.svg) QR코드: 제품 등록시 사용되는 QR 코드입니다.

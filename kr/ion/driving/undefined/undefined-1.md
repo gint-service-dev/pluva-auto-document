@@ -67,11 +67,11 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](<../../../.gitbook/assets/icon-square-1 (1).svg>) **카메라 번호**
+&#x20;![](../../../.gitbook/assets/icon-square-1-1.svg) **카메라 번호**
 
 * 현재 노출되는 화면의 카메라 번호를 표기합니다.
 
-&#x20;![](<../../../.gitbook/assets/icon-square-2 (1).svg>) **크게보기**
+&#x20;![](../../../.gitbook/assets/icon-square-2-2.svg) **크게보기**
 
 *   카메라 화면을 주행화면의 전체화면으로 키울 수 있습니다. 닫기를 누르면 카메라 창이 닫힙니다.<br>
 

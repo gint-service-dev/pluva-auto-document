@@ -23,7 +23,7 @@ layout:
 
 <div align="center"><figure><img src="../../.gitbook/assets/switch-description.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/1.svg) 상태
+![](../../.gitbook/assets/icon-circle-1.svg) 상태
 
 * 기능
   * 측위 시스템 상태 표기
@@ -34,7 +34,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/2.svg) 멀티펑션 기능
+![](../../.gitbook/assets/icon-circle-2.svg) 멀티펑션 기능
 
 * 기능
   * 즐겨찾기 기능
@@ -44,7 +44,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/3.svg) 취소 or 이전
+![](../../.gitbook/assets/icon-circle-3.svg) 취소 or 이전
 
 * 기능
   * 상황에 따른 취소/이전 메뉴로 이동
@@ -54,7 +54,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/4.svg) 엔터
+![](../../.gitbook/assets/icon-circle-4.svg) 엔터
 
 * 기능
   * A/B 설정
@@ -65,7 +65,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/5.svg) 좌측(◀)
+![](../../.gitbook/assets/icon-circle-5.svg) 좌측(◀)
 
 * 기능
   * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.

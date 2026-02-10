@@ -61,11 +61,11 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/enter-network-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **GNSS 수신기 설정**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **GNSS 수신기 설정**
 
 * 연결된 GNSS 수신기를 확인하고, 필요 시 다른 수신기로 변경할 수 있습니다.
 
-&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **위성 신호**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **위성 신호**
 
 * GNSS는 GPS(미국), GLONASS(러시아), BDS(중국), Galileo(유럽), QZSS(일본) 등 여러 나라의 위성 시스템에서 내려오는 위성 신호를 통합해 사용하는 개념입니다. 여러 나라의 위성 신호를 함께 수신하면 연결 가능한 위성 수가 늘어나 위치 정확도와 신호 안정성이 향상됩니다.
 *   시스템이 현재 환경에서 가장 좋은 위성을 자동으로 선택합니다. 신호 상태가 좋지 않다면 안내 문구에 따라 조치합니다.<br>
