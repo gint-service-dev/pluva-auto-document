@@ -29,11 +29,11 @@ layout:
 [undefined.md](../maintenance/undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="privacy-polic.md" %}
-[privacy-polic.md](privacy-polic.md)
+{% content-ref url="privacy-policy.md" %}
+[privacy-policy.md](privacy-policy.md)
 {% endcontent-ref %}
 
-{% content-ref url="specification-informatio.md" %}
-[specification-informatio.md](specification-informatio.md)
+{% content-ref url="specification-information.md" %}
+[specification-information.md](specification-information.md)
 {% endcontent-ref %}
 

@@ -125,7 +125,7 @@ layout:
 
 <summary><a href="ion/consumer-info/">고객 지원</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/maintenance/undefined-1.md">undefined-1.md</a></td></tr><tr><td>정비</td><td><a href="ion/maintenance/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-informatio.md">specification-informatio.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/maintenance/undefined-1.md">undefined-1.md</a></td></tr><tr><td>정비</td><td><a href="ion/maintenance/undefined.md">undefined.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
 </details>
 
