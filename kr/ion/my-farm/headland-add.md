@@ -69,11 +69,11 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/headland-display-line.png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 경계 오프셋 표시선**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **필드 경계 오프셋 표시선**
 
 * 붉은 실선으로 표시됩니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **필드 경계선**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **필드 경계선**
 
 * 흰 실선으로 표시됩니다.
 
@@ -93,11 +93,11 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 선택**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **필드 선택**
 
 * 적용할 헤드랜드 필드를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **헤드랜드 이름**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **헤드랜드 이름**
 
 * 구분할 헤드랜드 이름을 표기합니다.
 
@@ -123,7 +123,7 @@ My Farm의 헤드랜드 항목을 누릅니다.
   * -로 수치 설정 시\
     ![](../../.gitbook/assets/full-headland-minus-when-setting.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **작업기**
+&#x20;![](<../../.gitbook/assets/icon-square-6 (1).svg>) **작업기**
 
 * 작업할 작업기를 선택합니다.
 
@@ -143,11 +143,11 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal.png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 선택**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **필드 선택**
 
 * 적용할 헤드랜드 필드를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **헤드랜드 이름**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **헤드랜드 이름**
 
 * 구분할 헤드랜드 이름을 표기합니다.
 
@@ -168,7 +168,7 @@ My Farm의 헤드랜드 항목을 누릅니다.
 * 헤드랜드 거리를 수치로 조정합니다.
   * ![](../../.gitbook/assets/partial-headland-street.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **필드 경계 오프셋**
+&#x20;![](<../../.gitbook/assets/icon-square-6 (1).svg>) **필드 경계 오프셋**
 
 * 수치로 필드 경계를 조정합니다. On/off로 끄고 킬 수 있으며\
   +는 바깥쪽, -는 안쪽으로 이동합니다.

@@ -46,7 +46,7 @@ AB 경로를 설정한 이후에 <img src="../../../.gitbook/assets/ic_line.svg"
 
 <figure><img src="../../../.gitbook/assets/feature-details.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../../.gitbook/assets/icon-square-1-1.svg) **등간격 켜기/끄기**
+&#x20;![](<../../../.gitbook/assets/icon-square-1 (1).svg>) **등간격 켜기/끄기**
 
 * 생성한 등간격을 켜고 끕니다.
   * 자율주행 중에는 사용할 수 없으며 수동 주행 상태에서만 사용할 수 있습니다.
@@ -57,7 +57,7 @@ AB 경로를 설정한 이후에 <img src="../../../.gitbook/assets/ic_line.svg"
 
       <figure><img src="../../../.gitbook/assets/turn-off-equal-intervals-screen.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../../.gitbook/assets/icon-square-2-2.svg) **당겨오기**
+&#x20;![](<../../../.gitbook/assets/icon-square-2 (1).svg>) **당겨오기**
 
 * 차량의 현재 위치로 생성한 경로가 이동합니다. 변경된 위치 기준으로\
   등간격 선이 재설정 됩니다.
@@ -101,7 +101,7 @@ AB 경로를 설정한 이후에 <img src="../../../.gitbook/assets/ic_line.svg"
 
       <figure><img src="../../../.gitbook/assets/enable-headland-off.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../../.gitbook/assets/icon-square-6-6.svg) **작업폭 설정**
+&#x20;![](<../../../.gitbook/assets/icon-square-6 (1).svg>) **작업폭 설정**
 
 * 등간격 넓이의 기준인 작업폭을 수치로 설정합니다. 입력한 작업기 폭, 고랑폭에 따라 자동으로 작업폭이 설정됩니다.
   * 작업 중 작업기 폭 또는 고랑 폭 변경으로 작업폭이 달라졌다면, 원활한 작업을 위해 당겨오기 기능을 사용한 뒤 작업을 재개합니다.

@@ -53,11 +53,11 @@ GNSS 수신기 설정을 누르면 진입이 완료됩니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/gnss-receiver-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **종방향 위치**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **종방향 위치**
 
 * 프론트액슬에서 수신기까지 앞뒤거리를 의미합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **횡방향 위치**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **횡방향 위치**
 
 * 차량 중심선에서 수신기까지 좌우거리를 의미합니다.
 

@@ -99,14 +99,14 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../../.gitbook/assets/field-registration-screen-0.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../../.gitbook/assets/icon-square-1-1.svg) **주소 검색으로 필드 선택**
+&#x20;![](<../../../.gitbook/assets/icon-square-1 (1).svg>) **주소 검색으로 필드 선택**
 
 * 주소 검색으로 필드를 선택합니다.
   *
 
       <figure><img src="../../../.gitbook/assets/field-registration-screen-1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../../.gitbook/assets/icon-square-2-2.svg) **직접 그리기**
+&#x20;![](<../../../.gitbook/assets/icon-square-2 (1).svg>) **직접 그리기**
 
 * 필드 영역을 직접 점을 찍어 생성합니다.
   *
@@ -125,7 +125,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 다음 단계로 넘어갑니다.
 
-&#x20;![](../../../.gitbook/assets/icon-square-6-6.svg) **나가기**
+&#x20;![](<../../../.gitbook/assets/icon-square-6 (1).svg>) **나가기**
 
 * 필드 추가하기 화면에서 나갑니다.
 
@@ -148,11 +148,11 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/register-on-a-map.png" alt="" width="233"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../../.gitbook/assets/icon-square-1-1.svg) **필드 이름**
+&#x20;![](<../../../.gitbook/assets/icon-square-1 (1).svg>) **필드 이름**
 
 * 대표로 표기할 필드 이름을 입력합니다.
 
-&#x20;![](../../../.gitbook/assets/icon-square-2-2.svg) **농장**
+&#x20;![](<../../../.gitbook/assets/icon-square-2 (1).svg>) **농장**
 
 * 필드와 연결할 농장을 선택합니다.
 

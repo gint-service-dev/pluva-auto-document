@@ -46,12 +46,12 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/entering-my-vehicle-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **차량 보정**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **차량 보정**
 
 * 차량이 흔들리거나 휘어지지 않고 정확하게 직진하도록 오토스티어, 롤/피치/요,\
   관성센서 등을 보정합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **차량 제어 설정**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **차량 제어 설정**
 
 * 작업 환경에 맞게 주행 특성을 조정합니다.\
   설정 변경은 자율주행 성능에 영향을 줄 수 있습니다.
@@ -68,6 +68,6 @@ layout:
 
 * 차량의 치수 입력이 완료됐는지 표시합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **차량 보정 유무**
+&#x20;![](<../../.gitbook/assets/icon-square-6 (1).svg>) **차량 보정 유무**
 
 * 차량의 보정 작업이 완료됐는지 표시합니다.

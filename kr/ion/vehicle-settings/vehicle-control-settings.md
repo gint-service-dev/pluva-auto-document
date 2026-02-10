@@ -51,7 +51,7 @@ layout:
 
 &#x20;
 
-![](../../.gitbook/assets/icon-square-1-1.svg) **자율주행 해제 허용**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **자율주행 해제 허용**
 
 * 운전자가 핸들을 직접 조작했을 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -71,7 +71,7 @@ layout:
 
 &#x20;
 
-![](../../.gitbook/assets/icon-square-2-2.svg) **경로 진입 거리 설정**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **경로 진입 거리 설정**
 
 * 차량이 경로 상 얼마나 먼 지점을 목표로 진입할지 설정합니다.
 
@@ -109,7 +109,7 @@ layout:
 
 #### **a. 자율주행 해제 허용 (전진)**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **전진 시작 조건**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>)  **전진 시작 조건**
 
 1. 전진 시작 조건: 전진으로 자율주행을 시작하기 위한 안전 조건 사용 여부를 설정합니다.
 
@@ -147,7 +147,7 @@ layout:
 
 &#x20;
 
-![](../../.gitbook/assets/icon-square-2-2.svg) **전진 해제 조건**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **전진 해제 조건**
 
 1. 전진 해제 조건 사용 : 전진으로 조건을 벗어날 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -207,7 +207,7 @@ layout:
 
 #### **b. 자율주행 해제 허용 (후진)**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **후진 시작 조건**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>)  **후진 시작 조건**
 
 1. 후진 시작 조건 : 후진으로 자율주행을 시작하기 위한 안전 조건 사용 여부를 설정합니다.
 
@@ -239,7 +239,7 @@ layout:
 
 
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg)  **후진 해제 조건**
+&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>)  **후진 해제 조건**
 
 1. 후진 해제 조건 사용 : 후진으로 조건을 벗어날 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -299,7 +299,7 @@ layout:
 
 #### **c. 경로 진입 거리 고급 설정**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **진입 성향**
+&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>)  **진입 성향**
 
 1. 전진 경로 진입 거리: 전진으로 차량이 경로 상 얼마나 먼 지점을 목표로 진입할지 설정합니다.
 
@@ -335,7 +335,7 @@ layout:
 
 &#x20;
 
-![](../../.gitbook/assets/icon-square-2-2.svg)  **추종 민감도**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>)  **추종 민감도**
 
 1. 전진 경로 추종 민감도: 전진으로 진입 후 경로를 얼마나 정밀하게 따라갈지 설정합니다.
 
