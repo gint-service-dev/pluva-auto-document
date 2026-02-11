@@ -21,14 +21,14 @@ layout:
 
 GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의 위치를 정밀하게 파악합니다.보정 데이터를 통해 위치 보정이 이루어지며, 관련 설정은 사용 환경에 따라 달라질 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버.png" alt="gnss"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/1.svg) 상태 표시 LED
 
 1. 좌측 LED
    1. 전원 및 시스템의 H/W 이상 여부
 
-<div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버 - 좌측 LED (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/GNSS 리시버 - 좌측 LED (1).png" alt="gnss" width="375"><figcaption></figcaption></figure></div>
 
 상태 구분
 
