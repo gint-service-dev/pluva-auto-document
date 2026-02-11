@@ -35,7 +35,7 @@ layout:
 
 * 태블릿의 전원을 켜거나 끕니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/태블릿-전원.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="/broken/files/QnIard6VxKbQQZzmH8AW" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/3.svg) 우측(▶)
 
