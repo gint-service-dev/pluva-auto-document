@@ -63,9 +63,9 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <details>
 
-<summary><a href="pluva-ion-ownersmanual/uturn-mode/">Uターンモード</a></summary>
+<summary><a href="pluva-ion-ownersmanual/turn-mode/">Uターンモード</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Uターンの設定方法</td><td><a href="pluva-ion-ownersmanual/uturn-mode/utnno.md">utnno.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Uターンの設定方法</td><td><a href="pluva-ion-ownersmanual/turn-mode/turn-mode-setting.md">turn-mode-setting.md</a></td></tr></tbody></table>
 
 
 
