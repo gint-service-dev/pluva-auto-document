@@ -73,7 +73,7 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <details>
 
-<summary><a href="pluva-ion-ownersmanual/driving-convenience.md">走行の便宜を図るための機能</a></summary>
+<summary><a href="pluva-ion-ownersmanual/driving-convenience/">走行の便宜を図るための機能</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>주행 화면 설명</td><td><a href="/broken/pages/9x3bERDMlXIE8hoWqcxl">Broken link</a></td></tr><tr><td>오토플래닝</td><td><a href="/broken/pages/tFVxXIvqJwGsUJYX1vzo">Broken link</a></td></tr><tr><td>유턴</td><td><a href="/broken/pages/UYpY3W9JdtYePmrKfwXG">Broken link</a></td></tr><tr><td>경로 불러오기</td><td><a href="/broken/pages/rkMHVZqTzTQSANfl8HSh">Broken link</a></td></tr><tr><td>주행 편의 기능</td><td><a href="/broken/pages/p2m6K6mwaVmdHqQi98Qv">Broken link</a></td></tr></tbody></table>
 
