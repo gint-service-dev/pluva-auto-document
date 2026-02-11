@@ -59,7 +59,7 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 <figure><img src="../../.gitbook/assets/electric-steering-wheel.png" alt=""><figcaption></figcaption></figure>
 
 農業機械の従来のハンドルを取り外し、ステアリング位置に取り付ける電動モーター式のステアリング装置です。\
-詳細は、[電動ステアリングホイール](sutearinguhoru.md)をご参照ください。
+詳細は、[電動ステアリングホイール](electric-steering-wheel.md)をご参照ください。
 {% endcolumn %}
 
 {% column %}
@@ -68,7 +68,7 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 <figure><img src="../../.gitbook/assets/gnss-receiver.png" alt=""><figcaption></figcaption></figure>
 
 高精度測位（RTK）技術を活用し、農業機械のリアルタイムでの位置を精密に測定する装置です。\
- 詳しい仕様及び機能に関しては、[GNSS受信機](gnss-shou-xin-ji.md)をご参照ください。
+ 詳しい仕様及び機能に関しては、[GNSS受信機](gnss-receiver.md)をご参照ください。
 {% endcolumn %}
 {% endcolumns %}
 
@@ -81,7 +81,7 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 <figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
 
 自動操舵システムのディスプレイ装置として、作業経路の設定、走行状態のモニタリング、システム制御及び各種設定機能をご提供します。\
- 詳しい使用方法は[タブレット](taburetto.md)をご参照ください。
+ 詳しい使用方法は[タブレット](tablet.md)をご参照ください。
 {% endcolumn %}
 
 {% column %}
@@ -92,7 +92,7 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 作業者が操作しやすい位置に取り付けられ、自動操舵システムの開始/停止などの主要機能を簡単に制御できます。
 
 オプション品は別途ご購入が必要です。\
-詳細は[ワンタッチスイッチ](wantatchisuitchi.md)をご参照ください。
+詳細は[ワンタッチスイッチ](switch.md)をご参照ください。
 {% endcolumn %}
 {% endcolumns %}
 

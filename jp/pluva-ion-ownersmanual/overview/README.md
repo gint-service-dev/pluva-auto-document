@@ -21,26 +21,26 @@ layout:
 
 PLUVA iONのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解したうえで、取り付け及び使用準備を完了することを目的としています。
 
-{% content-ref url="pluva-ionnogo.md" %}
-[pluva-ionnogo.md](pluva-ionnogo.md)
+{% content-ref url="pluva-ion-introduction.md" %}
+[pluva-ion-introduction.md](pluva-ion-introduction.md)
 {% endcontent-ref %}
 
-{% content-ref url="sutearinguhoru.md" %}
-[sutearinguhoru.md](sutearinguhoru.md)
+{% content-ref url="electric-steering-wheel.md" %}
+[electric-steering-wheel.md](electric-steering-wheel.md)
 {% endcontent-ref %}
 
-{% content-ref url="gnss-shou-xin-ji.md" %}
-[gnss-shou-xin-ji.md](gnss-shou-xin-ji.md)
+{% content-ref url="gnss-receiver.md" %}
+[gnss-receiver.md](gnss-receiver.md)
 {% endcontent-ref %}
 
-{% content-ref url="taburetto.md" %}
-[taburetto.md](taburetto.md)
+{% content-ref url="tablet.md" %}
+[tablet.md](tablet.md)
 {% endcontent-ref %}
 
-{% content-ref url="wantatchisuitchi.md" %}
-[wantatchisuitchi.md](wantatchisuitchi.md)
+{% content-ref url="switch.md" %}
+[switch.md](switch.md)
 {% endcontent-ref %}
 
-{% content-ref url="kamera.md" %}
-[kamera.md](kamera.md)
+{% content-ref url="camera.md" %}
+[camera.md](camera.md)
 {% endcontent-ref %}
