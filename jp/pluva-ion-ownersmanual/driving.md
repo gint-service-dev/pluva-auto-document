@@ -36,3 +36,7 @@ layout:
 {% content-ref url="driving/square-drive.md" %}
 [square-drive.md](driving/square-drive.md)
 {% endcontent-ref %}
+
+{% content-ref url="driving/auto-route-generation.md" %}
+[auto-route-generation.md](driving/auto-route-generation.md)
+{% endcontent-ref %}

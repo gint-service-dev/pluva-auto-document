@@ -15,26 +15,25 @@ layout:
     visible: true
 ---
 
-# 등간격 편의 기능
+# 等間隔に関する便利な機能
 
-### 등간격 편의 기능
+### 等間隔に関する便利な機能
 
-등간격 이동, 당겨오기 90도 회전 등 등간격 관련 기능을 편하게 확인하고 사용할 수 있습니다.\
-반드시 AB 경로를 생성한 후에 사용이 가능합니다.
+等間隔ラインの移動、ラインを引っ張ってくる、90度回転などの関連機能を自由に利用できます。 この機能は、AB経路を生成してから利用できます。
 
 ***
 
-#### 등간격 편의 기능 진입
+#### 等間隔に関する便利な機能へのアクセス
 
 {% stepper %}
 {% step %}
-AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" alt="" data-size="original"> \[등간격 편의 기능]버튼을 누릅니다.
+AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" data-size="original"> \[等間隔に関する便利な機能]をクリックします。
 
 <figure><img src="../../.gitbook/assets/equal-interval-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 등간격 메뉴를 선택합니다.
+ご希望の等間隔メニューを選択します。
 
 <figure><img src="../../.gitbook/assets/equal-interval-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -42,7 +41,7 @@ AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" al
 
 ***
 
-#### 등간격 편의 기능 상세 설명
+#### 等間隔に関する便利な機能のご案内
 
 <figure><img src="../../.gitbook/assets/feature-details.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,10 +93,10 @@ AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" al
 
 * 헤드랜드 표시를 켜거나 끕니다.
   * 헤드랜드는 점선으로 표시합니다.
-  *   &#x20;![](../../.gitbook/assets/enable-headland-on-button.svg) **헤드랜드 켜기 사용**<br>
+  *   &#x20;![](../../.gitbook/assets/headland-on-button.png) **헤드랜드 켜기 사용**<br>
 
       <figure><img src="../../.gitbook/assets/enable-headland-on.png" alt=""><figcaption></figcaption></figure>
-  *   ![](../../.gitbook/assets/enable-headland-off-button.svg) **헤드랜드 끄기 사용**<br>
+  *   ![](../../.gitbook/assets/headland-off-button.png) **헤드랜드 끄기 사용**<br>
 
       <figure><img src="../../.gitbook/assets/enable-headland-off.png" alt=""><figcaption></figcaption></figure>
 

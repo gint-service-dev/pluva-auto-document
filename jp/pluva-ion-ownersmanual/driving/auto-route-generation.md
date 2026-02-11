@@ -15,9 +15,9 @@ layout:
     visible: true
 ---
 
-# 자동 경로 (Pluava AI)
+# 自動経路（Pluva AI）
 
-### 자동 경로 (Pluva AI)
+### 自動経路（Pluva AI）
 
 자동 경로 (Pluva AI)
 
