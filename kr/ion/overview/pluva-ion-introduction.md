@@ -65,7 +65,7 @@ layout:
 {% column %}
 #### GNSS 수신기
 
-<figure><img src="../../.gitbook/assets/주요 구성품 소개-리시버.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gnss-receiver.png" alt=""><figcaption></figcaption></figure>
 
 고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 측정합니다.\
  자세한 사양 및 기능 설명은 [GNSS 수신기](/broken/pages/lWdZgI2P4YIODQ7uazsl) 항목을 참조하십시오.
@@ -76,7 +76,7 @@ layout:
 {% column %}
 #### 태블릿
 
-<figure><img src="../../.gitbook/assets/주요 구성품 소개-테블릿.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
 
 자율주행 시스템의 디스플레이 장치로, 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정 기능을 제공합니다.\
  자세한 사용 방법은 [태블릿](tablet.md) 항목을 참조해주세요.
@@ -85,14 +85,32 @@ layout:
 {% column %}
 #### 스위치 (옵션품)
 
-옵션품은 별도 구매가 필요합니다.\
-자세한 내용은 [스위치](switch.md)를 참조해주세요.
-
 <figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
+
+옵션품은 별도 구매가 필요합니다.\
+자세한 내용은 [스위치](switch.md)를 참조해주세요.
 {% endcolumn %}
 {% endcolumns %}
+
+{% columns %}
+{% column width="50%" %}
+#### 카메라
+
+<figure><img src="../../.gitbook/assets/camera-description.png" alt=""><figcaption></figcaption></figure>
+
+주변 환경을 모니터링하기 위해 트랙터 뒤쪽 상부에 카메라를 설치하며, 후방 작업 상황을 확인할 수 있습니다.
+
+자세한 내용은 [카메라](camera.md)를 참조해주세요.
+{% endcolumn %}
+
+{% column width="50%" %}
+####
+{% endcolumn %}
+{% endcolumns %}
+
+***
 
 ### 제품 설치 위치
 
@@ -107,4 +125,4 @@ layout:
 
 트랙터 및 이앙기에 모두 장착 가능하며, 필요에 따라 농기계 간 탈착 및 이동이 가능합니다.
 
-<figure><img src="../../.gitbook/assets/installation-location-change.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
