@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 取扱説明書の情報
 
 ### 取扱説明書の情報
@@ -26,6 +9,22 @@ layout:
 #### 安全上のご注意
 
 製品をご使用の前に、必ず「安全上のご注意」をお読みになってください。タッチスクリーンのユーザーマニュアルからも、PLUVA iONの「安全上のご注意」の確認ができます。
+
+
+
+#### 認証に関する情報
+
+PLUVA iONは、GNSS受信機や電動ステアリングホイール、タブレット、スイッチにおけるKC、JAPAN MIC認証を取得しております。
+
+<div align="left"><figure><img src="../.gitbook/assets/certification.png" alt="" width="107"><figcaption></figcaption></figure></div>
+
+
+
+#### 生産物賠償責任保険
+
+PLUVA iONは【生産物賠償責任保険】により、製品の欠陥による事故が発生した場合でも安全かつ認証された補償を提供いたします。
+
+<div align="left"><figure><img src="../.gitbook/assets/product-liability-insurance.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 
 
@@ -85,15 +84,15 @@ layout:
 
 
 
-#### 運行環境
+#### 走行環境
 
 ![](../.gitbook/assets/중요.svg) コネクターが完全に接続されていない場合、走行中の振動によってケーブルが製品から外れる恐れがあります。
 
 ![](../.gitbook/assets/중요.svg) 人が密集していない開けた場所で運転し、作業エリア内に人や障害物がないことを必ず確認してください。
 
-![](../.gitbook/assets/중요.svg) 障害物、電線、高層建築物、空港、信号塔などから十分に離れた場所で運行してください。これらの環境では電波信号に影響を及ぼし、制御できなくなる恐れがあります。
+![](../.gitbook/assets/중요.svg) 障害物、電線、高層建築物、空港、信号塔などから十分に離れた場所で走行してください。これらの環境では電波信号に影響を及ぼし、制御できなくなる恐れがあります。
 
-![](../.gitbook/assets/중요.svg) 悪天候では運行を避け、天候の良い環境で作業を行ってください。
+![](../.gitbook/assets/중요.svg) 悪天候では走行を避け、天候の良い環境で作業を行ってください。
 
 ![](../.gitbook/assets/중요.svg) LTE通信が利用可能なエリアであることを必ずご確認ください。LTE通信が利用できない場所では、制御を行うことができません。
 
@@ -103,7 +102,7 @@ layout:
 
 ![](../.gitbook/assets/경고.svg) **自動操舵を開始する前に、必ず車両に乗車して自動操舵装置を作動させてください。また、走行中に車両へ乗り降りすることは厳禁です。**
 
-![](../.gitbook/assets/경고.svg) **非常時に適切に介入できるよう、運転者は常に車両及び前方の状況を確認してください。**
+![](../.gitbook/assets/경고.svg) **非常時に適切に介入できるよう、運転者は常に車両及び前方と後方の状況を確認してください。**
 
 ![](../.gitbook/assets/경고.svg) **装置が取り付けられた車両で道路または公共の場所を走行する場合は、安全のため当該装置の電源がオフになっていることを確認してください。**
 
@@ -119,3 +118,10 @@ layout:
 
 ![](../.gitbook/assets/비상시.svg) **非常時にはタブレット上部の「電源スイッチ」をオフにすると、自動操舵キットの全電源が遮断されます。**
 
+{% hint style="info" %}
+**緊急対応方法**\
+緊急の際には、タブレット上部の「メイン電源スイッチ」を切ると自動操舵キット全体の電源が\
+遮断されます。 詳細につきましては、[タブレット](overview/tablet.md)をご参照ください。
+
+<img src="../.gitbook/assets/emergency-tablet.png" alt="" data-size="original">
+{% endhint %}

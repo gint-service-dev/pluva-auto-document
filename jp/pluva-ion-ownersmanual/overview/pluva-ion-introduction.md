@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # PLUVA iONのご紹介
 
 ### PLUVA iONのご紹介
@@ -34,17 +17,17 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 
 
 
-#### フルセット
+#### プルバアイオン
 
 > PLUVA iONの全構成品です。GNSS受信機、電動ステアリングホイール、タブレット、カメラが含まれています。
 
-<figure><img src="../../.gitbook/assets/ion-full-set-jp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/full-set kr.png" alt=""><figcaption></figcaption></figure>
 
-#### ハーフセット
+#### エクスパンション　キット
 
 > 本製品はタブレットを含みません。GNSS受信機、電動ステアリングホイール、カメラが含まれています。 ハーフセットをご購入の際には、すでにPLUVA iONのタブレットをお持ちであることをご確認ください。
 
-<figure><img src="../../.gitbook/assets/ion-extension-jp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ion-extension-kr.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

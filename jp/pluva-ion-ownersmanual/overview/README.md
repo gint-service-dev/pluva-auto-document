@@ -1,25 +1,8 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 概要
 
 ### 概要
 
-PLUVA iONのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解したうえで、取り付け及び使用準備を完了することを目的としています。
+PLUVA iONのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解した上で、取り付け及び使用準備を完了することを目的としています。
 
 {% content-ref url="pluva-ion-introduction.md" %}
 [pluva-ion-introduction.md](pluva-ion-introduction.md)
