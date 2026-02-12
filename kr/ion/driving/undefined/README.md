@@ -20,8 +20,8 @@
 [delete-path.md](../../driving-convenience-function/delete-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="../../driving-convenience-function/equal-interva.md" %}
+[equal-interva.md](../../driving-convenience-function/equal-interva.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../driving-convenience-function/adjusting-driving-screen.md" %}
