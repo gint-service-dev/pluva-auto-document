@@ -24,6 +24,6 @@
 [undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../driving-convenience-function/adjusting-driving-scree.md" %}
-[adjusting-driving-scree.md](../../driving-convenience-function/adjusting-driving-scree.md)
+{% content-ref url="../../driving-convenience-function/adjusting-driving-screen.md" %}
+[adjusting-driving-screen.md](../../driving-convenience-function/adjusting-driving-screen.md)
 {% endcontent-ref %}
