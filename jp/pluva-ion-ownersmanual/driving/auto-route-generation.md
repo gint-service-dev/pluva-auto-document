@@ -2,9 +2,9 @@
 
 ### 自動経路（Pluva AI）
 
-자동 경로 (Pluva AI)
+自動経路（Pluva AI）
 
-* 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
+* ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
 <div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
@@ -12,25 +12,25 @@
 
 {% stepper %}
 {% step %}
-\[자동 경로 추천] 버튼을 누른다.
+「自動経路おすすめ」を選択します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Pluva AI가 경로를 생성합니다.
+Pluva AIが経路を生成します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로가 생성 완료되면 \[추천된 경로로 주행시작]을 누릅니다.
+経路生成が完了したら「おすすめの経路で走行開始」をタップしてください。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-시작점으로 이동한 뒤![](../../.gitbook/assets/drive_ai-button.svg)\[자율주행 시작] 버튼을 누르면 주행이 시작됩니다.
+開始点に移動した後![](../../.gitbook/assets/drive_ai-button.svg)「自動操舵の開始」をタップすると走行が始まります。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

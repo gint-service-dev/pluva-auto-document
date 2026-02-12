@@ -1,19 +1,19 @@
 # ターンの設定方法
 
-### Uターンの設定方法
+### ターンの設定方法
 
-Uターン設定では、Uターンを開始する位置、Uターン方法、回転形態、速度などを作業環境に合わせて調整できます。設定を適用すると、作業の流れを中断することなく、より安定した走行が可能になります。
+ターン設定では、ターンを開始する位置、ターン方法、回転形態、速度などを作業環境に合わせて調整できます。設定を適用すると、作業の流れを中断することなく、より安定した走行が可能になります。
 
-#### Uターン設定のステップ
+#### ターン設定のステップ
 
-1. Uターンラインの位置調整
-2. Uターンタイプの設定
-3. Uターンパターンの設定
-4. Uターン形態の設定
+1. ターンラインの位置調整
+2. ターンタイプの設定
+3. ターンパターンの設定
+4. ターン形態の設定
 
 ***
 
-#### Uターン機能の設定及びUターンラインの位置調整
+#### ターン機能の設定及びUターンラインの位置調整
 
 {% stepper %}
 {% step %}
@@ -27,19 +27,19 @@ ABラインを生成した状態で![](../../.gitbook/assets/drive-function-butt
 {% endstep %}
 
 {% step %}
-\[Uターンモード]をクリックします。
+\[ターンモード]をクリックします。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Uターンのオン/オフを押して、Uターンを有効にします。
+ターンのオン/オフを押して、ターンを有効にします。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-AまたはBを選択した後、Uターンラインの位置を数字で調整します。
+AまたはBを選択した後、ターンラインの位置を数字で調整します。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,11 +59,11 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 
 ***
 
-#### Uターンタイプの設定
+#### ターンタイプの設定
 
 {% stepper %}
 {% step %}
-使用したいUターンのタイプを選択します。
+使用したいターンのタイプを選択します。
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -77,15 +77,15 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 
 
 
-#### Uターンタイプのご案内
+#### ターンタイプのご案内
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **Uターンのタイプ**
+![](../../.gitbook/assets/icon-square-1.svg) **ターンのタイプ**
 
-**AB直進Uターン**
+**AB直進ターン**
 
-* ABラインの基準点を中心に設定値を基にUターンします。
+* ABラインの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
@@ -93,9 +93,9 @@ A、B点を同じく調整：位置の修正値を入力すると、A・B点の�
 AB直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-**A＋Uターン**
+**A＋ターン**
 
-* A点と境界の長さの基準点を中心に設定値を基にUターンします。
+* A点と境界の長さの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
@@ -103,9 +103,9 @@ AB直進モードでのみ使用でき、それ以外のモードでは無効に
 A+直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-**ABカーブUターン**
+**ABカーブターン**
 
-* ABカーブラインの基準点を中心に設定値を基にUターンします。
+* ABカーブラインの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-curve-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
@@ -113,29 +113,29 @@ A+直進モードでのみ使用でき、それ以外のモードでは無効に
 ABカーブモードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-**枕地Uターン**
+**枕地ターン**
 
-* 枕地の境界を基準に、緩衝帯内でUターンします。
+* 枕地の境界を基準に、緩衝帯内でターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/headland-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
-**境界線Uターン**
+**境界線ターン**
 
-* 圃場の境界（バウンダリー）に到達する前に、設定されたオフセット地点でUターンします。
+* 圃場の境界（バウンダリー）に到達する前に、設定されたオフセット地点でターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/boundary-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **制限速度の設定**
 
-* Uターン時に可能な最大速度を設定します。
+* ターン時に可能な最大速度を設定します。
 
 ***
 
-#### Uターンのパターン設定
+#### ターンのパターン設定
 
 {% stepper %}
 {% step %}
-使用したいUターンのパターンを選択します。
+使用したいターンのパターンを選択します。
 
 <figure><img src="../../.gitbook/assets/uturn-pattern-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -147,15 +147,15 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 {% endstep %}
 {% endstepper %}
 
-#### Uターンパターン画面の説明
+#### ターンパターン画面の説明
 
 <figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **Uターンのパターン**
+![](../../.gitbook/assets/icon-square-1.svg) **ターンのパターン**
 
-![](../../.gitbook/assets/icon-square-2.svg) **Uターンパターンのプレビュー**
+![](../../.gitbook/assets/icon-square-2.svg) **ターンパターンのプレビュー**
 
-* 現在設定されているUターンのパターンが実際の作業ラインにどのように適用されるかを事前に確認することができます。
+* 現在設定されているターンのパターンが実際の作業ラインにどのように適用されるかを事前に確認することができます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/turn-immediately.png" alt="" width="550"><figcaption></figcaption></figure></div>
 
@@ -167,23 +167,23 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 
 ![](../../.gitbook/assets/icon-square-3.svg) **ラインをスキップ**
 
-* Uターン時のスキップするライン（畝）の数を設定します。
+* ターン時のスキップするライン（畝）の数を設定します。
 
 ![](../../.gitbook/assets/icon-square-4.svg) **最小回転半径**
 
-* Uターンするときの最小回転半径を設定します。
+* ターンするときの最小回転半径を設定します。
 
 ![](../../.gitbook/assets/icon-square-5.svg) **開始方向**
 
-* 直進走行後、一回目に回転する方向（左回り/右回り）を設定します。
+* 直進走行後、一回目にターンする方向（左回り/右回り）を設定します。
 
 ***
 
-#### Uターン形態の設定
+#### ターン形態の設定
 
 {% stepper %}
 {% step %}
-使用するUターンの形態を選択します。最小回転半径などのUターン設定値に基づいて可能なUターン形態のみが有効になります。
+使用するターンの形態を選択します。最小回転半径などのターン設定値に基づいて可能なターン形態のみが有効になります。
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -195,7 +195,7 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 {% endstep %}
 
 {% step %}
-Uターン経路が生成されたら\[]\[自動操舵]を押し、Uターンが含まれた自動操舵を開始します。
+ターン経路が生成されたら ![](../../.gitbook/assets/drive-button.svg)\[自動操舵]を押し、ターンが含まれた自動操舵を開始します。
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

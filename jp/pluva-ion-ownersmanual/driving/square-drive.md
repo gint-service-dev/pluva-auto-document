@@ -53,7 +53,7 @@ A点を生成するとミニ地図が表示されます。
 {% endstep %}
 
 {% step %}
-開始点に移動し![](../../.gitbook/assets/drive-button.svg)\[自動操舵の開始] ボタンを押します。
+スタート地点に移動し![](../../.gitbook/assets/drive-button.svg)\[自動操舵の開始] ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
