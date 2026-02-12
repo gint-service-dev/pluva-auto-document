@@ -1,6 +1,6 @@
 # Pluva iON 소개
 
-### 플루바 아이온 소개
+### Pluva iON 소개
 
 플루바 아이온은 트랙터·이앙기용 오토가이던스(Autoguidance) 시스템으로, GNSS(항법 위성 장치) 와 전동 스티어링을 이용해 정밀한 직진 주행과 자동 유턴 등을 지원하는 장비입니다. 운전자의 조작 부담을 줄이고, 작업 품질과 효율을 향상시키는 작업 보조 시스템입니다.
 
@@ -33,8 +33,6 @@
 
 ### 주요 구성품 소개
 
-
-
 {% columns %}
 {% column %}
 #### 전동 스티어링 휠
@@ -51,11 +49,9 @@
 <figure><img src="../../.gitbook/assets/주요 구성품 소개-리시버.png" alt=""><figcaption></figcaption></figure>
 
 고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 측정합니다.\
- 자세한 사양 및 기능 설명은 [GNSS 수신기](gnss-receiver.md) 항목을 참조하십시오.
+ 자세한 사양 및 기능 설명은 [GNSS 수신기](/broken/pages/lWdZgI2P4YIODQ7uazsl) 항목을 참조하십시오.
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% columns %}
 {% column %}
@@ -70,16 +66,14 @@
 {% column %}
 #### 스위치 (옵션품)
 
+옵션품은 별도 구매가 필요합니다.\
+자세한 내용은 [스위치](switch.md)를 참조해주세요.
+
 <figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
-
-옵션품은 별도 구매가 필요합니다.\
-자세한 내용은 [스위치](switch.md)를 참조해주세요.
 {% endcolumn %}
 {% endcolumns %}
-
-***
 
 ### 제품 설치 위치
 
