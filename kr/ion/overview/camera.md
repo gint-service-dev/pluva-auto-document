@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 카메라
 
 ### 카메라
@@ -35,5 +18,5 @@ layout:
 
 차량 터치스크린에서 하단 메뉴에서 카메라 아이콘을 터치하여 카메라를 켤 수 있습니다.
 
-자세한 내용은 [카메라뷰 켜기](../driving/undefined/undefined-1.md#undefined-2)을(를) 참조하세요.
+자세한 내용은 [카메라뷰 켜기](../driving-convenience-function/adjusting-driving-scree.md#undefined-2)을(를) 참조하세요.
 

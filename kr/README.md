@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # PLUVA iON
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
@@ -83,7 +66,7 @@ layout:
 
 <summary><a href="ion/driving/undefined/">주행 편의 기능</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 공유</td><td><a href="ion/driving-convenience-function/path-sharing.md">path-sharing.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving/undefined/undefined.md">undefined.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving/undefined/undefined-1.md">undefined-1.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 공유</td><td><a href="ion/driving-convenience-function/path-sharing.md">path-sharing.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving/undefined/undefined.md">undefined.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-scree.md">adjusting-driving-scree.md</a></td></tr></tbody></table>
 
 
 

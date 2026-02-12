@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 주행 편의 기능
 
 ### 주행 편의 기능
@@ -41,6 +24,6 @@ layout:
 [undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="../../driving-convenience-function/adjusting-driving-scree.md" %}
+[adjusting-driving-scree.md](../../driving-convenience-function/adjusting-driving-scree.md)
 {% endcontent-ref %}
