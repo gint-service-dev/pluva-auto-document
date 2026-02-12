@@ -1,38 +1,38 @@
-# 경로 저장
+# 経路の保存
 
-### 경로 저장하기
+### 経路の保存
 
-생성한 주행 경로를 저장해두는 기능입니다. 저장된 경로는 \[경로 불러오기]를 통해 다시 사용합니다.
+生成した走行経路を保存しておく機能です。保存された経路は\[経路の取り込み]機能を通じて再度使用できます。
 
 
 
 {% stepper %}
 {% step %}
-AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
+ABラインを生成した状態で <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]をタップしてください。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로 저장을 누릅니다.
+経路の保存を押してください。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[저장]버튼을 누릅니다.
+\[保存]をタップします。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-저장이 완료됩니다.
+保存が完了します。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-저장된 경로는 경로 불러오기를 통해 사용할 수 있습니다.\
-자세한 내용은 [경로 불러오기](/broken/pages/fYBfxvvYTITdYl7ONRHb)를 참고하세요.
+保存された経路は経路の取り込み機能を通じてご利用できます。\
+詳細につきましては、経路の取り込みをご参照ください。
 
 <img src="../../.gitbook/assets/save-path-bringing-in.png" alt="" data-size="original">
 {% endhint %}

@@ -1,40 +1,40 @@
-# 경로 불러오기
+# 経路の取り込み
 
-### 경로 불러오기
+### 経路の取り込み
 
-저장한 경로를 불러오거나, 즐겨찾기/이름 수정/삭제로 관리할 수 있습니다.
+保存した経路を取り込んだり、お気に入りや名前の修正、削除などの管理ができます。
 
 ***
 
-#### 경로 불러오기
+#### 経路の取り込み
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
+<img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]を選択してください。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로 불러오기를 누릅니다.
+経路の取り込みをタップしてください。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 경로를 선택하고 \[불러오기]를 누릅니다.
+ご希望の経路を選択し、\[取り込み]を選択してください。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로 불러오기 팝업에서 \[불러오기]를 누른다.
+経路の取り込みポップアップから\[取り込み]を選択します。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로가 성공적으로 불러와집니다.
+経路の取り込みが完了します。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -42,29 +42,29 @@
 
 ***
 
-#### 불러올 경로 이름 수정
+#### 取り込みたい経路の名前の修正
 
 {% stepper %}
 {% step %}
-불러올 경로의 <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> 아이콘을 누릅니다.
+取り込みたい経路の <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/modify-name-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-이름 수정 옵션을 선택합니다.
+オプションから「名前の修正」を選択します。
 
 <figure><img src="../../.gitbook/assets/modify-name-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-수정할 이름을 입력합니다.
+修正したい名前を入力します。
 
 <figure><img src="../../.gitbook/assets/modify-name-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-이름 수정이 완료됩니다.
+名前の修正が完了します。
 
 <figure><img src="../../.gitbook/assets/modify-name-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -72,29 +72,29 @@
 
 ***
 
-#### 경로 불러오기 삭제
+#### 取り込んだ経路の削除
 
 {% stepper %}
 {% step %}
-삭제할 경로의 <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> 아이콘을 누릅니다.
+削除したい経路の <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/delete-name-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-삭제 옵션을 선택합니다.
+オプションから「削除」を選択します。
 
 <figure><img src="../../.gitbook/assets/delete-name-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-모달의 \[삭제] 버튼을 누릅니다.
+モーダルから\[削除]を選択します。
 
 <figure><img src="../../.gitbook/assets/delete-name-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-저장된 경로가 삭제됩니다.
+保存された経路は削除されます。
 
 <figure><img src="../../.gitbook/assets/delete-name-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -102,40 +102,28 @@
 
 ***
 
-#### 경로 불러오기 즐겨찾기 등록
+#### お気に入り保存
 
 {% stepper %}
 {% step %}
-즐겨찾기를 하고자하는 항목의 <img src="../../.gitbook/assets/ic_star_active.svg" alt="" data-size="original"> 즐겨찾기 아이콘을 누릅니다.
+取り込んだ経路から、お気に入り保存したい経路の <img src="../../.gitbook/assets/ic_star_active.svg" alt="" data-size="original"> お気に入りアイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/bookmark-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-즐겨찾기 저장이 완료됩니다.
+お気に入り保存が完了します。
 
 <figure><img src="../../.gitbook/assets/bookmark-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-모달의 \[삭제] 버튼을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/delete-name-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-저장된 경로가 삭제됩니다.
-
-<figure><img src="../../.gitbook/assets/delete-name-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-즐겨찾기 버튼을 누르면 즐겨찾기에 저장된 경로들만 모아 볼 수 있다.
+お気に入りをタップすると、お気に入りに保存された経路だけが確認できます。
 
 <img src="../../.gitbook/assets/favorite-button.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-즐겨찾기 삭제는 즐겨찾기 아이콘을 다시 누르면 바로 삭제됩니다.
+お気に入りから削除したい場合は、お気に入りアイコンを再度タップすると削除されます。
 
 <img src="../../.gitbook/assets/delete-favorite.png" alt="" data-size="original">
 {% endhint %}
