@@ -27,7 +27,7 @@
   * [경로 불러오기](ion/driving-convenience-function/bringing-up-path.md)
   * [경로 공유](ion/driving-convenience-function/path-sharing.md)
   * [경로 리셋/삭제](ion/driving-convenience-function/delete-path.md)
-  * [등간격 편의 기능](ion/driving-convenience-function/equal-interva.md)
+  * [등간격 편의 기능](ion/driving-convenience-function/equal-interval.md)
   * [주행 화면 조정](ion/driving-convenience-function/adjusting-driving-screen.md)
 * [내 농장 관리 (MY Farm)](ion/my-farm/README.md)
   * [농장 관리](ion/my-farm/farm-management/README.md)
