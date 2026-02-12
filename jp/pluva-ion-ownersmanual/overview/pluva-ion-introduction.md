@@ -94,4 +94,4 @@ PLUVA iONは、トラクター及び田植え機向けのオートガイダン�
 
 トラクター及び田植え機の両方に取り付けでき、必要に応じて農業機械間での取り付け・取外し及び移動ができます。
 
-<figure><img src="../../.gitbook/assets/installation-location-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>

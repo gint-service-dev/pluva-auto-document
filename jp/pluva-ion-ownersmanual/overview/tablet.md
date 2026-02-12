@@ -4,7 +4,9 @@
 
 タブレットは、自動操舵システムを制御するためのディスプレイ装置です。 作業経路の設定や走行状態のモニタリング、システム制御及び各種設定ができ、リアルタイムでの位置情報や走行情報及びエラー状態を確認できます。
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-description.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1.png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/tablet-description-2.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-circle-1.svg) **メイン電源スイッチ**
 
@@ -12,7 +14,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-2.svg) **タブレットの電源**
+![](../../.gitbook/assets/icon-circle-2.svg) **タブレットスリープボタン**
 
 * タブレットの電源をオン、またはオフにします。
 
@@ -132,7 +134,7 @@
 ![](../../.gitbook/assets/icon-circle-16.svg) **方角**
 
 * 車両の進行方向がリアルタイムで表示されます。地図の拡大/縮小変更時に車両の進行方向が一目で分かります。
-  * 車両の進行方向: 車両の前方が向いている方向です
+  * 車両の進行方向 : 車両の前方が向いている方向です
 
 ![](../../.gitbook/assets/icon-circle-17.svg) **地図の切り替え**
 
@@ -166,9 +168,9 @@
 
 > <img src="../../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line">: 衛星信号が良好
 >
-> <img src="../../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line">: 衛星信号が普通
+> <img src="../../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line">: 衛星信号が普通
 >
-> <img src="../../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line">: 衛星信号が不良
+> <img src="../../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line">: 衛星信号が不良
 >
 > <img src="../../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line">: 信号なし
 

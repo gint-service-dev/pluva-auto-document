@@ -1,8 +1,8 @@
 # 초기 설정법
 
-### 사용 전 안내 사항
+### 初期設定方法
 
-제품을 사용하기 전에 확인해야 하는 기본 설정과 사전 안내 사항을 안내합니다.
+本製品をお使いになる前に、ご確認いただくべき基本設定と事前の案内事項について説明します。
 
 {% content-ref url="/broken/pages/ts8JHILNFE1wyzk0Wc2I" %}
 [Broken link](/broken/pages/ts8JHILNFE1wyzk0Wc2I)
