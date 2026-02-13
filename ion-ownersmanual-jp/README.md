@@ -1,6 +1,6 @@
 # PLUVA iON
 
-<figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Ion-package-image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ご参考\
@@ -12,9 +12,7 @@
 ご使用の前に必ず本製品マニュアルをお読みいただき、自動操舵キットを安全かつ正しくご使用ください。
 {% endhint %}
 
-
-
-### 概要
+### 概要11
 
 PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客様サポートの情報をご提供します。
 
@@ -40,8 +38,6 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路のプランニングの設定方法</td><td><a href="pluva-ion-ownersmanual/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB直進</td><td><a href="pluva-ion-ownersmanual/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+直進</td><td><a href="pluva-ion-ownersmanual/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>四角形走行</td><td><a href="pluva-ion-ownersmanual/driving/square-drive.md">square-drive.md</a></td></tr></tbody></table>
 
-
-
 </details>
 
 <details>
@@ -50,8 +46,6 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Uターンの設定方法</td><td><a href="pluva-ion-ownersmanual/turn-mode/turn-mode-setting.md">turn-mode-setting.md</a></td></tr></tbody></table>
 
-
-
 </details>
 
 <details>
@@ -59,8 +53,6 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 <summary><a href="pluva-ion-ownersmanual/driving-convenience/">走行の便宜を図るための機能</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>주행 화면 설명</td><td><a href="/broken/pages/9x3bERDMlXIE8hoWqcxl">Broken link</a></td></tr><tr><td>오토플래닝</td><td><a href="/broken/pages/tFVxXIvqJwGsUJYX1vzo">Broken link</a></td></tr><tr><td>유턴</td><td><a href="/broken/pages/UYpY3W9JdtYePmrKfwXG">Broken link</a></td></tr><tr><td>경로 불러오기</td><td><a href="/broken/pages/rkMHVZqTzTQSANfl8HSh">Broken link</a></td></tr><tr><td>주행 편의 기능</td><td><a href="/broken/pages/p2m6K6mwaVmdHqQi98Qv">Broken link</a></td></tr></tbody></table>
-
-
 
 </details>
 
