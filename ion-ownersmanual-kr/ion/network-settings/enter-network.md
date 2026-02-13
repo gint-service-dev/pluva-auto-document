@@ -58,7 +58,7 @@
 &#x20;![](../../.gitbook/assets/icon-square-3.svg) **위치 보정**
 
 * RTK 직접 수신/RTK 블루투스 등 보정 방식과 연결 방법을 설정합니다.\
-  자세한 내용은 [위치 보정 설정](rtk-setting.md)을 참고하세요.
+  자세한 내용은 [위치 보정 설정](rtk-settin.md)을 참고하세요.
 
 &#x20;![](../../.gitbook/assets/icon-square-4.svg) **네트워크**
 

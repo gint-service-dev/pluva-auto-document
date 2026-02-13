@@ -100,7 +100,7 @@
 
 <summary><a href="ion/network-settings/">네트워크 설정</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>네트워크 설정 진입 및 화면 설명</td><td><a href="ion/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>위치 보정 설정</td><td><a href="ion/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>네트워크 설정</td><td><a href="ion/network-settings/network-setting.md">network-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>네트워크 설정 진입 및 화면 설명</td><td><a href="ion/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>위치 보정 설정</td><td><a href="ion/network-settings/rtk-settin.md">rtk-settin.md</a></td></tr><tr><td>네트워크 설정</td><td><a href="ion/network-settings/network-setting.md">network-setting.md</a></td></tr></tbody></table>
 
 </details>
 
