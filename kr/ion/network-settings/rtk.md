@@ -17,27 +17,27 @@
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../../ion-ownersmanual-kr/.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/position-calibration-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[네트워크 설정]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/position-calibration-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[위치 보정]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/position-calibration-settings-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 보정 방식을 선택해 설정합니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/position-calibration-settings-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -45,13 +45,13 @@
 
 #### 위치 보정 설정 화면 설명
 
-<div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/position-calibration-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) **RTK 직접 수신 연결**
+&#x20;![](../../../ion-ownersmanual-kr/.gitbook/assets/icon-square-1-1.svg) **RTK 직접 수신 연결**
 
 * 서버 정보를 입력해 보정 신호를 직접 수신합니다.
 
-&#x20;![](<../../.gitbook/assets/icon-square-2 (1).svg>) **RTK 블루투스 연결**
+&#x20;![](../../../ion-ownersmanual-kr/.gitbook/assets/icon-square-2-2.svg) **RTK 블루투스 연결**
 
 * 스마트폰의 외부 앱을 통해 보정 신호를 받은 뒤, 블루투스로 연결합니다.\
   외부 앱이 꺼지면 보정 신호가 끊길 수 있습니다.
@@ -66,19 +66,19 @@ RTK 직접 수신은 태블릿이 RTK 서비스에 직접 연결하여 보정 �
 {% step %}
 \[RTK 직접 수신 연결]에서 \[정보 입력]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/rtk-direct-receive-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-direct-receive-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 기지국/서버 정보를 입력한 뒤 \[연결]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/rtk-direct-receive-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-direct-receive-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 RTK 직접 수신 연결이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/rtk-direct-receive-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-direct-receive-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 연결이 되지 않거나 자주 끊기는 경우 네트워크 상태와 입력 정보(주소/포트/계정/마운트포인트)를 먼저 확인합니다. 영어 대소문자를 정확히 입력하고 불필요한 띄어쓰기를 하지 않아야 서비스를 정상적으로 이용할 수 있다.
@@ -96,7 +96,7 @@ RTK 블루투스 연결은 스마트폰의 RTK 앱과 블루투스로 페어링�
 {% step %}
 RTK 블루투스 연결의 \[선택]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-bluetooth-connection-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -113,18 +113,18 @@ RTK 블루투스 연결의 \[선택]을 누릅니다.
 {% step %}
 블루투스 연결이 진행됩니다.
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-bluetooth-connection-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 연결이 완료되면 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../ion-ownersmanual-kr/.gitbook/assets/rtk-bluetooth-connection-4 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 연결을 실패할 경우 확인사항을 체크한 후 \[다시시도]를 누릅니다.
 
-<img src="../../.gitbook/assets/bluetooth-connection-failure.png" alt="" data-size="original">
+<img src="../../../ion-ownersmanual-kr/.gitbook/assets/bluetooth-connection-failure.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 {% endstepper %}

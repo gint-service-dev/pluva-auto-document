@@ -9,8 +9,8 @@
 [enter-network.md](enter-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="rtk-setting.md" %}
-[rtk-setting.md](rtk-setting.md)
+{% content-ref url="../../../kr/ion/network-settings/rtk.md" %}
+[rtk.md](../../../kr/ion/network-settings/rtk.md)
 {% endcontent-ref %}
 
 {% content-ref url="network-setting.md" %}
