@@ -43,7 +43,7 @@
 
 #### カメラビュー画面のご案内
 
-<figure><img src="../../.gitbook/assets/turn-on-camera-view-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) 拡大する
 

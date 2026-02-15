@@ -1,29 +1,48 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 農場管理
 
-### 농장 관리
+### 農場管理
 
-농장 관리에서는 농장을 추가·수정·삭제할 수 있습니다. 또한 농장에 연결된 필드와 소유자 정보를 함께 확인할 수 있습니다.
+農場管理では農場を追加・修正・削除できます。 また、農場に紐づいた圃場や所有者情報も一緒に確認することができます。
 
 ***
 
-#### 농장 관리 진입
+#### 農場管理へアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/farm-management-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-My Farm의 농장관리의 농장 탭을 누르면 농장 관리 진입이 완료됩니다.
+My Farmの農場管理から\[農場]タブをクリックすると、農場管理にアクセスできます。
 
 <figure><img src="../../.gitbook/assets/farm-management-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-농장 카드와 오른쪽 지도 화면에서 연결된 필드 갯수를 확인할 수 있습니다.
+農場カードと右の地図画面から、紐づいている圃場の数を確認できます。
 
 <img src="../../.gitbook/assets/number-of-fields-1.png" alt="" data-size="original">
 
@@ -32,23 +51,23 @@ My Farm의 농장관리의 농장 탭을 누르면 농장 관리 진입이 완�
 
 ***
 
-#### 농장 추가
+#### 農場の追加
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/add-button.svg) \[농장 추가 버튼]을 누릅니다.
+![](../../.gitbook/assets/add-button.svg) \[農場の追加ボタン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/add-farm-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[농장 추가하기 팝업]에서 내용을 입력하고 \[추가] 버튼을 누릅니다.
+\[農場の追加]ポップアップ上に内容を入力し、\[追加]を押します。
 
 <figure><img src="../../.gitbook/assets/add-farm-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-농장 추가가 완료됩니다.
+農場の追加が完了します。
 
 <figure><img src="../../.gitbook/assets/add-farm-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -56,29 +75,29 @@ My Farm의 농장관리의 농장 탭을 누르면 농장 관리 진입이 완�
 
 ***
 
-#### 농장 수정
+#### 農場の修正
 
 {% stepper %}
 {% step %}
-원하는 농장 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+ご希望の農場項目の ![](../../.gitbook/assets/ic_more.svg) アイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/farm-modification-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[수정]을 누릅니다.
+\[修正]をクリックします。
 
 <figure><img src="../../.gitbook/assets/farm-modification-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 내용을 수정하고 \[수정 완료]를 누릅니다.
+内容を修正し、\[修正完了]をクリックします。
 
 <figure><img src="../../.gitbook/assets/farm-modification-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-수정이 완료됩니다.
+修正が完了します。
 
 <figure><img src="../../.gitbook/assets/farm-modification-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -86,29 +105,29 @@ My Farm의 농장관리의 농장 탭을 누르면 농장 관리 진입이 완�
 
 ***
 
-#### 농장 삭제
+#### 農場の削除
 
 {% stepper %}
 {% step %}
-원하는 농장 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+ご希望の農場項目の ![](../../.gitbook/assets/ic_more.svg) アイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/delete-farm-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[삭제]를 누릅니다.
+\[削除]をクリックします。
 
 <figure><img src="../../.gitbook/assets/delete-farm-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[농장 삭제 팝업]에서 삭제를 누릅니다.
+\[農場の削除ポップアップ] から\[削除]をクリックします。
 
 <figure><img src="../../.gitbook/assets/delete-farm-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-농장 삭제가 완료됩니다.
+農場の削除が完了します。
 
 <figure><img src="../../.gitbook/assets/delete-farm-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

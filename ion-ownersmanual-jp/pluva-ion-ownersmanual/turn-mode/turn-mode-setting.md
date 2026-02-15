@@ -143,13 +143,13 @@ ABカーブモードでのみ使用でき、それ以外のモードでは無効
 {% step %}
 ターンの方向と細かい数値を設定し、\[次へ]をクリックします。
 
-<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 #### ターンパターン画面の説明
 
-<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **ターンのパターン**
 
