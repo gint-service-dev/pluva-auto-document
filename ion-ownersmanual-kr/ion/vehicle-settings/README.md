@@ -4,26 +4,26 @@
 
 차량의 정보와 제원을 확인·수정하고, 센서 보정, 차량 제어 설정, GNSS 수신기 위치 변경 등의 작업을 할 수 있습니다.
 
-{% content-ref url="../my-farm/farm-management.md" %}
-[farm-management.md](../my-farm/farm-management.md)
+{% content-ref url="entering-my-vehicle.md" %}
+[entering-my-vehicle.md](entering-my-vehicle.md)
 {% endcontent-ref %}
 
-{% content-ref url="../my-farm/farm-owner-management.md" %}
-[farm-owner-management.md](../my-farm/farm-owner-management.md)
+{% content-ref url="autostere-calibration.md" %}
+[autostere-calibration.md](autostere-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="../my-farm/field-add.md" %}
-[field-add.md](../my-farm/field-add.md)
+{% content-ref url="imu-calibration.md" %}
+[imu-calibration.md](imu-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="../my-farm/managing-field-information.md" %}
-[managing-field-information.md](../my-farm/managing-field-information.md)
+{% content-ref url="inertial-sensor-calibration.md" %}
+[inertial-sensor-calibration.md](inertial-sensor-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="../my-farm/headland-add.md" %}
-[headland-add.md](../my-farm/headland-add.md)
+{% content-ref url="vehicle-control-settings.md" %}
+[vehicle-control-settings.md](vehicle-control-settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="../my-farm/managing-headland-information.md" %}
-[managing-headland-information.md](../my-farm/managing-headland-information.md)
+{% content-ref url="gnss-receiver-setting.md" %}
+[gnss-receiver-setting.md](gnss-receiver-setting.md)
 {% endcontent-ref %}
