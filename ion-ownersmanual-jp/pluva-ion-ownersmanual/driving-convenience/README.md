@@ -4,12 +4,12 @@
 
 等間隔ラインを引っ張ってくる、作業幅の設定、走行画面の比率調整など、利便性を向上するための様々な機能を必要に応じてご利用できます。
 
-{% content-ref url="/broken/pages/Plkb2QBCVaxDS4C4za99" %}
-[Broken link](/broken/pages/Plkb2QBCVaxDS4C4za99)
+{% content-ref url="no.md" %}
+[no.md](no.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/fYBfxvvYTITdYl7ONRHb" %}
-[Broken link](/broken/pages/fYBfxvvYTITdYl7ONRHb)
+{% content-ref url="bringing-up-path.md" %}
+[bringing-up-path.md](bringing-up-path.md)
 {% endcontent-ref %}
 
 {% content-ref url="/broken/pages/ceib79wFc5ltP2qlnBTU" %}
