@@ -6,7 +6,7 @@
 
 * [사용 메뉴얼 정보](ion/user-manual-info.md)
 * [개요](ion/overview/README.md)
-  * [Pluva iON 소개](ion/overview/pluva-ion-introduction.md)
+  * [플루바 아이온 소개](ion/overview/pluva-ion-introduction.md)
   * [전동 스티어링 휠](ion/overview/electric-steering-wheel.md)
   * [GNSS 수신기](ion/overview/gnss-receiver.md)
   * [태블릿](ion/overview/tablet.md)
