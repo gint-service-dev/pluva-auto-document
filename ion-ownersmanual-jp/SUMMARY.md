@@ -41,6 +41,7 @@
   * [オートステア補正](pluva-ion-ownersmanual/vehicle-settings/autostere-calibration.md)
   * [ロール／ピッチ／ヨー補正](pluva-ion-ownersmanual/vehicle-settings/imu-calibration.md)
   * [慣性センサー矯正](pluva-ion-ownersmanual/vehicle-settings/sens.md)
+  * [車両の制御設定](pluva-ion-ownersmanual/vehicle-settings/vehicle-control-settings.md)
 * [네트워크 설정](pluva-ion-ownersmanual/network-settings/README.md)
   * [네트워크 설정 진입 및 화면 설명](pluva-ion-ownersmanual/network-settings/enter-network.md)
   * [위치 보정 설정](pluva-ion-ownersmanual/network-settings/rtk-setting.md)
