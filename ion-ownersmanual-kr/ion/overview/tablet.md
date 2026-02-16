@@ -191,6 +191,10 @@
 >
 > <img src="../../.gitbook/assets/status-lte-wifi.png" alt="" data-size="line">: 와이파이 연결
 
+{% hint style="warning" %}
+\*OTA(무선 소프트웨어 업데이트)와 엔터테인먼트(Youtube)사용 시 데이터 사용량이 많을 수 있습니다.  와이파이 또는 휴대폰 테더링을 연결하여 사용해야 합니다. 데이터 소진에 주의하세요.
+{% endhint %}
+
 
 
 3. 현재 작업 라인
