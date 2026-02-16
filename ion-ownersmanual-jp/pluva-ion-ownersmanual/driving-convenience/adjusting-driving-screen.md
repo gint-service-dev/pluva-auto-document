@@ -41,7 +41,7 @@
 {% endstep %}
 {% endstepper %}
 
-#### カメラビュー画面のご案内
+#### カメラビュー画面のご案内 <a href="#camera-on" id="camera-on"></a>
 
 <figure><img src="../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
 

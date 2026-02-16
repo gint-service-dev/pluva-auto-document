@@ -39,7 +39,7 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="pluva-ion-ownersmanual/user-manual-info.md">取扱説明書の情報</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>取扱説明書の情報</td><td><a href="/broken/pages/bGBUJA5L4X4C4rqR2w9p">Broken link</a></td></tr><tr><td>重要なお知らせ及び安全ガイド</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>取扱説明書の情報</td><td><a href="pluva-ion-ownersmanual/user-manual-info.md">user-manual-info.md</a></td></tr></tbody></table>
 
 </details>
 

@@ -32,7 +32,7 @@ ABラインを生成した状態で <img src="../../.gitbook/assets/drive-functi
 
 {% hint style="info" %}
 保存された経路は経路の取り込み機能を通じてご利用できます。\
-詳細につきましては、経路の取り込みをご参照ください。
+詳細につきましては、[経路の取り込み](bringing-up-path.md)をご参照ください。
 
 <img src="../../.gitbook/assets/save-path-bringing-in.png" alt="" data-size="original">
 {% endhint %}
