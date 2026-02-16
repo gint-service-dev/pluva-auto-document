@@ -1,7 +1,7 @@
-# 제원 정보
+# 仕様情報
 
-### 제원 정보
+### 仕様情報
 
-구성품별 주요 사양은 아래와 같습니다. 제품 사양은 성능 개선을 위해 사전 예고 없이 변경될 수 있습니다.
+構成品ごとの主な仕様は以下の通りです。 製品仕様は性能向上のため、予告なく変更される場合がございます。
 
 <figure><img src="../../.gitbook/assets/specification-information.png" alt=""><figcaption></figcaption></figure>

@@ -1,8 +1,8 @@
 # お客様サポート
 
-### 고객지원
+### カスタマーサポート
 
-플루바 아이온 사용 중 발생하는 문제를 빠르게 해결하고, 점검·수리·교환 기준과 접수 방법을 안내합니다.
+プルバアイオンのご利用中に発生する問題を迅速に解決し、点検・修理・交換の基準と受付方法をご案内いたします。
 
 {% content-ref url="/broken/pages/X5qDbgfURP0gixpoV7Eq" %}
 [Broken link](/broken/pages/X5qDbgfURP0gixpoV7Eq)

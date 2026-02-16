@@ -1,11 +1,26 @@
-# 개인정보 처리 방침
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 개인정보 처리 방침
+# 個人情報処理方針
 
-플루바 아이온은 서비스 제공을 위해 필요한 범위에서 개인정보를 처리하며, 관련 법령과 내부 기준에 따라 안전하게 관리합니다.&#x20;
+### 個人情報処理方針
 
-자세한 내용은 아래 링크에서 개인정보 처리방침 전문을 확인하세요.
+フルバアイオンはサービス提供に必要な範囲で個人情報を処理し、関連法令および社内基準に従って安全に管理します。 詳細は下記リンクからプライバシーポリシー全文をご確認ください。<br>
 
-
-
-* [**개인정보 처리방침 확인하기 >**](https://pluva.jp/pluva_ion/privacy-policy/)
+* [個人情報処理方針を確認する >](https://pluva.jp/pluva_ion/privacy-policy/)

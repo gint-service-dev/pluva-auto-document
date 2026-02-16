@@ -1,34 +1,34 @@
-# 네트워크 설정
+# ネットワーク設定
 
-### 네트워크 설정
+### ネットワーク設定
 
-태블릿 네트워크를 Wi-Fi 또는 셀룰러(LTE)로 연결합니다. 네트워크가 불안정하면 위치 보정 신호 수신이 끊길 수 있으므로, 작업 전 연결 상태를 먼저 확인하세요. 연결이 불안정한 경우 APN 설정을 확인하거나 다른 네트워크로 전환합니다.
+タブレットのネットワークをWi-Fiまたはセルラー通信に接続します。ネットワークが不安定になると位置補正信号の受信が途切れる恐れがありますので、作業前に接続状態を先に確認してください。接続が不安定な場合は、APN設定を確認するか、別のネットワークに切り替えて接続してください。
 
 ***
 
-#### 네트워크 설정 접근 방법
+#### ネットワーク設定へのアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../.gitbook/assets/ic_menu.svg) メニュー一覧のアイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/network-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[네트워크 설정]을 누릅니다.
+\[ネットワーク設定]をクリックします。
 
 <figure><img src="../../.gitbook/assets/network-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-네트워크 항목을 누릅니다.
+ネットワーク項目をクリックします。
 
 <figure><img src="../../.gitbook/assets/network-settings-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-네트워크 설정 팝업에서 원하는 옵션을 설정합니다.
+ネットワーク設定のポップアップから、ご希望のオプションを設定してください。
 
 <figure><img src="../../.gitbook/assets/network-settings-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -36,39 +36,40 @@
 
 ***
 
-#### 셀룰러(LTE) 연결
+#### セルラー接続
 
-셀룰러는 태블릿에 삽입된 유심(USIM)을 통해 이동통신망으로 인터넷에 연결하는 방식입니다.
+セルラー通信とは、タブレットに挿入されたSIMカードを使用して、移動通信ネットワーク経由でインターネットに接続する通信方式です。
 
 {% hint style="info" %}
-작업 중 이동이 많아도 연결이 비교적 안정적이므로, 정밀 작업(RTK 등)에는 셀룰러 사용을 권장합니다.
+移動の多い作業中でも比較的安定した接続を保てるので、精密作業（RTKなど）にはセルラー通信のご使用をおすすめします。
 {% endhint %}
 
 {% hint style="info" %}
-요금제/데이터 사용량에 따라 비용이 발생할 수 있으니 작업 전 유심 상태와 사용 가능 기간을 확인합니다.
+料金プランやデータ使用量によって費用が発生することがありますので、作業前にSIMカードの状態や使用期限をご確認ください。
 {% endhint %}
 
 {% stepper %}
 {% step %}
-셀룰러 토글을 켭니다.
+セルラーをオンにします。
 
 <figure><img src="../../.gitbook/assets/cellular-connection-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-APN을 자동으로 설정해 연결합니다.
+APNが自動で設定および接続されます。
 
 <figure><img src="../../.gitbook/assets/cellular-connection-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-연결 완료 후 \[확인]을 누르면 셀룰러 설정이 완료됩니다.
+接続完了後、\[確認]をクリックするとセルラー設定が完了します。
 
 <figure><img src="../../.gitbook/assets/cellular-connection-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-자동 연결이 되지않는 경우 \[APN 수동 연결]을 진행합니다.\
-입력에 필요한 APN 정보는 유심(USIM) 제공 자료(또는 통신사 안내)를 참고합니다.
+自動で接続できない場合は、\[APNの手動接続]を行ってください。\
+入力に必要なAPN情報は、SIMカードからの提供資料（または、通信会社の案内）\
+をご参照ください。
 
 <img src="../../.gitbook/assets/Manual-apn.png" alt="" data-size="original">
 {% endhint %}
@@ -77,44 +78,44 @@ APN을 자동으로 설정해 연결합니다.
 
 ***
 
-#### Wi-Fi 연결
+#### Wi-Fi接続
 
-Wi-Fi는 주변의 무선 공유기 또는 스마트폰 테더링에 연결해 인터넷을 사용하는 방식입니다.
+Wi-Fiは周辺の無線LANルーターやスマートフォンのテザリングに接続して、インターネットを使用する通信方式です。
 
 {% hint style="info" %}
-환경에 따라 신호가 약하거나 범위를 벗어나면 연결이 끊길 수 있어, 실내 테스트나 제한된 작업 구간에서 사용을 권장합니다.
+周辺の環境によっては、信号が弱くなったり通信範囲を外れることで接続が切断される場合がありますので、屋内でのテストや作業範囲が限られた環境での使用をおすすめします。
 {% endhint %}
 
 {% hint style="info" %}
-테더링 사용 시 스마트폰 배터리 소모와 데이터 사용량이 늘 수 있으니 작업 전 충전 상태와 절전 설정을 확인합니다.
+テザリングを使用する場合、スマートフォンのバッテリー消費やデータ使用量が増えることがありますので、作業前に充電状態や省電力設定を確認してください。
 {% endhint %}
 
 {% stepper %}
 {% step %}
-\[Wi-Fi] 탭을 누릅니다.
+\[Wi-Fi]タブをクリックします。
 
 <figure><img src="../../.gitbook/assets/wi-fi-connection-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Wi-Fi 토글을 켭니다.
+Wi-Fiをオンにします。
 
 <figure><img src="../../.gitbook/assets/wi-fi-connection-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-연결할 Wi-Fi를 선택합니다.
+接続したいWi-Fiを選択します。
 
 <figure><img src="../../.gitbook/assets/wi-fi-connection-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Wi-Fi 연결이 완료됩니다.
+Wi-Fi接続が完了します。
 
 <figure><img src="../../.gitbook/assets/wi-fi-connection-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Wi-Fi 범위를 벗어나면 연결이 끊길 수 있습니다.
+Wi-Fiの通信範囲外になると、接続が切断される恐れがあります。
 {% endhint %}
 {% endstep %}
 {% endstepper %}
