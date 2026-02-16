@@ -53,56 +53,72 @@ PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客�
 
 <details>
 
+<summary><a href="pluva-ion-ownersmanual/initial-setup/">初期設定方法</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ソフトウェアアップデート（OTA）</td><td><a href="pluva-ion-ownersmanual/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
 <summary><a href="pluva-ion-ownersmanual/driving/">走行モード(経路のプランニング)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路のプランニングの設定方法</td><td><a href="pluva-ion-ownersmanual/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB直進</td><td><a href="pluva-ion-ownersmanual/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+直進</td><td><a href="pluva-ion-ownersmanual/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>四角形走行</td><td><a href="pluva-ion-ownersmanual/driving/square-drive.md">square-drive.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路のプランニングの設定方法</td><td><a href="pluva-ion-ownersmanual/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB直進</td><td><a href="pluva-ion-ownersmanual/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+直進</td><td><a href="pluva-ion-ownersmanual/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>四角形走行</td><td><a href="pluva-ion-ownersmanual/driving/square-drive.md">square-drive.md</a></td></tr><tr><td>自動経路（Pluva AI）</td><td><a href="pluva-ion-ownersmanual/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="pluva-ion-ownersmanual/turn-mode/">Uターンモード</a></summary>
+<summary><a href="pluva-ion-ownersmanual/turn-mode/">ターンモード</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Uターンの設定方法</td><td><a href="pluva-ion-ownersmanual/turn-mode/turn-mode-setting.md">turn-mode-setting.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="pluva-ion-ownersmanual/driving-convenience/">走行の便宜を図るための機能</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>주행 화면 설명</td><td><a href="/broken/pages/9x3bERDMlXIE8hoWqcxl">Broken link</a></td></tr><tr><td>오토플래닝</td><td><a href="/broken/pages/tFVxXIvqJwGsUJYX1vzo">Broken link</a></td></tr><tr><td>유턴</td><td><a href="/broken/pages/UYpY3W9JdtYePmrKfwXG">Broken link</a></td></tr><tr><td>경로 불러오기</td><td><a href="/broken/pages/rkMHVZqTzTQSANfl8HSh">Broken link</a></td></tr><tr><td>주행 편의 기능</td><td><a href="/broken/pages/p2m6K6mwaVmdHqQi98Qv">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ターンの設定方法</td><td><a href="pluva-ion-ownersmanual/turn-mode/turn-mode-setting.md">turn-mode-setting.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="/broken/pages/MKAs4Z56PvveLkWarYEK">My農場管理</a></summary>
+<summary><a href="pluva-ion-ownersmanual/driving-convenience/">走行の利便性を向上するための機能</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="/broken/pages/0DC1mFjH9fDFc4nNa5N2">Broken link</a></td></tr><tr><td>필드 관리</td><td><a href="/broken/pages/1yoy90Ee4M2uWDoEaqmM">Broken link</a></td></tr><tr><td>헤드랜드 관리</td><td><a href="/broken/pages/OvNEfUoHcQuNNp4FKCLX">Broken link</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="/broken/pages/ZuqLwg8QS7Wf46JEhnPi">車両、作業機の管理</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>차량 관리</td></tr><tr><td>작업기 관리</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路の保存</td><td><a href="pluva-ion-ownersmanual/driving-convenience/no.md">no.md</a></td></tr><tr><td>経路の取り込み</td><td><a href="pluva-ion-ownersmanual/driving-convenience/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>経路の共有</td><td><a href="pluva-ion-ownersmanual/driving-convenience/path-sharing.md">path-sharing.md</a></td></tr><tr><td>経路のリセット及び削除</td><td><a href="pluva-ion-ownersmanual/driving-convenience/delete-path.md">delete-path.md</a></td></tr><tr><td>等間隔に関する便利な機能</td><td><a href="pluva-ion-ownersmanual/driving-convenience/equal-interval.md">equal-interval.md</a></td></tr><tr><td>走行画面の調整</td><td><a href="pluva-ion-ownersmanual/driving-convenience/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="/broken/pages/cPy16z59lIOsIvwJb163">ネットワーク設定</a></summary>
+<summary><a href="pluva-ion-ownersmanual/myfarm/">My農場管理</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>RTK 설정</td></tr><tr><td>네트워크 설정</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>農場管理</td><td><a href="pluva-ion-ownersmanual/myfarm/farm-management.md">farm-management.md</a></td></tr><tr><td>農場主の管理</td><td><a href="pluva-ion-ownersmanual/myfarm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>圃場の登録</td><td><a href="pluva-ion-ownersmanual/myfarm/field-add.md">field-add.md</a></td></tr><tr><td>圃場情報の修正/削除</td><td><a href="pluva-ion-ownersmanual/myfarm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>枕地の登録</td><td><a href="pluva-ion-ownersmanual/myfarm/headland-add.md">headland-add.md</a></td></tr><tr><td>枕地情報の修正/削除</td><td><a href="pluva-ion-ownersmanual/myfarm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="/broken/pages/TnXev0rosFm3P2TrCpzH">お客様サポート</a></summary>
+<summary><a href="pluva-ion-ownersmanual/vehicle-settings/">車両管理</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>면책 조항</td><td><a href="/broken/pages/Lo5gNh5Aws5HB1eSzicC">Broken link</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="/broken/pages/WIoY3CCBpBhanBnekj0s">Broken link</a></td></tr><tr><td>제원 정보</td><td><a href="/broken/pages/ZYkNBXf2Czkgp032PJf0">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>My車両へのアクセスおよび画面のご案内</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>オートステア補正</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>ロール／ピッチ／ヨー補正</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>慣性センサー矯正</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/sens.md">sens.md</a></td></tr><tr><td>車両の制御設定</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS受信機の設定</td><td><a href="pluva-ion-ownersmanual/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="pluva-ion-ownersmanual/workstation-management/">作業機の管理</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>作業機リストへのアクセス及び画面のご案内</td><td><a href="pluva-ion-ownersmanual/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>作業機の追加</td><td><a href="pluva-ion-ownersmanual/workstation-management/add-worker.md">add-worker.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="pluva-ion-ownersmanual/network-settings/">ネットワーク設定</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ネットワーク設定へのアクセスおよび画面のご案内</td><td><a href="pluva-ion-ownersmanual/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>位置補正の設定</td><td><a href="pluva-ion-ownersmanual/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>ネットワーク設定</td><td><a href="pluva-ion-ownersmanual/network-settings/">network-settings</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="pluva-ion-ownersmanual/consumer-info/">お客様サポート</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>トラブルシューティング</td><td><a href="pluva-ion-ownersmanual/consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>整備</td><td><a href="pluva-ion-ownersmanual/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>個人情報処理方針</td><td><a href="pluva-ion-ownersmanual/consumer-info/privacy-policy.md">privacy-policy.md</a></td></tr><tr><td>仕様情報</td><td><a href="pluva-ion-ownersmanual/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
 </details>
