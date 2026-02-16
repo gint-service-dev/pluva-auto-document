@@ -1,34 +1,34 @@
 # 枕地情報の修正/削除
 
-### 헤드랜드 정보 관리
+### 枕地情報の管理
 
-헤드랜드 정보 관리에서는 등록된 헤드랜드의 정보를 수정하거나 삭제할 수 있습니다.  거리, 개수, 위치 조정 값 등을 작업 환경에 맞게 변경해 적용할 수 있습니다.
+枕地情報の管理では、登録された枕地の情報を修正または削除することができます。距離、個数、位置調整値などを作業環境に合わせて変更して適用することができます。
 
 ***
 
-#### 헤드랜드 정보 관리 기능 진입
+#### 枕地情報の管理機能へアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-My Farm의 헤드랜드 항목을 누릅니다.
+My Farmの枕地項目をクリックします。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 헤드랜드 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+ご希望の枕地項目の ![](../../.gitbook/assets/ic_more.svg) アイコンを押します。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-팝업창에서 원하는 관리 기능을 선택합니다.
+ポップアップからご希望の管理機能を選択します。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -36,23 +36,23 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 ***
 
-#### 헤드랜드 정보 수정
+#### 枕地情報の修正
 
 {% stepper %}
 {% step %}
-\[수정] 옵션을 선택합니다..
+\[修正]オプションを選択します。
 
 <figure><img src="../../.gitbook/assets/modifying-headland-information-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-수정할 정보를 입력한 뒤 \[수정 완료]를 누릅니다.
+修正したい内容を入力し、\[修正完了]をクリックします。
 
 <figure><img src="../../.gitbook/assets/modifying-headland-information-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-헤드랜드 정보 수정이 완료됩니다.
+枕地情報の修正が完了します。
 
 <figure><img src="../../.gitbook/assets/modifying-headland-information-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -60,23 +60,23 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 ***
 
-#### 헤드랜드 정보 삭제
+#### 枕地情報の削除
 
 {% stepper %}
 {% step %}
-\[삭제]옵션을 누릅니다.
+\[削除]オプションをクリックします。
 
 <figure><img src="../../.gitbook/assets/delete-headland-information-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[삭제]버튼을 누릅니다.
+\[削除]ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/delete-headland-information-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-삭제가 완료됩니다.
+削除が完了します。
 
 <figure><img src="../../.gitbook/assets/delete-headland-information-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

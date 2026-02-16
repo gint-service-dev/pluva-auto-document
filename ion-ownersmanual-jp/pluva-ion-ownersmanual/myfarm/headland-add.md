@@ -1,42 +1,42 @@
 # 枕地の登録
 
-### 헤드랜드 등록
+### 枕地の登録
 
-**헤드랜드는 무엇인가요?**
+枕地とは？
 
-> 헤드랜드는 필드 가장자리에서 안전하게 회전하거나 작업기를 조작할 수 있도록 확보하는 여유 구간입니다.  필드 경계에서 설정한 거리만큼 안쪽으로 만들어지며, 작업 환경에 맞춰 폭(거리)을 조정할 수 있습니다.
+> 枕地は、圃場の端で安全に回転したり、作業機を操作できるよう確保する余裕区間のことです。圃場の境界から設定した距離だけ内側に作られ、作業環境に合わせて幅（距離）を調整できます。
 
 ***
 
-#### 헤드랜드 등록 진입
+#### 枕地の登録へアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/headland-registration-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-My Farm의 헤드랜드 항목을 누릅니다.
+My Farmの枕地項目をクリックします。
 
 <figure><img src="../../.gitbook/assets/headland-registration-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/add-button.svg) 헤드랜드 생성 버튼을 누릅니다.
+![](../../.gitbook/assets/add-button.svg) 枕地の生成ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/headland-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 설정 옵션을 선택하고 확인을 누르면 헤드랜드 생성이 시작됩니다.
+ご希望の設定オプションを選択し確認を押すと、枕地の生成が始まります。
 
 <figure><img src="../../.gitbook/assets/headland-registration-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-헤드랜드 설정 모달에서 세부 설정을 입력 후 \[확인]을 누르면 헤드랜드 생성이 완료됩니다.
+枕地の設定モーダルから詳細設定を入力し、\[確認]をクリックすると　枕地の生成が完了します。
 
 <figure><img src="../../.gitbook/assets/headland-registration-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -44,122 +44,124 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 ***
 
-#### 헤드랜드 설정 옵션
+#### 枕地の設定オプション
+
+様々な圃場や状況に合わせて、複数の枕地設定オプションをご提供します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/headland-settings-options.png" alt="" width="453"><figcaption></figcaption></figure></div>
 
-#### 헤드랜드 표시 라인 설명
+#### 枕地の表示ラインのご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/headland-display-line.png" alt="" width="291"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/boundary.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1.svg) **필드 경계 오프셋 표시선**
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **圃場の境界オフセットの表示ライン**
 
-* 붉은 실선으로 표시됩니다.
+* 赤の実線で表示されます。
 
-&#x20;![](../../.gitbook/assets/icon-square-2.svg) **필드 경계선**
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) **圃場の境界線**
 
-* 흰 실선으로 표시됩니다.
+* 白の実線で表示されます。
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 표시선**
+&#x20;![](../../.gitbook/assets/icon-square-3.svg) **枕地の表示ライン**
 
-* 흰 점선으로 표시됩니다.
+* 白の点線で表示されます。
 
 ***
 
-#### 전체 헤드랜드
+#### 枕地全体
 
-모든 방향에 동일한 헤드랜드 적용합니다. 빠르고 간단한 설정이 가능합니다.
+すべての方向に同じ枕地を適用します。素早く簡単に設定できます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-**전체 헤드랜드 설정 모달**
+**枕地全体の設定モーダル**
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1.svg) **필드 선택**
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
-* 적용할 헤드랜드 필드를 선택합니다.
+* 適用する枕地の圃場を選択します。
 
-&#x20;![](../../.gitbook/assets/icon-square-2.svg) **헤드랜드 이름**
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
-* 구분할 헤드랜드 이름을 표기합니다.
+* 区分するための枕地名を記入します。
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 거리**
+&#x20;![](../../.gitbook/assets/icon-square-3.svg) **枕地の長さ**
 
-* 헤드랜드 거리를 수치로 조정합니다.
+* 枕地の長さを数値で調整します。
   * ![](../../.gitbook/assets/full-headland-street.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
+&#x20;![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
 
-* 헤드랜드 갯수를 조정합니다.
-  * 헤드랜드 1개 설정 시\
+* 枕地の数を調整します。
+  * 枕地を1つに設定する場合\
     ![](../../.gitbook/assets/full-headland-setting-one-headland.png)
-  * 헤드랜드 2개 설정 시\
+  * 枕地を2つに設定する場合\
     ![](../../.gitbook/assets/full-headland-setting-two-headland.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-5.svg) **필드 경계 오프셋**
+&#x20;![](../../.gitbook/assets/icon-square-5.svg) **圃場の境界オフセット**
 
-* 수치로 필드 경계를 조정합니다. On/off로 끄고 킬 수 있으며\
-  +는 바깥쪽, -는 안쪽으로 이동합니다.
-  * +로 수치 설정 시\
+* 数値で圃場の境界を調整します。\
+  オン/オフでき、＋は外側、－は内側に移動します。
+  * ＋で設定した場合\
     ![](../../.gitbook/assets/full-headland-plus-when-setting.png)
-  * -로 수치 설정 시\
+  * －で設定した場合\
     ![](../../.gitbook/assets/full-headland-minus-when-setting.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6.svg) **작업기**
+&#x20;![](../../.gitbook/assets/icon-square-6.svg) **作業機**
 
-* 작업할 작업기를 선택합니다.
+* 作業する作業機を選択します。
 
-&#x20;![](../../.gitbook/assets/icon-square-7.svg) **메모**
+&#x20;![](../../.gitbook/assets/icon-square-7.svg) **メモ**
 
-* 추가적인 정보를 메모로 남깁니다.
+* メモに追加情報を残します。
 
 ***
 
-#### 부분 헤드랜드
+#### 一部の枕地
 
-필요한 구간만 선택해서 헤드랜드를 생성합니다. 위험 구간만 안전하게, 나머지는 최대 작업 면적 확보할 수 있습니다.
+必要な区間のみを選択して枕地を生成します。危険エリアのみ安全に注意して生成し、残りは最大作業面積を確保できます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
-**부분 헤드랜드 설정 모달**
+**一部の枕地の設定モーダル**
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal.png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1.svg) **필드 선택**
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
-* 적용할 헤드랜드 필드를 선택합니다.
+* 適用する枕地の圃場を選択します。
 
-&#x20;![](../../.gitbook/assets/icon-square-2.svg) **헤드랜드 이름**
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
-* 구분할 헤드랜드 이름을 표기합니다.
+* 区分するための枕地名を記入します。
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **작업기**
+&#x20;![](../../.gitbook/assets/icon-square-3.svg) **作業機**
 
-* 작업할 작업기를 선택합니다.
+* 作業する作業機を選択します。
 
-&#x20;![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
+&#x20;![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
 
-* 헤드랜드 갯수를 조정합니다.
-  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 번의 헤드랜드 1개 설정 시\
+* 枕地の数を調整します。枕地全体とは異なり、各面の枕地の数を調整できます。
+  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> に枕地を1つ設定時\
     ![](../../.gitbook/assets/partial-headland-setting-one-headland.png)
-  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 번의 헤드랜드 3개 설정 시\
+  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> に枕地を3つ設定時\
     ![](../../.gitbook/assets/partial-headland-setting-three-headland.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-5.svg) **헤드랜드 거리**
+&#x20;![](../../.gitbook/assets/icon-square-5.svg) **枕地の長さ**
 
-* 헤드랜드 거리를 수치로 조정합니다.
+* 枕地の長さを数値で調整します。
   * ![](../../.gitbook/assets/partial-headland-street.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6.svg) **필드 경계 오프셋**
+&#x20;![](../../.gitbook/assets/icon-square-6.svg) **圃場の境界オフセット**
 
-* 수치로 필드 경계를 조정합니다. On/off로 끄고 킬 수 있으며\
-  +는 바깥쪽, -는 안쪽으로 이동합니다.
-  * +로 수치 설정 시\
+* 数値で圃場の境界を調整します。\
+  オン/オフでき、＋は外側、－は内側に移動します。
+  * ＋で設定した場合\
     ![](../../.gitbook/assets/partial-headland-plus-when-setting.png)
-  * -로 수치 설정 시\
+  * －で設定した場合\
     ![](../../.gitbook/assets/partial-headland-minus-when-setting.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-7.svg) **메모**
+&#x20;![](../../.gitbook/assets/icon-square-7.svg) **メモ**
 
-* 추가적인 정보를 메모로 남깁니다.
+* メモに追加情報を残します。
