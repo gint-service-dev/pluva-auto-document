@@ -35,8 +35,8 @@ layout:
 [imu-calibration.md](imu-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="sens.md" %}
-[sens.md](sens.md)
+{% content-ref url="inertial-sensor-calibration.md" %}
+[inertial-sensor-calibration.md](inertial-sensor-calibration.md)
 {% endcontent-ref %}
 
 {% content-ref url="vehicle-control-settings.md" %}

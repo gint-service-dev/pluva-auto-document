@@ -40,7 +40,7 @@
   * [My車両へのアクセスおよび画面のご案内](pluva-ion-ownersmanual/vehicle-settings/entering-my-vehicle.md)
   * [オートステア補正](pluva-ion-ownersmanual/vehicle-settings/autostere-calibration.md)
   * [ロール／ピッチ／ヨー補正](pluva-ion-ownersmanual/vehicle-settings/imu-calibration.md)
-  * [慣性センサー矯正](pluva-ion-ownersmanual/vehicle-settings/sens.md)
+  * [慣性センサー矯正](pluva-ion-ownersmanual/vehicle-settings/inertial-sensor-calibration.md)
   * [車両の制御設定](pluva-ion-ownersmanual/vehicle-settings/vehicle-control-settings.md)
   * [GNSS受信機の設定](pluva-ion-ownersmanual/vehicle-settings/gnss-receiver-setting.md)
 * [作業機の管理](pluva-ion-ownersmanual/workstation-management/README.md)
