@@ -11,7 +11,7 @@ metaLinks:
 태블릿과 GNSS 수신기와의 연결 상태를 확인하는 단계입니다.
 
 {% hint style="info" %}
-설정된 값은 태블릿의 [GNSS 수신기 설정](../../undefined-1/vehicle-settings/gnss-receiver-setting.md)에서 확인하고 변경할 수 있습니다.
+설정된 값은 태블릿의 [GNSS 수신기 설정](../../usage/vehicle-settings/gnss-receiver-setting.md)에서 확인하고 변경할 수 있습니다.
 {% endhint %}
 
 ***

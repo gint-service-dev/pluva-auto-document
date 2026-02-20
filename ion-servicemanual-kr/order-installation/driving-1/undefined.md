@@ -21,7 +21,7 @@ metaLinks:
 2. Wi-Fi
 
 {% hint style="info" %}
-태블릿의 [네트워크 설정](../../undefined-1/network-settings/)에서 네트워크 상태를 확인하고 설정을 변경할 수 있습니다.
+태블릿의 [네트워크 설정](../../usage/network-settings/)에서 네트워크 상태를 확인하고 설정을 변경할 수 있습니다.
 {% endhint %}
 
 ***
