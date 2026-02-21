@@ -9,7 +9,7 @@
 ![](../../.gitbook/assets/icon-circle-1.svg) 상태
 
 * 기능
-  * 측위 시스템 상태 표기
+  * 시스템 상태 표기
 * 상태
   * 기본 - 미점등
   * GPS 신호 우수 - 초록 점등
@@ -17,7 +17,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-2.svg) 멀티펑션 기능
+![](../../.gitbook/assets/icon-circle-2.svg) 즐겨찾기
 
 * 기능
   * 즐겨찾기 기능

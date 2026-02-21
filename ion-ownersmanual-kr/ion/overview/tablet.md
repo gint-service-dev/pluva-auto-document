@@ -2,7 +2,8 @@
 
 ### 태블릿
 
-태블릿은 자율주행 시스템의 디스플레이입니다. 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행하며, 실시간 위치/주행 정보/오류 상태를 확인할 수 있습니다.
+자율주행 시스템을 제어하기 위한 디스플레이 장치입니다.\
+작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정을 수행하며, 실시간 위치 정보, 주행 정보 및 오류 상태를 화면에 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1 (1).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -51,7 +52,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-7.svg) 멀티펑션(즐겨찾기)
+![](../../.gitbook/assets/icon-circle-7.svg) 즐겨찾기
 
 * 고객이 자주 사용하는 기능을 즐겨찾기로 설정하고, 버튼을 누르면 해당 기능으로 이동합니다.
 
@@ -66,6 +67,8 @@
 ***
 
 #### 터치스크린 구성
+
+그림은 개념적 이해를 돕기 위해서만 제공됩니다. 제품의 옵션, 소프트웨어 버전, 판매 지역, 지역 및 언어 설정에 따라 화면에 표시되는 세부 정보가 다를 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/touchscreen.png" alt=""><figcaption></figcaption></figure>
 
@@ -97,7 +100,7 @@
 
 ![](../../.gitbook/assets/icon-circle-7.svg) 홈
 
-* 현재 화면과 관계없이 주행 화면(기본 화면)으로 이동합니다.
+* 주행 화면(기본 화면)으로 이동합니다.
 
 ![](../../.gitbook/assets/icon-circle-8.svg) 차량
 
@@ -120,7 +123,7 @@
 
 ![](../../.gitbook/assets/icon-circle-12.svg) 작업 옵션
 
-* 작업중, 유턴 모드, 경로 불러오기, 경로 리셋 등 작업 중 필요한 보조 기능을 제공합니다. 작업 방식 설정과 경로 관련 기능을 빠르게 사용할 수 있습니다.
+* 유턴 모드, 경로 불러오기, 경로 리셋 등 작업 중 필요한 보조 기능을 제공합니다. 작업 방식 설정과 경로 관련 기능을 빠르게 사용할 수 있습니다.
 
 ![](../../.gitbook/assets/icon-circle-13.svg) 엔터테인먼트
 
@@ -192,7 +195,7 @@
 > <img src="../../.gitbook/assets/status-lte-wifi.png" alt="" data-size="line">: 와이파이 연결
 
 {% hint style="warning" %}
-\*OTA(무선 소프트웨어 업데이트)와 엔터테인먼트(Youtube)사용 시 데이터 사용량이 많을 수 있습니다.  와이파이 또는 휴대폰 테더링을 연결하여 사용해야 합니다. 데이터 소진에 주의하세요.
+OTA(무선 소프트웨어 업데이트) 및 엔터테인먼트(Youtube) 이용 시 데이터 사용량이 극히 많아 기본제공 데이터가 모두 소진될 수 있습니다. 데이터 초과 과금을 방지하기 위해 반드시 와이파이 또는 휴대폰 테더링을 연결하여 사용하십시오.
 {% endhint %}
 
 

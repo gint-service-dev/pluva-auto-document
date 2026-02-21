@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Pluva iON 소개
+# 플루바 아이온 소개
 
 ### Pluva iON 소개
 
@@ -34,7 +34,7 @@ layout:
 제품을 구입하시면 다음과 같은 구성물을 제공하고 있으니 반드시 확인하세요.\
 제품의 구성물 중 일부는 모델 타입에 따라 외관 및 색상이 그림과 다를 수 있습니다.
 
-
+제품 구성은 제조사의 정책에 따라 예고 없이 변경될 수 있으며, 국가별로 상이할 수 있습니다.
 
 #### 플루바 아이온
 
@@ -100,7 +100,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/camera-description.png" alt=""><figcaption></figcaption></figure>
 
-주변 환경을 모니터링하기 위해 트랙터 뒤쪽 상부에 카메라를 설치하며, 후방 작업 상황을 확인할 수 있습니다.
+후방을 모니터링하기 위해 농기계 뒤쪽 상부에 카메라를 설치하며, 후방 작업 상황을 실시간으로 확인할 수 있습니다.
 
 자세한 내용은 [카메라](camera.md)를 참조해주세요.
 {% endcolumn %}
@@ -121,8 +121,14 @@ layout:
 
 ***
 
-### 농기계 듀얼 사용법(Expansion Kit)
+### 확장 키트(Expansion Kit) 사용법
 
-트랙터 및 이앙기에 모두 장착 가능하며, 필요에 따라 농기계 간 탈착 및 이동이 가능합니다.
+확장 키트를 통해 ‘태블릿’하나로 여러대의 농기계에서 자율주행을 사용할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+\[Expansion Kit]\
+태블릿을 제외한 경제적인 확장형 제품입니다.\
+GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 주문 전, 플루바 아이온 태블릿을 보유하고 있는지 확인이 필요합니다.
+{% endhint %}
