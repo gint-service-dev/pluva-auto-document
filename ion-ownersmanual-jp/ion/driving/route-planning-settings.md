@@ -14,7 +14,7 @@ AB直進
 
 A+直進
 
-* A点を基準として設定した角度の斜め直線経路で走行します。
+* A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 

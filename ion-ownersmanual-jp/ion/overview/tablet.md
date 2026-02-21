@@ -49,7 +49,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-7.svg) **マルチ機能（お気に入り）**
+![](../../.gitbook/assets/icon-circle-7.svg) **お気に入り機能**
 
 * お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。
 
@@ -64,6 +64,10 @@
 ***
 
 #### タッチスクリーンの構成
+
+{% hint style="info" %}
+備考：図は概念的な理解を助けるためのイメージです。製品のオプション、ソフトウェアのバージョン、販売地域、地域および言語の設定により、画面に表示される詳細情報が実際とは異なる場合があります。
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/touchscreen.png" alt=""><figcaption></figcaption></figure>
 
@@ -95,7 +99,7 @@
 
 ![](../../.gitbook/assets/icon-circle-7.svg) **ホーム**
 
-* 現在の画面と関係なく走行画面（基本画面）に移動します。
+* 走行画面（基本画面）に移動します。
 
 ![](../../.gitbook/assets/icon-circle-8.svg) **車両**
 
@@ -116,7 +120,7 @@
 
 ![](../../.gitbook/assets/icon-circle-12.svg) **作業オプション**
 
-* 作業中、Uターンモード、経路の取り込み、経路のリセットなど、作業中に必要な補助機能をご提供します。 作業方法の設定や経路に関する機能を速やかに使用できます。
+* ターンモード、経路の取り込み、経路のリセットなど、作業中に必要な補助機能をご提供します。 作業方法の設定や経路に関する機能を速やかに使用できます。
 
 ![](../../.gitbook/assets/icon-circle-13.svg) **エンターテインメント**
 
@@ -191,7 +195,7 @@
 > <img src="../../.gitbook/assets/status-lte-wifi.png" alt="" data-size="line">: Wi-Fi接続
 
 {% hint style="warning" %}
-OTA（無線ソフトウェアアップデート）やエンターテインメント（YouTube等）のご利用は、データ通信量が多くなる場合があります。Wi-Fiまたはスマートフォンのテザリングに接続してご利用ください。データ通信量の超過にご注意ください。
+OTA（無線ソフトウェアアップデート）および（Youtube）の利用時は、データ通信量が非常に多くなるため、基本データ容量を使い切る 恐れがあります。データの追加課金を防ぐため、必ずWi-Fiまたはスマートフォンのテザリングに接続してご利用ください。
 {% endhint %}
 
 3. **現在の作業ライン**

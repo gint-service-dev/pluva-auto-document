@@ -17,7 +17,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-2.svg) **マルチ機能**
+![](../../.gitbook/assets/icon-circle-2.svg) **お気に入り機能**
 
 * 機能
   * お気に入り機能

@@ -6,7 +6,7 @@ A+直進は、排水・日照・傾斜など、作業方向が重要となる現
 
 A+直進
 
-* A点を基準に設定した角度の斜め直線経路で走行します。
+* A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
