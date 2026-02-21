@@ -6,7 +6,7 @@ A+직진은 배수·일조·경사처럼 방향이 중요한 작업에 유용합
 
 A+직진
 
-* A점을 기준으로 설정한 각도의 대각선 직선 경로로 주행합니다.
+* A점을 기준으로 설정한 각도의 직선경로를 생성하여 주행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
