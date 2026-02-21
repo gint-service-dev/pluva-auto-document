@@ -2,6 +2,6 @@
 
 ### 仕様情報
 
-構成品ごとの主な仕様は以下の通りです。 製品仕様は性能向上のため、予告なく変更される場合がございます。
+仕様は製造メーカーの規定により、予告なく変更される場合があります。
 
 <figure><img src="../../.gitbook/assets/specification-information.png" alt=""><figcaption></figcaption></figure>
