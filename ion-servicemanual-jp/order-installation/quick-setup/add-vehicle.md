@@ -12,12 +12,12 @@ metaLinks:
 作業に使う車両を追加します。
 
 {% hint style="info" %}
-설정된 차량 수치 값은 태블릿의 [내 차량](../../usage/vehicle-settings/modifying-vehicle-information.md)에서 확인하고 변경할 수 있습니다.
+설設定した車両の寸法値は、タブレットの [車両情報 (내 차량)](../../usage/vehicle-settings/modifying-vehicle-information.md)から確認および変更が可能です。
 {% endhint %}
 
 ***
 
-#### 車両の追加
+#### 車両の追加方法 (차량추가방법)
 
 {% stepper %}
 {% step %}
@@ -32,13 +32,13 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/tablet 20 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-배속턴 차량은 배속턴 특성에 맞춘 보정값이 필요하므로, \[배속턴 차량] 토글을 반드시 켜고 진행해 주세요.
+倍速ターン車両は、その特性に合わせた補正値が必要なため、［倍速ターン車両］のトグルを必ずONにして進めてください。
 
 <img src="../../.gitbook/assets/tablet 21 - Add a vehicle.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-배속턴은 트랙터에만 적용되는 옵션입니다. 이앙기에는 배속턴 옵션이 없습니다.
+倍速ターンはトラクターのみに適用されるオプションです。田植機には倍速ターンオプションはありません。
 {% endhint %}
 {% endstep %}
 
@@ -51,12 +51,12 @@ metaLinks:
 
 ***
 
-#### 차량 치수 설정 항목
+#### 車両寸法の詳細項目 (차량 치수 설정 항목)
 
 {% hint style="info" %}
-차량 치수 측정은 평평한 바닥에서 측정해야합니다.
+車両寸法の測定は、必ず平らな場所で行ってください。
 
-경사지나 흙바닥에서 측정 시 정확하지 않을 수 있습니다.
+傾斜地や未舗装の土の上で測定すると、正確な値が得られない場合があります。
 {% endhint %}
 
 #### トラクター

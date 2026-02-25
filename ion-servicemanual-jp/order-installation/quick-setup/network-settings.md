@@ -34,7 +34,7 @@ metaLinks:
 
 ***
 
-#### セルラー(LTE) 연결
+#### セルラー(LTE) 接続
 
 タブレットに挿入されたSimカードからモバイルネットワークを通してインターネットに接続する方法です。
 
@@ -54,7 +54,7 @@ metaLinks:
 
 ***
 
-#### Wi-Fi 연결
+#### Wi-Fi 接続
 
 周辺の無線ルーター、またはスマートフォンのテザリングから接続し、インターネットを使用する方法です。
 
@@ -83,7 +83,7 @@ Wi-Fi接続が完了します。**\[次のステップへ]**&#x3092;選択し、
 <figure><img src="../../.gitbook/assets/tablet 9 - Network Settings _ WIFI.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Wi-Fi 범위를 벗어나면 연결이 끊길 수 있습니다.
+Wi-Fiの範囲外になると、接続が切断される場合があります。
 {% endhint %}
 {% endstep %}
 {% endstepper %}

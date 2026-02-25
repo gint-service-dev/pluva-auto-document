@@ -9,11 +9,15 @@ metaLinks:
 
 ### 作業機の追加(オプション)
 
-작업에 사용할 작업기를 추가합니다.
+作業に使う作業機を追加します。
+
+
+
+
 
 ***
 
-#### 작업기 추가 방법
+#### 作業機の追加方法 (작업기 추가 방법)
 
 {% stepper %}
 {% step %}
@@ -33,7 +37,7 @@ metaLinks:
 
 ***
 
-#### 작업기 치수 항목 설명
+#### 作業機寸法の項目説明 (작업기 치수 항목 설명)
 
 <figure><img src="../../.gitbook/assets/tablet 27 - Add machinery.png" alt="" width="312"><figcaption></figcaption></figure>
 

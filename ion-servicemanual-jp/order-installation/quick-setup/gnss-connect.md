@@ -12,7 +12,7 @@ metaLinks:
 タブレットとGNSS受信機との接続状態を確認する段階です。
 
 {% hint style="info" %}
-タブレットの [GNSS 수신기 위치 설정](vehicle-calibration.md#gnss)から、現在の接続状態の確認および設定の変更が可能です。
+設定値は、タブレットの [GNSS 수신기 위치 설정](vehicle-calibration.md#gnss)から確認および変更が可能です。
 {% endhint %}
 
 ***
