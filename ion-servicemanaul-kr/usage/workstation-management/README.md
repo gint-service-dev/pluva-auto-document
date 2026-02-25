@@ -23,10 +23,10 @@ layout:
 
 작업기 관리는 작업에 사용하는 작업기를 추가하고, 장착 상태 및 작업기 정보를 확인하는 메뉴입니다.
 
-{% content-ref url="/broken/pages/G8D0w2O94WmqaikNFSpV" %}
-[Broken link](/broken/pages/G8D0w2O94WmqaikNFSpV)
+{% content-ref url="worker-entry.md" %}
+[worker-entry.md](worker-entry.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/TYTPKr5BGNY2QTv2Ox8l" %}
-[Broken link](/broken/pages/TYTPKr5BGNY2QTv2Ox8l)
+{% content-ref url="add-worker.md" %}
+[add-worker.md](add-worker.md)
 {% endcontent-ref %}
