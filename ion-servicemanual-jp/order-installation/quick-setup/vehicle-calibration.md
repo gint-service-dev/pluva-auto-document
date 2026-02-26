@@ -190,6 +190,16 @@ GNSS受信機の位置入力に関する注意事項
 
 
 {% endstep %}
+
+{% step %}
+トラクター 直進操舵補正画面 (트랙터 직진 조향 보정)
+
+* 補正が終了すると\[確認]ボタンが有効になります。ボタンを押して補正を完了してください。
+
+<figure><img src="../../.gitbook/assets/tablet 43 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
 {% endstepper %}
 
 
