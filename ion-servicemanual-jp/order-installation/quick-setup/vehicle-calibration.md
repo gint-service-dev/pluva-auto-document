@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/vehicle-calibration
 ---
 
-# 車両設定および補正 \_トラクター(차량 설정 및 보정 \_트랙터)
+# 車両設定および補正 \_トラクター(차량 설정 및 보정)
 
-### 車両設定および補正 \_トラクター
+### 車両設定および補正 \_トラクター (차량 설정 및 보정)
 
 正確な自動操舵を行うための車両補正開始します。補正項目は全部で3つあり、一括で実行を選択することで、すべての項目をまとめて進めることができます。
 
@@ -17,22 +17,17 @@ metaLinks:
 
 #### 車両タイプ別の補正項目 (차량 유형별 보정 항목)
 
+1. [**\[トラクター\] 트랙터**](vehicle-calibration.md#torakut)
+   1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)  (GNSS측정)
+   2. [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)  (트랙터오토스티어보정)
+      1. **一般車両オートステア補正 (일반차량오토스티어보정)**
+         1. ハンドル範囲補正 (핸들 범위 보정)
+         2. 直進操舵補正画面 (직진 조향 보정)<br>
+      2.  **速ターン車両オートステア補正 (배속턴차량오토스티어보정)**
 
+          *   倍速ターンオプション搭載車は、**倍速ターンのOFF/ONそれぞれの状態でオー**トステア補正を行います。そのため、オートステア補正**は2回**実施されます。   배속턴 옵션 탑재 차량은 **배속턴 OFF/ON 각각의 상태**에서 오토스티어 보정을 진행합니다. 따라서 오토스티어 보정은 총 2회 수행됩니다.
 
-**トラクター**
-
-1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)
-2. [トラクターオートステア補正](vehicle-calibration.md#tosutea)&#x20;
-   1.  **一般車両オートステア補正 (일반차량오토스티어보정)**
-
-       1. ハンドル範囲補正 (핸들 범위 보정)
-       2. 直進操舵補正画面 (직진 조향 보정)
-
-
-   2. **倍速ターン車両オートステア補正(배속턴차량오토스티어보정)**
-      1.  倍速ターンオプション搭載車は、**倍速ターンのOFF/ONそれぞれの状態でオー**トステア補正を行います。そのため、オートステア補正**は2回**実施されます。
-
-          <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。</p></div>
+              <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。차량 추가 시 <strong>[배속턴 차량] 토글을 반드시 ON</strong> 으로 설정해 등록해 주세요. 토글 설정에 따라 보정 절차가 배속턴 차량에 맞게 진행됩니다.</p></div>
 
 
 
@@ -46,28 +41,42 @@ metaLinks:
 
 
           <br>
+2.  [**\[田植機\]  이앙기**](vehicle-calibration.md#tian-zhi-ji)
+
+    1. オートステアリング補正 (오토스티어링보정)
+       1. ハンドル範囲補正 (핸들 범위 보정)
+       2. 直進操舵補正 (직진 조향 보정)
+       3. 操舵角補正 (조향 각도 보정)
+
+
+
+    <br>
+
+
+
+
 
 ***
 
-#### 車両補正開始 (차량 보정 시작하기)
+### **\[トラクター] 트랙터**
+
+#### GNSS測定
 
 {% stepper %}
 {% step %}
 \[一括で実行]ボタンを押して補正を開始します。
 
 <figure><img src="../../.gitbook/assets/tablet 28 - Vehicle setup and calibration (1).png" alt=""><figcaption></figcaption></figure>
+
+
 {% endstep %}
-{% endstepper %}
 
-***
-
-#### GNSS測定
-
-{% stepper %}
 {% step %}
 縦方向の位置を入力し、確認ボタンを押して下さい。
 
 <figure><img src="../../.gitbook/assets/tablet 29 - Vehicle setup and calibration.png" alt=""><figcaption></figcaption></figure>
+
+
 {% endstep %}
 
 {% step %}
@@ -116,7 +125,7 @@ GNSS受信機の位置入力に関する注意事項
 
 ***
 
-#### オートステア補正
+#### トラクターオートステア補正 (트랙터오토스티어보정)
 
 <figure><img src="../../.gitbook/assets/tablet 35 - Autosteer calibration (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +133,7 @@ GNSS受信機の位置入力に関する注意事項
 
 
 
-### 一般車両オートステア補正 (일반차량오토스티어보정)
+### 1.   一般車両オートステア補正 (일반차량오토스티어보정)
 
 *   補正画面
 
@@ -144,7 +153,7 @@ GNSS受信機の位置入力に関する注意事項
 {% endstep %}
 
 {% step %}
-トラクターハンドル範囲補正 (핸들범위보정)
+ハンドル範囲補正 (핸들범위보정)
 
 * 案内に従ってハンドルを操作します。
 
@@ -154,7 +163,7 @@ GNSS受信機の位置入力に関する注意事項
 {% endstep %}
 
 {% step %}
-トラクターハンドル範囲補正 (핸들범위보정)
+ハンドル範囲補正 (핸들범위보정)
 
 * ハンドル範囲補正が完了しました。
 
@@ -182,7 +191,7 @@ GNSS受信機の位置入力に関する注意事項
 {% endstep %}
 
 {% step %}
-トラクター 直進操舵補正画面 (트랙터 직진 조향 보정)
+直進操舵補正画面 (직진 조향 보정)
 
 * 2km/h以下の速度を維持して走行してください。
 
@@ -192,7 +201,7 @@ GNSS受信機の位置入力に関する注意事項
 {% endstep %}
 
 {% step %}
-トラクター 直進操舵補正画面 (트랙터 직진 조향 보정)
+直進操舵補正画面 (직진 조향 보정)
 
 * 補正が終了すると\[確認]ボタンが有効になります。ボタンを押して補正を完了してください。
 
@@ -206,7 +215,7 @@ GNSS受信機の位置入力に関する注意事項
 
 ***
 
-### 倍速ターン車両オートステア補正 (배속턴차량오토스티어보정)
+### 2. 倍速ターン車両オートステア補正 (배속턴차량오토스티어보정)
 
 倍速ターン車両は、倍速ターン**OFFとONの両方の状態で**、同一の補正をそれぞれ行います。
 
@@ -350,3 +359,132 @@ GNSS受信機の位置入力に関する注意事項
 
 
 
+***
+
+### **\[田植機]  이앙기**
+
+#### 車両補正開始 (차량 보정 시작하기)
+
+*   補正画面  보정화면
+
+    *
+
+        <figure><img src="../../.gitbook/assets/tablet 56 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% stepper %}
+{% step %}
+ボタンを押すと、オートステア補正が開始されます。\[전체 한번에 진행]버튼을 누르면 오토스티어 보정이 시작됩니다.
+
+<figure><img src="../../.gitbook/assets/tablet 57 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正 (핸들범위보정)
+
+* 案内に従ってハンドルを操作した後、\[確認] ボタンを押してください。 안내에 따라 핸들을 조작 후 \[확인] 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tablet 58 - Autosteer calibration__rice transplanter (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正 (핸들범위보정)
+
+* ハンドル範囲補正が完了しました。핸들 점위 보정이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/tablet 59 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進操舵補正画面 (직진 조향 보정)
+
+<figure><img src="../../.gitbook/assets/set-location-gnss-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進操舵補正画面 (직진 조향 보정)
+
+<figure><img src="../../.gitbook/assets/tablet 60 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進操舵補正画面 (직진 조향 보정)
+
+* 案内に従って\[1km/h]で走行しながら、「自動補正開始」ボタンを押してください。안내에 따라 \[1km/h로 주행하고 \[자동 보정 시작]버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tablet 61 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進操舵補正画面 (직진 조향 보정)
+
+* 1km/h以下の速度を維持しながら走行して下さい。지속해서 1km/h이하로 주행합니다.
+
+<figure><img src="../../.gitbook/assets/tablet 62 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進操舵補正画面 (직진 조향 보정)
+
+* 補正が完了すると「操舵角補正開始」ボタンが表示されます。ボタンを押して次の補正を行います。보정이 완료되면 \[조향 각도 보정 시작] 버튼이 표시됩니다. 버튼을 눌러 다음 보정을 진행합니다.
+
+<figure><img src="../../.gitbook/assets/tablet 63 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+操舵角補正画面 (조향 각도 보정 화면)
+
+<figure><img src="../../.gitbook/assets/tablet 64 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+操舵角補正画面 (조향 각도 보정 화면)
+
+* 案内に従って\[1km/h]で走行しながら、\[自動補正開始]ボタンを押してください。 안내에 따라 \[1km/h로 주행하고 \[자동 보정 시작]버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tablet 61 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+操舵角補正画面 (조향 각도 보정 화면)
+
+* 1km/h以下の速度を維持しながら走行して下さい。 지속해서 1km/h이하로 주행합니다.
+
+<figure><img src="../../.gitbook/assets/tablet 62 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+操舵角補正画面 (조향 각도 보정 화면)
+
+* 補正が完了すると「確認」ボタンが表示されます。 보정이 완료되면 \[확인] 버튼이 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/tablet 65 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+操舵角補正画面 (조향 각도 보정 화면)
+
+* 補正の完了後、\[設定完了] を押して作業機設定に進んでください。 보정이 완료된 후 \[설정완료]를 눌러 작업기 설정으로 진입합니다.
+
+<figure><img src="../../.gitbook/assets/tablet 66 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" icon="circle-info" %}
+車両補正はいつでも可能です。 차량 보정은 언제든지 가능합니다.
+
+*
+
+    <figure><img src="../../.gitbook/assets/tablet 67 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+{% endhint %}
+
+
+
+<br>
+{% endstep %}
+{% endstepper %}
