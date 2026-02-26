@@ -29,16 +29,20 @@ metaLinks:
 
 
 
+
+
+***
+
 {% stepper %}
 {% step %}
-GNSSのLEDランプを確認し、取り付け状況を確認してください。
+GNSSのLEDランプを確認し、取り付け状況を確認してください。 GNSS LED를 확인하여 설치시 문제가 없는지 확인합니다.
 
-<figure><img src="../.gitbook/assets/installation-completion-1.png" alt="" width="224"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tablet 85 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[설치 완료 확인]을 누릅니다.
+試運転をしながら自動操舵ができているかを確認してください。 시운전을 통해 자율주행이 가능한지 확인합니다.
 
-<figure><img src="../.gitbook/assets/installation-completion-2.png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tablet 86 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

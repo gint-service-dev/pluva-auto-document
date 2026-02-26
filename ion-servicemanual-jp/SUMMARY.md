@@ -29,8 +29,6 @@
   * [作業機の追加 (작업기 추가)](order-installation/quick-setup/add-worker.md)
   * [車両設定および補正 \_トラクター(차량 설정 및 보정)](order-installation/quick-setup/vehicle-calibration.md)
   * [農場設定 (작업지 설정)](order-installation/quick-setup/farm-setting.md)
-  * [圃場の登録 (필드 등록)](order-installation/quick-setup/farm-setting-1.md)
-  * [枕地の生成 (헤드랜드 생성)](order-installation/quick-setup/farm-setting-2.md)
 * [取付完了の確認 (설치 완료 확인)](order-installation/installation-completed.md)
 
 ## 使い方 (사용법) <a href="#usage" id="usage"></a>
