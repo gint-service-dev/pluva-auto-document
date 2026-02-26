@@ -73,4 +73,4 @@
 
 ## 기타 <a href="#others" id="others"></a>
 
-* [トラブルシューティング (문제 발생시 조치사항)](others/initial-setup.md)
+* [トラブルシューティング (이슈 대응 방법)](others/initial-setup.md)
