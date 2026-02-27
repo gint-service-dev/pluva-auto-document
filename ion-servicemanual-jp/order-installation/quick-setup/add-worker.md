@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-worker
 ---
 
-# 作業機の追加&#x20;
+# 作業機の追加
 
 ### 作業機の追加(オプション)
 
@@ -25,13 +25,13 @@ metaLinks:
 {% step %}
 **\[追加する]**&#x3092;押します。
 
-<figure><img src="../../.gitbook/assets/add-worker-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet 24 - Add machinery.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 別名、作業機のタイプなどを入力してか&#x3089;**\[確認]**&#x3092;押します。
 
-<figure><img src="../../.gitbook/assets/add-worker-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet 25 - Add machinery.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
