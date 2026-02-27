@@ -5,14 +5,14 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/gnss-connect
 ---
 
-# GNSS受信機の接続確認&#x20;
+# GNSS受信機の接続確認
 
 ### GNSS受信機の接続確認
 
 タブレットとGNSS受信機との接続状態を確認する段階です。
 
 {% hint style="info" %}
-設定値は、タブレットの [GNSS測定](vehicle-calibration.md#gnss)から確認および変更が可能です。
+設定値は、タブレットの [GNSS受信機の設定](../../usage/vehicle-settings/gnss-receiver-setting.md)から確認および変更が可能です。
 {% endhint %}
 
 ***

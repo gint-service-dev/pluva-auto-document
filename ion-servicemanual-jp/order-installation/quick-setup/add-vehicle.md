@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-vehicle
 ---
 
-# 車両の追加&#x20;
+# 車両の追加
 
 ### 車両の追加
 
@@ -23,7 +23,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-登録したい車両タイプを選択してから\[選択完了]を押します。
+登録したい車両タイプを選択してか&#x3089;**\[選択完了]**&#x3092;押します。
 
 <figure><img src="../../.gitbook/assets/tablet 19 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -34,9 +34,11 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/tablet 20 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-倍速ターン車両は、その特性に合わせた補正値が必要なため、［倍速ターン車両］のトグルを必ずONにして進めてください。
+倍速ターン車両は、その特性に合わせた補正値が必要なため、**［倍速ターン車両］**&#x306E;トグルを必ずONにして進めてください。
 
-<img src="../../.gitbook/assets/tablet 21 - Add a vehicle.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/tablet 21 - Add a vehicle (1).png" alt="" data-size="original">
+
+
 {% endhint %}
 
 {% hint style="info" %}
