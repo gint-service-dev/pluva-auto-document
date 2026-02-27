@@ -21,25 +21,24 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/product-location
 ---
 
-# 제품 설치 위치
+# 製品の取り付け位置 (제품 설치 위치
 
 ### 製品の取り付け位置
 
-각 구성품은 농기계에 지정된 위치에 설치됩니다.\
-단, 실제 장착 위치는 차량 모델 및 장착 키트 구성에 따라 달라질 수 있습니다.
+各構成品は、農業機械の指定された位置に取り付けられます。\
+ただし、実際の取り付け位置は、車両モデル及び取り付けキットの構成によって異なる場合があります。
 
-<figure><img src="../../.gitbook/assets/installation-location.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/89 - installation-location.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 확장 키트(Expansion Kit) 사용법
+### エクスパンションキット使用方法
 
-확장 키트를 통해 ‘태블릿’하나로 여러대의 농기계에서 자율주행을 사용할 수 있습니다.
+エクスパンションキット（Expansion Kit）を活用することで、1台のタブレットで複数台の農機の自動操舵が可能になります。
 
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-\[Expansion Kit]\
-태블릿을 제외한 경제적인 확장형 제품입니다.\
-GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 주문 전, 플루바 아이온 태블릿을 보유하고 있는지 확인이 필요합니다.
+\[エクスパンションキット]\
+タブレットを除いた経済的なキットです。GNSS受信機、電動ステアリングホイール、カメラが含まれています。ご注文の前に、PLUVA iONタブレットをお持ちであることをご確認ください。
 {% endhint %}

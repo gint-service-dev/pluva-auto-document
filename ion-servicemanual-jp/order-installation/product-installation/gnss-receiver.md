@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/gnss-receiver
 ---
 
-# GNSS 수신기
+# GNSS受信機の取り付け (GNSS 수신기설치
 
-## GNSS 수신기
+## GNSS受信機の取り付け
 
 플루바 아이온 자율주행에 필요한 GNSS 수신기를 설치합니다.
 
@@ -15,32 +15,32 @@ metaLinks:
 
 ### 필요 공구 및 준비물
 
-#### 🔩 준비물
+#### 🔩 用意する物
 
-<figure><img src="../../.gitbook/assets/gnss-preparations.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/92 - gnss receiver-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="161.1815185546875">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>GNSS 수신기</td><td>-</td><td>1</td></tr><tr><td>하네스</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="161.1815185546875">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>GNSS 受信機</td><td>-</td><td>1</td></tr><tr><td>ハーネス</td><td>-</td><td>1</td></tr></tbody></table>
 
-#### 🛠️ 필요 공구
+#### 🛠️ 必要な工具
 
-<figure><img src="../../.gitbook/assets/tools-requiring-gnss.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/93 - gnss receiver-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>소켓 렌치</td><td>13mm</td><td>1</td></tr><tr><td>수평계</td><td>-</td><td>1</td></tr><tr><td>마른수건</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td><p>ソケット</p><p>レンチ</p></td><td>13mm</td><td>1</td></tr><tr><td>水準器</td><td>-</td><td>1</td></tr><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr></tbody></table>
 
 ***
 
-### 설치 방법
+### GNSS受信機の取り付け&#x20;
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
-#### 1. 부착 위치 확인 후 이물질을 제거합니다.
+{% column width="66.66666666666666%" %}
+#### 1. 取り付ける位置を確認し、汚れをふき取る
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-1.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -50,15 +50,15 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
-#### **2.** 브라켓에 붙어 있는 스티커를 제거합니다.&#x20;
+{% column width="66.66666666666666%" %}
+#### **2.** ブラケットに付いているシールをはがす
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-2.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -68,15 +68,15 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
-#### **3.** 트랙터  중앙에 GNSS 수신기를 부착합니다.
+{% column width="66.66666666666666%" %}
+#### **3.** トラクターの中央に受信機を付着する
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-3.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -86,13 +86,13 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
-#### **4.** 육각머리볼트(M8x25)를 조정 후 수평을 확인 후 볼트를 조입니다.&#x20;
+{% column width="66.66666666666666%" %}
+#### **4.** 六角頭ボルト(M8x25)を緩め水平を合わせてから再度締める六角頭ボルトの締付トルクは、10Nm以上とする。
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}

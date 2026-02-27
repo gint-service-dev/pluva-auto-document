@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/camera
 ---
 
-# 카메라
+# カメラの取り付け (카메라설치)
 
-## 카메라
+## カメラの取り付け
 
 플루바 아이온 자율주행에 필요한 카메라를 설치합니다.
 
@@ -15,32 +15,32 @@ metaLinks:
 
 ### 필요 공구 및 준비물
 
-#### 🔩 준비물
+#### 🔩 用意する物
 
-<figure><img src="../../.gitbook/assets/camera-preparations.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/98 - camera-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>후방 카메라</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>バックカメラ</td><td>-</td><td>1</td></tr></tbody></table>
 
-#### 🛠️ 필요 공구
+#### 🛠️ 必要な工具
 
-<figure><img src="../../.gitbook/assets/tools-requiring-camera.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/99 - camera-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>마른수건</td><td>-</td><td>1</td></tr><tr><td>케이블타이</td><td>6 X 150</td><td>10</td></tr><tr><td>드라이버(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>니퍼</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr><tr><td>ケーブルタイ</td><td>6 X 150</td><td>10</td></tr><tr><td>ドライバー(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
 
 ***
 
-### 설치 방법
+### カメラの取り付け
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
-#### 1. 후방 최적의 시야가 확보될 수 있는 위치에 카메라를 장착합니다.
+{% column width="66.66666666666666%" %}
+#### 1. 車両の後方がよく見える最適な位置にカメラを取り付けてください
 
 <figure><img src="../../.gitbook/assets/how-install-camera-1.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -48,15 +48,15 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
-#### **2.** 카메라 단자와 하네스 단자를 연결합니다.
+{% column width="66.66666666666666%" %}
+#### **2.** バックカメラの端子とハーネスの端子を接続する
 
 <figure><img src="../../.gitbook/assets/how-install-camera-2.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="33.33333333333334%" %}
 
 {% endcolumn %}
 {% endcolumns %}
