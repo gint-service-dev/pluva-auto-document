@@ -5,37 +5,37 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/path-sharing
 ---
 
-# 경로 공유
+# 経路の共有
 
-### 경로 공유
+### 経路の共有
 
-공유 코드로 저장한 경로를 다른 사용자와 주고받을 수 있습니다. 또한 GPX/ISOXML 파일로도 경로를 가져올 수 있습니다.
+共有コードを用いて保存した経路を他のユーザーと共有できます。 また、GPX/ISOXML形式のファイルも共有できます。
 
 ***
 
-#### 경로 공유 진입
+#### 経路の共有へのアクセス
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
+<img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]をタップしてください。
 
 <figure><img src="../../.gitbook/assets/path-sharing-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로 불러오기를 누릅니다.
+\[経路の取り込み]をタップします。
 
 <figure><img src="../../.gitbook/assets/path-sharing-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[경로 공유] 버튼을 누릅니다.
+\[経路の共有]をタップします。
 
 <figure><img src="../../.gitbook/assets/path-sharing-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 옵션을 선택합니다.
+ご希望のオプションを選択してください。
 
 <figure><img src="../../.gitbook/assets/path-sharing-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -43,17 +43,17 @@ metaLinks:
 
 ***
 
-#### 경로 공유하기
+#### 経路の共有
 
 {% stepper %}
 {% step %}
-\[공유하기] 버튼을 누릅니다.
+\[共有する]を選択します。
 
 <figure><img src="../../.gitbook/assets/how-to-share-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-경로 코드를 상대방에게 전달해 경로 공유하기를 완료합니다.
+経路コードを相手に共有し、経路を共有します。
 
 <figure><img src="../../.gitbook/assets/how-to-share-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -61,29 +61,29 @@ metaLinks:
 
 ***
 
-#### 경로 공유받기
+#### 経路を共有してもらう
 
 {% stepper %}
 {% step %}
-\[공유받기] 버튼을 누릅니다.
+\[共有してもらう]を選択します。
 
 <figure><img src="../../.gitbook/assets/get-path-sharing-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-공유받을 경로 코드를 입력 후 \[확인]을 누릅니다.
+共有してもらう経路のコードを入力してから\[確認]を選択してください。
 
 <figure><img src="../../.gitbook/assets/get-path-sharing-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-파일 가져오기를 선택한 경우 파일 형식을 선택해 경로를 가져옵니다.
+ファイルの取り込みを選択した場合は、ファイル形式を選び経路を取り込みます。
 
 <img src="../../.gitbook/assets/import-file.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
-경로 공유받기 완료됩니다.
+経路の共有が完了します。
 
 <figure><img src="../../.gitbook/assets/get-path-sharing-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

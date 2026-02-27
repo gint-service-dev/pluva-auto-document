@@ -4,14 +4,12 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/uturn-mode
 ---
 
-# 턴 모드
+# ターンモード
 
-### 턴 모드
+### ターンモード
 
-턴 모드는 작업 줄 끝에 도달했을 때, 다음 줄로 이동할 수 있도록 방향 전환을 돕는 기능입니다.  작업 방식과 공간 조건에 맞춰 턴 방법을 선택하면, 작업 흐름을 더 안정적으로 이어갈 수 있습니다.
+ターンモードは、作業ラインの端に到達した際に、次のラインに移動できるよう方向転換をサポートする機能です。作業方法とスペースの条件に合わせてターン方法を選択すると、作業を安定的に続けることができます。
 
-
-
-{% content-ref url="uturn-mode-setting.md" %}
-[uturn-mode-setting.md](uturn-mode-setting.md)
+{% content-ref url="/broken/pages/gB5nSMQusiD6cDzEHOGt" %}
+[Broken link](/broken/pages/gB5nSMQusiD6cDzEHOGt)
 {% endcontent-ref %}

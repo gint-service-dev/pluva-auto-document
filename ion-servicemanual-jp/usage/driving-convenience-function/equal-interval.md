@@ -5,26 +5,25 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/equal-interval
 ---
 
-# 등간격 편의 기능
+# 等間隔に関する便利な機能
 
-### 등간격 편의 기능
+### 等間隔に関する便利な機能
 
-등간격 이동, 당겨오기 90도 회전 등 등간격 관련 기능을 편하게 확인하고 사용할 수 있습니다.\
-반드시 AB 경로를 생성한 후에 사용이 가능합니다.
+等間隔ラインの移動、ラインを引っ張ってくる、90度回転などの関連機能を自由に利用できます。 この機能は、AB経路を生成してから利用できます。
 
 ***
 
-#### 등간격 편의 기능 진입
+#### 等間隔に関する便利な機能へのアクセス
 
 {% stepper %}
 {% step %}
-AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" alt="" data-size="original"> \[등간격 편의 기능]버튼을 누릅니다.
+AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" data-size="original"> \[等間隔に関する便利な機能]をクリックします。
 
 <figure><img src="../../.gitbook/assets/equal-interval-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 등간격 메뉴를 선택합니다.
+ご希望の等間隔メニューを選択します。
 
 <figure><img src="../../.gitbook/assets/equal-interval-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -32,76 +31,79 @@ AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" al
 
 ***
 
-#### 등간격 편의 기능 상세 설명
+#### 等間隔に関する便利な機能のご案内
 
 <figure><img src="../../.gitbook/assets/feature-details.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **등간격 켜기/끄기**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **等間隔オン/オフ**
 
-* 생성한 등간격을 켜고 끕니다.
-  * 자율주행 중에는 사용할 수 없으며 수동 주행 상태에서만 사용할 수 있습니다.
-  *   &#x20;<img src="../../.gitbook/assets/turn-on-equal-intervals.svg" alt="" data-size="original">  **눌렀을 때**
+* 生成した等間隔をオン、またはオフにします。
+  * 自動操舵中には使用できません。手動走行でのみ使用できます。
+  *   &#x20;<img src="../../.gitbook/assets/turn-on-equal-intervals.svg" alt="" data-size="original">  **タップ時のイメージ**
 
       <figure><img src="../../.gitbook/assets/turn-on-equal-intervals-screen.png" alt=""><figcaption></figcaption></figure>
-  *   &#x20;<img src="../../.gitbook/assets/turn-off-equal-intervals.svg" alt="" data-size="original">  **눌렀을 때**
+  *   &#x20;<img src="../../.gitbook/assets/turn-off-equal-intervals.svg" alt="" data-size="original">  タップ時のイメージ
 
       <figure><img src="../../.gitbook/assets/turn-off-equal-intervals-screen.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **당겨오기**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) 現在地に移動
 
-* 차량의 현재 위치로 생성한 경로가 이동합니다. 변경된 위치 기준으로\
-  등간격 선이 재설정 됩니다.
-  * 자율주행 중에는 사용할 수 없으며 수동 주행 상태에서만 사용할 수 있습니다.
-  *   **당겨 오기 사용 전**
+* 生成されたAB経路を車両の現在地に移動できます。\
+  移動した位置を基基準に、間隔ラインが再設定されます。
+  * 自動操舵中には使用できません。手動走行でのみ使用できます。
+  *   **現在地に移動機能の使用前**
 
       <figure><img src="../../.gitbook/assets/pulling-before.png" alt=""><figcaption></figcaption></figure>
-  *   &#x20;**당겨 오기 사용 후**
+  *   &#x20;**現在地に移動機能の使用後**
 
       <figure><img src="../../.gitbook/assets/pulling-after.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **등간격 이동**
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 等間隔の移動
 
-* 입력한 수치만큼 AB 경로가 평행 이동합니다.
-  *   &#x20;**등간격 이동 전**
+* 入力した数値分だけAB経路が平行移動します。
+  *   等間隔の移動前\
+      : ご希望の等間隔移動の数値を入力し、\[確認]をクリックします。
 
       <figure><img src="../../.gitbook/assets/before-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
-  *   &#x20;**등간격 이동 후**
+  *   等間隔の移動後\
+      : 等間隔の移動が完了します。
 
       <figure><img src="../../.gitbook/assets/after-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **90도 회전**
+&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 90度回転
 
-* 차량의 현재 위치에서 생성한 주행 경로를 수직 방향(90도)으로 회전합니다.
-  * 자율주행 중에는 사용할 수 없으며 수동 주행 상태에서만 사용할 수 있습니다.
-  *   &#x20;**90도 회전 사용 전**
+* 車両のある場所から生成した走行経路を垂直方向（90度）に回転します。
+  * 自動操舵中には使用できません。手動走行でのみ使用できます。
+  *   90度回転の使用前
 
       <figure><img src="../../.gitbook/assets/before-using-90-degree.png" alt=""><figcaption></figcaption></figure>
-  *   &#x20;**90도 회전 사용 후**
+  *   &#x20;90度回転の使用後
 
       <figure><img src="../../.gitbook/assets/after-using-90-degree.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **헤드랜드 켜기/끄기**
+&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) 枕地オン/オフ
 
-* 헤드랜드 표시를 켜거나 끕니다.
-  * 헤드랜드는 점선으로 표시합니다.
-  *   &#x20;![](../../.gitbook/assets/enable-headland-on-button.svg) **헤드랜드 켜기 사용**<br>
+* 枕地の表示をオン、またはオフにします。
+  * 枕地は点線で表示されます。
+  *   &#x20;![](../../.gitbook/assets/enable-headland-on-button.svg) 枕地をオンにする<br>
 
       <figure><img src="../../.gitbook/assets/enable-headland-on.png" alt=""><figcaption></figcaption></figure>
-  *   ![](../../.gitbook/assets/enable-headland-off-button.svg) **헤드랜드 끄기 사용**<br>
+  *   ![](../../.gitbook/assets/enable-headland-off-button.svg) 枕地をオフにする<br>
 
       <figure><img src="../../.gitbook/assets/enable-headland-off.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **작업폭 설정**
+&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) 作業幅の設定
 
-* 등간격 넓이의 기준인 작업폭을 수치로 설정합니다. 입력한 작업기 폭, 고랑폭에 따라 자동으로 작업폭이 설정됩니다.
-  * 작업 중 작업기 폭 또는 고랑 폭 변경으로 작업폭이 달라졌다면, 원활한 작업을 위해 당겨오기 기능을 사용한 뒤 작업을 재개합니다.
-  *   &#x20;**작업폭 설정 전**
+* 等間隔の幅の目安となる、作業幅の数値設定を行います。 入力した作業機の幅や畝間によって自動で作業幅が設定されます。
+  * 作業中に作業機の幅や畝間を変更したことで作業幅が変わった場合、 \[引っ張ってくる]機能を使用してから作業を再開してください。
+  *   &#x20;作業幅の設定前\
+      : 等間隔の移動が完了します。
 
       <figure><img src="../../.gitbook/assets/before-work-width.png" alt=""><figcaption></figcaption></figure>
-  *   **작업폭 설정 중**\
-      :작업기폭, 고랑폭 수치를 입력하고 \[확인]버튼을 누릅니다.
+  *   作業幅の設定中\
+      :作業機の幅、畝間の数値を入力し、\[確認]をクリックします。
 
       <figure><img src="../../.gitbook/assets/setting-work-width.png" alt=""><figcaption></figcaption></figure>
-  *   **작업폭 설정 후**
+  *   作業幅の設定後
 
       <figure><img src="../../.gitbook/assets/after-work-width.png" alt=""><figcaption></figcaption></figure>

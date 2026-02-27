@@ -5,48 +5,48 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/delete-path
 ---
 
-# 경로 리셋/삭제
+# 経路のリセット及び削除
 
-### 경로 리셋 / 삭제
+### 経路のリセット及び削除
 
-생성한 AB 경로를 삭제하거나, 현재까지 작업한 경로 표시만 지울 수 있습니다.
+生成したAB経路を削除、またはこれまで作業した経路の表示のみを削除することができます。
 
 
 
 {% stepper %}
 {% step %}
-AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
+ABラインを生成した状態で <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]をタップしてください。
 
 <figure><img src="../../.gitbook/assets/resetting-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[리셋/삭제]를 누릅니다.
+\[リセット/削除]を選択します。
 
 <figure><img src="../../.gitbook/assets/resetting-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[AB 경로 삭제]를 누릅니다.
+\[AB経路の削除]を選択します。
 
 <figure><img src="../../.gitbook/assets/resetting-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-작업한 경로 표시 삭제: 지금까지 작업했던 경로를 모두 삭제합니다. AB경로는 유지됩니다.
+作業した経路の表示を削除：これまで作業した経路を全て削除します。 AB経路は維持されます。
 {% endhint %}
 
 {% hint style="info" %}
-AB경로 삭제: AB 경로와 작업했던 경로를 모두 삭제한다.
+AB経路の削除：AB経路と作業した経路を全て削除します。
 {% endhint %}
 {% endstep %}
 
 {% step %}
-\[확인]을 누르면 AB경로가 삭제됩니다.
+\[確認]を選択するとAB経路が削除されます。
 
 <figure><img src="../../.gitbook/assets/resetting-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-AB경로는 삭제 후 다시 생성할 수 있습니다.
+AB経路は、削除後に再度生成できます。
 {% endhint %}
 {% endstep %}
 {% endstepper %}

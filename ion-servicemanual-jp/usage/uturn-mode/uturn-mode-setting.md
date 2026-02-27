@@ -5,60 +5,60 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/uturn-mode/uturn-mode-setting
 ---
 
-# 유턴 설정 방법
+# ターンの設定方法
 
-### 유턴 설정 방법
+### ターンの設定方法
 
-유턴 설정에서는 유턴을 시작할 위치, 유턴 방식, 회전 형태, 속도 등을 작업 환경에 맞게 조정할 수 있습니다.  설정을 적용하면 작업 흐름이 끊기지 않도록 돕고, 보다 안정적인 주행에 도움이 됩니다.
+ターン設定では、ターンを開始する位置、ターン方法、回転形態、速度などを作業環境に合わせて調整できます。設定を適用すると、作業の流れを中断することなく、より安定した走行が可能になります。
 
-#### 유턴 설정 단계
+#### ターン設定のステップ
 
-1. 유턴 라인 위치 조정
-2. 유턴 타입 설정
-3. 유턴 패턴 설정
-4. 유턴 형태 설정
+1. ターンラインの位置調整
+2. ターンタイプの設定
+3. ターンパターンの設定
+4. ターン形態の設定
 
 ***
 
-#### 유턴 기능 켜기 및 유턴 라인 위치 조정
+#### ターン機能の設定及びUターンラインの位置調整
 
 {% stepper %}
 {% step %}
-AB라인을 생성한 상태로 ![](../../.gitbook/assets/drive-function-button.svg) \[작업] 버튼을 누릅니다.
+ABラインを生成した状態で![](../../.gitbook/assets/drive-function-button.svg)\[作業] ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-경로가 생성됐을 때만 유턴모드를 사용할 수 있습니다.
+経路が生成されたときのみUターンモードを使用できます。
 {% endhint %}
 {% endstep %}
 
 {% step %}
-\[유턴 모드]를 누릅니다.
+\[ターンモード]をクリックします。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-유턴 토글을 눌러 유턴을 활성화합니다.
+ターンのオン/オフを押して、ターンを有効にします。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-A 또는 B를 선택한 뒤, 유턴 라인 위치를 숫자로 조정합니다.
+AまたはBを選択した後、ターンラインの位置を数字で調整します。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 동일하게 조정됩니다.
+A、B点を同じく調整：位置の修正値を入力すると、A・B点の位置が同じく調整されます。
 
 <img src="../../.gitbook/assets/ab-points-same.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
-\[다음]을 누릅니다.
+\[次へ]をクリックします。
 
 <figure><img src="../../.gitbook/assets/uturn-entry-explanation-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -66,17 +66,17 @@ A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 
 
 ***
 
-#### 유턴 타입 설정
+#### ターンタイプの設定
 
 {% stepper %}
 {% step %}
-사용할 유턴 타입을 선택합니다.
+使用したいターンのタイプを選択します。
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-세부 값을 설정하고 \[다음]을 누릅니다.
+詳細値を設定し、\[次へ]をクリックします。
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -84,81 +84,85 @@ A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 
 
 
 
-#### 유턴 타입 설명
+#### ターンタイプのご案内
 
 <figure><img src="../../.gitbook/assets/uturn-type-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1-1.svg) 유턴 타입
+![](../../.gitbook/assets/icon-square-1-1.svg) **ターンのタイプ**
 
-AB 직진 유턴
+**AB直進ターン**
 
-* AB 라인 기준점을 중심으로 설정값에 따라 유턴합니다.
+* ABラインの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-AB직진 모드에서만 사용할 수 있으며, 이외의 모드에서는 비활성화됩니다.
+AB直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-A+ 유턴
+**A＋ターン**
 
-* A점과 경계 길이의 기준점을 중심으로 설정값에 따라 유턴합니다.
+* A点と境界の長さの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-A+ 직진 모드에서만 사용할 수 있으며, 이외의 모드에서는 비활성화됩니다.
+A+直進モードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-AB 커브 유턴
+**ABカーブターン**
 
-* AB 커브 라인의 기준점을 중심으로 설정값에 따라 유턴합니다.
+* ABカーブラインの基準点を中心に設定値を基にターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-curve-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비활성화됩니다.
+ABカーブモードでのみ使用でき、それ以外のモードでは無効になります。
 {% endhint %}
 
-헤드랜드 유턴
+**枕地ターン**
 
-* 헤드랜드 경계를 기준으로, 완충 구역 내에서 유턴합니다.
+* 枕地の境界を基準に、緩衝帯内でターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/headland-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
-바운더리 유턴
+**境界線ターン**
 
-* 필드 경계(바운더리)에 도달하기 전에, 설정된 오프셋 지점에서 유턴합니다.
+* 圃場の境界（バウンダリー）に到達する前に、設定されたオフセット地点でターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/boundary-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-2-2.svg) 제한 속도 설정
+![](../../.gitbook/assets/icon-square-2-2.svg) **制限速度の設定**
 
-* 유턴 시 허용되는 최대 속도를 설정합니다.
+* ターン時に可能な最大速度を設定します。
 
 ***
 
-#### 유턴 패턴 설정
+#### ターンのパターン設定
 
 {% stepper %}
 {% step %}
-사용할 유턴 패턴을 선택합니다.
+使用したいターンのパターンを選択します。
 
 <figure><img src="../../.gitbook/assets/uturn-pattern-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-턴 방향과 세부 수치를 설정한 뒤 \[다음]을 누릅니다.
+ターンの方向と細かい数値を設定し、\[次へ]をクリックします。
 
-<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-#### 유턴 패턴 화면 설명
+#### ターンパターン画面の説明
 
-<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-pattern-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1-1.svg) 유턴패턴
+![](../../.gitbook/assets/icon-square-1-1.svg) **ターンのパターン**
+
+![](../../.gitbook/assets/icon-square-2-2.svg) **ターンパターンのプレビュー**
+
+* 現在設定されているターンのパターンが実際の作業ラインにどのように適用されるかを事前に確認することができます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/turn-immediately.png" alt="" width="550"><figcaption></figcaption></figure></div>
 
@@ -168,82 +172,78 @@ AB커브 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 
 <div align="left"><figure><img src="../../.gitbook/assets/extended-turn.png" alt="" width="550"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-2-2.svg) 유턴 패턴 미리보기
+![](../../.gitbook/assets/icon-square-3-3.svg) **ラインをスキップ**
 
-* 현재 설정된 유턴 패턴이 실제 작업 라인에 어떻게 적용되는지 미리 확인할 수 있습니다.
+* ターン時のスキップするライン（畝）の数を設定します。
 
-![](../../.gitbook/assets/icon-square-3-3.svg) 행 건너뛰기
+![](../../.gitbook/assets/icon-square-4-4.svg) **最小回転半径**
 
-* 유턴 시 건너뛸 행(골)의 개수를 설정합니다.
+* ターンするときの最小回転半径を設定します。
 
-![](../../.gitbook/assets/icon-square-4-4.svg) 최소 회전 반경
+![](../../.gitbook/assets/icon-square-5-5.svg) **開始方向**
 
-* 유턴할 때의 최소 회전 반경을 설정합니다.
-
-![](../../.gitbook/assets/icon-square-5-5.svg) 시작 방향
-
-* 직진 주행 후 첫 번째로 회전할 방향(좌회전/우회전)을 설정합니다.
+* 直進走行後、一回目にターンする方向（左回り/右回り）を設定します。
 
 ***
 
-#### 유턴 형태 설정
+#### ターン形態の設定
 
 {% stepper %}
 {% step %}
-사용할 유턴 형태를 선택합니다. 최소 회전 반경 등의 유턴 설정 값에 따라 가능한 유턴 형태만 활성화됩니다.
+使用するターンの形態を選択します。最小回転半径などのターン設定値に基づいて可能なターン形態のみが有効になります。
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[확인]을 누릅니다.
+\[確認]をクリックします。
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-유턴 경로가 생성되면![](../../.gitbook/assets/drive-button.svg)\[자율주행] 버튼을 눌러 유턴이 포함된 자율주행을 시작합니다.
+ターン経路が生成されたら ![](../../.gitbook/assets/drive-button.svg)\[自動操舵]を押し、ターンが含まれた自動操舵を開始します。
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-#### 유턴 형태 화면 설명
+#### Uターン形態画面のご案内
 
 <figure><img src="../../.gitbook/assets/uturn-shape-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1-1.svg) K턴
+![](../../.gitbook/assets/icon-square-1-1.svg) **Kターン**
 
-* 각진 직각 형태의 유턴입니다. 빠른 방향 전환이 가능하며, 좁은 공간에서 유리합니다.
+* 角張った直角型のUターンです。素早い方向転換が可能で、狭いスペースで有利です。
 
 <div align="left"><figure><img src="../../.gitbook/assets/kturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-2-2.svg) 오메가턴
+![](../../.gitbook/assets/icon-square-2-2.svg) **オメガターン**
 
-* 둥근 U자 형태의 부드러운 유턴입니다. 기계 부하를 줄이고 유턴 안정성을 높이는 데 적합합니다.
+* 丸いU字型の滑らかなUターンです。機械の負荷を軽減し、Uターンの安定性を高めるのに適しています。
 
 <div align="left"><figure><img src="../../.gitbook/assets/omegaturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-3-3.svg) R턴
+![](../../.gitbook/assets/icon-square-3-3.svg) **Rターン**
 
-* 부드러운 곡선 유턴입니다. 기넉넉한 헤드랜드, 추가 헤드랜드 (회경) 작업 하는 경우에 적합합니다.
+* 滑らかな曲線のUターンです。余裕のある枕地や追加の枕地（回耕）作業をする場合に適しています。
 
 <div align="left"><figure><img src="../../.gitbook/assets/rturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-4-4.svg) U턴
+![](../../.gitbook/assets/icon-square-4-4.svg) **Uターン**
 
-* 부드러운 곡선 유턴입니다. 일반적인 작업, 중간 거리 필지에 적합합니다.
+* 滑らかな曲線Uターンです。一般的な作業や中距離の圃場に適しています。
 
 <div align="left"><figure><img src="../../.gitbook/assets/uturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-5-5.svg) 확장턴
+![](../../.gitbook/assets/icon-square-5-5.svg) **拡張ターン**
 
-* 직선 형태의 유턴입니다. 불규칙한 필지, 장애물 회피 시 적합합니다.
+* 直線状のUターンです。不整形な圃場、障害物を回避する時に適しています。
 
 <div align="left"><figure><img src="../../.gitbook/assets/extension-uturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-6-6.svg) 미리보기
+![](../../.gitbook/assets/icon-square-6-6.svg) **プレビュー**
 
-* 버튼을 누르면 현재 설정한 유턴 형태를 지도 상에서 미리 확인할 수 있습니다.
+* ボタンを押すと、設定済みのUターンの形態を地図上で事前に確認することができます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/uturn-shape-explanation-preview.png" alt="" width="300"><figcaption></figcaption></figure></div>
