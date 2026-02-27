@@ -38,7 +38,7 @@ metaLinks:
            <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。</p></div>
 
        1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
-       2. [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)&#x20;
+       2. [トラクターオートステア補正](vehicle-calibration.md#id-2-tntosutea)&#x20;
           1. OFF状態設定&#x20;
              1. ハンドル範囲補正&#x20;
              2.  1次直進操舵補正画面&#x20;
