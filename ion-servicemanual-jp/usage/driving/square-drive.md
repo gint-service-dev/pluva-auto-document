@@ -4,13 +4,14 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/square-drive
 ---
 
-# 사각주행
+# 四角形走行
 
-### 사각주행
+### 四角形走行
 
-사각주행
+四角形走行
 
-* A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
+* A-Bラインを基準に90度直角方向の自動操舵経路を生成し、四角形パターンで\
+  走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -18,47 +19,47 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/a-button.svg)버튼을 눌러 A 지점을 생성합니다.
+![](../../.gitbook/assets/a-button.svg)を押しA地点を生成します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-10m 이상 직진 주행한 뒤, 원하는 지점에서 ![](../../.gitbook/assets/b-button.svg)버튼을 눌러 B 지점을 생성합니다.
+10m以上直進走行した後、ご希望での地点で![](../../.gitbook/assets/b-button.svg)を押してB地点を生成します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-A점을 생성하면 미니맵이 표시됩니다.
+A点を生成するとミニ地図が表示されます。
 
 <img src="../../.gitbook/assets/minimap.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-생성한 점은 \[수정]을 눌러 조정할 수 있습니다.
+生成した点は\[X点修正]をタップし調整することができます。
 {% endhint %}
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/c-button.svg)버튼을 눌러 C 지점을 생성합니다.
+![](../../.gitbook/assets/c-button.svg)を押してC地点を生成します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/d-button.svg)버튼을 눌러 D 지점을 생성합니다.
+![](../../.gitbook/assets/d-button.svg)を押してD地点を生成します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-사각 주행 라인이 생성되면 시작점과 시작 방향을 선택한 후 \[확인]을 누릅니다.
+四角形走行ラインが生成されたら、開始点と開始方向を選択し\[確認]を押します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-시작점으로 이동한 뒤![](../../.gitbook/assets/drive-button.svg)\[자율주행 시작] 버튼을 누릅니다.
+スタート地点に移動し![](../../.gitbook/assets/drive-button.svg)\[自動操舵の開始] ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/square-drive-explanation-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

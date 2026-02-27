@@ -4,30 +4,28 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving
 ---
 
-# 주행모드(경로플래닝)
+# 走行モード(経路のプランニング)
 
-### 주행모드 (경로플래닝)
+### 走行モード（経路のプランニング）
 
-주행 모드는 사용자가 설정한 경로를 따라 농기계가 자동으로 이동하며 작업하도록 돕는 기능입니다. 주행 중에는 주행 모드, 속도, 작업 면적/시간, 차량/작업기 상태가 화면에 표시됩니다. 이를 통해 현재 작업 상황을 한눈에 확인하고, 필요할 때 자율주행과 수동 운전을 안전하게 전환할 수 있습니다.
+走行モードは、ユーザーが設定した経路に沿って農業機械が自動で移動し、作業できるようサポートする機能です。走行中には、走行モードや速度、作業面積/時間、経路追従の状態、車両・作業機の状態が画面に表示されます。これにより、現在の作業状況を一目で確認し、必要に応じて自動操舵と手動運転を安全に切り替えることができます。
 
-
-
-{% content-ref url="route-planning-settings.md" %}
-[route-planning-settings.md](route-planning-settings.md)
+{% content-ref url="/broken/pages/m5zP8IkHZRaZuJdRlI9R" %}
+[Broken link](/broken/pages/m5zP8IkHZRaZuJdRlI9R)
 {% endcontent-ref %}
 
-{% content-ref url="ab-straight.md" %}
-[ab-straight.md](ab-straight.md)
+{% content-ref url="/broken/pages/UIiuMIxwZh0fz50KC5C6" %}
+[Broken link](/broken/pages/UIiuMIxwZh0fz50KC5C6)
 {% endcontent-ref %}
 
-{% content-ref url="a-plus-straight.md" %}
-[a-plus-straight.md](a-plus-straight.md)
+{% content-ref url="/broken/pages/j3GCiq3ulSl5Kc2rGy9Z" %}
+[Broken link](/broken/pages/j3GCiq3ulSl5Kc2rGy9Z)
 {% endcontent-ref %}
 
-{% content-ref url="square-drive.md" %}
-[square-drive.md](square-drive.md)
+{% content-ref url="/broken/pages/ZuKGSIOxi6pAeU595Nmd" %}
+[Broken link](/broken/pages/ZuKGSIOxi6pAeU595Nmd)
 {% endcontent-ref %}
 
-{% content-ref url="auto-route-generation.md" %}
-[auto-route-generation.md](auto-route-generation.md)
+{% content-ref url="/broken/pages/vOBQ8SBunmcRsmBi27mM" %}
+[Broken link](/broken/pages/vOBQ8SBunmcRsmBi27mM)
 {% endcontent-ref %}

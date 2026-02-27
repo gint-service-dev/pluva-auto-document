@@ -33,14 +33,14 @@
 
 ## 使い方 (사용법) <a href="#usage" id="usage"></a>
 
-* [사용 전 고객 안내 사항](usage/customer-guidance/README.md)
-  * [소프트웨어 업데이트(OTA)](usage/customer-guidance/ota.md)
-* [주행모드(경로플래닝)](usage/driving/README.md)
-  * [경로플래닝 설정 방법](usage/driving/route-planning-settings.md)
-  * [AB직진](usage/driving/ab-straight.md)
-  * [A+직진](usage/driving/a-plus-straight.md)
-  * [사각주행](usage/driving/square-drive.md)
-  * [자동 경로 (Pluava AI)](usage/driving/auto-route-generation.md)
+* [初期設定方法](usage/customer-guidance/README.md)
+  * [ソフトウェアアップデート（OTA）](usage/customer-guidance/sofutoweaappudtoota.md)
+* [走行モード(経路のプランニング)](usage/driving/README.md)
+  * [経路のプランニングの設定方法](usage/driving/route-planning-settings.md)
+  * [AB直進](usage/driving/ab-straight.md)
+  * [A+直進](usage/driving/a-plus-straight.md)
+  * [四角形走行](usage/driving/square-drive.md)
+  * [自動経路（Pluva AI）](usage/driving/auto-route-generation.md)
 * [턴 모드](usage/uturn-mode/README.md)
   * [유턴 설정 방법](usage/uturn-mode/uturn-mode-setting.md)
 * [주행 편의 기능](usage/driving-convenience-function/README.md)

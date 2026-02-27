@@ -5,77 +5,62 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/route-planning-settings
 ---
 
-# 경로플래닝 설정 방법
+# 経路のプランニングの設定方法
 
-### 경로플래닝 설정 방법
+### 経路のプランニングの設定方法
 
-경로 플래닝은 AB 직진, A+, 사각 주행 등 다양한 작업 패턴을 한곳에서 확인하고, 필요한 모드를 선택·설정하는 메뉴입니다. 필드 형태에 맞는 경로를 제안해 겹치는 구간과 누락 구간을 줄이고, 작업을 더 안정적이고 수월하게 진행할 수 있도록 돕습니다.
+作業内容や作物、目的に合わせて最適な経路生成モードを選択し、 圃場条件に適した経路で作業を行い、重複や作業漏れを最小限に抑え、作業効率と精度の向上を実現します。
 
-***
+#### 経路のプランニングモードの種類
 
-#### 경로 플래닝 모드 종류
+AB直進
 
-AB 직진
-
-* A점과 B점을 잇는 방향으로 직진 주행합니다.
+* A点とB点を結ぶ方向へ直進走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-A+직진
+A+直進
 
-* A점을 기준으로 설정한 각도의 대각선 직선 경로로 주행합니다.
+* A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-사각주행
+四角形走行
 
-* A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
+* A-Bラインを基準に90度直角方向の自動操舵経路を生成し、四角形パターンで走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-자동 경로 (Pluva AI)
+自動経路（Pluva AI）
 
-* 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
+* ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
-<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="149"><figcaption></figcaption></figure></div>
 
 ***
 
-#### 경로 플래닝 기능 진입
+#### 経路のプランニング機能へアクセス
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[경로 플래닝] 버튼을 누릅니다.
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[経路のプランニング]ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 주행 모드를 선택한 후 \[확인]을 누릅니다.
+ご希望の走行モードを選択し、 \[確認]をタップします
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-기본 주행 모드는 AB 직진입니다. 다른 주행 모드를 사용하려면 원하는 모드를 선택한 후 \[확인]을 누르세요.
+基本走行モードは「AB直進モード」です。 他の走行モードを使用するには、ご希望のモードを選択し\[確認]をタップしてください。
 {% endhint %}
 
 {% hint style="info" %}
-현재 선택된 주행 모드는 화면 왼쪽 상단의 주행 정보 영역에서 확인할 수 있습니다.
+現在選択されている走行モードは、画面左上の走行情報エリアから確認できます。
 
 <img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
 {% endhint %}
-
-{% hint style="info" %}
-배속턴 설정은 오른쪽 상단의 주행 정보 영역에서 확인할 수 있습니다. 해당 영역에서 배속턴 ON/OFF 상태를 확인합니다.
-{% endhint %}
-
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=8074-95134&t=2tAc6CEtfh7Fv5fV-1" %}
-
-{% hint style="info" %}
-주행 모드에 진입하면 배속턴 설정 안내 팝업이 표시됩니다. \
-안내에 따라 **배속턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
-{% endhint %}
-
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=8074-95412&t=2tAc6CEtfh7Fv5fV-1" %}
