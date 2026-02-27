@@ -15,88 +15,60 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management/add-worker
 ---
 
-# 작업기 추가
+# 作業機リストへのアクセス及び画面のご案内
 
-### 작업기 추가
+### 作業機リストへのアクセス及び画面のご案内
 
-작업에 사용할 작업기를 등록하고, 작업기 편차 등 설정값을 함께 입력할 수 있습니다.
+作業機リストでは、現在登録済みの作業機を確認し、追加・修正・削除できます。
 
 ***
 
-#### 작업기 추가 방법
+#### 作業機リストへのアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_worker.svg) \[작업기] 버튼을 누릅니다.
+![](../../.gitbook/assets/ic_worker.svg) \[作業機]をタップします。
 
-<figure><img src="../../.gitbook/assets/add-worker-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-machine-entry-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-작업기 목록에 진입이 완료됩니다.
+作業機リストへのアクセスができます。
 
-<figure><img src="../../.gitbook/assets/add Worker-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-![](../../.gitbook/assets/add-button.svg) 작업기 추가 버튼을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/add-worker-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-작업기 타입, 너비 등의 세부 정보를 입력하고 확인을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/add-worker-4.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-작업기 추가가 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/add-worker-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-machine-entry-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### 작업기 추가 항목 설명
+#### 作業機リストのご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/work-machine-entry-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **작업기 타입**
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **取り付け済みの作業機**
 
-* 작업기 타입을 선택합니다.
+* 現在取り付け済みの作業機を表示します。
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **작업기 너비**
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **リストを確認する**
 
-* 작업기 너비를 입력합니다.
+*   作業機を一覧形式でご確認できます。リスト表示では\[拡大する]と表記されます。<br>
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **고랑폭**
+    <figure><img src="../../.gitbook/assets/work-machine-entry-view-list.png" alt=""><figcaption></figcaption></figure>
 
-* 고랑폭을 입력합니다.
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **作業機3D**
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **링크-작업기 거리**
+* 登録された作業機を3Dで表示します。
 
-* 링크와 작업기 간의 거리를 입력합니다.
+&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **作業機の情報**
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **작업기 편차**
+* 作業機タイプ、別名など作業機を追加した際に入力した情報が表示されます。
 
-* 작업기 편차를 입력합니다.
+&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **詳細をみる**
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **작업기 편차 계산**
+* 作業機の幅や偏差など、作業機の詳細情報を確認できます。
 
-* 3개의 라인을 주행하여 라인 간격을 입력하면 작업기 편차를 자동으로 계산할 수 있습니다.
-*   그림에서 안내하는 방향으로 3개의 라인을 주행하고, 주행 라인 사이의 거리를 측정하여 입력하세요.<br>
+&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **作業機の追加ボタン**
 
-    <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
-
-    * S1: 첫 번째 라인과 두 번째 사이의 거리 
-    * S2: 두 번째 라인과 세 번째 사이의 거리
-    * 화면 상단의 토글을 통해 좌측 방향/우측 방향을 선택할 수 있습니다.\
-      ![](../../.gitbook/assets/toggle-on-off.png)
+* 作業機を追加できるボタンです。

@@ -1,37 +1,28 @@
----
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm/managing-field-information
----
+# 圃場情報の修正/削除
 
-# 필드 정보 관리
+### 圃場情報の管理
 
-### 필드 정보 관리
-
-필드 이름, 농장 등의 정보를 수정하고 삭제할 수 있는 기능입니다.
-
-필드 추가에 대한 내용은 퀵셋업의 필드 추가 내용과 동일하게 작동합니다.
+圃場名、農場などの情報を修正し削除できる機能です。
 
 ***
 
-#### 필드 정보 관리 기능 진입
+#### 圃場情報の管理機能へアクセス
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/field-information-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 필드 항목의 ![](../../.gitbook/assets/ic_more.svg) 아이콘을 누릅니다.
+ご希望の圃場項目の ![](../../.gitbook/assets/ic_more.svg) アイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/field-information-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-팝업창에서 원하는 관리 기능을 선택합니다.
+ポップアップからご希望の管理機能を選択します。
 
 <figure><img src="../../.gitbook/assets/field-information-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -39,23 +30,23 @@ metaLinks:
 
 ***
 
-#### 필드 정보 수정
+#### 圃場情報の修正
 
 {% stepper %}
 {% step %}
-\[수정] 옵션을 선택합니다..
+\[修正]オプションを選択します。
 
 <figure><img src="../../.gitbook/assets/modifying-field-information-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-수정을 원하는 필드 정보를 입력하고 \[수정 완료]를 누릅니다.
+修正したい圃場の情報を入力し、\[修正完了]をクリックします。
 
 <figure><img src="../../.gitbook/assets/modifying-field-information-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-필드 정보 수정이 완료됩니다.
+圃場情報の修正が完了します。
 
 <figure><img src="../../.gitbook/assets/modifying-field-information-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -63,23 +54,23 @@ metaLinks:
 
 ***
 
-#### 필드 정보 삭제
+#### 圃場情報の削除
 
 {% stepper %}
 {% step %}
-\[삭제]옵션을 누릅니다.
+\[削除]オプションをクリックします。
 
 <figure><img src="../../.gitbook/assets/delete-field-information-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[삭제]를 누릅니다.
+\[削除]ボタンを押します。
 
 <figure><img src="../../.gitbook/assets/delete-field-information-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-삭제가 완료됩니다.
+削除が完了します。
 
 <figure><img src="../../.gitbook/assets/delete-field-information-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

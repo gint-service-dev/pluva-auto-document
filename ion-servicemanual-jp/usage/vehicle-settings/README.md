@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings
 ---
 
-# 차량 관리
+# 車両管理
 
 ### 차량 관리
 
@@ -30,8 +30,8 @@ metaLinks:
 [inertial-sensor-calibration.md](inertial-sensor-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="vehicle-control-settings.md" %}
-[vehicle-control-settings.md](vehicle-control-settings.md)
+{% content-ref url="/broken/pages/RakCDp734XKd99zh260o" %}
+[Broken link](/broken/pages/RakCDp734XKd99zh260o)
 {% endcontent-ref %}
 
 {% content-ref url="gnss-receiver-setting.md" %}

@@ -5,52 +5,62 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/imu-calibration
 ---
 
-# 롤/피치/요 보정(IMU)
+# 慣性センサー矯正
 
-### 롤/피치/요 보정(IMU)
+### 慣性センサー矯正
 
-롤/피치/요 보정은 경사지나 불규칙한 지형에서도 정확한 방향과 자세를 유지하기 위해, GNSS수신기의 기준값을 조정하는 기능입니다. 설치 상태에 따라 기울어짐이 큰 경우 값을 입력해 보정할 수 있습니다.
+慣性センサー矯正は、車両の傾きや回転、振動データを基準値として補正し、自動操舵時の経路追従の精度を高めるための手順です。必ず車両を停止し、エンジンを切った状態で作業を進めてください。
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_vehicle.svg) \[차량] 버튼을 누릅니다.
+![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
 
-<figure><img src="../../.gitbook/assets/imu-calibration-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-차량 보정을 누릅니다.
+車両補正をタップしてください。
 
-<figure><img src="../../.gitbook/assets/imu-calibration-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-롤,피치,요 측정을 누르면 진입이 완료됩니다.
+慣性センサー矯正をタップするとアクセスできます。
 
-<figure><img src="../../.gitbook/assets/imu-calibration-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-원하는 치수를 입력하고 \[확인]을 누르면  적용이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/imu-calibration-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### 롤,피치,요 보정 설명
+#### 慣性センサー矯正のご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/imu-calibration-screen.png" alt=""><figcaption></figcaption></figure></div>
+{% stepper %}
+{% step %}
+\[矯正開始]をタップしてください。
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **ROll 롤**
+<figure><img src="../../.gitbook/assets/inertial-sensor-description-1.png" alt=""><figcaption></figcaption></figure>
 
-* GNSS 수신기가 좌/우 방향으로 기울어진 각도를 의미합니다.
+{% hint style="info" %}
+必ず車両を停止し、エンジンを切ってから始めてください。
+{% endhint %}
+{% endstep %}
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **Pitch 피치**
+{% step %}
+慣性センサー矯正が始まります。
 
-* GNSS 수신기가 앞/뒤 방향으로 기울어진 각도를 의미합니다.
+<figure><img src="../../.gitbook/assets/inertial-sensor-description-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **Yaw 요**
+{% step %}
+矯正が完了したら、\[確認]を押して終了します。
 
-* GNSS 수신기가 수직축을 기준으로 회전한 각도를 의미합니다.
+<figure><img src="../../.gitbook/assets/inertial-sensor-description-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+矯正できなった場合は、再度お試しいただくか、購入先にお問い合わせください。
+
+<img src="../../.gitbook/assets/calibration-failed.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+{% endstepper %}

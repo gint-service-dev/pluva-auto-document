@@ -21,16 +21,16 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management
 ---
 
-# 작업기 관리
+# 作業機の管理
 
-### 작업기 관리
+### 作業機の管理
 
-작업기 관리는 작업에 사용하는 작업기를 추가하고, 장착 상태 및 작업기 정보를 확인하는 메뉴입니다.
+作業機の管理は、作業で使用する作業機を追加し、取り付け状態および作業機情報を確認するメニューです。
 
-{% content-ref url="/broken/pages/G8D0w2O94WmqaikNFSpV" %}
-[Broken link](/broken/pages/G8D0w2O94WmqaikNFSpV)
+{% content-ref url="/broken/pages/KRDALSmqHbSt1Ex91iHf" %}
+[Broken link](/broken/pages/KRDALSmqHbSt1Ex91iHf)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/TYTPKr5BGNY2QTv2Ox8l" %}
-[Broken link](/broken/pages/TYTPKr5BGNY2QTv2Ox8l)
+{% content-ref url="/broken/pages/mcRm7YW1HeEVyo10PmxU" %}
+[Broken link](/broken/pages/mcRm7YW1HeEVyo10PmxU)
 {% endcontent-ref %}

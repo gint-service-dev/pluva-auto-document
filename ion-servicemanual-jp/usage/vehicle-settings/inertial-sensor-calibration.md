@@ -5,62 +5,402 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/inertial-sensor-calibration
 ---
 
-# 관성센서 보정
+# 車両の制御設定
 
-### 관성센서 보정
+### 車両の制御設定
 
-관성센서 보정은 차량의 기울기, 회전, 진동 데이터를 기준값으로 보정하여 자율주행 시 경로 추종 적확도를 높이는 절차입니다. 반드시 차량을 정차하고 시동을 끈 상태에서 진행합니다.
+車両の制御設定とは、作業環境に合わせて自動操舵の反応（自動操舵の解除感度、経路進入の特性など）を調整する機能です。設定変更は、走行の性能に影響を与えかねませんので、購入先の案内に従って調整することをおすすめします。
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_vehicle.svg) \[차량] 버튼을 누릅니다.
+![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vehicle-control-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-차량 보정을 누릅니다.
+\[車両]をタップします。
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vehicle-control-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-관성센서 측정을 누르면 진입이 완료됩니다.
+車両の制御設定へアクセスできます。
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vehicle-control-settings-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### 관성센서 보정 설명
+#### 車両の制御設定のご案内
+
+> #### 一般設定方法
+
+<div align="left"><figure><img src="../../.gitbook/assets/general-settings.png" alt=""><figcaption></figcaption></figure></div>
+
+&#x20;
+
+![](../../.gitbook/assets/icon-square-1-1.svg) **自動操舵の解除の許可**
+
+* 運転者がハンドルを直接操作したときに、自動操舵を自動で解除するかどうかを設定します。
+
+{% hint style="info" %}
+手動解除強度の許可トグルをオンにすると強度を設定できます。
+
+<img src="../../.gitbook/assets/toggle-onoff.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+設定を弱くするほど、ステアリングホイールにわずかな力を加えるだけで自動操舵が解除されます。
+{% endhint %}
+
+{% hint style="info" %}
+アイコンを押すと、その機能に関する説明を確認できます。
+{% endhint %}
+
+&#x20;
+
+![](../../.gitbook/assets/icon-square-2-2.svg) **経路の進入距離の設定**
+
+* 車両が走行経路上のどの程度離れた地点を目標にして進入するかを設定します。
+
+{% hint style="info" %}
+前進、後進を選択して設定できます。
+{% endhint %}
+
+{% hint style="info" %}
+遠い地点を目標にする場合、ゆっくりと滑らかに進入し、近い地点を目標にする場合、素早く機敏に進入します。
+{% endhint %}
+
+{% hint style="info" %}
+経路の進入距離は、詳細設定から数値で細かく設定でき、変更値は一般設定と連動されます。
+{% endhint %}
+
+{% hint style="info" %}
+<img src="../../.gitbook/assets/ic_circle_help.svg" alt="" data-size="line">アイコンを押すと、その機能に関する説明を確認できます。
+{% endhint %}
+
+
+
+> #### 詳細設定の方法
 
 {% stepper %}
 {% step %}
-\[보정 시작]을 누릅니다.
+詳細設定 <img src="../../.gitbook/assets/ic_arrow_tiny.svg" alt="" data-size="line"> をタップし、高度な設定機能を使用できます。
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-1.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/advanced-settings.png" alt=""><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-반드시 차량을 정차하고 시동을 끈 후 시작합니다.
-{% endhint %}
-{% endstep %}
 
-{% step %}
-관성센서 보정이 진행됩니다.
-
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-교정이 완료되면 \[확인]을 눌러 종료합니다.
-
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-3.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-보정에 실패하면 다시 시도를 하거나 대리점에 문의해주세요.
-
-<img src="../../.gitbook/assets/calibration-failed.png" alt="" data-size="original">
-{% endhint %}
 {% endstep %}
 {% endstepper %}
+
+> #### 詳細設定項目のご案内
+
+#### **a.** 自動操舵の解除の許可（前進）
+
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **前進での開始条件**
+
+1. 前進開始条件 ：前進で自動操舵を開始する際に、安全条件を使用するかどうかを設定します。
+
+{% hint style="info" %}
+トグルで機能をオン・オフできます。
+
+<img src="../../.gitbook/assets/toggle-onoff.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+使用する場合：安全条件を満たした場合にのみ自動操舵を開始できます。\
+使用しない場合：いつでも自動操舵を開始できます。
+{% endhint %}
+
+{% hint style="danger" %}
+安全条件を使用しない場合、危険な状況でも自動操舵が開始される恐れがあります。特別な理由がない限り、安全条件をオンにした状態で使用してください。
+{% endhint %}
+
+2. 前進距離条件 ：前進で自動操舵を開始できる最大距離を設定します。
+
+{% hint style="info" %}
+経路から車両がこの値より遠い距離に位置している場合、自動操舵を開始できません。
+{% endhint %}
+
+3. 前進角度条件 ：前進で自動操舵を開始できる最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵を開始できません。
+{% endhint %}
+
+4. 前進速度条件 ：前進で自動操舵を開始できる最大速度を設定します。
+
+{% hint style="info" %}
+この速度より速く走行している場合は、自動操舵を開始できません。
+{% endhint %}
+
+&#x20;
+
+![](../../.gitbook/assets/icon-square-2-2.svg) **前進での解除条件**
+
+1. 前進解除条件の使用 ：前進時に条件から外れた場合、自動操舵を自動で解除するかどうかを設定します。
+
+{% hint style="info" %}
+使用する場合：条件から外れた場合、自動で自動操舵が解除されます。\
+使用しない場合：運転者の操作のみで自動操舵が解除されます。
+{% endhint %}
+
+{% hint style="danger" %}
+安全条件を使用しない場合、危険な状況でも自動操舵が開始される恐れがあります。特別な理由がない限り、安全条件をオンにした状態で使用してください。
+{% endhint %}
+
+2. ランディング前の前進距離 ：前進で経路に完全に入る前に、自動操舵が解除される最大距離を設定します。
+
+{% hint style="info" %}
+車両が経路からこの値より遠い距離に位置すると、自動操舵が解除されます。
+{% endhint %}
+
+3. ランディング前の前進角度 ：前進で経路に完全に入る前に、自動操舵が解除される最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵が解除されます。
+{% endhint %}
+
+4. ランディング後の前進距離 ：前進で経路に完全に進入した後、自動操舵が解除される最大距離を設定します。
+
+{% hint style="info" %}
+車両が経路からこの値より遠い距離に位置すると、自動操舵が解除されます。
+{% endhint %}
+
+5. ランディング後の前進角度 ：前進で経路に完全に進入した後、自動操舵が解除される最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵が解除されます。
+{% endhint %}
+
+6. 前進速度条件 ：前進中に自動操舵が自動で解除される最大速度を設定します。
+
+{% hint style="info" %}
+この速度より速く走行すると、自動操舵が自動で解除されます。
+{% endhint %}
+
+&#x20;
+
+![](../../.gitbook/assets/icon-square-3-3.svg) **前進での最低速度条件**
+
+* 前進自動操舵に必要な最低速度を設定します。
+
+{% hint style="info" %}
+この速度より遅い場合は、自動操舵が開始されないか、解除されます。
+{% endhint %}
+
+{% hint style="danger" %}
+開始条件と解除条件の使用有無に応じて、該当する時点でのみ適用されます。
+{% endhint %}
+
+
+
+#### **b.** 自動操舵の解除の許可 (後進)
+
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **後進での開始条件**
+
+1. 後進開始条件 ：後進で自動操舵を開始する際に、安全条件を使用するかどうかを設定します。
+
+{% hint style="info" %}
+使用する場合：安全条件を満たした場合にのみ自動操舵を開始できます。\
+使用しない場合：いつでも自動操舵を開始できます。
+{% endhint %}
+
+{% hint style="danger" %}
+安全条件を使用しない場合、危険な状況でも自動操舵が開始される恐れがあります。特別な理由がない限り、安全条件をオンにした状態で使用してください。
+{% endhint %}
+
+2. 後進距離条件 ：後進で自動操舵を開始できる最大距離を設定します。
+
+{% hint style="info" %}
+経路から車両がこの値より遠い距離に位置している場合、自動操舵を開始できません。
+{% endhint %}
+
+3. 後進角度条件 ：後進で自動操舵を開始できる最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵を開始できません。
+{% endhint %}
+
+4. 後進速度条件 ：後進で自動操舵を開始できる最大速度を設定します。
+
+{% hint style="info" %}
+この速度より速く走行している場合は、自動操舵を開始できません。
+{% endhint %}
+
+
+
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg)  **後進での解除条件**
+
+1. 後進解除条件の使用 ：後進時に条件から外れた場合、自動操舵を自動で解除するかどうかを設定します。
+
+{% hint style="info" %}
+使用する場合：条件から外れた場合、自動で自動操舵が解除されます。\
+使用しない場合：運転者の操作のみで自動操舵が解除されます。
+{% endhint %}
+
+{% hint style="danger" %}
+安全条件を使用しない場合、危険な状況でも自動操舵が開始される恐れがあります。特別な理由がない限り、安全条件をオンにした状態で使用してください。
+{% endhint %}
+
+2. ランディング前の後進距離 ：後進で経路に完全に進入する前に自動操舵が解除される最大距離を設定します。
+
+{% hint style="info" %}
+車両が経路からこの値より遠い距離に位置すると、自動操舵が解除されます。
+{% endhint %}
+
+3. ランディング前の後進角度 ：後進で経路に完全に入る前に自動操舵が解除される最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵は解除されます。
+{% endhint %}
+
+4. ランディング後の後進距離 ：後進で経路に完全に進入した後、自動操舵が解除される最大距離を設定します。
+
+{% hint style="info" %}
+車両が経路からこの値より遠い距離に位置すると、自動操舵が解除されます。
+{% endhint %}
+
+5. ランディング後の後進角度 ：後進で経路に完全に進入した後、自動操舵が解除される最大の角度差を設定します。
+
+{% hint style="info" %}
+車両と経路の角度差がこの値より大きい場合、自動操舵は解除されます。
+{% endhint %}
+
+6. 後進速度条件 ：後進中に自動操舵が自動で解除される最大速度を設定します。
+
+{% hint style="info" %}
+この速度より速く走行すると、自動操舵が自動で解除されます。
+{% endhint %}
+
+
+
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg)  **後進での最低速度条件**
+
+* 後進自動操舵に必要な最低速度を設定します。
+
+{% hint style="info" %}
+この速度より遅い場合は、自動操舵が開始されないか、解除されます。
+{% endhint %}
+
+{% hint style="danger" %}
+開始条件と解除条件の使用有無に応じて、該当する時点でのみ適用されます。
+{% endhint %}
+
+
+
+#### **c.** 経路の進入距離の詳細設定
+
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **進入傾向**
+
+1. 前進経路の進入距離 : 前進で車両が経路上のどれくらい遠い地点を目標に進入するかを設定します。
+
+{% hint style="info" %}
+経路の進入距離は、詳細設定から数値で細かく設定でき、変更値は一般設定と連動されます。
+{% endhint %}
+
+2. 後進経路の進入距離 : 後進で車両が経路上のどれくらい遠い地点を目標に進入するかを設定します。
+
+{% hint style="info" %}
+経路の進入距離は、詳細設定から数値で細かく設定でき、変更値は一般設定と連動されます。
+{% endhint %}
+
+3. 経路の進入角度 : 車両が経路に進入する際にどれだけ積極的に入るかを設定します。
+
+{% hint style="info" %}
+値が大きいほど経路に急激に進入し、値が小さいほど緩やかに進入します。
+{% endhint %}
+
+{% hint style="danger" %}
+あまりにも小さく設定すると、進入速度が遅すぎる恐れがあります。
+{% endhint %}
+
+4. 経路への進入時間 : 経路に進入するために、事前に計画する時間を設定します。
+
+{% hint style="info" %}
+値が大きいほど時間をかけて計画するため滑らかに進入し、値が小さいほど直前に計画するため機敏に進入します。
+{% endhint %}
+
+{% hint style="info" %}
+車両の経路進入度合いを調整するには、進入距離 → 進入角度 → 進入時間の順に設定することをおすすめします。
+{% endhint %}
+
+&#x20;
+
+![](../../.gitbook/assets/icon-square-2-2.svg)  **追従感度**
+
+1. 前進経路の追従感度 : 前進で進入した後、経路をどれだけ正確に追従するかを設定します。
+
+{% hint style="info" %}
+値が大きいほどゆったりと追従し、値が小さいほど機敏に追従します。
+{% endhint %}
+
+{% hint style="danger" %}
+この設定は走行性能に大きな影響を与えるため、慎重に調整してください。
+{% endhint %}
+
+2. 後進経路の追従感度 : 後進で進入した後、経路をどれだけ正確に追従するかを設定します。
+
+{% hint style="info" %}
+値が大きいほどゆったりと追従し、値が小さいほど機敏に追従します。
+{% endhint %}
+
+{% hint style="danger" %}
+この設定は走行性能に大きな影響を与えるため、慎重に調整してください。
+{% endhint %}
+
+
+
+![](../../.gitbook/assets/icon-square-3-3.svg)  **ステアリング感度**
+
+1. ランディング前の前進ステアリング感度 : 前進で経路に完全に入る前のステアリング感度を設定します。
+
+{% hint style="info" %}
+値が大きいほどハンドル操作が滑らかになり、値が小さいほどハンドル操作が敏感になります。
+{% endhint %}
+
+2. ランディング前の後進ステアリング感度 : 後進で経路に完全に入る前のステアリング感度を設定します。
+
+{% hint style="info" %}
+値が大きいほどハンドル操作が滑らかになり、値が小さいほどハンドル操作が敏感になります。
+{% endhint %}
+
+3. ランディング後の前進ステアリング感度 : 前進で経路に完全に入った後のステアリング感度を設定します。
+
+{% hint style="info" %}
+値が大きいほどハンドル操作が滑らかになり、値が小さいほどハンドル操作が敏感になります。
+{% endhint %}
+
+4. ランディング後の後進ステアリング感度 : 後進で経路に完全に入った後のステアリング感度を設定します。
+
+{% hint style="info" %}
+値が大きいほどハンドル操作が滑らかになり、値が小さいほどハンドル操作が敏感になります。
+{% endhint %}
+
+5. 死角ゾーンの補正 : ハンドルを回しても車輪が動かない区間を補正します。
+
+{% hint style="info" %}
+設定値と実際の死角ゾーンの誤差が大きいほど、死角ゾーンの範囲が広いほど粗く制御される可能性があります。
+{% endhint %}
+
+{% hint style="danger" %}
+正しくない値は自動操舵の性能に大きな影響を与えるため、死角ゾーンは必ず実測してから正確に設定してください。
+{% endhint %}
+
+6. ターンステアリング補正 : ターン時に、設定された経路を基準にステアリングを補正します。
+
+{% hint style="info" %}
+値が大きいほど経路の内側に入り、積極的にターンします。
+{% endhint %}
+
+
+
+![](../../.gitbook/assets/icon-square-4-4.svg)  **曲率半径の制限**
+
+* カーブ経路の生成時に最大曲率を制限して経路を補正します。
+
+{% hint style="info" %}
+ABカーブモードでのみ設定可能です。
+{% endhint %}
