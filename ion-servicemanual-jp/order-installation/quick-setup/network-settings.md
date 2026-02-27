@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/network-settings
 ---
 
-# ネットワーク設定 (네트워크 설정)
+# ネットワーク設定&#x20;
 
 ### ネットワーク設定
 
@@ -60,7 +60,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-\[Wi-Fi]タブを押して下さい。
+**\[Wi-Fi]**&#x30BF;ブを押して下さい。
 
 <figure><img src="../../.gitbook/assets/tablet 6 - Network Settings _ WIFI (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

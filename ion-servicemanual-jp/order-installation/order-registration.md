@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/order-registration
 ---
 
-# 開通の準備 (개통 준비)
+# 開通の準備
 
-### 開通の準備 ~~개통  준비~~&#x20;
+### 開通の準備&#x20;
 
 
 

@@ -5,19 +5,21 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-vehicle
 ---
 
-# 車両の追加 (차량 추가)
+# 車両の追加&#x20;
 
-### 차량 추가
+### 車両の追加
 
 作業に使う車両を追加します。
 
 {% hint style="info" %}
-설設定した車両の寸法値は、タブレットの [車両情報 (내 차량)](../../usage/vehicle-settings/modifying-vehicle-information.md)から確認および変更が可能です。
+設定した車両の寸法値は、タブレットの [車両](../../usage/vehicle-settings/entering-my-vehicle.md)から確認および変更が可能です。
 {% endhint %}
+
+
 
 ***
 
-#### 車両の追加方法 (차량추가방법)
+#### 車両の追加方法&#x20;
 
 {% stepper %}
 {% step %}
@@ -51,7 +53,7 @@ metaLinks:
 
 ***
 
-#### 車両寸法の詳細項目 (차량 치수 설정 항목)
+#### 車両寸法の詳細項目
 
 {% hint style="info" %}
 車両寸法の測定は、必ず平らな場所で行ってください。

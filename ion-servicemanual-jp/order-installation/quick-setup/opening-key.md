@@ -5,9 +5,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/opening-key
 ---
 
-# RTK入力 (RTK입력)
+# RTK入力
 
-### RTK入力 (RTK입력)
+### RTK入力
 
 
 
