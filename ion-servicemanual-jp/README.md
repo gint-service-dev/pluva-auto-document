@@ -16,7 +16,7 @@ metaLinks:
 
 <summary><a href="user-manual-info.md">取扱説明書の情報</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>サービスマニュアル情報</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr><tr><td>영상 가이드</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>サービスマニュアル情報</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr><tr><td>映像ガイド</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
 
 </details>
 
