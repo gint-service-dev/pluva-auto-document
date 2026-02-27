@@ -19,13 +19,13 @@ pluva iONの自動操舵に必要なステアリングホイールとオート�
 
 <figure><img src="../../.gitbook/assets/90 - electric-steering-wheel-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="161.1815185546875">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>スプライン</td><td>-</td><td>1</td></tr><tr><td><p>フロント</p><p>ブラケット</p></td><td>-</td><td>1</td></tr><tr><td><p>スプライン</p><p>固定用のボルト</p></td><td>M4 X 8</td><td>7</td></tr><tr><td><p>フロント</p><p>ブラケット</p><p>固定用のボルト</p></td><td>M5 X 10</td><td>3</td></tr></tbody></table>
+<table><thead><tr><th width="161.1815185546875">項目</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>スプライン</td><td>-</td><td>1</td></tr><tr><td><p>フロント</p><p>ブラケット</p></td><td>-</td><td>1</td></tr><tr><td><p>スプライン</p><p>固定用のボルト</p></td><td>M4 X 8</td><td>7</td></tr><tr><td><p>フロント</p><p>ブラケット</p><p>固定用のボルト</p></td><td>M5 X 10</td><td>3</td></tr></tbody></table>
 
 #### 🛠️ 必要な工具
 
 <figure><img src="../../.gitbook/assets/91 - electric-steering-wheel-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="164.5">名前</th><th>規格</th></tr></thead><tbody><tr><td>ソケットレンチ</td><td>14mm, 17mm, 19mm, 22mm, 24mm, 27mm</td></tr><tr><td>六角レンチ</td><td>4mm, 5mm</td></tr><tr><td>ラチェットレンチ</td><td>4mm, 5mm</td></tr><tr><td>ギヤプーラー</td><td>200mm 8”</td></tr><tr><td>ドライバー (-)</td><td>6 X 150</td></tr><tr><td>金づち</td><td>頭経 34mm</td></tr></tbody></table>
+<table><thead><tr><th width="164.5">項目</th><th>規格</th></tr></thead><tbody><tr><td>ソケットレンチ</td><td>14mm, 17mm, 19mm, 22mm, 24mm, 27mm</td></tr><tr><td>六角レンチ</td><td>4mm, 5mm</td></tr><tr><td>ラチェットレンチ</td><td>4mm, 5mm</td></tr><tr><td>ギヤプーラー</td><td>200mm 8”</td></tr><tr><td>ドライバー (-)</td><td>6 X 150</td></tr><tr><td>金づち</td><td>頭経 34mm</td></tr></tbody></table>
 
 ***
 

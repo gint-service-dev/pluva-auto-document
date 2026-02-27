@@ -19,13 +19,13 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/92 - gnss receiver-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="161.1815185546875">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>GNSS 受信機</td><td>-</td><td>1</td></tr><tr><td>ハーネス</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="161.1815185546875">項目</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>GNSS 受信機</td><td>-</td><td>1</td></tr><tr><td>ハーネス</td><td>-</td><td>1</td></tr></tbody></table>
 
 #### 🛠️ 必要な工具
 
 <figure><img src="../../.gitbook/assets/93 - gnss receiver-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td><p>ソケット</p><p>レンチ</p></td><td>13mm</td><td>1</td></tr><tr><td>水準器</td><td>-</td><td>1</td></tr><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">項目</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td><p>ソケット</p><p>レンチ</p></td><td>13mm</td><td>1</td></tr><tr><td>水準器</td><td>-</td><td>1</td></tr><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr></tbody></table>
 
 ***
 
