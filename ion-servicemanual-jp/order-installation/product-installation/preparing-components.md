@@ -97,21 +97,25 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/2.svg) タブレットスリープボタン
 
 * タブレットの電源をオン、またはオフにします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/태블릿-전원.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/3.svg) 右側(▶)
 
 * 設定画面：選択項目を右へ移動します。
 * 自動操舵中：等間隔のラインを右側に一定間隔で移動させます。
-*   ターン中：右側へ即時ターンします。
-
-
+* ターン中：右側へ即時ターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/4.svg) 左側(◀)
 
@@ -121,6 +125,8 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/5.svg) 選択 / 自動操舵ON・OFF
 
 * 設定画面：選択項目を確定させます。
@@ -128,17 +134,23 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-6.svg) キャンセル/前へ
 
 * 前の画面に移動、または実施中の動作を中断します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-7.svg) お気に入り機能
 
 * お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-8.svg) メインコネクター
 
@@ -156,7 +168,7 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 <table><thead><tr><th width="154.2626953125"></th><th></th></tr></thead><tbody><tr><td>用途</td><td>GNSS受信機、タブレット、ステアリングホイール、ワンタッチスイッチ、バックカメラから電源及びデータを受信するためのハーネス</td></tr><tr><td>ヒューズの規格</td><td>MIni fuse 30A</td></tr><tr><td>定格電圧</td><td>12V</td></tr><tr><td>リレー仕様</td><td>12V, 40A</td></tr><tr><td>その他</td><td>メイン電源スイッチとの接続必要</td></tr></tbody></table>
 
-#### 단자 이미지
+#### 各種端子の形
 
 <figure><img src="../../.gitbook/assets/88 - Harness terminal.png" alt=""><figcaption></figcaption></figure>
 
