@@ -5,11 +5,11 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/tablet
 ---
 
-# タブレットの取り付け&#x20;
+# タブレットの取り付け
 
 ## タブレットの取り付け
 
-플루바 아이온 자율주행에 필요한 태블릿를 설치합니다.
+pluva iONの自動操舵に必要な タブレットを取付ます。
 
 ***
 
