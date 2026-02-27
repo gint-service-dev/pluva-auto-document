@@ -20,29 +20,37 @@ metaLinks:
 #### 車両タイプ別の補正項目&#x20;
 
 1. [**\[トラクター\]**](vehicle-calibration.md#torakut)
-   1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
-   2. [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)&#x20;
-      1. **一般車両オートステア補正**
-         1. ハンドル範囲補正
-         2. 直進操舵補正画面<br>
-      2.  **速ターン車両オートステア補正**
+   1.  **一般車両オートステア補正**
 
-          *   倍速ターンオプション搭載車は、**倍速ターンのOFF/ONそれぞれの状態でオー**トステア補正を行います。そのため、オートステア補正**は2回**実施されます。
+       1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
+       2.  [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)&#x20;
 
-              <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。</p></div>
+           1. ハンドル範囲補正
+           2. 直進操舵補正画面
 
 
 
+       <br>
+   2.  **速ターン車両オートステア補正**
+
+       *   倍速ターンオプション搭載車は、**倍速ターンのOFF/ONそれぞれの状態でオー**トステア補正を行います。そのため、オートステア補正**は2回**実施されます。
+
+           <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。</p></div>
+
+       1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
+       2. [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)&#x20;
           1. OFF状態設定&#x20;
              1. ハンドル範囲補正&#x20;
-             2. 1次直進操舵補正画面&#x20;
+             2.  1次直進操舵補正画面&#x20;
+
+
           2.  ON状態設定
 
               1. 2次直進操舵補正画面
 
 
 
-          <br>
+       <br>
 2.  [**\[田植機\]**](vehicle-calibration.md#tian-zhi-ji)
 
     1. オートステアリング補正
@@ -53,8 +61,6 @@ metaLinks:
 
 
     <br>
-
-
 
 
 
