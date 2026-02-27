@@ -21,11 +21,11 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/harness
 ---
 
-# ハーネスの取り付け&#x20;
+# ハーネスの取り付け
 
 ## ハーネスの取り付け
 
-플루바 아이온 자율주행에 필요한 하네스를 설치합니다.
+pluva iONの自動操舵に必要なハーネスを取付ます。
 
 ***
 
