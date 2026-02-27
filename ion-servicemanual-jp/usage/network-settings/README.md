@@ -10,14 +10,14 @@ metaLinks:
 
 自動操舵と機器の連動に必要なネットワークの接続方法をご案内します。このメニューでは位置補正とタブレットのネットワーク（Wi-Fi/セルラー）を設定することで、作業中のネットワーク切断を減らし安定した作業環境を準備することができます。
 
-{% content-ref url="/broken/pages/V8OneK4iQPYAk9UrNJxM" %}
-[Broken link](/broken/pages/V8OneK4iQPYAk9UrNJxM)
+{% content-ref url="enter-network.md" %}
+[enter-network.md](enter-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/xZ233BnOydt1v7jmcC3y" %}
-[Broken link](/broken/pages/xZ233BnOydt1v7jmcC3y)
+{% content-ref url="rtk-setting.md" %}
+[rtk-setting.md](rtk-setting.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/7YZg3kpS1XNuwxdRKjM1" %}
-[Broken link](/broken/pages/7YZg3kpS1XNuwxdRKjM1)
+{% content-ref url="network-setting.md" %}
+[network-setting.md](network-setting.md)
 {% endcontent-ref %}

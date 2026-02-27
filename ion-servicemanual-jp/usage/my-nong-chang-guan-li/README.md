@@ -10,26 +10,26 @@ metaLinks:
 
 My Farmは農場と圃場情報をまとめて作業環境を管理するメニューです。 圃場や作業経路、余裕区間（枕地）などを一か所にまとめて管理できます。
 
-{% content-ref url="/broken/pages/AFKvaHBMw9WwWxU9twby" %}
-[Broken link](/broken/pages/AFKvaHBMw9WwWxU9twby)
+{% content-ref url="farm-management.md" %}
+[farm-management.md](farm-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/rSz8rvIAOWgDiUH1pULn" %}
-[Broken link](/broken/pages/rSz8rvIAOWgDiUH1pULn)
+{% content-ref url="farm-owner-management.md" %}
+[farm-owner-management.md](farm-owner-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/hRlOdATqUgHtmj5Wnw7X" %}
-[Broken link](/broken/pages/hRlOdATqUgHtmj5Wnw7X)
+{% content-ref url="managing-field-information.md" %}
+[managing-field-information.md](managing-field-information.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/gCL9U737zK3BMu2upq1a" %}
-[Broken link](/broken/pages/gCL9U737zK3BMu2upq1a)
+{% content-ref url="managing-field-information-1.md" %}
+[managing-field-information-1.md](managing-field-information-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/BiqacN8chhPeekaVxURH" %}
-[Broken link](/broken/pages/BiqacN8chhPeekaVxURH)
+{% content-ref url="managing-headland-information.md" %}
+[managing-headland-information.md](managing-headland-information.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/BapDla10BaAewBBQz5Nd" %}
-[Broken link](/broken/pages/BapDla10BaAewBBQz5Nd)
+{% content-ref url="managing-headland-information-1.md" %}
+[managing-headland-information-1.md](managing-headland-information-1.md)
 {% endcontent-ref %}

@@ -30,10 +30,6 @@ metaLinks:
 [inertial-sensor-calibration.md](inertial-sensor-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/RakCDp734XKd99zh260o" %}
-[Broken link](/broken/pages/RakCDp734XKd99zh260o)
-{% endcontent-ref %}
-
 {% content-ref url="gnss-receiver-setting.md" %}
 [gnss-receiver-setting.md](gnss-receiver-setting.md)
 {% endcontent-ref %}

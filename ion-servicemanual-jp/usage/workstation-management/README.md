@@ -27,10 +27,10 @@ metaLinks:
 
 作業機の管理は、作業で使用する作業機を追加し、取り付け状態および作業機情報を確認するメニューです。
 
-{% content-ref url="/broken/pages/KRDALSmqHbSt1Ex91iHf" %}
-[Broken link](/broken/pages/KRDALSmqHbSt1Ex91iHf)
+{% content-ref url="add-worker.md" %}
+[add-worker.md](add-worker.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/mcRm7YW1HeEVyo10PmxU" %}
-[Broken link](/broken/pages/mcRm7YW1HeEVyo10PmxU)
+{% content-ref url="add-worker-1.md" %}
+[add-worker-1.md](add-worker-1.md)
 {% endcontent-ref %}

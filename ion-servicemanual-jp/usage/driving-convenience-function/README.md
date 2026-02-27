@@ -11,26 +11,26 @@ metaLinks:
 
 等間隔ラインを引っ張ってくる、作業幅の設定、走行画面の比率調整など、利便性を向上するための様々な機能を必要に応じてご利用できます。
 
-{% content-ref url="/broken/pages/jqFqBbQ3dylQAjJNkFLM" %}
-[Broken link](/broken/pages/jqFqBbQ3dylQAjJNkFLM)
+{% content-ref url="save-path.md" %}
+[save-path.md](save-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/njfHSBPPe2nnkrg3zvvP" %}
-[Broken link](/broken/pages/njfHSBPPe2nnkrg3zvvP)
+{% content-ref url="bringing-up-path.md" %}
+[bringing-up-path.md](bringing-up-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/cMhZZsLLiKInwpn3Ydi3" %}
-[Broken link](/broken/pages/cMhZZsLLiKInwpn3Ydi3)
+{% content-ref url="path-sharing.md" %}
+[path-sharing.md](path-sharing.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/OZmZB5yOw3qJiBX3dZye" %}
-[Broken link](/broken/pages/OZmZB5yOw3qJiBX3dZye)
+{% content-ref url="delete-path.md" %}
+[delete-path.md](delete-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/UxwBSW4KIuCyGMF5YSwt" %}
-[Broken link](/broken/pages/UxwBSW4KIuCyGMF5YSwt)
+{% content-ref url="equal-interval.md" %}
+[equal-interval.md](equal-interval.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/AcGpVV0hf5Ih2coB5ziD" %}
-[Broken link](/broken/pages/AcGpVV0hf5Ih2coB5ziD)
+{% content-ref url="adjusting-driving-screen.md" %}
+[adjusting-driving-screen.md](adjusting-driving-screen.md)
 {% endcontent-ref %}

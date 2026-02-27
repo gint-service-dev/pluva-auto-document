@@ -10,7 +10,7 @@ metaLinks:
 
 本製品をお使いになる前に、ご確認いただくべき基本設定と事前の案内事項について説明します。
 
-{% content-ref url="/broken/pages/LJ9ldS4XrGKwKqlLcAGH" %}
-[Broken link](/broken/pages/LJ9ldS4XrGKwKqlLcAGH)
+{% content-ref url="ota.md" %}
+[ota.md](ota.md)
 {% endcontent-ref %}
 
