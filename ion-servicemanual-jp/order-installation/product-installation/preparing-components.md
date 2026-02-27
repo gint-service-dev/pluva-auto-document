@@ -5,11 +5,11 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/preparing-components
 ---
 
-# 구성품 준비
+# 構成品の準備
 
-### 구성품 준비
+### 構成品の準備
 
-제품 설치를 위해 필요 구성품을 준비합니다.&#x20;
+製品取付のために必要構成品を用意して下さい。
 
 ***
 
@@ -31,7 +31,7 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 ステータス区分
 
-<table data-header-hidden><thead><tr><th width="100.4921875"></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>黄色で点滅</td></tr><tr><td>ステータス</td><td>正常</td><td>エラー発生</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-left-yellow.png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="124.4921875"></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>黄色で点滅</td></tr><tr><td>ステータス</td><td>正常</td><td>エラー発生</td></tr><tr><td>イメージ</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-left-yellow.png" alt=""></td></tr></tbody></table>
 
 
 
@@ -42,7 +42,7 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 ステータス区分
 
-<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>正常</td><td>5秒以上未受信</td><td>60秒以上未受信<br>（または受信記録なし）</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-off.png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="132.2408447265625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>正常</td><td>5秒以上未受信</td><td>60秒以上未受信<br>（または受信記録なし）</td></tr><tr><td>イメージ</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-off.png" alt=""></td></tr></tbody></table>
 
 
 
@@ -53,7 +53,7 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 ステータス区分
 
-<table data-header-hidden><thead><tr><th width="126.7890625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>RTK信号良好</td><td>RTK信号普通</td><td>その他のステータス</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-right-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-right-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-right-off.png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="126.7890625"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>色</td><td>青（点灯）</td><td>青で点滅</td><td>OFF</td></tr><tr><td>ステータス</td><td>RTK信号良好</td><td>RTK信号普通</td><td>その他のステータス</td></tr><tr><td>イメージ</td><td><img src="../../.gitbook/assets/gnss-receiver-right-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-right-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-right-off.png" alt=""></td></tr></tbody></table>
 
 ![](../../.gitbook/assets/2.svg) QRコード：製品登録時に使用されるQRコードです。
 
@@ -150,8 +150,7 @@ GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農�
 
 ### ハーネス
 
-하네스는 태블릿, GNSS 등 각 장치를 연결해 **전원 및 신호를 전달**하는 연결 구성품입니다.\
-설치 시 각 장치가 정상 동작하도록 하네스를 정확히 연결해야 합니다.
+ハーネスは、タブレットやGNSSなどの各デバイスを接続し、**電源および信号を伝達する**接続部品です。取付の際は、各デバイスが正常に動作するよう、ハーネスを正確に接続してください。
 
 <div align="center"><figure><img src="../../.gitbook/assets/component-harness.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -193,7 +192,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/1.svg) 状態
 
-* 기능
+* 機能
   * 測位システムのステータス表記
 * ステータス
   * 基本 - 未点灯
@@ -204,7 +203,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/2.svg) お気に入り機能
 
-* 기능
+* 機能
   * お気に入り機能
 * ステータス
   * 基本 - 未点灯
@@ -214,7 +213,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/3.svg) キャンセル  or　前へ
 
-* 기능
+* 機能
   * 状況に応じたキャンセル/前のメニューへ移動
 * ステータス
   * 基本 - 未点灯
@@ -224,7 +223,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/4.svg) Enterキー
 
-* 기능
+* 機能
   * A/B設定
   * メニュー内のOK/確定動作
 * ステータス
@@ -235,7 +234,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/5.svg) 左側(◀)
 
-* 기능
+* 機能
   * 設定画面：選択項目を左へ移動します。
   * 自動操舵中：等間隔のラインを左側に一定間隔で移動させます。
   * ターン中：左側へ即時ターンします。
@@ -247,7 +246,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/icon-circle-6.svg) 右側(▶)
 
-* 기능
+* 機能
   * 設定画面：選択項目を右へ移動します。
   * 自動操舵中：等間隔のラインを右側に一定間隔で移動させます。
   * ターン中：右側へ即時ターンします。
@@ -259,7 +258,7 @@ PLUVA iONには、周辺環境をモニタリングするためのカメラが�
 
 ![](../../.gitbook/assets/icon-circle-7.svg) 自動操舵のON/OFF
 
-* 기능
+* 機能
   * 自動操舵モードの開始及び解除
 * ステータス
   * 基本 - 未点灯

@@ -21,7 +21,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/installation-completed
 ---
 
-# 取付完了の確認 (설치 완료 확인)
+# 取付完了の確認&#x20;
 
 ### 取付完了の確認&#x20;
 
@@ -35,13 +35,13 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-GNSSのLEDランプを確認し、取り付け状況を確認してください。 GNSS LED를 확인하여 설치시 문제가 없는지 확인합니다.
+GNSSのLEDランプを確認し、取り付け状況を確認してください。&#x20;
 
 <figure><img src="../.gitbook/assets/tablet 85 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-試運転をしながら自動操舵ができているかを確認してください。 시운전을 통해 자율주행이 가능한지 확인합니다.
+試運転をしながら自動操舵ができているかを確認してください。&#x20;
 
 <figure><img src="../.gitbook/assets/tablet 86 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

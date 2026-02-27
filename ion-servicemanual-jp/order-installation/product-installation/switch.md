@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/switch
 ---
 
-# ワンタッチスイッチの取り付け (스위치설치
+# ワンタッチスイッチの取り付け
 
 ## ワンタッチスイッチの取り付け
 
@@ -13,19 +13,19 @@ metaLinks:
 
 ***
 
-### 필요 공구 및 준비물
+### 必要工具および準備物
 
 #### 🔩 用意する物
 
 <figure><img src="../../.gitbook/assets/100 - switch-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="173.3984375">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>ワンタッチスイッチ</td><td>-</td><td>1</td></tr><tr><td><p>ワンタッチスイッチ用</p><p>ハーネス</p></td><td>-</td><td>1</td></tr><tr><td><p>Uボルト</p><p>マウント</p></td><td>-</td><td>1</td></tr><tr><td>タブレット固定用ボルト</td><td>M5 X 10</td><td>2</td></tr><tr><td>ラムマウントボール</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="173.3984375">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>ワンタッチスイッチ</td><td>-</td><td>1</td></tr><tr><td><p>ワンタッチスイッチ用</p><p>ハーネス</p></td><td>-</td><td>1</td></tr><tr><td><p>Uボルト</p><p>マウント</p></td><td>-</td><td>1</td></tr><tr><td>タブレット固定用ボルト</td><td>M5 X 10</td><td>2</td></tr><tr><td>ラムマウントボール</td><td>-</td><td>1</td></tr></tbody></table>
 
 #### 🛠️ 必要な工具
 
 <figure><img src="../../.gitbook/assets/101 - switch-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>ケーブルタイ</td><td>6 X 150</td><td>10</td></tr><tr><td>ドライバー(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>ケーブルタイ</td><td>6 X 150</td><td>10</td></tr><tr><td>ドライバー(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
 
 ***
 

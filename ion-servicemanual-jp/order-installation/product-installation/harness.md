@@ -21,7 +21,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/harness
 ---
 
-# ハーネスの取り付け (하네스설치)
+# ハーネスの取り付け&#x20;
 
 ## ハーネスの取り付け
 
@@ -29,7 +29,7 @@ metaLinks:
 
 ***
 
-### 필요 공구 및 준비물
+### 必要工具および準備物
 
 #### 🔩 用意する物
 
@@ -39,7 +39,7 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/97 - Harness-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td><p>ソケット</p><p>レンチ</p></td><td>8~13mm</td><td>1</td></tr><tr><td>スパナ―</td><td>8~13mm</td><td>1</td></tr><tr><td>ドライバー(+)</td><td>-</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr><tr><td>ケーブルタイ</td><td>6 X 150</td><td>15</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td><p>ソケット</p><p>レンチ</p></td><td>8~13mm</td><td>1</td></tr><tr><td>スパナ―</td><td>8~13mm</td><td>1</td></tr><tr><td>ドライバー(+)</td><td>-</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr><tr><td>ケーブルタイ</td><td>6 X 150</td><td>15</td></tr></tbody></table>
 
 ***
 

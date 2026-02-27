@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-worker
 ---
 
-# 作業機の追加 (작업기 추가)
+# 作業機の追加&#x20;
 
 ### 作業機の追加(オプション)
 
@@ -15,9 +15,11 @@ metaLinks:
 
 
 
+
+
 ***
 
-#### 作業機の追加方法 (작업기 추가 방법)
+#### 作業機の追加方法
 
 {% stepper %}
 {% step %}
@@ -37,7 +39,7 @@ metaLinks:
 
 ***
 
-#### 作業機寸法の項目説明 (작업기 치수 항목 설명)
+#### 作業機寸法の項目説明
 
 <figure><img src="../../.gitbook/assets/tablet 27 - Add machinery.png" alt="" width="312"><figcaption></figcaption></figure>
 

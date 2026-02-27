@@ -10,7 +10,7 @@
 * [QRコートの位置](order-installation/preparing-accounts.md)
 * [開通完了](order-installation/product-registration.md)
 * [PLUVA iONの取り付け](order-installation/product-installation/README.md)
-  * [구성품 준비](order-installation/product-installation/preparing-components.md)
+  * [構成品の準備](order-installation/product-installation/preparing-components.md)
   * [製品の取り付け位置](order-installation/product-installation/product-location.md)
   * [電動ステアリングホイールの取り付け  ](order-installation/product-installation/electric-steering-wheel.md)
   * [GNSS受信機の取り付け ](order-installation/product-installation/gnss-receiver.md)
@@ -26,12 +26,12 @@
   * [GNSS受信機の接続確認 ](order-installation/quick-setup/gnss-connect.md)
   * [RTK入力](order-installation/quick-setup/opening-key.md)
   * [車両の追加 ](order-installation/quick-setup/add-vehicle.md)
-  * [作業機の追加 (작업기 추가)](order-installation/quick-setup/add-worker.md)
-  * [車両設定および補正 \_トラクター(차량 설정 및 보정)](order-installation/quick-setup/vehicle-calibration.md)
-  * [農場設定 (작업지 설정)](order-installation/quick-setup/farm-setting.md)
-* [取付完了の確認 (설치 완료 확인)](order-installation/installation-completed.md)
+  * [作業機の追加 ](order-installation/quick-setup/add-worker.md)
+  * [車両設定および補正 \_トラクター](order-installation/quick-setup/vehicle-calibration.md)
+  * [農場設定 ](order-installation/quick-setup/farm-setting.md)
+* [取付完了の確認 ](order-installation/installation-completed.md)
 
-## 使い方 (사용법) <a href="#usage" id="usage"></a>
+## 使い方 <a href="#usage" id="usage"></a>
 
 * [初期設定方法](usage/customer-guidance/README.md)
   * [ソフトウェアアップデート（OTA）](usage/customer-guidance/ota.md)
@@ -72,6 +72,6 @@
   * [位置補正の設定](usage/network-settings/rtk-setting.md)
   * [ネットワーク設定](usage/network-settings/network-setting.md)
 
-## 기타 <a href="#others" id="others"></a>
+## トラブルシューティング  <a href="#others" id="others"></a>
 
-* [トラブルシューティング (이슈 대응 방법)](others/initial-setup.md)
+* [トラブルシューティング](others/initial-setup.md)

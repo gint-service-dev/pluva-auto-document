@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/camera
 ---
 
-# カメラの取り付け (카메라설치)
+# カメラの取り付け
 
 ## カメラの取り付け
 
@@ -13,19 +13,19 @@ metaLinks:
 
 ***
 
-### 필요 공구 및 준비물
+### 必要工具および準備物
 
 #### 🔩 用意する物
 
 <figure><img src="../../.gitbook/assets/98 - camera-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>バックカメラ</td><td>-</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>バックカメラ</td><td>-</td><td>1</td></tr></tbody></table>
 
 #### 🛠️ 必要な工具
 
 <figure><img src="../../.gitbook/assets/99 - camera-installation.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="130.5">이름</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr><tr><td>ケーブルタイ</td><td>6 X 150</td><td>10</td></tr><tr><td>ドライバー(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="130.5">名前</th><th>規格</th><th>数量</th></tr></thead><tbody><tr><td>乾いた雑巾</td><td>-</td><td>1</td></tr><tr><td>ケーブルタイ</td><td>6 X 150</td><td>10</td></tr><tr><td>ドライバー(+)</td><td>4mm, 5mm</td><td>1</td></tr><tr><td>ニッパー</td><td>200mm 8"</td><td>1</td></tr></tbody></table>
 
 ***
 
