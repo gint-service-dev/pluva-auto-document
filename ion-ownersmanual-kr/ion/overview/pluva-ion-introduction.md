@@ -19,7 +19,7 @@ layout:
 
 # 플루바 아이온 소개
 
-### Pluva iON 소개
+### pluva ion 소개
 
 플루바 아이온은 트랙터·이앙기용 오토가이던스(Autoguidance) 시스템으로, GNSS(항법 위성 장치) 와 전동 스티어링을 이용해 정밀한 직진 주행과 자동 유턴 등을 지원하는 장비입니다. 운전자의 조작 부담을 줄이고, 작업 품질과 효율을 향상시키는 작업 보조 시스템입니다.
 
@@ -42,7 +42,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/full-set kr.png" alt=""><figcaption></figcaption></figure>
 
-#### Expansion Kit
+#### 확장키트(Expansion Kit)
 
 > 태블릿을 제외한 구성품입니다. GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 반세트 주문 전, 플루바 아이온의 태블릿을 보유하고 있는지 확인이 필요합니다.
 
