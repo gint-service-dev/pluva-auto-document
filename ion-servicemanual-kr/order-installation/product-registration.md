@@ -174,9 +174,9 @@ layout:
 {% endstep %}
 
 {% step %}
-등록이 완료되면 제품 등록 팝업에서 \[제품 등록 완료]를 누릅니다.
+등록이 완료되면 제품 등록 팝업에서 \[개통하고 다음]을 누릅니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않으면 QR 스캔 화면으로 돌아갑니다.
@@ -186,8 +186,26 @@ layout:
 {% endstep %}
 
 {% step %}
-제품 등록이 완료됩니다.
+추가 옵션 제품을 이어서 진행합니다. 제품 코드 스캔 과정은 주요 제품과 동일 합니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt="" width="270"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+주문 작성시 추가 옵션을 선택하지 않았다면 바로 개통을 완료할 수 있습니다.
+
+<img src="../.gitbook/assets/none option.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+
+{% step %}
+스캔 등록이 완료되면 \[개통 완료]를 누릅니다.
+
+<figure><img src="../.gitbook/assets/enter-ticketdetail-7.png" alt="" width="314"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+제품 개통이 완료됩니다.
+
+<figure><img src="../.gitbook/assets/enter-ticketdetail-8.png" alt="" width="270"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
