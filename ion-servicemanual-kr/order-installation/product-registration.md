@@ -19,9 +19,9 @@ layout:
 
 # 설치티켓으로 제품 등록
 
-### **설치티켓으로** 제품 등록
+### **설치티켓으로** 제품 개통
 
-설치티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 등록을 권장합니다.
+설치티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 개통을 권장합니다.
 
 {% hint style="info" %}
 설치티켓이 무엇인가요?
@@ -31,7 +31,7 @@ layout:
 
 ***
 
-#### 주문 제품별 등록 구성품
+#### 주문 제품별 개통 구성품
 
 각 주문 제품에 따라 아래 구성품을 준비합니다.
 
@@ -64,13 +64,31 @@ layout:
 
 #### 시리얼 넘버 등록 (패키징 넘버)
 
-제품 등록은 제품에 부착된 QR 코드(시리얼 넘버)를 스캔해 진행합니다.
+제품 등록은 제품에 부착된 QR 코드(시리얼 넘버 혹은 패키징 넘버)를 스캔해 진행합니다.
 
 * 패키징 넘버(패키지 박스 QR)를 등록하면, 구성품을 **한 번에 등록**할 수 있습니다.
 
 
 
 #### QR 코드 위치 안내
+
+#### 패캐지 시리얼 넘버
+
+{% columns %}
+{% column width="58.333333333333336%" %}
+박스 측면의 QR코드를 확인합니다.
+
+<figure><img src="../.gitbook/assets/serial-number-package.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column width="41.666666666666664%" %}
+
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+#### 개별 시리얼 넘버
 
 {% columns %}
 {% column %}
@@ -136,17 +154,17 @@ layout:
 
 ***
 
-#### 제품 등록 방법
+#### 제품 개통 방법
 
 {% stepper %}
 {% step %}
-설치 티켓에서 \[제품 등록 시작]을 누릅니다.
+설치 티켓에서 \[제품 개통 시작]을 누릅니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-1.png" alt="" width="323"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[한번에 등록 진행]을 누릅니다.
+\[패키지로 한번에 개]을 누릅니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-2.png" alt="" width="320"><figcaption></figcaption></figure>
 
@@ -186,7 +204,7 @@ layout:
 {% endstep %}
 
 {% step %}
-추가 옵션 제품을 이어서 진행합니다. 제품 코드 스캔 과정은 주요 제품과 동일 합니다.
+추가 옵션 제품을 이어서 진행합니다. 제품 코드 스캔 과정은 주요 제품 개통 과정과 동일합니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt="" width="270"><figcaption></figcaption></figure>
 
