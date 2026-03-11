@@ -68,3 +68,4 @@ metaLinks:
 
 메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
 
+{% embed url="https://drive.google.com/file/d/1X-DMVDHRzL46SSayfxkxF8BsQMDZ7tRO/view?usp=sharing" %}
