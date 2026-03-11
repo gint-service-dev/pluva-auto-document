@@ -43,7 +43,7 @@ layout:
 {% step %}
 \[설치 완료 확인]을 누릅니다.
 
-<figure><img src="../.gitbook/assets/installation-completion-2.png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-2 (1).png" alt="" width="216"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
