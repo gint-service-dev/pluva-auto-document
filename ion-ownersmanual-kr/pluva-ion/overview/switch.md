@@ -17,15 +17,16 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-2.svg) 즐겨찾기
 
 * 기능
   * 즐겨찾기 기능
-* 상태
-  * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-3.svg) 취소 or 이전
 
@@ -33,44 +34,45 @@
   * 상황에 따른 취소/이전 메뉴로 이동
 * 상태
   * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
+  * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-4.svg) 엔터
 
-* 기능
-  * A/B 설정
-  * 메뉴 내 OK/확정 동작
 * 상태
   * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
+  * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-5.svg) 좌측(◀)
 
 * 기능
   * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
-  * 자율주행 중: 등간격을 좌측으로 일정 간격 이동합니다.
-  * 유턴 중: 즉시 유턴을 좌측으로 실행합니다.
 * 상태
   * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
+  * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-6.svg) 우측(▶)
 
 * 기능
   * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
-  * 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
-  * 유턴 중: 즉시 유턴을 우측으로 실행합니다.
 * 상태
   * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
+  * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-7.svg) 자율주행 ON/OFF
 
@@ -78,6 +80,6 @@
   * 자율주행 모드 진입 및 해제
 * 상태
   * 기본 - 미점등
-  * 버튼 동작 - 초록 점등
+  * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
