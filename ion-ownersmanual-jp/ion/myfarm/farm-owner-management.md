@@ -18,7 +18,7 @@
 {% step %}
 My Farmの農場管理の\[農場主]タブをクリックすると、農場主の管理へアクセスできます。
 
-<figure><img src="/broken/files/jxVGwRII6aBqt8myqIp1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/farm-owner-management-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
