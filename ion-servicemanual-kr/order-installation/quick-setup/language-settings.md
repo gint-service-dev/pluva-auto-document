@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/a-plus-straight
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/driving/a-plus-straight
 ---
 
 # 언어 설정

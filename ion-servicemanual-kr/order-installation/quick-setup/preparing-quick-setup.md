@@ -2,7 +2,7 @@
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/route-planning-settings
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/driving/route-planning-settings
 ---
 
 # 퀵셋업 설명 및 준비
@@ -17,19 +17,20 @@ metaLinks:
 
 #### 퀵셋업 단계
 
-퀵셋업은 총 8단계로 이루어져 있습니다.
+퀵셋업은 총 10단계로 이루어져 있습니다.
 
 
 
-1. 시작 및 언어, 네트워크 설정
-2. 로그인
-3. 개통키 입력
-4. GNSS수신기 연결 확인
-5. RTK 설정
-6. 차량 추가 및 설정
-7. 차량 보정
-8. 작업기 추가 (선택)
-9. 작업지 설정
+1. [언어 설정](language-settings.md)
+2. [네트워크 설정](network-settings.md)
+3. [로그인](login.md)
+4. [개통키 입력](opening-key.md)
+5. [GNSS수신기 연결 확인](gnss-connect.md)
+6. [위치보정 설정](rtk-setting.md)
+7. [차량 추가](add-vehicle.md)
+8. [차량 보정](vehicle-calibration.md)
+9. [작업기 추가 (선택)](add-worker.md)
+10. [작업지 설정](farm-setting.md)
 
 
 
@@ -40,7 +41,7 @@ metaLinks:
 **고객 계정 준비**
 
 * 플루바 아이온 제품에 사용할 고객 계정이 필요합니다.
-* 제품 등록 전 회원가입 사이트에서 가입을 진행해 주세요.
+* 제품 등록 전 [회원가입 사이트](https://gint.pluva.kr/)에서 가입을 진행해 주세요.
 * 계정이 없으면 제품과 고객 계정을 연결할 수 없으며, 서비스 이용이 불가합니다.
 
 

@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview
 ---
 
 # 제품 설치

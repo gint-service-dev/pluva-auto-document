@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/user-manual-info
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/user-manual-info
 ---
 
 # 서비스 메뉴얼 정보

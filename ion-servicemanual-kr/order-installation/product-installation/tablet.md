@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/tablet
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview/tablet
 ---
 
 # 태블릿

@@ -1,7 +1,8 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/square-drive
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/driving/square-drive
 ---
 
 # 로그인

@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/driving
 ---
 
 # 퀵셋업
