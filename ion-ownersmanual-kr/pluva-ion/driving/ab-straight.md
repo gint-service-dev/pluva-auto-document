@@ -34,14 +34,14 @@ AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg
 
 #### 자동 AB 라인 생성
 
-\[자동 AB 라인 생성]은 등록된 필드의 바운더리(경계선)를 기준으로, 필드 안에서 AB 지점을 직접 찍지 않고 작업 라인(AB 라인)을 자동으로 생성합니다.\
+**\[자동 AB 라인 생성]**&#xC740; 등록된 필드의 바운더리(경계선)를 기준으로, 필드 안에서 AB 지점을 직접 찍지 않고 작업 라인(AB 라인)을 자동으로 생성합니다.\
 간격·여유 구간 값을 설정해 자동 생성된 라인을 작업 상황에 맞게 조정할 수 있으며, 현재 위치에서 즉시 라인을 생성해 준비 시간을 줄이고 빠르게 작업을 시작할 수 있습니다.
 
 
 
 {% stepper %}
 {% step %}
-AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> \[AB 라인 자동 생성 버튼]을 누릅니다.
+AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@ AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.s
 {% endstep %}
 
 {% step %}
-생성이 완료되면 미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 \[확인]을 누르세요.
+생성이 완료되면 미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 **\[확인]**&#xC744; 누르세요.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +90,7 @@ AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.s
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">\[자율주행]버튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
+<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
