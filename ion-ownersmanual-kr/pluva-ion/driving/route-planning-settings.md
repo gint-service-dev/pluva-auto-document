@@ -27,7 +27,7 @@ A+직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-자동 경로 (Pluva AI)
+자동 경로 (pluva AI)
 
 * 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
 
@@ -39,13 +39,13 @@ A+직진
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[경로 플래닝] 버튼을 누릅니다.
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> **\[경로 플래닝]** 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 주행 모드를 선택한 후 \[확인]을 누릅니다.
+원하는 주행 모드를 선택한 후 **\[확인]**&#xC744; 누릅니다.
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
