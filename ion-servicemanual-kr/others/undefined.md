@@ -122,13 +122,13 @@ layout:
 {% step %}
 원격 지원 화면 접속이 완료되면 원격 가이드 팝업이 표시됩니다. 팝업 내용을 확인한 뒤 **\[확인]** 버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitorning-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원격 지원 화면에 접속이 완료되면 고객과 전화로 소통하며 원격 모니터링을 진행합니다.
 
-<figure><img src="../.gitbook/assets/monitorning-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-6 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
