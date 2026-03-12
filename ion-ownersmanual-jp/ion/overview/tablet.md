@@ -172,9 +172,9 @@
 
 > <img src="../../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line">: 衛星信号が良好
 >
-> <img src="../../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line">: 衛星信号が普通
+> <img src="../../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line">: 衛星信号が普通
 >
-> <img src="../../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line">: 衛星信号が不良
+> <img src="../../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line">: 衛星信号が不良
 >
 > <img src="../../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line">: 信号なし
 
