@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PLUVA iONの 代理店向けマニュアル](README.md)
+* [pluva ionの 代理店向けマニュアル](README.md)
 * [サービスマニュアル情報](user-manual-info.md)
 
 ## 注文/取付 <a href="#order-installation" id="order-installation"></a>
@@ -9,27 +9,27 @@
 * [開通の準備](order-installation/order-registration.md)
 * [QRコートの位置](order-installation/preparing-accounts.md)
 * [開通完了](order-installation/product-registration.md)
-* [PLUVA iONの取り付け](order-installation/product-installation/README.md)
+* [pluva ionの取り付け](order-installation/product-installation/README.md)
   * [構成品の準備](order-installation/product-installation/preparing-components.md)
   * [製品の取り付け位置](order-installation/product-installation/product-location.md)
-  * [電動ステアリングホイールの取り付け  ](order-installation/product-installation/electric-steering-wheel.md)
-  * [GNSS受信機の取り付け ](order-installation/product-installation/gnss-receiver.md)
-  * [タブレットの取り付け ](order-installation/product-installation/tablet.md)
-  * [ハーネスの取り付け ](order-installation/product-installation/harness.md)
+  * [電動ステアリングホイールの取り付け](order-installation/product-installation/electric-steering-wheel.md)
+  * [GNSS受信機の取り付け](order-installation/product-installation/gnss-receiver.md)
+  * [タブレットの取り付け](order-installation/product-installation/tablet.md)
+  * [ハーネスの取り付け](order-installation/product-installation/harness.md)
   * [カメラの取り付け](order-installation/product-installation/camera.md)
   * [ワンタッチスイッチの取り付け](order-installation/product-installation/switch.md)
 * [簡単セットアップ](order-installation/quick-setup/README.md)
   * [簡単セットアップの説明と準備](order-installation/quick-setup/preparing-quick-setup.md)
   * [言語設定](order-installation/quick-setup/language-settings.md)
-  * [ネットワーク設定 ](order-installation/quick-setup/network-settings.md)
-  * [ログイン ](order-installation/quick-setup/login.md)
-  * [GNSS受信機の接続確認 ](order-installation/quick-setup/gnss-connect.md)
+  * [ネットワーク設定](order-installation/quick-setup/network-settings.md)
+  * [ログイン](order-installation/quick-setup/login.md)
+  * [GNSS受信機の接続確認](order-installation/quick-setup/gnss-connect.md)
   * [RTK入力](order-installation/quick-setup/opening-key.md)
-  * [車両の追加 ](order-installation/quick-setup/add-vehicle.md)
-  * [作業機の追加 ](order-installation/quick-setup/add-worker.md)
+  * [車両の追加](order-installation/quick-setup/add-vehicle.md)
+  * [作業機の追加](order-installation/quick-setup/add-worker.md)
   * [車両設定および補正 \_トラクター](order-installation/quick-setup/vehicle-calibration.md)
-  * [農場設定 ](order-installation/quick-setup/farm-setting.md)
-* [取付完了の確認 ](order-installation/installation-completed.md)
+  * [農場設定](order-installation/quick-setup/farm-setting.md)
+* [取付完了の確認](order-installation/installation-completed.md)
 
 ## 使い方 <a href="#usage" id="usage"></a>
 
@@ -72,6 +72,6 @@
   * [位置補正の設定](usage/network-settings/rtk-setting.md)
   * [ネットワーク設定](usage/network-settings/network-setting.md)
 
-## トラブルシューティング  <a href="#others" id="others"></a>
+## トラブルシューティング <a href="#others" id="others"></a>
 
 * [トラブルシューティング](others/initial-setup.md)
