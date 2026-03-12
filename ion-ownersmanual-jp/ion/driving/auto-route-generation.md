@@ -2,7 +2,7 @@
 
 ### 自動経路（pluva AI）
 
-自動経路（Pluva AI）
+自動経路（pluva AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
@@ -18,7 +18,7 @@
 {% endstep %}
 
 {% step %}
-Pluva AIが経路を生成します。
+pluva AIが経路を生成します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
