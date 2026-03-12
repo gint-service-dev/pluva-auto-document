@@ -34,7 +34,7 @@
   * 状況に応じたキャンセル/前のメニューへ移動
 * ステータス
   * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
+  * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -44,7 +44,7 @@
 
 * ステータス
   * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
+  * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -56,7 +56,7 @@
   * 設定画面：選択項目を左へ移動します。
 * ステータス
   * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
+  * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -68,7 +68,7 @@
   * 設定画面：選択項目を右へ移動します。
 * ステータス
   * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
+  * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -80,6 +80,6 @@
   * 自動操舵モードの開始及び解除
 * ステータス
   * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
+  * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
