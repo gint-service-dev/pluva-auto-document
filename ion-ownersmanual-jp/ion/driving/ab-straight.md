@@ -34,11 +34,11 @@ AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button.
 
 #### 自動ABラインの生成
 
-\[自動ABライン生成]は、登録済み圃場の境界線（バウンダリ）を基準とし、圃場内でAB地点を直接登録することなく、作業ライン（ABライン）を自動で生成します。 作業幅や余裕区間の値を設定することで、自動生成されたラインを作業状況に合わせて調整できます。また、現在地から即座にラインを生成できるため、 準備時間を短縮し、迅速に作業を開始することが可能です。
+**\[自動ABライン生成]**&#x306F;、登録済み圃場の境界線（バウンダリ）を基準とし、圃場内でAB地点を直接登録することなく、作業ライン（ABライン）を自動で生成します。 作業幅や余裕区間の値を設定することで、自動生成されたラインを作業状況に合わせて調整できます。また、現在地から即座にラインを生成できるため、 準備時間を短縮し、迅速に作業を開始することが可能です。
 
 {% stepper %}
 {% step %}
-AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original">\[ABラインの自動生成ボタン]を押します。
+AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original">**\[ABラインの自動生成ボタン]**&#x3092;押します。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% endstep %}
 
 {% step %}
-生成完了後、プレビューが表示されます。 必要に応じて設定を調整し\[確認]をタップしてください。
+生成完了後、プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,7 +87,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">\[自動操舵]ボタンを押すと、生成された経路に沿って走行が開始されます。
+<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
