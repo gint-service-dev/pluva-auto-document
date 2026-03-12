@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# PLUVA iON
+# pluva ion
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ layout:
 
 ### 概要
 
-PLUVA iONの装置構成、初期設定、走行機能、管理機能、お客様サポートの情報をご提供します。
+pluva ionの装置構成、初期設定、走行機能、管理機能、お客様サポートの情報をご提供します。
 
 <details>
 

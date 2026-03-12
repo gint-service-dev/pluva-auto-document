@@ -1,6 +1,6 @@
-# 自動経路（Pluva AI）
+# 自動経路（pluva AI）
 
-### 自動経路（Pluva AI）
+### 自動経路（pluva AI）
 
 自動経路（Pluva AI）
 

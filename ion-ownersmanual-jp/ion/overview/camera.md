@@ -2,7 +2,7 @@
 
 ### カメラ
 
-PLUVA iONには、周辺環境をモニタリングするためのカメラが構成品として含まれています。
+pluva ionには、周辺環境をモニタリングするためのカメラが構成品として含まれています。
 
 <figure><img src="../../.gitbook/assets/camera-description.png" alt="" width="563"><figcaption></figcaption></figure>
 

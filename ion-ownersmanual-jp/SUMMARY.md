@@ -1,12 +1,12 @@
 # Table of contents
 
-* [PLUVA iON](README.md)
+* [pluva ion](README.md)
 
-## Pluva iON 取扱説明書 <a href="#ion" id="ion"></a>
+## pluva ion 取扱説明書 <a href="#ion" id="ion"></a>
 
 * [取扱説明書の情報](ion/user-manual-info.md)
 * [概要](ion/overview/README.md)
-  * [PLUVA iONのご紹介](ion/overview/pluva-ion-introduction.md)
+  * [pluva ionのご紹介](ion/overview/pluva-ion-introduction.md)
   * [電動ステアリングホイール](ion/overview/electric-steering-wheel.md)
   * [GNSS受信機](ion/overview/gnss-receiver.md)
   * [タブレット](ion/overview/tablet.md)
@@ -19,7 +19,7 @@
   * [AB直進](ion/driving/ab-straight.md)
   * [A+直進](ion/driving/a-plus-straight.md)
   * [四角形走行](ion/driving/square-drive.md)
-  * [自動経路（Pluva AI）](ion/driving/auto-route-generation.md)
+  * [自動経路（pluva AI）](ion/driving/auto-route-generation.md)
 * [ターンモード](ion/turn-mode/README.md)
   * [ターンの設定方法](ion/turn-mode/turn-mode-setting.md)
 * [走行の利便性を向上するための機能](ion/driving-convenience/README.md)

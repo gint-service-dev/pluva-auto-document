@@ -2,7 +2,7 @@
 
 ### 概要
 
-PLUVA iONのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解した上で、取り付け及び使用準備を完了することを目的としています。
+pluva ionのシステム構成及び主なインターフェース要素についてご説明します。 各装置の役割を理解した上で、取り付け及び使用準備を完了することを目的としています。
 
 {% content-ref url="pluva-ion-introduction.md" %}
 [pluva-ion-introduction.md](pluva-ion-introduction.md)

@@ -24,7 +24,7 @@ A+直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-自動経路（Pluva AI）
+自動経路（pluva AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
