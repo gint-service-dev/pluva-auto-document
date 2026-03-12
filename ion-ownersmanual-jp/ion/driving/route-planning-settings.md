@@ -36,13 +36,13 @@ A+直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[経路のプランニング]ボタンを押します。
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> **\[経路のプランニング]**&#x30DC;タンを押します。
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ご希望の走行モードを選択し、 \[確認]をタップします
+ご希望の走行モードを選択し、 **\[確認]**&#x3092;タップします
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
