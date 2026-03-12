@@ -17,15 +17,16 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-2.svg) **お気に入り機能**
 
 * 機能
   * お気に入り機能
-* ステータス
-  * 基本 - 未点灯
-  * ボタン動作 - 緑で点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-3.svg) **キャンセル or　前へ**
 
@@ -37,40 +38,41 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-4.svg) **Enterキー**
 
-* 機能
-  * A/B設定
-  * メニュー内のOK/確定動作
 * ステータス
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-5.svg) **左側(◀)**
 
 * 機能
   * 設定画面：選択項目を左へ移動します。
-  * 自動操舵中：等間隔のラインを左側に一定間隔で移動させます。
-  * Uターン中：左側へ即時Uターンします。
 * ステータス
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-6.svg) **右側(▶)**
 
 * 機能
   * 設定画面：選択項目を右へ移動します。
-  * 自動操舵中：等間隔のラインを右側に一定間隔で移動させます。
-  * Uターン中：右側へ即時Uターンします。
 * ステータス
   * 基本 - 未点灯
   * ボタン動作 - 緑で点灯
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-7.svg) **自動操舵のON/OFF**
 
