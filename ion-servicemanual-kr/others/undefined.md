@@ -33,7 +33,7 @@ layout:
 {% hint style="warning" %}
 **전화 통화 유지**
 
-* 원격 지원은 반드시 **고객과 통화를 유지**하며 진행하고, **시작과 종료 시에도 고객에게 안내**합니다.
+* 원격 지원은 반드시 **고객과 통화를 유지**하며 진행합니다. **시작과 종료 시에도 고객에게 안내해야** 합니다.
 * 원격으로 장비가 조작될 수 있는 만큼, 고객이 상황을 인지한 상태에서 안전하게 진행하는 것이 중요합니다.
 {% endhint %}
 
@@ -41,7 +41,7 @@ layout:
 **네트워크 확인 요청**
 
 * 화면 멈춤이나 오류를 방지하기 위해 **고객의 네트워크 상태를 확인**합니다.&#x20;
-* **셀룰러 또는 신호가 안정적인 환경을 권장**합니다.
+* **셀룰러 또는 신호가 안정적인 환경에서 진행하는 것을 권장**합니다.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -58,22 +58,23 @@ layout:
 
 {% stepper %}
 {% step %}
-고객으로부터 문의 전화가 오면 상황을 청취합니다.
+고객으로부터 문의 전화를 받으면 상황을 청취합니다.
 {% endstep %}
 
 {% step %}
-청취한 내용을 바탕으로 원격 지원이 필요한 상황인지 판단합니다.&#x20;
+청취한 내용을 바탕으로 원격 지원이 필요한 상황인지 판단합니다.
 
-원격 지원이 필요할 경우 다음 단계를 진행합니다.
+* 원격 지원이 필요할 경우 다음 단계를 진행합니다.
 {% endstep %}
 
 {% step %}
 고객에게 태블릿에서 원격 지원 코드를 발급하도록 안내합니다.
 
-* 태블릿 좌측 하단 메뉴 버튼 클릭 > 고객 지원 > 원격 지원 > 원격 지원 코드 발급
+* 태블릿 경로
+  * 좌측 하단 메뉴 버튼 클릭 > 고객 지원 > 원격 지원 > 원격 지원 코드 발급
 * 고객 태블릿의 원격지원 화면
 
-<figure><img src="../.gitbook/assets/monitorning-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 코드는 발급 시점으로부터 **24시간 동안 유효**합니다.
@@ -87,13 +88,13 @@ layout:
 {% step %}
 어드민 로그인 후, 원격 지원 목록에서 해당 고객의 **\[원격 접속]** 버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitorning-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 고객에게 전달받은 원격 지원 코드를 입력하고 **\[입력 완료]**&#xB97C; 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitorning-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 접속이 되지 않는 경우 다음을 확인합니다.
@@ -123,15 +124,15 @@ layout:
 * 주행 시작, 정지 등 차량을 움직이는 조작은 반드시 고객이 직접 하도록 안내합니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/monitorning-6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 조치가 완료되면 고객에게 종료를 알린 후 **\[원격 나가기]**&#xB97C; 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitoring-exit-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-8-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/monitoring-exit-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monitorning-8-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \[원격 나가기]를 눌러도 코드 발급 시점으로부터 24시간 이내에는 재접속이 가능합니다.
@@ -184,9 +185,9 @@ layout:
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+&#x20;![](../.gitbook/assets/icon-square-2.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
 
 &#x20;![](../.gitbook/assets/icon-square-4-4.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
@@ -196,7 +197,9 @@ layout:
 
 &#x20;![](../.gitbook/assets/icon-square-5-5.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
+&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+
+&#x20;![](../.gitbook/assets/icon-square-7.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
 
 
 
@@ -214,9 +217,13 @@ layout:
 
 &#x20;![](../.gitbook/assets/icon-square-3-3.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
 
-&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **접속 및 경과 시간**: 원격 지원 접속 및 경과한 시간을 표시합니다.
+&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
 
 &#x20;![](../.gitbook/assets/icon-square-5-5.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
+&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
+
+&#x20;![](../.gitbook/assets/icon-square-7.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+
+&#x20;![](../.gitbook/assets/icon-square-8.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
 
