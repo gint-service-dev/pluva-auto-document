@@ -54,9 +54,9 @@ metaLinks:
 
 <details>
 
-<summary><a href="others/initial-setup.md">고객 불편사항 대응 방법</a></summary>
+<summary><a href="others/initial-setup.md">기타</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/undefined.md">undefined.md</a></td></tr></tbody></table>
 
 
 
@@ -68,4 +68,4 @@ metaLinks:
 
 메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
 
-{% embed url="https://drive.google.com/file/d/1X-DMVDHRzL46SSayfxkxF8BsQMDZ7tRO/view?usp=sharing" %}
+{% embed url="https://www.youtube.com/playlist?list=PLH3vv0_FUaJ2A3IZkp9CvodO4d8L8avOd" %}
