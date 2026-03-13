@@ -75,4 +75,4 @@
 ## 기타 <a href="#others" id="others"></a>
 
 * [고객 불편사항 대응 방법](others/initial-setup.md)
-* [원격 지원 모니터링](others/undefined.md)
+* [원격 지원](others/undefined.md)
