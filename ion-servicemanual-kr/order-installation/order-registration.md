@@ -81,7 +81,7 @@
 {% endstep %}
 
 {% step %}
-제품 설치를 위해 방문할 장소의 정보를 입력한 뒤 \[작성 완료]를 누릅니다.
+주문자 정보를 입력한 뒤에 \[작성 완료]를 누릅니다.
 
 <figure><img src="../.gitbook/assets/order-registration-6.png" alt=""><figcaption></figcaption></figure>
 
