@@ -1,6 +1,6 @@
 # Table of contents
 
-* [pluva ionの 代理店向けマニュアル](README.md)
+* [PLUVA iONの 代理店向けマニュアル](README.md)
 * [サービスマニュアル情報](user-manual-info.md)
 
 ## 注文/取付 <a href="#order-installation" id="order-installation"></a>
