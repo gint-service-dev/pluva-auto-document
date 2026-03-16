@@ -20,7 +20,7 @@ metaLinks:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/
 ---
 
-# 플루바 아이온 Service Manual
+# PLUVA iON Service Manual
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ metaLinks:
 
 <summary><a href="user-manual-info.md">서비스 메뉴얼 정보</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>서비스 메뉴얼 기본 정보</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr><tr><td>영상 가이드</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>서비스 메뉴얼 기본 정보</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -61,3 +61,4 @@ metaLinks:
 
 
 </details>
+

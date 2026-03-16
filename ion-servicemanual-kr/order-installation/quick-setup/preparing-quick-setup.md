@@ -2,7 +2,7 @@
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/driving/route-planning-settings
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/route-planning-settings
 ---
 
 # 퀵셋업 설명 및 준비
