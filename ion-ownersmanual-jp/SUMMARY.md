@@ -1,6 +1,6 @@
 # Table of contents
 
-* [pluva ion](README.md)
+* [PLUVA iON Owner's Manual](README.md)
 
 ## pluva ion 取扱説明書 <a href="#ion" id="ion"></a>
 
