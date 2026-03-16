@@ -1,8 +1,8 @@
 # Table of contents
 
-* [pluva ion](README.md)
+* [PLUVA iON Owner's Manual](README.md)
 
-## pluva ion 사용자 메뉴얼 <a href="#ion" id="ion"></a>
+## PLUVA iON 사용자 메뉴얼 <a href="#ion" id="ion"></a>
 
 * [사용 메뉴얼 정보](ion/user-manual-info.md)
 * [개요](ion/overview/README.md)
