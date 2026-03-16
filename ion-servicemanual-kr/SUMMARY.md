@@ -1,6 +1,6 @@
 # Table of contents
 
-* [플루바 아이온 Service Manual](README.md)
+* [PLUVA iON Service Manual](README.md)
 * [서비스 메뉴얼 정보](user-manual-info.md)
 
 ## 주문/설치 <a href="#order-installation" id="order-installation"></a>
