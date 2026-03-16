@@ -62,13 +62,13 @@ A+직진
 
 {% hint style="info" %}
 배속턴 설정은 오른쪽 상단의 주행 정보 영역에서 확인할 수 있습니다. 해당 영역에서 배속턴 ON/OFF 상태를 확인합니다.
-{% endhint %}
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=8074-95134&t=2tAc6CEtfh7Fv5fV-1" %}
+<img src="../../.gitbook/assets/speed turn-on.png" alt="" data-size="original">
+{% endhint %}
 
 {% hint style="info" %}
 주행 모드에 진입하면 배속턴 설정 안내 팝업이 표시됩니다. \
 안내에 따라 **배속턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
-{% endhint %}
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=8074-95412&t=2tAc6CEtfh7Fv5fV-1" %}
+<img src="../../.gitbook/assets/speed turn-alert.png" alt="" data-size="original">
+{% endhint %}

@@ -63,4 +63,4 @@
 &#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **네트워크**
 
 * 태블릿의 셀룰러(LTE) 및 Wi-Fi 연결 상태를 설정합니다.\
-  자세한 내용은 [네트워크 설정](/broken/pages/NpfpbwwMY8778pZ3TmxV)을 참고하세요.
+  자세한 내용은 [네트워크 설정](network-setting.md)을 참고하세요.

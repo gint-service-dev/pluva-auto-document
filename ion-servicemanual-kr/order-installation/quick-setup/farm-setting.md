@@ -25,18 +25,18 @@
 3. **필드 등록**
 
 * 작업을 진행하려면 필드를 등록해야 합니다.
-* 아래 [필드 등록](farm-setting.md#undefined-1)을 참고하세요.
+* 아래 [필드 등록](farm-setting.md#field)을 참고하세요.
 
 4. **헤드랜드 등록**
 
 * 작업 환경에 맞게 헤드랜드를 등록합니다.
-* 아래 [헤드랜드](farm-setting.md#undefined-5)를 참고하세요.
+* 아래 [헤드랜드](farm-setting.md#headland)를 참고하세요.
 
 
 
 ***
 
-### 필드 등록
+### 필드 등록 <a href="#field" id="field"></a>
 
 **필드는 무엇인가요?**
 
@@ -174,7 +174,7 @@
 
 ***
 
-### 헤드랜드 등록
+### 헤드랜드 등록 <a href="#headland" id="headland"></a>
 
 **헤드랜드는 무엇인가요?**
 
