@@ -31,7 +31,7 @@ metaLinks:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 부착 위치 확인 후 이물질을 제거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-1.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -49,7 +49,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** 브라켓에 붙어 있는 스티커를 제거합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-2.png" alt=""><figcaption></figcaption></figure>
@@ -57,7 +57,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -67,7 +67,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **3.** 트랙터  중앙에 GNSS 수신기를 부착합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-3.png" alt=""><figcaption></figcaption></figure>
@@ -75,7 +75,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -85,13 +85,13 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **4.** 육각머리볼트(M8x25)를 조정 후 수평을 확인 후 볼트를 조입니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}

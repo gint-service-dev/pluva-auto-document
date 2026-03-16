@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview/switch
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/switch
 ---
 
 # 스위치
@@ -31,7 +31,7 @@ metaLinks:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 스위치에 볼 헤드를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-switch-1.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -47,7 +47,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** U볼트 마운트를 손잡이 봉에 결합합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/how-install-switch-2.png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +55,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -63,7 +63,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **3.** U볼트 마운트에 램 마운트를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-switch-3.png" alt=""><figcaption></figcaption></figure>
@@ -71,7 +71,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -79,7 +79,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **4.** 램 마운트에 스위치를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-switch-4.png" alt=""><figcaption></figcaption></figure>
@@ -87,7 +87,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -95,7 +95,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **5.** 스위치에 하네스를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-switch-5.png" alt=""><figcaption></figcaption></figure>
@@ -103,7 +103,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -111,7 +111,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **6.** 스위치 하네스와 메인 하네스를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-switch-6.png" alt=""><figcaption></figcaption></figure>
@@ -119,7 +119,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}

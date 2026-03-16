@@ -42,7 +42,7 @@ layout:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 하네스 배선 분배 위치를 확인합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-1.png" alt=""><figcaption></figcaption></figure>
@@ -50,7 +50,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -58,7 +58,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** 배터리가 있는 보닛을 개방합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-2.png" alt=""><figcaption></figcaption></figure>
@@ -66,7 +66,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -74,7 +74,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **3.** 엔진룸 보호 커버를 제거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-3.png" alt=""><figcaption></figcaption></figure>
@@ -82,7 +82,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -90,7 +90,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **4.** 전원 단자를 배터리로 이동합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-4.png" alt=""><figcaption></figcaption></figure>
@@ -98,7 +98,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -106,7 +106,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **5.** 배터리에 전원 단자를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-5.png" alt=""><figcaption></figcaption></figure>
@@ -114,7 +114,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -122,7 +122,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **6.** 분해한 엔진룸 보호커버를 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-6.png" alt=""><figcaption></figcaption></figure>
@@ -130,7 +130,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -138,7 +138,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **7.** 하네스가 닿지 않도록 조심히 보닛을 닫습니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-7.png" alt=""><figcaption></figcaption></figure>
@@ -146,7 +146,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -154,7 +154,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **8.** 리시버 단자를 트랙터 지붕으로 이동합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/how-install-harness-8.png" alt=""><figcaption></figcaption></figure>
@@ -162,7 +162,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -170,7 +170,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **9.** 하네스에 있는 리시버 단자를 리시버에 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-9.png" alt=""><figcaption></figcaption></figure>
@@ -178,7 +178,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -186,7 +186,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **10.** 주행에 불편함이 없도록 하네스를 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-10.png" alt=""><figcaption></figcaption></figure>
@@ -194,7 +194,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -202,7 +202,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **11.** 전원 하네스와 리시버 하네스를 주행에 방해가 없도록 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-11.png" alt=""><figcaption></figcaption></figure>
@@ -210,7 +210,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -218,7 +218,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **12.** 스티어링 모터단자를 스티어링 모터에 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-12.png" alt=""><figcaption></figcaption></figure>
@@ -226,7 +226,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -234,7 +234,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **13.** 스티어링 모터 하네스가 조향에 불편함이 없도록 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-13.png" alt=""><figcaption></figcaption></figure>
@@ -242,7 +242,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -250,7 +250,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **14.** 브레이크 패달 조작에 불편함이 없도록 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-14.png" alt=""><figcaption></figcaption></figure>
@@ -258,7 +258,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -266,7 +266,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **15.** 태블릿 단자를 태블릿 위치로 이동합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-15.png" alt=""><figcaption></figcaption></figure>
@@ -274,7 +274,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -282,7 +282,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **16.** 테블릿단자를 테블릿에 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-16.png" alt=""><figcaption></figcaption></figure>
@@ -290,7 +290,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -298,7 +298,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **17.** 릴레이 배선을 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-17.png" alt=""><figcaption></figcaption></figure>
@@ -306,7 +306,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -314,7 +314,7 @@ layout:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **18.** 조작에 방해가 되지 않도록 정리합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-harness-18.png" alt=""><figcaption></figcaption></figure>
@@ -322,7 +322,7 @@ layout:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}

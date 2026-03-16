@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview/tablet
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/tablet
 ---
 
 # 태블릿
@@ -31,7 +31,7 @@ metaLinks:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 태블릿 설치 위치를 확인합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-1.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -47,7 +47,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** 동봉된 볼트(M5x10 / 4EA)를 이용하여 고정 볼을 결합합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-2.png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +55,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -63,7 +63,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **3.** 마운트볼에 태블릿을 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-3.png" alt=""><figcaption></figcaption></figure>
@@ -71,7 +71,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -79,7 +79,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **4.** 사용하기 편하게 태블릿을 조정합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-4.png" alt=""><figcaption></figcaption></figure>
@@ -87,7 +87,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}

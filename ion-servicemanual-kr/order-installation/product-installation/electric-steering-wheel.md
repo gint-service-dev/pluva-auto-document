@@ -2,7 +2,7 @@
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview/electric-steering-wheel
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/electric-steering-wheel
 ---
 
 # 전동 스티어링 휠
@@ -32,7 +32,7 @@ metaLinks:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 프론트 브라켓 고정 위치를 확인합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-1.png" alt=""><figcaption></figcaption></figure>
@@ -40,7 +40,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -50,7 +50,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** 스티어링 휠 커버 탈거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-2.png" alt=""><figcaption></figcaption></figure>
@@ -58,7 +58,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -68,7 +68,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **3.** 고정된 록 너트를 알맞은 소켓을 이용하여 탈거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-3.png" alt=""><figcaption></figcaption></figure>
@@ -76,7 +76,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -86,13 +86,13 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **4. 전동** 스티어링 휠을 탈거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -102,7 +102,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 5. 탈거한 조향 축에 스플라인결합 후 유격 확인합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-5.png" alt=""><figcaption></figcaption></figure>
@@ -110,7 +110,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -120,7 +120,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **6.** 스플라인을 동봉된 볼트(M4x8볼트 / 6EA)로 오토 스티어링에 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-6.png" alt=""><figcaption></figcaption></figure>
@@ -128,7 +128,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -138,7 +138,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **7.** 오토 스티어링을 조향 축에 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-7.png" alt=""><figcaption></figcaption></figure>
@@ -146,7 +146,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -156,7 +156,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **8.** 동봉된 볼트(M5x10 / 2EA)를 사용하여 프론트 브라켓 고정합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-8.png" alt=""><figcaption></figcaption></figure>
@@ -164,7 +164,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -174,7 +174,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **9.** 오토 스티어링과 락 너트 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-9.png" alt=""><figcaption></figcaption></figure>
@@ -182,7 +182,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -192,7 +192,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 10. 오토 스티어링 커버 결합합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-10.png" alt=""><figcaption></figcaption></figure>
@@ -200,7 +200,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}

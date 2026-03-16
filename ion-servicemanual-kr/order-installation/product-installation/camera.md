@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/pluva-ion/overview/camera
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/camera
 ---
 
 # 카메라
@@ -31,7 +31,7 @@ metaLinks:
 ### 설치 방법
 
 {% columns fullWidth="false" %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### 1. 후방 최적의 시야가 확보될 수 있는 위치에 카메라를 장착합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-camera-1.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -47,7 +47,7 @@ metaLinks:
 
 
 {% columns %}
-{% column width="58.333333333333336%" %}
+{% column width="83.33333333333334%" %}
 #### **2.** 카메라 단자와 하네스 단자를 연결합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-camera-2.png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +55,7 @@ metaLinks:
 
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
+{% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
