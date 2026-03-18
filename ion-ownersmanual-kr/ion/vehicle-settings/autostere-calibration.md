@@ -1,6 +1,23 @@
-# 오토스티어 보정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 오토스티어 보정
+# 오토스티어 보정
 
 오토스티어 보정은 설정된 경로를 안정적으로 추종할 수 있도록 조향 범위와 직진 기준값을\
 보정하는 절차입니다. 트랙터는 2단계, 이앙기는 3단계로 진행됩니다.

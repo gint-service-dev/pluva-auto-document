@@ -1,6 +1,23 @@
-# 경로 저장하기
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로 저장하기
+# 경로 저장하기
 
 생성한 주행 경로를 저장해두는 기능입니다. 저장된 경로는 \[경로 불러오기]를 통해 다시 사용합니다.
 

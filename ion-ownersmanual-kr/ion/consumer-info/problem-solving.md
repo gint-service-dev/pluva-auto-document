@@ -1,6 +1,23 @@
-# 문제해결 안내
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 문제해결안내
+# 문제해결 안내
 
 아래 목록에서 증상을 선택해 조치 방법을 확인합니다. 해결되지 않을 경우 구매처로 연락하여 조치를 받으세요.
 

@@ -1,6 +1,23 @@
-# 필드 등록
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 필드 등록
+# 필드 등록
 
 필드를 한 번 등록해두면 각 작업에서 동일한 기준을 사용할 수 있어 작업 준비 시간을 줄이고 반복 설정을 최소화할 수 있습니다. 또한 작업 이력이 필드 단위로 누적·조회되어 필지별 작업 기록을 쉽게 확인하고 농작업을 체계적으로 관리할 수 있습니다.
 

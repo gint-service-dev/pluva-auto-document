@@ -1,6 +1,23 @@
-# 스위치
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 스위치 (옵션품)
+# 스위치(옵션품)
 
 스위치는 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작·정지 등 주요 기능을 간편하게 제어할 수 있습니다. 옵션품은 별도 구매가 필요하며, 모델 타입에 따라 외관 및 색상이 이미지와 다를 수 있습니다.
 

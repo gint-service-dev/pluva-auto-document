@@ -1,6 +1,23 @@
-# 경로플래닝 설정 방법
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로플래닝 설정 방법
+# 경로플래닝 설정 방법
 
 작업·작물·목적에 맞는 다양한 경로 플래닝 모드를 선택할 수 있어,\
 현장 조건에 맞는 경로로 작업을 진행하고 겹침·누락을 줄여 작업 효율과 완성도를 높입니다.

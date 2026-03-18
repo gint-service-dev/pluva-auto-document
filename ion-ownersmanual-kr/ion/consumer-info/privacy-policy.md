@@ -1,6 +1,23 @@
-# 개인정보 처리 방침
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 개인정보 처리 방침
+# 개인정보 처리 방침
 
 플루바 아이온은 서비스 제공을 위해 필요한 범위에서 개인정보를 처리하며, 관련 법령과 내부 기준에 따라 안전하게 관리합니다.&#x20;
 

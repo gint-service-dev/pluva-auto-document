@@ -1,6 +1,23 @@
-# 작업기 추가
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 작업기 추가
+# 작업기 추가
 
 작업에 사용할 작업기를 등록하고, 작업기 편차 등 설정값을 함께 입력할 수 있습니다.
 

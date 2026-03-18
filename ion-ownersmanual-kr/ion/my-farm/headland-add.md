@@ -1,6 +1,23 @@
-# 헤드랜드 등록
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 헤드랜드 등록
+# 헤드랜드 등록
 
 **헤드랜드는 무엇인가요?**
 

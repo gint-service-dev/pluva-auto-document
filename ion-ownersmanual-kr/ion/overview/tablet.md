@@ -1,6 +1,23 @@
-# 태블릿
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 태블릿
+# 태블릿
 
 자율주행 시스템을 제어하기 위한 디스플레이 장치입니다.\
 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정을 수행하며, 실시간 위치 정보, 주행 정보 및 오류 상태를 화면에 표시합니다.

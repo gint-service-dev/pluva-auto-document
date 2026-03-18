@@ -1,6 +1,23 @@
-# 내 차량 진입 및 화면 설명
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 내 차량 진입 및 화면 설명
+# 내 차량 진입 및 화면 설명
 
 작업에 사용하는 차량을 추가, 보정 등을 할 수 있는 관리 기능입니다.\
 현재 태블릿이 장착된 차량 정보가 표시되며, 차량 변경/수정은 구매처(대리점)에 문의해야 합니다.

@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -17,11 +17,9 @@ layout:
     visible: true
 ---
 
-# 플루바 아이온 소개
+# PLUVA iON 소개
 
-### pluva ion 소개
-
-플루바 아이온은 트랙터·이앙기용 오토가이던스(Autoguidance) 시스템으로, GNSS(항법 위성 장치) 와 전동 스티어링을 이용해 정밀한 직진 주행과 자동 유턴 등을 지원하는 장비입니다. 운전자의 조작 부담을 줄이고, 작업 품질과 효율을 향상시키는 작업 보조 시스템입니다.
+PLUVA iON은 트랙터·이앙기용 오토가이던스(Autoguidance) 시스템으로, GNSS(항법 위성 장치) 와 전동 스티어링을 이용해 정밀한 직진 주행과 자동 유턴 등을 지원하는 장비입니다. 운전자의 조작 부담을 줄이고, 작업 품질과 효율을 향상시키는 작업 보조 시스템입니다.
 
 
 

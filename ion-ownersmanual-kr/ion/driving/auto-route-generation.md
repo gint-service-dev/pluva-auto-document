@@ -1,6 +1,23 @@
-# 자동 경로 (Pluava AI)
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 자동 경로 (pluva AI)
+# 자동 경로 (Pluava AI)
 
 자동 경로 (pluva AI)
 

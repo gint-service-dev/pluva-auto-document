@@ -1,6 +1,23 @@
-# 소프트웨어 업데이트(OTA)
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 소프트업데이트(OTA)
+# 소프트웨어 업데이트(OTA)
 
 기기가 자동으로 업데이트 필요 여부를 확인하며, 필요시 알림이 표시됩니다.
 

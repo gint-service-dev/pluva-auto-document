@@ -1,6 +1,23 @@
-# A+직진
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### A+직진
+# A+직진
 
 A+직진은 배수·일조·경사처럼 방향이 중요한 작업에 유용합니다. 방위각을 수치로 고정해 라인 흔들림과 누적 오차를 최소화합니다. 필지 전체를 동일한 각도로 일관되게 작업할 수 있어 라인 품질과 작업 완성도를 높입니다.
 

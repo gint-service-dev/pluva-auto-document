@@ -6,11 +6,11 @@
 
 * [사용 메뉴얼 정보](ion/user-manual-info.md)
 * [개요](ion/overview/README.md)
-  * [플루바 아이온 소개](ion/overview/pluva-ion-introduction.md)
+  * [PLUVA iON 소개](ion/overview/pluva-ion-introduction.md)
   * [전동 스티어링 휠](ion/overview/electric-steering-wheel.md)
   * [GNSS 수신기](ion/overview/gnss-receiver.md)
   * [태블릿](ion/overview/tablet.md)
-  * [스위치](ion/overview/switch.md)
+  * [스위치(옵션품)](ion/overview/switch.md)
   * [카메라](ion/overview/camera.md)
 * [초기 설정법](ion/initial-setup/README.md)
   * [소프트웨어 업데이트(OTA)](ion/initial-setup/ota.md)

@@ -1,6 +1,23 @@
-# 차량 제어 설정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 차량제어설정
+# 차량 제어 설정
 
 차량 제어 설정은 작업 환경에 맞게 자율주행 반응(해제 민감도, 경로 진입 특성 등)을 조정하는 기능입니다. 설정 변경은 주행 성능에 영향을 줄 수 있으므로, 대리점 안내에 따라 조정하는 것을 권장합니다.
 

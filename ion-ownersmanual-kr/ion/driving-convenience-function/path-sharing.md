@@ -1,6 +1,23 @@
-# 경로 공유
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로 공유
+# 경로 공유
 
 공유 코드로 저장한 경로를 다른 사용자와 주고받을 수 있습니다. 또한 GPX/ISOXML 파일로도 경로를 가져올 수 있습니다.
 

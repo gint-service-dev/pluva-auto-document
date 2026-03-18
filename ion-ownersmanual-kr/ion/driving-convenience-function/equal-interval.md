@@ -1,6 +1,23 @@
-# 등간격 편의 기능
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 등간격 편의 기능
+# 등간격 편의 기능
 
 등간격 이동, 당겨오기 90도 회전 등 등간격 관련 기능을 편하게 확인하고 사용할 수 있습니다.\
 반드시 AB 경로를 생성한 후에 사용이 가능합니다.

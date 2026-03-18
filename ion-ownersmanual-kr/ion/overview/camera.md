@@ -1,6 +1,23 @@
-# 카메라
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 카메라
+# 카메라
 
 플루바 아이온에는 주변 환경을 모니터링하는 카메라 구성품이 포함됩니다.
 

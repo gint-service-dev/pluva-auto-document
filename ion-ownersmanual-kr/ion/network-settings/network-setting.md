@@ -1,6 +1,23 @@
-# 네트워크 설정&#x20;
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 네트워크 설정
+# 네트워크 설정
 
 태블릿 네트워크를 Wi-Fi 또는 셀룰러(LTE)로 연결합니다. 네트워크가 불안정하면 위치 보정 신호 수신이 끊길 수 있으므로, 작업 전 연결 상태를 먼저 확인하세요. 연결이 불안정한 경우 APN 설정을 확인하거나 다른 네트워크로 전환합니다.
 

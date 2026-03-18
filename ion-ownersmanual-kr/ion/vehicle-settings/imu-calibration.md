@@ -1,6 +1,23 @@
-# 롤/피치/요 보정(IMU)
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 롤/피치/요 보정(IMU)
+# 롤/피치/요 보정(IMU)
 
 롤/피치/요 보정은 경사지나 불규칙한 지형에서도 정확한 방향과 자세를 유지하기 위해, GNSS수신기의 기준값을 조정하는 기능입니다. 설치 상태에 따라 기울어짐이 큰 경우 값을 입력해 보정할 수 있습니다.
 

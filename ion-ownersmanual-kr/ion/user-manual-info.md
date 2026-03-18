@@ -1,6 +1,25 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 사용 메뉴얼 정보
 
-### 사용자 메뉴얼 정보
+
 
 운전자의 제품에 맞춰진 최신 정보는 **\[전체메뉴]** > **\[사용법]**&#xC744; 터치하여 태블릿의 터치스크린에서 볼 수 있습니다. 해당 정보는 구입한 기능, 제품의 구성, 판매 지역 및 소프트웨어 버전에 따라 다를 수 있습니다. GINT가 제공하는 소유자 정보는 필요에 따라 업데이트 될 수 있습니다.&#x20;
 

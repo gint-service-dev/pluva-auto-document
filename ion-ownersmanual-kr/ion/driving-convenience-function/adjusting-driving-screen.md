@@ -1,6 +1,23 @@
-# 주행 화면 조정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 주행 화면 조정
+# 주행 화면 조정
 
 ***
 

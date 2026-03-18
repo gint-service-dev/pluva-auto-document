@@ -1,6 +1,23 @@
-# 정비
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 정비
+# 정비
 
 점검, 수리, 부품 교환이 필요한 경우 아래 방법으로 접수합니다. 접수 전 모델명, 고장 증상, 설치 주소를 준비하면 처리 시간이 단축됩니다.
 
