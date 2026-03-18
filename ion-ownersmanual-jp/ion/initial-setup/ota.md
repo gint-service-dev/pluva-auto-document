@@ -1,6 +1,23 @@
-# ソフトウェアアップデート（OTA）
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### ソフトウェアアップデート（OTA）
+# ソフトウェアアップデート（OTA）
 
 アップデートの有無は自動で確認され、更新が必要な際にお知らせします。
 

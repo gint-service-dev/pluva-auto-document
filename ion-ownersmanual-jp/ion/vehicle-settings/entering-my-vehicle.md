@@ -1,6 +1,23 @@
-# My車両へのアクセスおよび画面のご案内
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### My車両へのアクセスおよび画面のご案内
+# My車両へのアクセスおよび画面のご案内
 
 作業に使用する車両を追加、または補正できる管理機能です。\
 現在タブレットが取り付けられている車両の情報が表示されます。\

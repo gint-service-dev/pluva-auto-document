@@ -1,6 +1,23 @@
-# 走行画面の調整
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 走行画面の調整
+# 走行画面の調整
 
 ***
 

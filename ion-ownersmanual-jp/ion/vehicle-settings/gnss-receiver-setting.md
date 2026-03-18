@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # GNSS受信機の設定
-
-### GNSS受信機の設定
 
 車両に取り付けられたGNSS受信機の正確な位置を登録し、測位精度を向上させます。
 

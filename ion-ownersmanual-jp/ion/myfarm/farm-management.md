@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 農場管理
-
-### 農場管理
 
 農場管理では農場を追加・修正・削除できます。 また、農場に紐づいた圃場や所有者情報も一緒に確認することができます。
 

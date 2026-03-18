@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 作業機リストへのアクセス及び画面のご案内
-
-### 作業機リストへのアクセス及び画面のご案内
 
 作業機リストでは、現在登録済みの作業機を確認し、追加・修正・削除できます。
 

@@ -1,6 +1,23 @@
-# 経路のプランニングの設定方法
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 経路のプランニングの設定方法
+# 経路のプランニングの設定方法
 
 作業内容や作物、目的に合わせて最適な経路生成モードを選択し、 圃場条件に適した経路で作業を行い、重複や作業漏れを最小限に抑え、作業効率と精度の向上を実現します。
 

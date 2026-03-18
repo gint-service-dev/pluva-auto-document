@@ -1,6 +1,23 @@
-# ターンの設定方法
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### ターンの設定方法
+# ターンの設定方法
 
 ターン設定では、ターンを開始する位置、ターン方法、回転形態、速度などを作業環境に合わせて調整できます。設定を適用すると、作業の流れを中断することなく、より安定した走行が可能になります。
 

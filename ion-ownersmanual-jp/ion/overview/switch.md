@@ -1,6 +1,23 @@
-# ワンタッチスイッチ
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### ワンタッチスイッチ (オプション品)
+# ワンタッチスイッチ (オプション品)
 
 ワンタッチスイッチは作業者が操作しやすい位置に取り付けられ、自動操舵システムの開始や停止などの主要機能を簡単に制御できます。 オプション品のため別途ご購入が必要となり、モデルタイプによっては外観や色がイメージと異なる場合があります。
 

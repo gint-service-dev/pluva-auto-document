@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 経路のリセット及び削除
-
-### 経路のリセット及び削除
 
 生成したAB経路を削除、またはこれまで作業した経路の表示のみを削除することができます。
 

@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # ロール／ピッチ／ヨー補正
-
-### ロール／ピッチ／ヨー補正
 
 ロール／ピッチ／ヨー補正は、傾斜地や不整地でも車両が正確な方向と姿勢を維持するために、GNSS受信機の基準値を調整する機能です。取り付け状態によって傾きが大きい場合は、値を入力して補正することができます。
 

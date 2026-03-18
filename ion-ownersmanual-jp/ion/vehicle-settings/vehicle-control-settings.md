@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 車両の制御設定
-
-### 車両の制御設定
 
 車両の制御設定とは、作業環境に合わせて自動操舵の反応（自動操舵の解除感度、経路進入の特性など）を調整する機能です。設定変更は、走行の性能に影響を与えかねませんので、購入先の案内に従って調整することをおすすめします。
 

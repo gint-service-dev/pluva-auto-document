@@ -1,6 +1,23 @@
-# カメラ
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### カメラ
+# カメラ
 
 pluva ionには、周辺環境をモニタリングするためのカメラが構成品として含まれています。
 

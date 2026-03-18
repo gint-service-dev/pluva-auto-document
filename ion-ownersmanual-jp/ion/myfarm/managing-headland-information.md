@@ -1,6 +1,23 @@
-# 枕地情報の修正/削除
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 枕地情報の管理
+# 枕地情報の修正/削除
 
 枕地情報の管理では、登録された枕地の情報を修正または削除することができます。距離、個数、位置調整値などを作業環境に合わせて変更して適用することができます。
 

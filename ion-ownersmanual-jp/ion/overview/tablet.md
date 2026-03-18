@@ -1,6 +1,23 @@
-# タブレット
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### タブレット
+# タブレット
 
 タブレットは、自動操舵システムを制御するためのディスプレイ装置です。 作業経路の設定や走行状態のモニタリング、システム制御及び各種設定ができ、リアルタイムでの位置情報や走行情報及びエラー状態を確認できます。
 

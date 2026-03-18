@@ -1,6 +1,23 @@
-# 位置補正の設定
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 位置補正の設定
+# 位置補正の設定
 
 位置補正とは、RTKなどの補正信号を接続し位置の精度を向上させるための設定です。現場の環境に適した方法を選択し、接続状態を設定します。
 

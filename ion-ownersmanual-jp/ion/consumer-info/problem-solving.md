@@ -1,6 +1,23 @@
-# トラブルシューティング
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### トラブルシューティング
+# トラブルシューティング
 
 以下の一覧から、該当するトラブル内容を選択し対処方法をご確認ください。対処後にも改善しない場合は、購入先へお問い合わせください。
 

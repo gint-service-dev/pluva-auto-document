@@ -1,6 +1,23 @@
-# 圃場情報の修正/削除
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 圃場情報の管理
+# 圃場情報の修正/削除
 
 圃場名、農場などの情報を修正し削除できる機能です。
 

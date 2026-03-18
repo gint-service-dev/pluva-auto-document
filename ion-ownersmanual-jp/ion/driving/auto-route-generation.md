@@ -1,8 +1,25 @@
-# 自動経路（pluva AI）
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 自動経路（pluva AI）
+# 自動経路（PLUVA AI）
 
-自動経路（pluva AI）
+自動経路（PLUVA AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
@@ -18,7 +35,7 @@
 {% endstep %}
 
 {% step %}
-pluva AIが経路を生成します。
+PLUVA AIが経路を生成します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

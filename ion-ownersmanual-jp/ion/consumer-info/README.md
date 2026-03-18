@@ -1,6 +1,23 @@
-# お客様サポート
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### カスタマーサポート
+# カスタマーサポート
 
 プルバアイオンのご利用中に発生する問題を迅速に解決し、点検・修理・交換の基準と受付方法をご案内いたします。
 

@@ -1,6 +1,23 @@
-# A+直進
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### A+直進
+# A+直進
 
 A+直進は、排水・日照・傾斜など、作業方向が重要となる現場に最適です。方位角を数値入力で固定し、ラインのぶれや累積誤差を最小限に抑えます。圃場全体を同一の角度で一貫して作業できるため、ラインの品質と作業の完成度を高めます。
 

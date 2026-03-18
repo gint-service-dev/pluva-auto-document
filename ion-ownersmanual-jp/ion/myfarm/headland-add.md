@@ -1,6 +1,23 @@
-# 枕地の登録
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 枕地の登録
+# 枕地の登録
 
 枕地とは？
 

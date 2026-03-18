@@ -1,6 +1,23 @@
-# 経路の取り込み
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 経路の取り込み
+# 経路の取り込み
 
 保存した経路を取り込んだり、お気に入りや名前の修正、削除などの管理ができます。
 

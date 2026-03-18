@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 取扱説明書の情報
-
-### 取扱説明書の情報
 
 車両に最適化された最新情報は、タッチスクリーンの **\[全メニュー]** ＞ **\[使い方]** よりご確認いただけます。これらの情報は、ご購入時の仕様、製品構成、販売地域、およびソフトウェアのバージョンによって異なる場合があります。GINTが提供するユーザー情報は、最新機能に対応するため随時更新されます。
 

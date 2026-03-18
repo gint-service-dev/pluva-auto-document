@@ -1,6 +1,23 @@
-# GNSS受信機
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### GNSS受信機
+# GNSS受信機
 
 GNSS受信機は、RTKを基盤とした高精度位置情報を利用し、農業機械の位置を精密に把握できます。\
 補正データを用いて位置補正が行われ、設定内容は使用環境により変更される場合があります。

@@ -1,6 +1,23 @@
-# 農場主の管理
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 農場主の管理
+# 農場主の管理
 
 農場主の管理では、所有者情報を追加・修正・削除できます。 所有者ごとに登録された圃場の現状をも一緒に確認することができます。
 

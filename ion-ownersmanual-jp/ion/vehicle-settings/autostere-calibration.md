@@ -1,6 +1,23 @@
-# オートステア補正
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### オートステア補正
+# オートステア補正
 
 オートステア補正とは、設定された経路を安定して追従できるよう、ステアリング範囲と　直進基準値を補正するプロセスです。トラクターは2段階、田植え機は3段階の補正を行います。
 

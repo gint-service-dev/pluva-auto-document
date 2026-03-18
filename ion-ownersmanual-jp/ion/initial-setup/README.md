@@ -1,6 +1,23 @@
-# 初期設定方法
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 初期設定方法
+# 初期設定方法
 
 本製品をお使いになる前に、ご確認いただくべき基本設定と事前の案内事項について説明します。
 

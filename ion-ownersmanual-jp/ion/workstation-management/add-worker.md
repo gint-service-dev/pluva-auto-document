@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 作業機の追加
-
-### 作業機の追加
 
 作業に使用する作業機を登録し、作業機の偏差などの設定値も合わせて入力することができます。
 

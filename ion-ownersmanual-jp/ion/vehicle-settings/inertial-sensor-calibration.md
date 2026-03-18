@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 慣性センサー矯正
-
-### 慣性センサー矯正
 
 慣性センサー矯正は、車両の傾きや回転、振動データを基準値として補正し、自動操舵時の経路追従の精度を高めるための手順です。必ず車両を停止し、エンジンを切った状態で作業を進めてください。
 

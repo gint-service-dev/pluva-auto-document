@@ -1,6 +1,23 @@
-# ネットワーク設定へのアクセスおよび画面のご案内
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### ネットワーク設定へのアクセスおよび画面のご案内
+# ネットワーク設定へのアクセスおよび画面のご案内
 
 ネットワーク設定では、GNSS受信機のステータスや衛星信号の品質、位置補正の接続状態やタブレットのネットワーク（Wi-Fi/セルラー）を確認し、変更することができます。
 

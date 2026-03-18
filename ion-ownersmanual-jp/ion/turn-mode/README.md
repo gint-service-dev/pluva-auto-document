@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # ターンモード
-
-### ターンモード
 
 ターンモードは、作業ラインの端に到達した際に、次のラインに移動できるよう方向転換をサポートする機能です。作業方法とスペースの条件に合わせてターン方法を選択すると、作業を安定的に続けることができます。
 

@@ -1,6 +1,23 @@
-# 整備
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 整備
+# 整備
 
 点検、修理、部品交換が必要な場合は購買先の担当者へのご連絡をお願いします。\
 連絡する前にモデル名、故障症状、訪問先の住所を把握していると処理時間が短縮されます。

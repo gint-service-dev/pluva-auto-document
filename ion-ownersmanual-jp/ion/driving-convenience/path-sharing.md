@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 経路の共有
-
-### 経路の共有
 
 共有コードを用いて保存した経路を他のユーザーと共有できます。 また、GPX/ISOXML形式のファイルも共有できます。
 

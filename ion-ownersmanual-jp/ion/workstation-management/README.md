@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 作業機の管理
-
-### 作業機の管理
 
 作業機の管理は、作業で使用する作業機を追加し、取り付け状態および作業機情報を確認するメニューです。
 
