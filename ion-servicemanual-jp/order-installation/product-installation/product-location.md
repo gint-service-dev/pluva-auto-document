@@ -21,7 +21,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/product-location
 ---
 
-# 製品の取り付け位置 (제품 설치 위치
+# 製品の取り付け位置
 
 ### 製品の取り付け位置
 
@@ -40,5 +40,5 @@ metaLinks:
 
 {% hint style="info" %}
 \[エクスパンションキット]\
-タブレットを除いた経済的なキットです。GNSS受信機、電動ステアリングホイール、カメラが含まれています。ご注文の前に、PLUVA iONタブレットをお持ちであることをご確認ください。
+タブレットを除いた経済的なキットです。GNSS受信機、電動ステアリングホイール、カメラが含まれています。ご注文の前に、pluva ionタブレットをお持ちであることをご確認ください。
 {% endhint %}

@@ -25,7 +25,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-Pluva AIが経路を生成します。
+pluva AIが経路を生成します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

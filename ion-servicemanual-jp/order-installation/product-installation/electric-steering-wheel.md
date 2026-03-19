@@ -5,11 +5,11 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/electric-steering-wheel
 ---
 
-# 電動ステアリングホイールの取り付け &#x20;
+# 電動ステアリングホイールの取り付け
 
 ## 電動ステアリングホイールの取り付け&#x20;
 
-pluva iONの自動操舵に必要なステアリングホイールとオートステアを取付ます。
+pluva ionの自動操舵に必要なステアリングホイールとオートステアを取付ます。
 
 ***
 
