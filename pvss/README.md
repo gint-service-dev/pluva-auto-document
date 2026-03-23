@@ -4,8 +4,28 @@
 
 <h3 align="center">플루바 로보틱스를 이용해 주셔서 감사합니다.</h3>
 
+<p align="center"></p>
+
 <p align="center">온라인 사용 설명서는 현재 준비 중입니다.</p>
 
 <p align="center">이용 중 궁금하신 사항은 문의주세요.</p>
+
+<p align="center"></p>
+
+```
+<a href="tel:1533-5505" style="
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+">
+    📞 전화 문의하기
+</a>
+```
+
+<p align="center"></p>
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:1533-5505">tel:1533-5505</a></td></tr></tbody></table>
