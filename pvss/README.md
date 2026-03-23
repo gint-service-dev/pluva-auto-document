@@ -8,18 +8,4 @@
 
 <p align="center">이용 중 궁금하신 사항은 문의주세요.</p>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="/broken/pages/1Al7u3hGNO6iuC0fCoct">Broken link</a></td></tr></tbody></table>
-
-```
-<a href="tel:010-1234-5678" style="
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-">
-    📞 전화 문의하기
-</a>
-```
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="/broken/pages/1Al7u3hGNO6iuC0fCoct">Broken link</a></td></tr></tbody></table>
