@@ -8,23 +8,7 @@
 
 <p align="center">온라인 사용 설명서는 현재 준비 중입니다.</p>
 
-<p align="center">이용 중 궁금하신 사항은 문의주세요.</p>
-
-<p align="center"></p>
-
-```
-<a href="tel:1533-5505" style="
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-">
-    📞 전화 문의하기
-</a>
-```
+<p align="center">이용 중 궁금하신 사항은 문의주세요</p>
 
 <p align="center"></p>
 
