@@ -8,4 +8,4 @@
 
 <p align="center">이용 중 궁금하신 사항은 문의주세요.</p>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:1533-5505">tel:1533-5505</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:1533-5505">tel:1533-5505</a></td></tr></tbody></table>
