@@ -6,7 +6,7 @@
 
 <p align="center"></p>
 
-<p align="center">온라인 사용 설명서는 현재 준비 중입니다.<br>이용 중 궁금하신 사항은 문의주세요</p>
+<p align="center">온라인 사용 설명서는 현재 준비 중입니다.<br>이용 중 궁금하신 사항은 고객센터로 문의해 주세요.</p>
 
 <p align="center"></p>
 
