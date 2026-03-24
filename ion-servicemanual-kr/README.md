@@ -22,7 +22,7 @@ metaLinks:
 
 # PLUVA iON Service Manual
 
-<figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
 
 
