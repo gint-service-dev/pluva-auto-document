@@ -104,16 +104,16 @@
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) 휠베이스
 
-* 이앙기의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
+* 관리의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
 
 &#x20;![](../../.gitbook/assets/icon-square-2.svg) 후륜 축-차량 끝
 
-* 이앙기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
+* 관리기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
 * ![](../../.gitbook/assets/add-manager-dimensions-2.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 이앙기 폭
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 관리기 폭
 
-* 이앙기의 폭을 의미하며 타이어 너비를 포함합니다.
+* 관리기의 폭을 의미하며 타이어 너비를 포함합니다.
 * ![](../../.gitbook/assets/add-manager-dimensions-3.png)
 
 &#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 간격 편차

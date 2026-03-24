@@ -34,7 +34,7 @@
 
 #### 작업기 치수 항목 설명
 
-<figure><img src="../../.gitbook/assets/add-leeangi-dimensions (1).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-dimensions.png" alt="" width="275"><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1-1.svg) **작업기 너비**
 

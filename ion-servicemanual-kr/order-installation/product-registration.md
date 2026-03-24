@@ -134,7 +134,7 @@ layout:
 
 {% stepper %}
 {% step %}
-어드민 페이지에 로그인합니다.
+[어드민 페이지](../others/initial-setup.md#qr-not-scanned)에 로그인합니다.
 
 <figure><img src="../.gitbook/assets/enter-ticket-1.png" alt="" width="348"><figcaption></figcaption></figure>
 {% endstep %}
@@ -164,7 +164,7 @@ layout:
 {% endstep %}
 
 {% step %}
-\[패키지로 한번에 개]을 누릅니다.
+\[패키지로 한번에 개통]을 누릅니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-2.png" alt="" width="320"><figcaption></figcaption></figure>
 
@@ -192,33 +192,23 @@ layout:
 {% endstep %}
 
 {% step %}
-등록이 완료되면 제품 등록 팝업에서 \[개통하고 다음]을 누릅니다.
+등록이 완료되면 제품 등록 팝업에서 \[개통 완료]를 누릅니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt="" width="311"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않으면 QR 스캔 화면으로 돌아갑니다.
 
+자세한 내용은 [기타 불편사항 대응 방법 → 6)QR코드가 스캔되지 않음](../others/initial-setup.md#qr-not-scanned) 항목 참고하세요.
+
 <img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
 {% endhint %}
-{% endstep %}
-
-{% step %}
-추가 옵션 제품을 이어서 진행합니다. 제품 코드 스캔 과정은 주요 제품 개통 과정과 동일합니다.
-
-<figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt="" width="270"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-주문 작성시 추가 옵션을 선택하지 않았다면 바로 개통을 완료할 수 있습니다.
+추가 옵션을 주문할 경우 주요 제품 개통 이후 추가 옵션 개통을 진행해야 개통이 완료됩니다.
 
-<img src="../.gitbook/assets/none option.png" alt="" data-size="original">
+<img src="../.gitbook/assets/addoption.png" alt="" data-size="original">
 {% endhint %}
-{% endstep %}
-
-{% step %}
-스캔 등록이 완료되면 \[개통 완료]를 누릅니다.
-
-<figure><img src="../.gitbook/assets/enter-ticketdetail-7.png" alt="" width="314"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
