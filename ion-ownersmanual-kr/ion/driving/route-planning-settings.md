@@ -38,12 +38,6 @@ A+직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-사각주행
-
-* A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
 자동 경로 (pluva AI)
 
 * 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.

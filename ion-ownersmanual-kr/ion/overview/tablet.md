@@ -22,7 +22,7 @@ layout:
 자율주행 시스템을 제어하기 위한 디스플레이 장치입니다.\
 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정을 수행하며, 실시간 위치 정보, 주행 정보 및 오류 상태를 화면에 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/tablet-description-2.png" alt=""><figcaption></figcaption></figure>
 
