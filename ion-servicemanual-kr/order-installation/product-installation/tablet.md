@@ -18,7 +18,7 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/tablet-preparations.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="161.1815185546875">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>태블릿</td><td>-</td><td>1</td></tr><tr><td>하네스</td><td>-</td><td>1</td></tr><tr><td>U볼트 마운트</td><td></td><td></td></tr><tr><td>램 마운트</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="161.1815185546875">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>태블릿</td><td>-</td><td>1</td></tr><tr><td>하네스</td><td>-</td><td>1</td></tr><tr><td>U볼트 마운트</td><td>-</td><td>1</td></tr><tr><td>램 마운트</td><td>-</td><td>1</td></tr></tbody></table>
 
 #### 🛠️ 필요 공구
 
