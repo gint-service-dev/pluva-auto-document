@@ -1,4 +1,4 @@
-# pluva ion
+# PLUVA iON Owner's Manual
 
 <figure><img src=".gitbook/assets/Ion-package-image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -11,6 +11,14 @@
 **주의**\
 사용 전 반드시 이 제품 메뉴얼을 읽고 자율주행 키트를 안전하고 올바르게 사용하세요.
 {% endhint %}
+
+
+
+### 영상 가이드 <a href="#guide" id="guide"></a>
+
+메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
+
+{% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw&si=XKvvquRvSZQHj89V" %}
 
 
 
@@ -111,4 +119,3 @@
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>정비</td><td><a href="ion/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
 </details>
-
