@@ -95,7 +95,7 @@ layout:
 {% endhint %}
 
 {% hint style="warning" %}
-**\[원격 종료]** 를 선택하면 코드가 즉시 만료됩니다. 이 경우 코드를 다시 발급받아야 합니다.
+**\[원격 지원 종료]** 를 선택하면 코드가 즉시 만료됩니다. 이 경우 코드를 다시 발급받아야 합니다.
 {% endhint %}
 {% endstep %}
 
@@ -106,8 +106,18 @@ layout:
 {% endstep %}
 
 {% step %}
-조치가 완료되면 **\[원격 종료]** 버튼을 선택하여 원격 지원을 종료합니다.
+조치가 완료되면 **\[원격 지원 종료]** 버튼을 선택하여 원격 지원을 종료합니다.
 
 <figure><img src="../../.gitbook/assets/monitorning-progress-5.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+원격 지원을 일시적으로 중단하려면 **\[중단]** 버튼을 선택합니다.
+
+중단 후에는 코드 발급 시점으로부터 24시간 내에 언제든지 원격 접속이 가능합니다.\
+원격 지원을 완전히 종료하려면 **\[원격 지원 종료]** 버튼을 선택합니다.
+
+<img src="../../.gitbook/assets/monitoring-stop.png" alt="" data-size="original">
+{% endhint %}
 {% endstep %}
 {% endstepper %}
+
