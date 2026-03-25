@@ -2,8 +2,6 @@
 
 <figure><img src=".gitbook/assets/260325_PLUVA-robotics.jpg" alt=""><figcaption></figcaption></figure>
 
-<h3 align="center"></h3>
-
 <h3 align="center">플루바 로보틱스를 이용해 주셔서 감사합니다.</h3>
 
 <p align="center"></p>
