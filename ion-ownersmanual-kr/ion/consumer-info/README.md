@@ -27,8 +27,8 @@ layout:
 [problem-solving.md](problem-solving.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="remote-support.md" %}
+[remote-support.md](remote-support.md)
 {% endcontent-ref %}
 
 {% content-ref url="maintenance.md" %}

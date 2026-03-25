@@ -52,7 +52,7 @@
   * [네트워크 설정](ion/network-settings/network-setting.md)
 * [고객지원](ion/consumer-info/README.md)
   * [문제해결 안내](ion/consumer-info/problem-solving.md)
-  * [원격 지원](ion/consumer-info/undefined.md)
+  * [원격 지원](ion/consumer-info/remote-support.md)
   * [정비](ion/consumer-info/maintenance.md)
   * [개인정보 처리 방침](ion/consumer-info/privacy-policy.md)
   * [제원 정보](ion/consumer-info/specification-information.md)
