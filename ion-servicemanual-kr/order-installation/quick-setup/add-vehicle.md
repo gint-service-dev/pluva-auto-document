@@ -104,7 +104,8 @@
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) 휠베이스
 
-* 관리의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
+* 관리기의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
+* ![](../../.gitbook/assets/add-manager-dimensions-1.png)
 
 &#x20;![](../../.gitbook/assets/icon-square-2.svg) 후륜 축-차량 끝
 
