@@ -8,6 +8,10 @@
 
 <p align="center">온라인 사용 설명서는 현재 준비 중입니다.<br>이용 중 궁금하신 사항은 고객센터로 문의해 주세요.</p>
 
+<p align="center"></p>
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>고객센터 전화 연결</td><td><a href="tel:15335505">tel:15335505</a></td></tr></tbody></table>
+
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:1533-5505">tel:1533-5505</a></td></tr></tbody></table>
 
 <p align="center"></p>
