@@ -10,21 +10,11 @@
 
 <p align="center"></p>
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:1533-5505">tel:1533-5505</a></td><td><a href="tel:15335505">tel:15335505</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td></td></tr><tr><td align="center">1533-5505</td><td><a href="tel:15335505">tel:15335505</a></td></tr><tr><td align="center"></td><td></td></tr></tbody></table>
 
-{% columns %}
-{% column %}
+<p align="center"></p>
 
-{% endcolumn %}
 
-{% column %}
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
 
 <figure><img src=".gitbook/assets/PLUVA-robotics.jpg" alt=""><figcaption></figcaption></figure>
 
