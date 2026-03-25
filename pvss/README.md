@@ -18,15 +18,13 @@
 {% endcolumn %}
 
 {% column %}
-[**1533-5505**](tel:1533-5505)
+<p align="center"><a href="tel:1533-5505"><strong><code>1533-5505</code></strong></a></p>
 {% endcolumn %}
 
 {% column %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:15335505">tel:15335505</a></td></tr></tbody></table>
 
 
 
