@@ -84,4 +84,5 @@
 
 <p align="center">온라인 사용 설명서는 현재 준비 중입니다.<br>이용 중 궁금하신 사항은 고객센터로 문의해 주세요.<br><br></p>
 
-<figure><img src=".gitbook/assets/BUTTON2.png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/BUTTON2.png" alt="tel:15335505" width="270"><figcaption></figcaption></figure>
+
