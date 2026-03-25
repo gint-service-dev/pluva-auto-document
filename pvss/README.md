@@ -12,6 +12,8 @@
 
 <p align="center"></p>
 
+<table data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td></td><td></td><td></td></tr><tr><td align="center">1533-5505</td><td></td><td></td><td><a href="tel:1533-5505">tel:1533-5505</a></td></tr><tr><td align="center"></td><td></td><td></td><td></td></tr></tbody></table>
+
 {% columns %}
 {% column %}
 
@@ -26,7 +28,7 @@
 {% endcolumn %}
 {% endcolumns %}
 
-
+<p align="center"><a href="tel:15335505" class="button secondary" data-icon="phone-flip">     1533-5505     </a></p>
 
 <figure><img src=".gitbook/assets/PLUVA-robotics.jpg" alt=""><figcaption></figcaption></figure>
 
