@@ -54,10 +54,6 @@
 
 <p align="center"></p>
 
-
-
-<p align="center"><strong>BUTTON 3</strong> : button</p>
-
 <p align="center"><a href="tel:15335505" class="button secondary" data-icon="phone-flip">1533-5505</a></p>
 
 <p align="center"></p>
