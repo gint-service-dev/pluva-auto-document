@@ -38,7 +38,7 @@
 
 <p align="center">TEST 4 : image</p>
 
-<figure><img src=".gitbook/assets/BUTTON.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/BUTTON.jpg" alt="" width="180"><figcaption></figcaption></figure>
 
 
 
