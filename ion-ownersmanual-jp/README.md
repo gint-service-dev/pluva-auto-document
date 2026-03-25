@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# pluva ion
+# PLUVA iON Owner's Manual
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,6 +30,14 @@ layout:
 ご注意\
 ご使用の前に必ず本製品マニュアルをお読みいただき、自動操舵キットを安全かつ正しくご使用ください。
 {% endhint %}
+
+#### 映像ガイド <a href="#guide" id="guide"></a>
+
+マニュアルの内容を簡潔にまとめた動画ガイドをご用意しました。以下の動画から内容を素早くご確認いただけます。
+
+{% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ21A3gjvc_jYkS6jjd_cba8&si=YHqsuPgg3SQ20XKZ" %}
+
+
 
 ### 概要
 
