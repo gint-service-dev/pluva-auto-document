@@ -10,7 +10,7 @@
 
 <p align="center"></p>
 
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"></td><td></td></tr><tr><td align="center">1533-5505</td><td><a href="tel:15335505">tel:15335505</a></td></tr><tr><td align="center"></td><td></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">1533-5505</td><td><a href="tel:15335505">tel:15335505</a></td></tr></tbody></table>
 
 <p align="center"></p>
 
