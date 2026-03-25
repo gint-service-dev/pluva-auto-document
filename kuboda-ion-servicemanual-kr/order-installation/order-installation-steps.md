@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/order-installation-steps
 ---
 
-# 주문/설치 단계 설명
+# 개통/설치 단계 설명
 
 ### 주문-설치 단계 안내
 
@@ -21,14 +21,14 @@ metaLinks:
 
 * 어드민에 주문 정보를 입력하면 고객이 주문한 제품 수만큼 설치티켓이 자동 발행됩니다.\
   설치티켓은 설치에 필요한 정보를 포함하며 제품 등록, 개통, 설치 완료까지 전 과정을 관리하는 단위입니다.
-* 자세한 내용은 [<mark style="color:$primary;">주문 등록</mark>](order-registration.md)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">주문 등록</mark>](/broken/pages/VWNlce7Me1jPjG6Jeplq)를 참고하세요.
 {% endstep %}
 
 {% step %}
 #### 고객 계정 준비
 
 * 서비스 사용에 필요한 고객 계정을 사전에 준비합니다. 해당 고객 계정 정보를 기반으로 맞춤 자율주행 서비스가 제공됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">고객 계정 준비</mark>](preparing-accounts.md)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">고객 계정 준비</mark>](/broken/pages/CnGTOYLEi05lcPycfKT1)를 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -48,7 +48,7 @@ metaLinks:
 #### **설치**
 
 * 차량에 제품를 설치합니다. 기존 핸들을 자율주행용 핸들로 교체하고, 각종 센서 및 장치를 연결하는 작업을 포함합니다.
-* 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](product-installation/)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](/broken/pages/psLdExmMyXogAY5BJrIg)를 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -61,7 +61,7 @@ metaLinks:
 {% endhint %}
 
 * 아이온 태블릿에 발급받은 **개통키를 등록**하고, 네트워크/차량 정보 등 시스템 작동에 필요한 **초기 설정을 완료**합니다. 설정이 완료되면 제품이 활성화되어 사용 가능한 상태가 됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](quick-setup/)을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](/broken/pages/5l4f11JPsTaBWcobAyoo)을 참고하세요.
 {% endstep %}
 
 {% step %}
