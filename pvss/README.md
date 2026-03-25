@@ -36,9 +36,9 @@
 
 <p align="center"><a href="tel:15335505" class="button secondary" data-icon="phone-flip">1533-5505</a></p>
 
-<p align="center"></p>
-
 <p align="center">TEST 4 : image</p>
+
+<figure><img src=".gitbook/assets/BUTTON.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
