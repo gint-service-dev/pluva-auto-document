@@ -92,7 +92,7 @@
 
 <summary><a href="ion/vehicle-settings/">차량 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="ion/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="ion/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정</td><td><a href="ion/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>관성센서 보정</td><td><a href="ion/vehicle-settings/inertial-sensor-calibration.md">inertial-sensor-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="ion/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="ion/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="ion/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="ion/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정</td><td><a href="ion/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="ion/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="ion/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -116,6 +116,6 @@
 
 <summary><a href="ion/consumer-info/">고객 지원</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>정비</td><td><a href="ion/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>원격 지원</td><td><a href="ion/consumer-info/undefined.md">undefined.md</a></td></tr><tr><td>정비</td><td><a href="ion/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
 </details>

@@ -39,7 +39,6 @@
 * [차량 관리](ion/vehicle-settings/README.md)
   * [내 차량 진입 및 화면 설명](ion/vehicle-settings/entering-my-vehicle.md)
   * [오토스티어 보정](ion/vehicle-settings/autostere-calibration.md)
-  * [내 차량 정보 수정](ion/vehicle-settings/undefined.md)
   * [롤/피치/요 보정(IMU)](ion/vehicle-settings/imu-calibration.md)
   * [관성센서 보정](ion/vehicle-settings/inertial-sensor-calibration.md)
   * [차량 제어 설정](ion/vehicle-settings/vehicle-control-settings.md)

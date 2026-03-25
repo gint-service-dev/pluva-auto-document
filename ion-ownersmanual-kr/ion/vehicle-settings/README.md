@@ -33,10 +33,6 @@ layout:
 [imu-calibration.md](imu-calibration.md)
 {% endcontent-ref %}
 
-{% content-ref url="inertial-sensor-calibration.md" %}
-[inertial-sensor-calibration.md](inertial-sensor-calibration.md)
-{% endcontent-ref %}
-
 {% content-ref url="vehicle-control-settings.md" %}
 [vehicle-control-settings.md](vehicle-control-settings.md)
 {% endcontent-ref %}
@@ -44,3 +40,4 @@ layout:
 {% content-ref url="gnss-receiver-setting.md" %}
 [gnss-receiver-setting.md](gnss-receiver-setting.md)
 {% endcontent-ref %}
+
