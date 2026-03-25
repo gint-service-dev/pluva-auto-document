@@ -17,22 +17,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-#### **주문 등록**
-
-* 어드민에 주문 정보를 입력하면 고객이 주문한 제품 수만큼 설치티켓이 자동 발행됩니다.\
-  설치티켓은 설치에 필요한 정보를 포함하며 제품 등록, 개통, 설치 완료까지 전 과정을 관리하는 단위입니다.
-* 자세한 내용은 [<mark style="color:$primary;">주문 등록</mark>](/broken/pages/VWNlce7Me1jPjG6Jeplq)를 참고하세요.
-{% endstep %}
-
-{% step %}
-#### 고객 계정 준비
-
-* 서비스 사용에 필요한 고객 계정을 사전에 준비합니다. 해당 고객 계정 정보를 기반으로 맞춤 자율주행 서비스가 제공됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">고객 계정 준비</mark>](/broken/pages/CnGTOYLEi05lcPycfKT1)를 참고하세요.
-{% endstep %}
-
-{% step %}
-#### **설치티켓으로 제품 등록**
+#### 제품 개통
 
 {% hint style="info" %}
 설치티켓이 무엇인가요?

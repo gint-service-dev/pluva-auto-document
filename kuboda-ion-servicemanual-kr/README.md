@@ -24,16 +24,6 @@ metaLinks:
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
-
-
-### 영상 가이드 <a href="#guide" id="guide"></a>
-
-메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
-
-{% embed url="https://youtu.be/cfwbHk-JCko" %}
-
-
-
 ### 목차
 
 <details>
