@@ -4,9 +4,15 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/
 ---
 
-# PLUVA iONの 代理店向けマニュアル
+# pluva ionの 代理店向けマニュアル
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
+
+#### 映像ガイド <a href="#guide" id="guide"></a>
+
+マニュアルの内容を簡潔にまとめた動画ガイドをご用意しました。以下の動画から内容を素早くご確認いただけます。
+
+{% embed url="https://youtu.be/937i4gEPMAk" %}
 
 
 
