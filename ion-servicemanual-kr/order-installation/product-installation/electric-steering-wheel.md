@@ -21,6 +21,10 @@ metaLinks:
 
 <table><thead><tr><th width="161.1815185546875">이름</th><th>규격</th><th>수량</th></tr></thead><tbody><tr><td>스플라인</td><td>-</td><td>1</td></tr><tr><td>프론트 브라켓</td><td>-</td><td>1</td></tr><tr><td>세레이션<br>고정 볼트</td><td>M4 X 8</td><td>7</td></tr><tr><td><p>프론트 브라켓 </p><p>고정 볼트</p></td><td>M5 X 10</td><td>3</td></tr></tbody></table>
 
+{% hint style="info" %}
+스플라인의 형태는 기종에 따라 상이할 수 있습니다.
+{% endhint %}
+
 #### 🛠️ 필요 공구
 
 <figure><img src="../../.gitbook/assets/tools-requiring-power-steering.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -87,7 +91,7 @@ metaLinks:
 
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **4. 전동** 스티어링 휠을 탈거합니다.
+#### **4.** 전동 스티어링 휠을 탈거합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
@@ -103,7 +107,7 @@ metaLinks:
 
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### 5. 탈거한 조향 축에 스플라인결합 후 유격 확인합니다.
+#### 5. 탈거한 조향 축에 스플라인결합 후 유격을 확인합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-electric-steering-5.png" alt=""><figcaption></figcaption></figure>
 

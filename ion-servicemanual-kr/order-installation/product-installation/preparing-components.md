@@ -34,7 +34,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 상태 구분
 
-<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>정상</td><td>5초 이상 미수신</td><td>60초 이상 미수신 (또는 수신된적 없음)</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-off.png" alt=""></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>정상</td><td>5초 이상 미수신</td><td>60초 이상 미수신 (또는 수신된적 없음)</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-off.png" alt=""></td></tr></tbody></table>
 
 
 
@@ -256,3 +256,4 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
   * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
+

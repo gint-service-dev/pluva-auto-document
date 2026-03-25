@@ -68,7 +68,7 @@ metaLinks:
 
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **3.** 트랙터  중앙에 GNSS 수신기를 부착합니다.
+#### **3.** 트랙터 중앙이나 뒤쪽에 GNSS 수신기를 부착합니다.
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-3.png" alt=""><figcaption></figcaption></figure>
 
