@@ -55,6 +55,6 @@ pluva AI가 경로를 생성합니다.
 
 {% hint style="info" %}
 \[경로 수정] 버튼을 눌러 추천 경로를 변경할 수 있습니다.
-
-<img src="../../.gitbook/assets/driving-mode-modify.png" alt="" data-size="original">
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/driving-mode-modify.png" alt=""><figcaption></figcaption></figure>

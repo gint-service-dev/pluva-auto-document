@@ -170,19 +170,19 @@ layout:
 {% step %}
 안내에 따라 핸들을 왼쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 오른쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 이용하여 바퀴를 중앙에 위치시키고 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -210,12 +210,12 @@ layout:
 {% endstep %}
 
 {% step %}
-안내에 따라 \[1km 시속]으로 주행하고 \[자동 보정 시작] 버튼을 누릅니다.
+안내에 따라 \[2km 시속]으로 주행하고 \[자동 보정 시작] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/leeangi-straight-steering-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-이앙기 제한 속도는 1km로 초과 시 버튼이 활성화 되지않습니다.
+이앙기 제한 속도는 2km로 초과 시 버튼이 활성화 되지않습니다.
 {% endhint %}
 
 {% hint style="info" %}
@@ -228,7 +228,7 @@ layout:
 {% endstep %}
 
 {% step %}
-지속해서 1km이하로 주행한다.
+지속해서 2km이하로 주행한다.
 
 <figure><img src="../../.gitbook/assets/leeangi-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
 
@@ -250,12 +250,12 @@ layout:
 
 {% stepper %}
 {% step %}
-안내에 따라 \[1km 시속]으로 주행하고 \[자동 보정 시작] 버튼을 누릅니다.
+안내에 따라 \[2km 시속]으로 주행하고 \[자동 보정 시작] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/leeangi-steering-angle-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-이앙기 제한 속도는 1km로 초과 시 버튼이 활성화 되지않습니다.
+이앙기 제한 속도는 2km로 초과 시 버튼이 활성화 되지않습니다.
 {% endhint %}
 
 {% hint style="info" %}
@@ -268,7 +268,7 @@ layout:
 {% endstep %}
 
 {% step %}
-지속해서 1km이하로 주행합니다.
+지속해서 2km이하로 주행합니다.
 
 <figure><img src="../../.gitbook/assets/leeangi-steering-angle-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -281,5 +281,96 @@ layout:
 보정 과정이 끝나면 \[확인] 버튼이 활성화됩니다. 버튼을 눌러 보정을 완료하세요.
 
 <figure><img src="../../.gitbook/assets/leeangi-steering-angle-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 배속턴 차량 오토스티어 보정
+
+배속턴 차량은 **배속턴 OFF/ON 두 상태**에서 동일한 보정을 각각 진행합니다.
+
+{% hint style="warning" %}
+배속턴 오토스티어 보정은 차량 추가 시 \[배속턴 차량] 토글을 ON으로 설정한 경우에만 진행할 수 있습니다.\
+배속턴 차량이라면 반드시 해당 옵션을 ON으로 설정해 주세요.
+{% endhint %}
+
+{% hint style="info" %}
+배속턴은 트랙터에만 적용되는 옵션입니다. 이앙기에서는 배속턴 옵션이 표시되지 않습니다.
+{% endhint %}
+
+***
+
+#### 배속턴 보정 진행 방식
+
+오토스티어 보정은 **총 2회차**로 진행되며, 2회차까지 완료해야 보정이 완료됩니다.
+
+* **1회차 (배속턴 OFF 상태)**
+  * 핸들 범위 보정
+  * 직진 조향 보정
+* **2회차 (배속턴 ON 상태)**
+  * 직진 조향 보정
+
+
+
+{% stepper %}
+{% step %}
+\[전체 한번에 진행]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+배속턴을 **OFF**으로 전환하고 **\[확인]** 을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+핸들 범위 보정을 진행합니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+안내에 따라 **핸들 범위 보정**을 완료합니다. **\[직진 조향 보정 시작]** 을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+직진 조향 보정 화면에서 안내를 확인합니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+![](../../.gitbook/assets/drive-button.svg)버튼을 눌러 1차 직진 조향 보정을 시작합니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-6.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+1차 직진 조향 보정이 완료되면 \[2차 직진 조향 보정 시작]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-7.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**배속턴 설정 확인** 팝업이 표시됩니다. 배속턴을 **ON으**로 전환하고 \[확인]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-8.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+![](../../.gitbook/assets/drive-button.svg)버튼을 눌러 2차 직진 조향 보정을 시작합니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+2차 직진 조향 보정이 완료되면 배속턴 차량 오토스티어 보정이 완료됩니다. **\[확인]** 버튼을 선택하면 내 차량 메인 화면으로 이동합니다.
+
+<figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

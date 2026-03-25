@@ -72,5 +72,25 @@ A+직진
 <img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
 {% endhint %}
 
+{% hint style="info" %}
+배속턴 설정은 오른쪽 상단의 주행 정보 영역에서 확인할 수 있습니다. 해당 영역에서 배속턴 ON/OFF 상태를 확인합니다.
 
 
+
+<img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
+
+
+
+주행 모드에 진입하면 배속턴 설정 안내 팝업이 표시됩니다. \
+안내에 따라 **배속턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
+
+
+
+<img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.&#x20;
+
+<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
+{% endhint %}
