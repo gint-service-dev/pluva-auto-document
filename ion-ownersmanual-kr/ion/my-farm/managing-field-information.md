@@ -47,30 +47,6 @@ layout:
 
 ***
 
-#### 필드 정보 수정
-
-{% stepper %}
-{% step %}
-\[수정] 옵션을 선택합니다..
-
-<figure><img src="../../.gitbook/assets/modifying-field-information-1.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-수정을 원하는 필드 정보를 입력하고 \[수정 완료]를 누릅니다.
-
-<figure><img src="../../.gitbook/assets/modifying-field-information-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-필드 정보 수정이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/modifying-field-information-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
-
-***
-
 #### 필드 정보 삭제
 
 {% stepper %}

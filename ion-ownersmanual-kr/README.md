@@ -54,7 +54,7 @@
 
 <summary><a href="ion/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>사각주행</td><td><a href="ion/driving/square-drive.md">square-drive.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 
 
@@ -62,9 +62,9 @@
 
 <details>
 
-<summary><a href="ion/uturn-mode/">유턴 모드</a></summary>
+<summary><a href="ion/uturn-mode/">턴 모드</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>유턴 설정 방법</td><td><a href="ion/uturn-mode/uturn-mode-setting.md">uturn-mode-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>턴 설정 방법</td><td><a href="ion/uturn-mode/uturn-mode-setting.md">uturn-mode-setting.md</a></td></tr></tbody></table>
 
 
 
@@ -74,7 +74,7 @@
 
 <summary><a href="ion/driving-convenience-function/">주행 편의 기능</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 공유</td><td><a href="ion/driving-convenience-function/path-sharing.md">path-sharing.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving-convenience-function/equal-interval.md">equal-interval.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving-convenience-function/equal-interval.md">equal-interval.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
 
 
 
