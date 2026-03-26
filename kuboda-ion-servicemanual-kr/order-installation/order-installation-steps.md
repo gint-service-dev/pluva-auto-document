@@ -33,7 +33,7 @@ metaLinks:
 {% step %}
 #### 제품 개통
 
-* 설치할 구성품을 선택하고 **시리얼 번호를 등록해 개통을 진행합니다.**&#x20;
+* 설치할 구성품을 선택하고 시리얼 번호를 등록하여 개통을 진행합니다.
 * 자세한 내용은 [<mark style="color:$primary;">제품개통</mark>](product-registration.md)을 참고하세요.
 {% endstep %}
 
