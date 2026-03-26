@@ -75,7 +75,7 @@ layout:
 {% endstep %}
 
 {% step %}
-제품을 주문한 고객을 선택합니다.
+제품을 설치한 고객 계정을 선택합니다.
 
 <figure><img src="../.gitbook/assets/installation-completion-expansion-3.png" alt="" width="216"><figcaption></figcaption></figure>
 
