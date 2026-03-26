@@ -29,7 +29,7 @@ layout:
 * 고객이 즉시 서비스를 사용할 수 있는 상태입니다.
 {% endhint %}
 
-
+### 플루바 아이온(완제품)의 경우
 
 {% stepper %}
 {% step %}
@@ -54,5 +54,47 @@ layout:
 설치가 완료됩니다.
 
 <figure><img src="../.gitbook/assets/installation-completion-4.png" alt="" width="180"><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 확장키트의 경우
+
+{% stepper %}
+{% step %}
+설치 티켓 목록에서 설치 완료한 설치 티켓을 누릅니다.
+
+<figure><img src="../.gitbook/assets/installation-completion-expansion-1.png" alt="" width="224"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[설치 완료 확인]을 누릅니다.
+
+<figure><img src="../.gitbook/assets/installation-completion-expansion-2.png" alt="" width="216"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+제품을 주문한 고객을 선택합니다.
+
+<figure><img src="../.gitbook/assets/installation-completion-expansion-3.png" alt="" width="216"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+고객 이름 또는 전화번호로 검색 시 고객 명단이 표시됩니다. 명단이 표시되지 않을 경우 검색어가 올바르게 입력되었는지 확인합니다.
+
+<img src="../.gitbook/assets/installation-completion-expansion-account.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+
+{% step %}
+설치 완료 확인 사항을 검토한 후 \[확인 완료]를 누릅니다.
+
+<figure><img src="../.gitbook/assets/installation-completion-expansion-4.png" alt="" width="216"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+설치가 완료됩니다.
+
+<figure><img src="../.gitbook/assets/installation-completion-expansion-5.png" alt="" width="180"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
