@@ -21,6 +21,7 @@
 * [퀵셋업](order-installation/quick-setup/README.md)
   * [퀵셋업 설명 및 준비](order-installation/quick-setup/preparing-quick-setup.md)
   * [언어 설정](order-installation/quick-setup/language-settings.md)
+  * [OTA 설정](order-installation/quick-setup/ota.md)
   * [네트워크 설정](order-installation/quick-setup/network-settings.md)
   * [로그인](order-installation/quick-setup/login.md)
   * [개통키 입력](order-installation/quick-setup/opening-key.md)

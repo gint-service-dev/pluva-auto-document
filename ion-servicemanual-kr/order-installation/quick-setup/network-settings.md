@@ -69,15 +69,46 @@ APN이 자동으로 연결됩니다
 연결이 완료됩니다. \[다음 단계로] 버튼을 눌러 로그인 단계로 진입합니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-cellular-3.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-자동 연결이 되지않는 경우 \[APN 수동 연결]을 진행합니다.\
-입력에 필요한 APN 정보는 유심 제공 자료를 참고합니다.
-
-<img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" data-size="original">
-{% endhint %}
 {% endstep %}
 {% endstepper %}
+
+
+
+#### 셀룰러 연결이 되지않을 경우
+
+{% hint style="info" %}
+자동 연결이 되지 않거나 장시간 연결이 되지 않을 경우 \[APN 수동 연결]을 진행합니다.
+{% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
+
+(한국)
+
+1. APN 이름 입력
+
+* 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
+
+{% hint style="info" %}
+유심 통신사에 따른 APN 이름
+
+* KT: lte.ktfwing.com&#x20;
+* LG:  internet.lguplus.co.kr
+{% endhint %}
+
+2. 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누르면 수동으로 연결됩니다.
+
+\
+(일본)
+
+1. APN 이름 입력
+
+* ppsim.jp 를 입력합니다.
+
+2. 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누르면 수동으로 연결됩니다.
+
+
+
+
 
 ***
 

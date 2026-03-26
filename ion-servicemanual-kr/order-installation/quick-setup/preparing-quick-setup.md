@@ -37,8 +37,7 @@ metaLinks:
 
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
-3. OTA 설정 (선택)
-   1. 최신 업데이트가 필요한 경우 OTA 화면이 표시됩니다.
+3. [OTA 설정](ota.md)
 4. [로그인](login.md)
 5. [개통키 입력](opening-key.md)
 6. [GNSS수신기 연결 확인](gnss-connect.md)
