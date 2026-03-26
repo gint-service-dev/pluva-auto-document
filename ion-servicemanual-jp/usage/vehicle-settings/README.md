@@ -14,10 +14,6 @@ metaLinks:
 [entering-my-vehicle.md](entering-my-vehicle.md)
 {% endcontent-ref %}
 
-{% content-ref url="modifying-vehicle-information.md" %}
-[modifying-vehicle-information.md](modifying-vehicle-information.md)
-{% endcontent-ref %}
-
 {% content-ref url="autostere-calibration.md" %}
 [autostere-calibration.md](autostere-calibration.md)
 {% endcontent-ref %}
@@ -28,6 +24,10 @@ metaLinks:
 
 {% content-ref url="inertial-sensor-calibration.md" %}
 [inertial-sensor-calibration.md](inertial-sensor-calibration.md)
+{% endcontent-ref %}
+
+{% content-ref url="vehicle-control-settings.md" %}
+[vehicle-control-settings.md](vehicle-control-settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="gnss-receiver-setting.md" %}

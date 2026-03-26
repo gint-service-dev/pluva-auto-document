@@ -1,8 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/path-sharing
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/fP56MjG2Tb6FPBgzPYAu
 ---
 
 # 経路の共有
