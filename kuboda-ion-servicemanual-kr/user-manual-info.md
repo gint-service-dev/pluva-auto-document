@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/user-manual-info
 ---
 
 # 서비스 메뉴얼 정보
-
-### 서비스 메뉴얼 정보
 
 이 설명서는 주문 - 설치 - 사용법 -불편사항 대응 순서로 구성되어 있습니다. 좌측 메뉴의 세부 항목을 클릭하여 상세 내용을 확인합니다.
 

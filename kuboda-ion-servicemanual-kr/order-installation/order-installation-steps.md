@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # 개통/설치 단계 설명
-
-### 개통-설치 단계 안내
 
 플루바 아이온은 전문 설치 과정이 필요한 제품입니다. **개통-설치 프로세스**를 통해 전문 엔지니어의 안전한 설치를 지원합니다.
 

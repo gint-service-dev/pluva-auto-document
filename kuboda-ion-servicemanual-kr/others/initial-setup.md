@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/others/initial-setup
 ---
 
 # 고객 불편사항 대응 방법
-
-### 빠른 문제 해결
 
 제품을 사용하기 전에 확인해야 하는 기본 설정과 사전 안내 사항을 안내합니다.
 
