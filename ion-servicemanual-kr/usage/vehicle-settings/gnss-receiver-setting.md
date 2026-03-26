@@ -1,6 +1,23 @@
-# GNSS 수신기 설정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### GNSS 수신기 설정
+# GNSS 수신기 설정
 
 차량에 설치된 GNSS 수신기의 정확한 위치를 등록하여 측위 정확도를 높입니다.
 

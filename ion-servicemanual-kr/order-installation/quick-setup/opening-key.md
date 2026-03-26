@@ -1,6 +1,23 @@
-# 개통키 입력
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 개통키 입력
+# 개통키 입력
 
 고객 계정과 등록한 제품을 연결하기 위해 설치 티켓의 개통키를 입력합니다.\
 개통키는 설치티켓 상세페이지에서 제품 등록 후 노출되므로, 반드시 제품을 먼저 등록해 주세요.

@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/jOhU5MWpMqraceI5pg9u/pages/lWdZgI2P4YIODQ7uazsl
@@ -6,9 +22,7 @@ metaLinks:
 
 # GNSS 수신기
 
-## GNSS 수신기
-
-Pluva iON 자율주행에 필요한 GNSS 수신기를 설치합니다.
+플루바 아이온 자율주행에 필요한 GNSS 수신기를 설치합니다.
 
 ***
 

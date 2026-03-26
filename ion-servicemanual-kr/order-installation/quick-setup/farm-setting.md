@@ -1,6 +1,23 @@
-# 작업지 설정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 작업지 설정
+# 작업지 설정
 
 작업지 설정은 고객이 사용할 농장, 농장 소유자, 필드, 헤드랜드를 등록·설정하는 과정입니다.
 

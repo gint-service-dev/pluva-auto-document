@@ -1,6 +1,23 @@
-# 구성품 준비
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 구성품 준비
+# 구성품 준비
 
 제품 설치를 위해 필요 구성품을 준비합니다.&#x20;
 

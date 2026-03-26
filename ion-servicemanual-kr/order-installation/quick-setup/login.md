@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/square-drive
+    - /broken/spaces/jOhU5MWpMqraceI5pg9u/pages/sd2v2aY6nf9Dk4wB4CZm
 ---
 
 # 로그인
-
-### 로그인&#x20;
 
 {% hint style="info" %}
 * 로그인 전, **회원가입 사이트에서 가입**을 진행하세요.

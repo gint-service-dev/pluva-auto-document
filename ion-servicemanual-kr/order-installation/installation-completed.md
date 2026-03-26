@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 설치 완료 확인
-
-### 설치 완료 확인&#x20;
 
 설치 및 퀵셋업 작업의 완료 항목을 점검하고, 설치 티켓 상태를 설치 완료로 변경하는 작업입니다.
 

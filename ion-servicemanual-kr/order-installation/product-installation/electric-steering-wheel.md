@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -7,9 +23,7 @@ metaLinks:
 
 # 전동 스티어링 휠
 
-## 전동 스티어링
-
-Pluva iON 자율주행에 필요한 핸들, 오토 스티어링을 설치합니다.
+플루바 아이온 자율주행에 필요한 핸들, 오토 스티어링을 설치합니다.
 
 ***
 

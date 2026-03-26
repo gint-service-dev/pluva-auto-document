@@ -1,6 +1,23 @@
-# 작업기 추가 (선택)
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 작업기 추가 (선택)
+# 작업기 추가 (선택)
 
 작업에 사용할 작업기를 추가합니다.
 

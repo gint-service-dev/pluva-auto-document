@@ -1,6 +1,23 @@
-# 농장 소유자 관리
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 농장 소유자 관리
+# 농장 소유자 관리
 
 농장 소유자 관리에서는 소유자 정보를 추가·수정·삭제할 수 있습니다. 소유자별로 등록된 필드 현황도 함께 확인할 수 있습니다.
 

@@ -1,10 +1,27 @@
-# 유턴 설정 방법
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 유턴 설정 방법
+# 턴 설정 방법
 
-유턴 설정에서는 유턴을 시작할 위치, 유턴 방식, 회전 형태, 속도 등을 작업 환경에 맞게 조정할 수 있습니다.  설정을 적용하면 작업 흐름이 끊기지 않도록 돕고, 보다 안정적인 주행에 도움이 됩니다.
+턴 설정에서는 유턴을 시작할 위치, 유턴 방식, 회전 형태, 속도 등을 작업 환경에 맞게 조정할 수 있습니다.  설정을 적용하면 작업 흐름이 끊기지 않도록 돕고, 보다 안정적인 주행에 도움이 됩니다.
 
-#### 유턴 설정 단계
+#### 턴 설정 단계
 
 1. 유턴 라인 위치 조정
 2. 유턴 타입 설정

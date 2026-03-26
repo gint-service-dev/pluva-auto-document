@@ -1,6 +1,23 @@
-# 경로 리셋/삭제
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로 리셋 / 삭제
+# 경로 리셋/삭제
 
 생성한 AB 경로를 삭제하거나, 현재까지 작업한 경로 표시만 지울 수 있습니다.
 

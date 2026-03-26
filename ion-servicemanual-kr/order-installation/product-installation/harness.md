@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -19,9 +19,7 @@ layout:
 
 # 하네스
 
-## 하네스
-
-Pluva iON 자율주행에 필요한 하네스를 설치합니다.
+플루바 아이온 자율주행에 필요한 하네스를 설치합니다.
 
 ***
 

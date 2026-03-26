@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 원격 지원
-
-### 원격 지원
 
 원격 지원은 고객 태블릿 화면을 원격으로 확인하면서 직접 조작하거나 안내를 제공하는 기능입니다.\
 고객이 앱에서 코드를 발급하면, 담당자가 어드민에서 해당 코드를 입력해 원격 지원을 시작합니다.

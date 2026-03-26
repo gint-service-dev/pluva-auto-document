@@ -1,6 +1,23 @@
-# 차량 보정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 차량 보정
+# 차량 보정
 
 정확한 자율주행을 위한 차량 보정 작업을 진행합니다. 차량 보정은 총 세가지로 한번에 시작하기를 통해 한번에 진행할 수 있습니다.
 

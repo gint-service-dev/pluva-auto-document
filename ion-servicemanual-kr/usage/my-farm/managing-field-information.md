@@ -1,6 +1,23 @@
-# 필드 정보 관리
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 필드 정보 관리
+# 필드 정보 관리
 
 필드 이름, 농장 등의 정보를 수정하고 삭제할 수 있는 기능입니다.
 

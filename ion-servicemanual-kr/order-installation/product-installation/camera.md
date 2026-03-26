@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/camera
@@ -6,9 +22,7 @@ metaLinks:
 
 # 카메라
 
-## 카메라
-
-Pluva iON과 연동하여 후방 시야를 확보할 수 있는 카메라를 설치합니다.
+플루바 아이온과 연동하여 후방 시야를 확보할 수 있는 카메라를 설치합니다.
 
 ***
 

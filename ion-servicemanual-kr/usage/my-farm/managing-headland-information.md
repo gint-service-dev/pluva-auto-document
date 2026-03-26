@@ -1,6 +1,23 @@
-# 헤드랜드 정보 관리
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 헤드랜드 정보 관리
+# 헤드랜드 정보 관리
 
 헤드랜드 정보 관리에서는 등록된 헤드랜드의 정보를 수정하거나 삭제할 수 있습니다.  거리, 개수, 위치 조정 값 등을 작업 환경에 맞게 변경해 적용할 수 있습니다.
 

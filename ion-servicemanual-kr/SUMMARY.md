@@ -34,7 +34,7 @@
 
 ## 사용법 <a href="#usage" id="usage"></a>
 
-* [사용 전 고객 안내 사항](usage/customer-guidance/README.md)
+* [초기 설정법](usage/customer-guidance/README.md)
   * [소프트웨어 업데이트(OTA)](usage/customer-guidance/ota.md)
 * [주행모드(경로플래닝)](usage/driving/README.md)
   * [경로플래닝 설정 방법](usage/driving/route-planning-settings.md)
@@ -43,11 +43,10 @@
   * [사각주행](usage/driving/square-drive.md)
   * [자동 경로 (Pluava AI)](usage/driving/auto-route-generation.md)
 * [턴 모드](usage/uturn-mode/README.md)
-  * [유턴 설정 방법](usage/uturn-mode/uturn-mode-setting.md)
+  * [턴 설정 방법](usage/uturn-mode/uturn-mode-setting.md)
 * [주행 편의 기능](usage/driving-convenience-function/README.md)
   * [경로 저장하기](usage/driving-convenience-function/save-path.md)
   * [경로 불러오기](usage/driving-convenience-function/bringing-up-path.md)
-  * [경로 공유](usage/driving-convenience-function/path-sharing.md)
   * [경로 리셋/삭제](usage/driving-convenience-function/delete-path.md)
   * [등간격 편의 기능](usage/driving-convenience-function/equal-interval.md)
   * [주행 화면 조정](usage/driving-convenience-function/adjusting-driving-screen.md)
@@ -58,10 +57,8 @@
   * [헤드랜드 정보 관리](usage/my-farm/managing-headland-information.md)
 * [차량 관리](usage/vehicle-settings/README.md)
   * [내 차량 진입 및 화면 설명](usage/vehicle-settings/entering-my-vehicle.md)
-  * [내 차량 정보 수정](usage/vehicle-settings/modifying-vehicle-information.md)
   * [오토스티어 보정](usage/vehicle-settings/autostere-calibration.md)
   * [롤/피치/요 보정(IMU)](usage/vehicle-settings/imu-calibration.md)
-  * [관성센서 보정](usage/vehicle-settings/inertial-sensor-calibration.md)
   * [차량 제어 설정](usage/vehicle-settings/vehicle-control-settings.md)
   * [GNSS 수신기 설정](usage/vehicle-settings/gnss-receiver-setting.md)
 * [작업기 관리](usage/workstation-management/README.md)

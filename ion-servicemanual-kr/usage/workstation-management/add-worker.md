@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 작업기 추가
-
-### 작업기 추가
 
 작업에 사용할 작업기를 등록하고, 작업기 편차 등 설정값을 함께 입력할 수 있습니다.
 

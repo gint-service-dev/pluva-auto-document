@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/switch
@@ -6,9 +22,7 @@ metaLinks:
 
 # 스위치
 
-## 스위치
-
-Pluva iON을 편리하게 조작해 주는 스위치를 설치합니다.
+플루바 아이온을 편리하게 조작해 주는 스위치를 설치합니다.
 
 ***
 

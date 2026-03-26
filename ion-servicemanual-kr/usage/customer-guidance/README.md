@@ -1,8 +1,25 @@
-# 사용 전 고객 안내 사항
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 사용 전 고객 안내 사항
+# 초기 설정법
 
-설치 후 고객에게 서비스 이용 조건을 정확히 전달함으로써 지속적으로 원활한 서비스를 이용할 수 있도록 합니다.
+제품을 사용하기 전에 확인해야 하는 기본 설정과 사전 안내 사항을 안내합니다.
 
 {% content-ref url="ota.md" %}
 [ota.md](ota.md)

@@ -1,6 +1,23 @@
-# 네트워크 설정 진입 및 화면 설명
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 네트워크 설정 진입 및 화면 설명
+# 네트워크 설정 진입 및 화면 설명
 
 네트워크 설정에서는 GNSS 수신기 상태, 위성 신호 품질, 위치 보정 연결 상태와 태블릿 네트워크(Wi-Fi/셀룰러)를 확인하고 변경할 수 있습니다.
 

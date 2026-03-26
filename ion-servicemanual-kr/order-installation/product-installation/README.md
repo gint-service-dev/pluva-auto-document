@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview
 ---
 
 # 제품 설치
-
-### 제품 설치
 
 제품 설치에 필요한 구성품을 준비하고 구성품별 제품 설치를 진행합니다.
 

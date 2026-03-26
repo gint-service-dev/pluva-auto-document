@@ -1,6 +1,23 @@
-# 경로 불러오기
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로 불러오기
+# 경로 불러오기
 
 저장한 경로를 불러오거나, 즐겨찾기/이름 수정/삭제로 관리할 수 있습니다.
 

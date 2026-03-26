@@ -1,6 +1,23 @@
-# GNSS 수신기 연결 확인
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### GNSS 수신기 연결 확인
+# GNSS 수신기 연결 확인
 
 태블릿과 GNSS 수신기와의 연결 상태를 확인하는 단계입니다.
 

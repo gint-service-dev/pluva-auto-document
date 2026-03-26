@@ -1,10 +1,27 @@
-# 주문 등록
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 주문 등록&#x20;
+# 주문 등록
 
 주문의 기본 정보를 작성합니다. 주문 제품, 설치할 차량, 방문 정보를 입력하면 설치티켓이 자동 생성되며, 설치에 필요한 사항들을 미리 확인하고 준비할 수 있습니다.
 
-주문 목록은 [PLUVA iON 어드민 페이지](https://thegint.slack.com/archives/C0ACCKBFZ7H/p1773212243051089)에 로그인 후 접근할 수 있습니다.
+주문 목록은 [플루바 아이온 어드민 페이지](https://thegint.slack.com/archives/C0ACCKBFZ7H/p1773212243051089)에 로그인 후 접근할 수 있습니다.
 
 
 

@@ -1,6 +1,23 @@
-# 농장 관리
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 농장 관리
+# 농장 관리
 
 농장 관리에서는 농장을 추가·수정·삭제할 수 있습니다. 또한 농장에 연결된 필드와 소유자 정보를 함께 확인할 수 있습니다.
 

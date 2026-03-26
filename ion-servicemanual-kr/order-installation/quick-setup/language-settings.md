@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/a-plus-straight
 ---
 
 # 언어 설정
-
-### 언어 설정
 
 퀵셋업을 시작할 수 있도록 현재 사용 언어를 설정하는 단계입니다.
 

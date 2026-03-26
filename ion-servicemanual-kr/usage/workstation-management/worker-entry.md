@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: true
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 작업기 목록 진입 및 화면 설명
-
-### 작업기 목록 진입 및 화면 설명
 
 작업기 목록에서는 현재 등록된 작업기를 확인하고, 추가,수정,삭제할 수 있습니다.
 

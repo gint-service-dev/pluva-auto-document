@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,8 +18,6 @@ layout:
 ---
 
 # 고객 계정 준비
-
-### 고객 계정 준비
 
 고객이 플루바 아이온을 사용하려면 미리 계정을 생성해야 합니다.\
 고객의 계정 보유 여부를 확인하고, 아직 계정이 없다면 다음 내용을 참고하여 고객에게 안내합니다.

@@ -1,6 +1,23 @@
-# 경로플래닝 설정 방법
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 경로플래닝 설정 방법
+# 경로플래닝 설정 방법
 
 경로 플래닝은 AB 직진, A+, 사각 주행 등 다양한 작업 패턴을 한곳에서 확인하고, 필요한 모드를 선택·설정하는 메뉴입니다. 필드 형태에 맞는 경로를 제안해 겹치는 구간과 누락 구간을 줄이고, 작업을 더 안정적이고 수월하게 진행할 수 있도록 돕습니다.
 
@@ -19,12 +36,6 @@ A+직진
 * A점을 기준으로 설정한 각도의 대각선 직선 경로로 주행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-사각주행
-
-* A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 자동 경로 (Pluva AI)
 

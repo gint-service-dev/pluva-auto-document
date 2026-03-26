@@ -1,6 +1,23 @@
-# 네트워크 설정
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 네트워크 설정
+# 네트워크 설정
 
 퀵셋업을 시작할 수 있도록 현재 네트워크를 설정합니다.
 

@@ -1,6 +1,23 @@
-# 주문/설치 단계 설명
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
 
-### 주문-설치 단계 안내
+# 주문/설치 단계 설명
 
 플루바 아이온은 전문 설치 과정이 필요한 제품입니다. 어드민의 **주문-설치 프로세스**를 통해 전문 엔지니어의 안전한 설치를 지원하고, 설치 이력을 투명하게 관리합니다.
 

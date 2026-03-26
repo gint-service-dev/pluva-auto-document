@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # 퀵셋업 설명 및 준비
-
-### 퀵셋업 단계 설명 및 준비 사항
 
 #### **퀵셋업은 무엇인가요?**
 
