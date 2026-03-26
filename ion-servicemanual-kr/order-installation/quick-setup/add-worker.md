@@ -39,7 +39,7 @@ layout:
 {% endstep %}
 
 {% step %}
-작업기 등록이 완료됩니다. \[다음 단계로] 버튼을 누르면 차량 보정에 진입합니다.
+\[다음 단계로] 버튼을 누르면 작업기 등록이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/add-worker-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

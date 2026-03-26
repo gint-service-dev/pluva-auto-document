@@ -35,7 +35,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-로그인에 성공합니다. **\[다음 단계로]** 버튼을 누르면 개통키 입력 단계로 진입합니다.
+\[다음 단계로] 버튼을 누르면 로그인이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-login-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

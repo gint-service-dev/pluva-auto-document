@@ -66,7 +66,7 @@ APN이 자동으로 연결됩니다
 {% endstep %}
 
 {% step %}
-연결이 완료됩니다. \[다음 단계로] 버튼을 눌러 로그인 단계로 진입합니다.
+\[다음 단계로] 버튼을 누르면 네트워크 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-cellular-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -144,7 +144,7 @@ Wi-Fi 토글을 켭니다.
 {% endstep %}
 
 {% step %}
-Wi-Fi 연결이 완료됩니다. \[다음 단계로] 버튼을 눌러 로그인 단계로 진입합니다.
+\[다음 단계로] 버튼을 누르면 네트워크 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-wifi-4.png" alt=""><figcaption></figcaption></figure>
 

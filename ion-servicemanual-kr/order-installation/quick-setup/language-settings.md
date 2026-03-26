@@ -34,7 +34,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-사용 언어를 선택합니다. \[다음 단계로] 버튼을 눌러 네트워크 설정으로 진입합니다.
+사용 언어를 선택합니다. \[다음 단계로] 버튼을 누르면 언어 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-language-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

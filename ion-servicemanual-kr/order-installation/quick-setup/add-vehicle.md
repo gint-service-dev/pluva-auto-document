@@ -53,7 +53,7 @@ layout:
 {% endstep %}
 
 {% step %}
-차량이 등록되고 GNSS 수신기와 연동됩니다. \[다음 단계로]를 누르면 작업기 추가로 이동합니다.
+\[다음 단계로] 버튼을 누르면 차량 등록 및 GNSS 수신기 연동이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

@@ -37,7 +37,7 @@ GNSS 수신기 연결 확인 단계에 진입합니다. 진입 시 연결 확인
 {% endstep %}
 
 {% step %}
-연결 확인이 완료되면 \[다음 단계로]를 눌러 RTK 설정으로 진입합니다.
+\[다음 단계로] 버튼을 누르면 GNSS 수신기 연결이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-gnssconnect-2.png" alt=""><figcaption></figcaption></figure>
 

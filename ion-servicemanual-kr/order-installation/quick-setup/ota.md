@@ -49,7 +49,7 @@ layout:
 {% endstep %}
 
 {% step %}
-재부팅이 완료되면 OTA가 완료됩니다. \[다음 단계로] 버튼을 눌러 네트워크 설정으로 이동합니다.
+재부팅 후 태블릿에 다시 접속하여 \[다음 단계로] 버튼을 누르면 OTA 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/Quick setup_OTA-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

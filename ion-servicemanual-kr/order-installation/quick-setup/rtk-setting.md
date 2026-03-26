@@ -56,7 +56,7 @@ RTK 직접 수신 연결을 선택하고 \[확인]을 누릅니다.
 {% endstep %}
 
 {% step %}
-RTK 직접 수신 설정이 완료됩니다. \[다음 단계로] 버튼을 누르면 차량 추가 단계로 진입합니다.
+&#x20;\[다음 단계로] 버튼을 누르면 RTK 직접 수신 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-rtkdirect-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -93,7 +93,7 @@ RTK 블루투스 연결을 선택하고 \[확인]을 누릅니다.
 {% endstep %}
 
 {% step %}
-RTK 블루투스 설정이 완료됩니다. \[다음 단계로] 버튼을 누르면 차량 추가 단계로 진입합니다.
+\[다음 단계로] 버튼을 누르면 RTK 블루투스 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-rtkbluetooth-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

@@ -49,7 +49,7 @@ layout:
 {% endstep %}
 
 {% step %}
-개통키 인증이 완료됩니다. \[다음 단계로] 버튼을 눌러 GNSS 수신기 연결 단계로 진입합니다.
+\[다음 단계로] 버튼을 누르면 개통키 인증이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-openingkey-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
