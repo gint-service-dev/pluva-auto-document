@@ -58,6 +58,7 @@
   * [헤드랜드 정보 관리](usage/my-farm/managing-headland-information.md)
 * [차량 관리](usage/vehicle-settings/README.md)
   * [내 차량 진입 및 화면 설명](usage/vehicle-settings/entering-my-vehicle.md)
+  * [내 차량 정보 수정](usage/vehicle-settings/modifying-vehicle-information.md)
   * [오토스티어 보정](usage/vehicle-settings/autostere-calibration.md)
   * [롤/피치/요 보정(IMU)](usage/vehicle-settings/imu-calibration.md)
   * [관성센서 보정](usage/vehicle-settings/inertial-sensor-calibration.md)
