@@ -63,27 +63,21 @@ layout:
 
 {% stepper %}
 {% step %}
-필드 탭을 선택합니다.
+\[등록하기]버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/quick-add-field-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/add-button.svg) 필드 추가 버튼을 누릅니다.
+지도에서 등록 옵션을 선택한 후 \[확인]을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/quick-add-field-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-지도에서 등록 옵션을 선택한 후 \[확인]을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/quick-add-field-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
 지도에서 필드를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/quick-add-field-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-add-field-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 기본 필드 등록은 \[지도에서 선택]으로 설정되어 있습니다. 경계를 직접 만들려면 \[직접 그리기]를 누릅니다.
@@ -93,13 +87,13 @@ layout:
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/quick-add-field-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-add-field-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 진입출로 위치 설정 팝업에서 \[같은 위치로 설정]을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/quick-add-field-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-add-field-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 진입/진출 위치가 다를 경우 \[진출로 따로 설정]을 선택합니다.
@@ -110,6 +104,12 @@ layout:
 
 {% step %}
 진출입로 설정이 완료되고 필드 정보를 입력한 뒤 \[등록]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/quick-add-field-6.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+필드 등록이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-add-field-7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
