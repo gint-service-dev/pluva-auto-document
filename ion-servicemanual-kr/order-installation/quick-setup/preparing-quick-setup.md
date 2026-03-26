@@ -37,14 +37,16 @@ metaLinks:
 
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
-3. [로그인](login.md)
-4. [개통키 입력](opening-key.md)
-5. [GNSS수신기 연결 확인](gnss-connect.md)
-6. [위치보정 설정](rtk-setting.md)
-7. [차량 추가](add-vehicle.md)
-8. [차량 보정](vehicle-calibration.md)
-9. [작업기 추가 (선택)](add-worker.md)
-10. [작업지 설정](farm-setting.md)
+3. OTA 설정 (선택)
+   1. 최신 업데이트가 필요한 경우 OTA 화면이 표시됩니다.
+4. [로그인](login.md)
+5. [개통키 입력](opening-key.md)
+6. [GNSS수신기 연결 확인](gnss-connect.md)
+7. [위치보정 설정](rtk-setting.md)
+8. [차량 추가](add-vehicle.md)
+9. [차량 보정](vehicle-calibration.md)
+10. [작업기 추가 (선택)](add-worker.md)
+11. [작업지 설정](farm-setting.md)
 
 
 
