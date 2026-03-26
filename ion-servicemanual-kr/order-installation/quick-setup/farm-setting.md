@@ -66,6 +66,12 @@ layout:
 \[등록하기]버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/quick-add-field-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+나중에 하기를 선택한 경우, 추후 농장 관리 > 필드 접속 후 \[+] 버튼을 눌러 필드를 등록할 수 있습니다.
+
+<img src="../../.gitbook/assets/quick-add-field-later.png" alt="" data-size="original">
+{% endhint %}
 {% endstep %}
 
 {% step %}
