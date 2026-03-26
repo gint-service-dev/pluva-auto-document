@@ -23,40 +23,27 @@ metaLinks:
 
 # 설치 완료 확인
 
-설치 및 퀵셋업 작업의 완료 항목을 점검하고, 설치 티켓 상태를 설치 완료로 변경하는 작업입니다.
+설치 및 퀵셋업 작업의 완료 항목을 점검하고 최종 설치 상태를 확인하는 단계입니다.
 
 {% hint style="info" %}
-모든 설치 작업을 완료한 후 \[확인 완료]를 누릅니다.
-
-* 제품이 정상적으로 장착되었습니다.
-* 필요한 소프트웨어 설정이 모두 완료되었습니다.
-* 고객이 즉시 서비스를 사용할 수 있는 상태입니다.
+**모든 설치 작업을 완료한 후 아래 항목을 확인합니다.**
 {% endhint %}
-
-
 
 {% stepper %}
 {% step %}
-설치 티켓 목록에서 설치 완료한 설치 티켓을 누릅니다.
-
-<figure><img src="../.gitbook/assets/installation-completion-1.png" alt="" width="224"><figcaption></figcaption></figure>
+제품이 정상적으로 장착되었습니다.
 {% endstep %}
 
 {% step %}
-\[설치 완료 확인]을 누릅니다.
-
-<figure><img src="../.gitbook/assets/installation-completion-2 (1).png" alt="" width="216"><figcaption></figcaption></figure>
+필요한 소프트웨어 설정이 모두 완료되었습니다.
 {% endstep %}
 
 {% step %}
-설치 완료 확인 사항을 확인하고 \[확인 완료]를 누릅니다.
-
-<figure><img src="../.gitbook/assets/installation-completion-3.png" alt="" width="211"><figcaption></figcaption></figure>
+고객 교육이 완료되었으며, 고객이 즉시 서비스를 이용할 수 있는 상태입니다.
 {% endstep %}
 
 {% step %}
-설치가 완료됩니다.
-
-<figure><img src="../.gitbook/assets/installation-completion-4.png" alt="" width="180"><figcaption></figcaption></figure>
+시범 운행을 통해 자율주행 가능 여부를 확인합니다.
 {% endstep %}
 {% endstepper %}
+
