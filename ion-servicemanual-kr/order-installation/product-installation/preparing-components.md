@@ -110,7 +110,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 * 태블릿의 전원을 켜거나 끕니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/태블릿-전원.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/3.svg) 우측(▶)
 
