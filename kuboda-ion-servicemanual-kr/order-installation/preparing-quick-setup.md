@@ -16,13 +16,12 @@
 2. [네트워크 설정](/broken/pages/pKq1PCqWofFMVP6yQfai)
 3. [OTA 설정](/broken/pages/03SXam5bJolrpGjRuSax)
 4. [로그인](/broken/pages/sd2v2aY6nf9Dk4wB4CZm)
-5. [개통키 입력](/broken/pages/ILlBF4tR8duRaayjuhzY)
-6. [GNSS수신기 연결 확인](/broken/pages/mFLbZ6Gc0l9uLf8GvhSo)
-7. [위치보정 설정](/broken/pages/LxADZZSJvPhkXFWKhfDz)
-8. [차량 추가](/broken/pages/cdd4wc7f3oTo0sgaeKud)
-9. [차량 보정](/broken/pages/OLqmr5pAULzt4Tbxo7ZA)
-10. [작업기 추가 (선택)](/broken/pages/4NMIuJPGUPL4kvfJOCEm)
-11. [작업지 설정](/broken/pages/XweEKeoKLzy14WNwvs6I)
+5. [GNSS수신기 연결 확인](/broken/pages/mFLbZ6Gc0l9uLf8GvhSo)
+6. [위치보정 설정](/broken/pages/LxADZZSJvPhkXFWKhfDz)
+7. [차량 추가](/broken/pages/cdd4wc7f3oTo0sgaeKud)
+8. [차량 보정](/broken/pages/OLqmr5pAULzt4Tbxo7ZA)
+9. [작업기 추가 (선택)](/broken/pages/4NMIuJPGUPL4kvfJOCEm)
+10. [작업지 설정](/broken/pages/XweEKeoKLzy14WNwvs6I)
 
 
 
