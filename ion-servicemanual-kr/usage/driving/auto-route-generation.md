@@ -19,7 +19,7 @@ layout:
 
 # 자동 경로 (Pluava AI)
 
-자동 경로 (Pluva AI)
+자동 경로 (pluva AI)
 
 * 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
 
@@ -35,7 +35,7 @@ layout:
 {% endstep %}
 
 {% step %}
-Pluva AI가 경로를 생성합니다.
+pluva AI가 경로를 생성합니다.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -53,3 +53,8 @@ Pluva AI가 경로를 생성합니다.
 {% endstep %}
 {% endstepper %}
 
+{% hint style="info" %}
+\[경로 수정] 버튼을 눌러 추천 경로를 변경할 수 있습니다.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/driving-mode-modify.png" alt=""><figcaption></figcaption></figure>

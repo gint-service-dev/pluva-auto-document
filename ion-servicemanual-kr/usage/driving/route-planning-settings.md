@@ -19,7 +19,8 @@ layout:
 
 # 경로플래닝 설정 방법
 
-경로 플래닝은 AB 직진, A+, 사각 주행 등 다양한 작업 패턴을 한곳에서 확인하고, 필요한 모드를 선택·설정하는 메뉴입니다. 필드 형태에 맞는 경로를 제안해 겹치는 구간과 누락 구간을 줄이고, 작업을 더 안정적이고 수월하게 진행할 수 있도록 돕습니다.
+작업·작물·목적에 맞는 다양한 경로 플래닝 모드를 선택할 수 있어,\
+현장 조건에 맞는 경로로 작업을 진행하고 겹침·누락을 줄여 작업 효율과 완성도를 높입니다.
 
 ***
 
@@ -33,11 +34,11 @@ AB 직진
 
 A+직진
 
-* A점을 기준으로 설정한 각도의 대각선 직선 경로로 주행합니다.
+* A점을 기준으로 설정한 각도의 직선경로를 생성하여 주행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-자동 경로 (Pluva AI)
+자동 경로 (pluva AI)
 
 * 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
 
@@ -49,13 +50,13 @@ A+직진
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> \[경로 플래닝] 버튼을 누릅니다.
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> **\[경로 플래닝]** 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원하는 주행 모드를 선택한 후 \[확인]을 누릅니다.
+원하는 주행 모드를 선택한 후 **\[확인]**&#xC744; 누릅니다.
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -74,12 +75,22 @@ A+직진
 {% hint style="info" %}
 배속턴 설정은 오른쪽 상단의 주행 정보 영역에서 확인할 수 있습니다. 해당 영역에서 배속턴 ON/OFF 상태를 확인합니다.
 
-<img src="../../.gitbook/assets/speed turn-on.png" alt="" data-size="original">
-{% endhint %}
 
-{% hint style="info" %}
+
+<img src="../../.gitbook/assets/speed turn-on.png" alt="" data-size="original">
+
+
+
 주행 모드에 진입하면 배속턴 설정 안내 팝업이 표시됩니다. \
 안내에 따라 **배속턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
 
+
+
 <img src="../../.gitbook/assets/speed turn-alert.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.&#x20;
+
+<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}

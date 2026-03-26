@@ -25,6 +25,12 @@ layout:
 
 #### 경로 불러오기
 
+{% hint style="info" %}
+경로 불러오기 기능은 자동 경로 불러오기 및 메모리 주행 모드에서만 지원되며, 해당 모드를 선택하지 않으면 비활성화됩니다.
+
+<img src="../../.gitbook/assets/calling-path-mode.png" alt="" data-size="original">
+{% endhint %}
+
 {% stepper %}
 {% step %}
 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
