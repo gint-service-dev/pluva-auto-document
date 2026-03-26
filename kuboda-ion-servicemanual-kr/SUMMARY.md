@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PLUVA iON Service Manual](README.md)
+* [KUBODA PLUVA iON Service Manual](README.md)
 * [서비스 메뉴얼 정보](user-manual-info.md)
 
 ## 개통/설치 <a href="#order-installation" id="order-installation"></a>

@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -20,7 +20,7 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/
 ---
 
-# PLUVA iON Service Manual
+# KUBODA PLUVA iON Service Manual
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 

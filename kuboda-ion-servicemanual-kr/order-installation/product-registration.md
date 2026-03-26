@@ -21,7 +21,7 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-registration
 ---
 
-# 설치티켓으로 제품 개통
+# 제품 개통
 
 ### 설치티켓으로 제품 개통
 
@@ -134,43 +134,39 @@ metaLinks:
 
 ***
 
-#### 설치 티켓 진입 방법
-
-{% stepper %}
-{% step %}
-[어드민 페이지](../others/initial-setup.md#qr-not-scanned)에 로그인합니다.
-
-<figure><img src="../.gitbook/assets/enter-ticket-1.png" alt="" width="348"><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-설치 티켓 목록에 진입하고 원하는 티켓을 선택합니다.
-
-<figure><img src="../.gitbook/assets/enter-ticket-2.png" alt="" width="336"><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-왼쪽 상단 더보기 버튼을 누르고 주문/설치 관리 > 설치 티켓 목록에 접속할 수 있습니다.
-
-<img src="../.gitbook/assets/enter-ticket-list.png" alt="" data-size="original">
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-***
-
 #### 제품 개통 방법
 
 {% stepper %}
 {% step %}
-설치 티켓에서 \[제품 개통 시작]을 누릅니다.
+제품 개통 페이지에 접속해 개통 \[QR 코드로 사번 입력]버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-1.png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-1.png" alt="" width="338"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[패키지로 한번에 개통]을 누릅니다.
+사번 QR코드 스캔을 진행합니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-2.png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-2.png" alt="" width="270"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+QR 스캔이 어려울 경우 직접 입력 버튼을 눌러 사번을 직접 입력 합니다.
+{% endhint %}
+
+
+{% endstep %}
+
+{% step %}
+개통 제품 선택 페이지에서 주문 제품, 추가 옵션 여부를 설정하고 \[다음]버튼을 누릅니다.
+
+<figure><img src="../.gitbook/assets/product-opening-3.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+주요 제품 개통 페이지에서 6\[패키지로 한번에 개통]을 누릅니다.
+
+<figure><img src="../.gitbook/assets/product-opening-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 제품 항목을 선택하면 개별 등록도 가능합니다.
@@ -180,44 +176,50 @@ metaLinks:
 {% step %}
 패키징 넘버 QR 코드를 스캔합니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-3.png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 카메라 스캔으로 올바른 코드가 입력되지 않을 경우 입력칸을 눌러 직접 입력합니다.
 
-<img src="../.gitbook/assets/number-direct-input.png" alt="" data-size="original">
+<img src="../.gitbook/assets/directly-enter.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 패키징 넘버를 확인한 뒤 \[확인 완료]를 누릅니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-4.png" alt="" width="315"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-등록이 완료되면 제품 등록 팝업에서 \[개통 완료]를 누릅니다.
+등록이 완료되면 제품 개통 팝업에서 \[개통 완료]를 누릅니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-7.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않으면 QR 스캔 화면으로 돌아갑니다.
 
 자세한 내용은 [기타 불편사항 대응 방법 → 6)QR코드가 스캔되지 않음](../others/initial-setup.md#qr-not-scanned) 항목 참고하세요.
 
-<img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
+<img src="../.gitbook/assets/product-opening-invaild.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
 추가 옵션을 주문할 경우 주요 제품 개통 이후 추가 옵션 개통을 진행해야 개통이 완료됩니다.
 
-<img src="../.gitbook/assets/addoption.png" alt="" data-size="original">
+<img src="../.gitbook/assets/opening-additional-options.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+제품 개통 및 선택을 다시하고싶다면 제품 다시 선택을 누르면 제품 선택 페이지로 돌아갑니다.
+
+<img src="../.gitbook/assets/product-reset.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 제품 개통이 완료됩니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-8.png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-opening-8.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
