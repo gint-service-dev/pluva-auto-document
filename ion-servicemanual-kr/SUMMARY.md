@@ -75,5 +75,5 @@
 ## 기타 <a href="#others" id="others"></a>
 
 * [고객 불편사항 대응 방법](others/initial-setup.md)
-* [어드민 로그인 방법](others/admin-login.md)
+* [어드민 로그인](others/admin-login.md)
 * [원격 지원](others/monitorning.md)
