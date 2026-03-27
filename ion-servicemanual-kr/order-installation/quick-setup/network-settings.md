@@ -82,8 +82,6 @@ APN이 자동으로 연결됩니다
 
 <div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
 
-(한국)
-
 1. APN 이름 입력
 
 * 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
@@ -96,17 +94,6 @@ APN이 자동으로 연결됩니다
 {% endhint %}
 
 2. 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누르면 수동으로 연결됩니다.
-
-\
-(일본)
-
-1. APN 이름 입력
-
-* ppsim.jp 를 입력합니다.
-
-2. 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누르면 수동으로 연결됩니다.
-
-
 
 
 
