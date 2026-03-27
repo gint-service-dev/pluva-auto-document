@@ -42,19 +42,6 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-태블릿 전원 켜기 / 끄기
-
-태블릿의 안정적인 사용을 위해 아래 순서에 따라 전원을 켜고 끕니다.
-
-* **전원 켤때 : 메인 전원 스위치를 ON으로 설정합니다.**
-* **전원 끌때 : 태블릿 전원 버튼을 3\~5초 길게 눌러 화면이 꺼진 것을 확인한 후, 메인 전원 스위치를 OFF로 설정합니다.**
-{% endhint %}
-
-{% hint style="warning" %}
-메인 전원 스위치만으로 전원을 끄면 태블릿이 정상적으로 종료되지 않을 수 있습니다. 반드시 태블릿 절전 버튼으로 화면을 먼저 끈 후 메인 전원 스위치를 OFF로 설정합니다.
-{% endhint %}
-
 ![](../../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
