@@ -32,7 +32,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-2.svg) 태블릿 전원
+![](../../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
 
 * 태블릿의 전원을 끄거나 켭니다.
 
@@ -60,7 +60,7 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-5.svg) 선택 / 자율주행 ON·OFF
+![](../../.gitbook/assets/icon-circle-5.svg) 선택 / 자율주행 ㅂ
 
 * 설정 화면: 선택 항목을 확정합니다.
 * 자율주행 중: 자율주행을 시작하거나 해제합니다.
