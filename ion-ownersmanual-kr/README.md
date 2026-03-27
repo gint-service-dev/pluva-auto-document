@@ -39,6 +39,10 @@ layout:
 
 {% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw&si=XKvvquRvSZQHj89V" %}
 
+{% hint style="info" %}
+[다른 영상 가이드로 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
+{% endhint %}
+
 
 
 ### 목차
