@@ -52,9 +52,9 @@ metaLinks:
 
 <details>
 
-<summary><a href="others/initial-setup.md">기타</a></summary>
+<summary><a href="/broken/pages/NzifUvx5zIDCh6FtuDrB">기타</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>원격 지원</td><td><a href="/broken/pages/jJ7aZFrIAMD6vNwXGuqt">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="/broken/pages/NzifUvx5zIDCh6FtuDrB">Broken link</a></td></tr><tr><td>원격 지원</td><td><a href="/broken/pages/jJ7aZFrIAMD6vNwXGuqt">Broken link</a></td></tr></tbody></table>
 
 
 

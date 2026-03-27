@@ -191,7 +191,7 @@ QR 스캔이 어려울 경우 \[직접 입력] 버튼을 눌러 사번을 직접
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않을 경우 QR 스캔 화면으로 돌아갑니다.
 
-자세한 내용은 [기타 불편사항 대응 방법 → 6)QR코드가 스캔되지 않음](../others/initial-setup.md#qr-not-scanned) 항목 참고하세요.
+자세한 내용은 [기타 불편사항 대응 방법 → 6)QR코드가 스캔되지 않음](/broken/pages/NzifUvx5zIDCh6FtuDrB#qr-not-scanned) 항목 참고하세요.
 
 <img src="../.gitbook/assets/product-opening-invaild.png" alt="" data-size="original">
 {% endhint %}

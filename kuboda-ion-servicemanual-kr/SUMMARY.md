@@ -9,7 +9,3 @@
 * [제품 개통](order-installation/product-registration.md)
 * [퀵셋업 설명 및 준비](order-installation/preparing-quick-setup.md)
 * [설치 완료 확인](order-installation/installation-completed.md)
-
-## 기타 <a href="#others" id="others"></a>
-
-* [고객 불편사항 대응 방법](others/initial-setup.md)
