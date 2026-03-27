@@ -12,16 +12,16 @@
 
 
 
-1. [언어 설정](/broken/pages/llfCE3IcJnLe6Sb043DZ)
-2. [네트워크 설정](/broken/pages/pKq1PCqWofFMVP6yQfai)
-3. [OTA 설정](/broken/pages/03SXam5bJolrpGjRuSax)
-4. [로그인](/broken/pages/sd2v2aY6nf9Dk4wB4CZm)
-5. [GNSS수신기 연결 확인](/broken/pages/mFLbZ6Gc0l9uLf8GvhSo)
-6. [위치보정 설정](/broken/pages/LxADZZSJvPhkXFWKhfDz)
-7. [차량 추가](/broken/pages/cdd4wc7f3oTo0sgaeKud)
-8. [차량 보정](/broken/pages/OLqmr5pAULzt4Tbxo7ZA)
-9. [작업기 추가 (선택)](/broken/pages/4NMIuJPGUPL4kvfJOCEm)
-10. [작업지 설정](/broken/pages/XweEKeoKLzy14WNwvs6I)
+1. [언어 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
+2. [네트워크 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
+3. [소프트웨어 업데이트(OTA)](/broken/pages/03SXam5bJolrpGjRuSax)
+4. [로그인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
+5. [GNSS수신기 연결 확인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
+6. [위치보정 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)
+7. [차량 추가](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-vehicle)
+8. [차량 보정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/vehicle-calibration)
+9. [작업기 추가 (선택)](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-worker)
+10. [작업지 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/farm-setting)
 
 
 
