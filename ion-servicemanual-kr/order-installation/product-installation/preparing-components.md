@@ -134,7 +134,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/5.svg) 선택 / 자율주행 ON·OFF
+![](../../.gitbook/assets/5.svg) 선택 / 자율주행 버튼
 
 * 설정 화면: 선택 항목을 확정합니다.
 * 자율주행 중: 자율주행을 시작하거나 해제합니다.
