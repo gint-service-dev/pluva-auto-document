@@ -37,7 +37,7 @@ metaLinks:
 
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
-3. [OTA 설정](ota.md)
+3. [소프트웨어 업데이트 (OTA)](ota.md)
 4. [로그인](login.md)
 5. [개통키 입력](opening-key.md)
 6. [GNSS수신기 연결 확인](gnss-connect.md)

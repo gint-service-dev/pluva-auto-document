@@ -38,6 +38,10 @@ metaLinks:
 [network-settings.md](network-settings.md)
 {% endcontent-ref %}
 
+{% content-ref url="ota.md" %}
+[ota.md](ota.md)
+{% endcontent-ref %}
+
 {% content-ref url="login.md" %}
 [login.md](login.md)
 {% endcontent-ref %}

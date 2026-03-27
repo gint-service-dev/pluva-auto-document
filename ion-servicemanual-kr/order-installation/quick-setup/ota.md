@@ -17,14 +17,14 @@ layout:
     visible: true
 ---
 
-# OTA 설정
+# 소프트웨어 업데이트(OTA)
 
-#### **OTA 설정이란?**&#x20;
+#### 소프트웨어 업데이트(OTA) **이란?**&#x20;
 
-소프트웨어 업데이트를 의미하며, 기기가 자동으로 업데이트를 확인하고 최신 버전으로 업데이트하여 정상적인 기기 사용 환경을 유지합니다.
+최신 성능으로 안정적인 사용 환경을 제공하기 위해 기기가 자동으로 최신 버전을 확인하고 업데이트합니다.
 
 {% hint style="info" %}
-최신 업데이트가 필요한 경우에만 OTA 화면이 표시됩니다.
+최신 업데이트가 필요한 경우에만 소프트웨어 설정 화면이 표시됩니다.
 {% endhint %}
 
 ***
@@ -34,6 +34,14 @@ layout:
 \[업데이트] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/Quick setup_OTA-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+와이파이 환경에서 소프트웨어 업데이트를 진행하는 것을 권장합니다.
+{% endhint %}
+
+{% hint style="info" %}
+네트워크가 셀룰러로 설정되어있는 경우 \[네트워크 변경]을 통해 변경 가능합니다.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -49,7 +57,7 @@ layout:
 {% endstep %}
 
 {% step %}
-재부팅 후 태블릿에 다시 접속하여 \[다음 단계로] 버튼을 누르면 OTA 설정이 완료됩니다.
+재부팅 후 태블릿에 다시 접속하여 \[다음 단계로] 버튼을 누르면 소프트웨어 업데이트가 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/Quick setup_OTA-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
