@@ -36,11 +36,11 @@ layout:
 <figure><img src="../../.gitbook/assets/Quick setup_OTA-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-와이파이 환경에서 소프트웨어 업데이트를 진행하는 것을 권장합니다.
+와이파이 환경에서 소프트웨어 업데이트를 진행할 것을 권장합니다.
 {% endhint %}
 
 {% hint style="info" %}
-네트워크가 셀룰러로 설정되어있는 경우 \[네트워크 변경]을 통해 변경 가능합니다.
+네트워크가 셀룰러로 설정되어 있는 경우 \[네트워크 변경]을 통해 변경할 수 있습니다.
 {% endhint %}
 {% endstep %}
 
