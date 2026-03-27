@@ -58,6 +58,12 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% hint style="info" %}
 기본 필드 등록은 **\[지도에서 선택]** 으로 설정되어 있습니다. 경계를 직접 만들려면 **\[직접 그리기]** 를 선택합니다.
 {% endhint %}
+
+{% hint style="info" %}
+\[작업 옵션]의 필드 조정 버튼을 통해서도 진입할 수 있으며, 이 경우 현재 선택한 필드의 조정 화면으로 이동합니다.
+
+<img src="../../.gitbook/assets/field-adjustment-shortcut.png" alt="" data-size="original">
+{% endhint %}
 {% endstep %}
 
 {% step %}
