@@ -1,26 +1,34 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/Pt5o7wgXBzTKHnr0VazS/user-manual-info
+    - https://app.gitbook.com/s/fIil1QjLd6DqdBnn2Ex9/user-manual-info
 ---
 
-# サービスマニュアル情報
+# 서비스 메뉴얼 정보
 
-### サービスマニュアル情報
-
-このマニュアルは、取付 - 使用方法 - トラブルシューティングの順で構成されています。 左側メニューの詳細項目をクリックすると、詳細内容が確認できます。
+이 설명서는 설치 - 사용법 -불편사항 대응 순서로 구성되어 있습니다. 좌측 메뉴의 세부 항목을 클릭하여 상세 내용을 확인합니다.
 
 
 
-#### マニュアルの使い方
+#### 메뉴얼 활용 방법
 
-* 本マニュアルの各手順には、完了に必要なすべてのステップが含まれています。
-* 一部の手順で他の手順を参照する場合は、該当する手順に移動して作業を進めてください。
-* 既に完了した手順はスキップし、次の手順へ進んでください。
-
-
-
-#### 映像ガイド <a href="#guide" id="guide"></a>
-
-マニュアルの内容を簡潔にまとめた動画ガイドをご用意しました。以下の動画から内容を素早くご確認いただけます。
+* 이 매뉴얼의 각 절차는 완료에 필요한 모든 단계를 포함하고 있습니다.
+* 일부 단계에서 다른 절차를 참조하는 경우, 해당 절차로 이동하여 진행합니다.
+* 이미 완료한 단계는 건너뛰고 다음 단계로 진행하면 됩니다.
 

@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,31 +18,32 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Pt5o7wgXBzTKHnr0VazS/order-installation/installation-completed
+      https://app.gitbook.com/s/fIil1QjLd6DqdBnn2Ex9/order-installation/installation-completed
 ---
 
-# 取付完了の確認
+# 설치 완료 확인
 
-### 取付完了の確認&#x20;
+설치 및 퀵셋업의 최종 완료 여부를 점검하는 단계입니다.&#x20;
 
-
-
-
-
-
-
-***
+{% hint style="info" %}
+아래 항목을 모두 확인했다면 설치를 완료합니다.
+{% endhint %}
 
 {% stepper %}
 {% step %}
-GNSSのLEDランプを確認し、取り付け状況を確認してください。&#x20;
-
-<figure><img src="../.gitbook/assets/tablet 85 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
+제품이 정상적으로 장착되었습니다.
 {% endstep %}
 
 {% step %}
-試運転をしながら自動操舵ができているかを確認してください。&#x20;
+필요한 소프트웨어 설정이 모두 완료되었습니다.
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/tablet 86 - Confirm installation completion.png" alt=""><figcaption></figcaption></figure>
+{% step %}
+시범 운행을 통해 문제 없이 작업 가능한 상태임을 확인하였습니다.
+{% endstep %}
+
+{% step %}
+고객 교육이 완료되었으며, 고객이 즉시 서비스를 이용할 수 있는 상태입니다.
 {% endstep %}
 {% endstepper %}
+

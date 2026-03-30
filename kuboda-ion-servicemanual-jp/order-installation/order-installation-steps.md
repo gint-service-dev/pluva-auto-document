@@ -1,86 +1,79 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Pt5o7wgXBzTKHnr0VazS/order-installation/order-installation-steps
+      https://app.gitbook.com/s/fIil1QjLd6DqdBnn2Ex9/order-installation/order-installation-steps
 ---
 
-# 取付プロセス
+# 개통/설치 단계 설명
 
-### 開通-取付の案内
-
-pluva ionは専門取付が必要です。アドミンの開通・取付プロセスに基づき、取付技術者が安全な取付を支援するとともに、取付履歴を管理します。
+플루바 아이온은 전문 설치 과정이 필요한 제품입니다. **개통-설치 프로세스**를 통해 전문 엔지니어의 안전한 설치를 지원합니다.
 
 ***
 
-### 開通・取付の流れ
+### 제품 설치 과정
 
 {% stepper %}
 {% step %}
-#### 取付プロセス&#x20;
+#### 제품 개통
 
-* QRコードから簡単に開通できます。
-* 専門的な教育を受けた取付担当者が直接訪問し取り付けを行います。
-* 取付完了後には、お客様の状況に合わせた説明を実施します。
-
-<figure><img src="../.gitbook/assets/Installation process sequence.png" alt=""><figcaption></figcaption></figure>
-
-
+* 설치할 구성품을 선택하고 시리얼 번호를 등록하여 개통을 진행합니다.
+* 자세한 내용은 [<mark style="color:$primary;">제품개통</mark>](product-registration.md)을 참고하세요.
 {% endstep %}
 
 {% step %}
-### 開通の準備
+#### **설치**
 
-* 詳細内容は [開通の準備](order-registration.md)をご確認して下さい。
-
-
+* 차량에 제품를 설치합니다. 기존 핸들을 자율주행용 핸들로 교체하고, 각종 센서 및 장치를 연결하는 작업을 포함합니다.
+* 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation)를 참고하세요.
 {% endstep %}
 
 {% step %}
-### QRコートの位置
-
-* 詳細内容は [QRコートの位置](preparing-accounts.md)をご確認して下さい。
-
-
-{% endstep %}
-
-{% step %}
-### 開通完了
-
-* 詳細内容は [開通完了](product-registration.md)をご確認して下さい。
-
-
-{% endstep %}
-
-{% step %}
-#### PLUVA iONの取り付け
-
-* 車両に製品を取付けます。既存のハンドルを自動操舵専用ハンドルに交換し、各種センサーおよび装置を接続する作業が含まれます。
-* 詳細内容は [PLUVA iONの取り付け](product-installation/)をご確認して下さい。
-
-
-{% endstep %}
-
-{% step %}
-#### 簡単セットアップ&#x20;
+#### **퀵셋업**
 
 {% hint style="info" %}
-簡単セットアップについて?
+퀵셋업은 무엇인가요?
 
-お客様がタブレットをすぐにお使いいただけるよう、取付にて**初期環境をセットアップする段階**です。
+고객이 태블릿을 바로 사용할 수 있도록, 설치 과정에서 **기본 환경을 설정하는 단계**입니다.
 {% endhint %}
 
-* ネットワークや車両情報など、システム稼働に必要な**初期設定を完了させます**。設定が完了すると製品が有効化され、使用可能な状態になります。
-* 詳細内容は [簡単セットアップ](quick-setup/)をご確認して下さい。
-
-
+* 네트워크/차량 정보 등 시스템 작동에 필요한 **초기 설정을 완료**합니다. 설정이 완료되면 제품이 활성화되어 사용 가능한 상태가 됩니다.
+* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup)을 참고하세요.
 {% endstep %}
 
 {% step %}
-#### 取付完了の確認&#x20;
+#### **시범 운행**
 
-* 取付が完了した製品の試運転を行い、取付状態の点検および**誤作動・異常の有無を確認**します。問題が発見された場合は原因を特定し、必要に応じた対応を行います。
+* 설치가 완료된 제품을 시범 운행하여, 설치 상태를 점검하고 **오작동/이상 여부를 확인**합니다. 문제가 발견되면 원인을 확인하고 필요한 조치를 진행합니다.
+{% endstep %}
 
+{% step %}
+#### **고객 교육**
 
+* 제품 설치가 완료된 후, 고객이 제품을 안전하게 사용할 수 있도록 **주요 기능과 사용 방법을 안내**합니다.
+* 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/initial-setup)을 참고하세요.
+{% endstep %}
+
+{% step %}
+#### **설치 완료**
+
+* 모든 설치 및 설정이 완료되면 설치 확인 사항을 점검하고 설치를 종료하세요.
+* 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](installation-completed.md) 을 참고하세요.
 {% endstep %}
 {% endstepper %}
