@@ -63,6 +63,10 @@ APN이 자동으로 연결됩니다
 {% hint style="info" %}
 셀룰러 설정은 USIM을 태블릿에 장착된 상태에만 설정이 가능합니다.
 {% endhint %}
+
+{% hint style="info" %}
+USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습니다. 접속이 확인될 때까지 전원을 끄지 말고 기다려 주십시오.
+{% endhint %}
 {% endstep %}
 
 {% step %}
