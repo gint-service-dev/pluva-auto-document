@@ -24,7 +24,7 @@ metaLinks:
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
-### 목차
+### 目次
 
 <details>
 
