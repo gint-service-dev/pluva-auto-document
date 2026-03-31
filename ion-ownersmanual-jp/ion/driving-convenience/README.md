@@ -29,10 +29,6 @@ layout:
 [bringing-up-path.md](bringing-up-path.md)
 {% endcontent-ref %}
 
-{% content-ref url="path-sharing.md" %}
-[path-sharing.md](path-sharing.md)
-{% endcontent-ref %}
-
 {% content-ref url="delete-path.md" %}
 [delete-path.md](delete-path.md)
 {% endcontent-ref %}

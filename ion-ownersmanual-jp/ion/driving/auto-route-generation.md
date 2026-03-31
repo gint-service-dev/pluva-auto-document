@@ -52,3 +52,9 @@ PLUVA AIが経路を生成します。
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+\[経路の修正]を選択し、おすすめ経路を修正できます。
+{% endhint %}
+
+<figure><img src="/broken/files/3AapElKq4uf394kliqJO" alt=""><figcaption></figcaption></figure>

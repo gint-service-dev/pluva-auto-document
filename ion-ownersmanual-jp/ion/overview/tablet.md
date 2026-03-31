@@ -27,15 +27,32 @@ layout:
 
 ![](../../.gitbook/assets/icon-circle-1.svg) **メイン電源スイッチ**
 
-* 電動ステアリングホイールやGNSS受信機、タブレットなど、接続されたすべてのデバイスの電源を一回でオン/オフできます。
+* 電動ステアリングホイール、GNSS受信機、タブレットなど、接続されたすべての構成品の電源および暗電流を一括でオン・オフします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-circle-2.svg) **タブレットスリープボタン**
+![](../../.gitbook/assets/icon-circle-2.svg) **タブレットのスリープボタン**
 
-* タブレットの電源をオン、またはオフにします。
+* タブレットの電源をオン・オフできます。
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="/broken/files/rB113tL4wAwBOldD3t66" alt="" width="150"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+タブレット電源のオン・オフ
+
+タブレットを安定してご使用いただくため、以下の手順に従って電源のオン・オフを行ってください。
+
+* **電源を入れる時：メイン電源スイッチを「オン（I）」にします。**
+* **電源を切る時：タブレットのスリープボタンを3～5秒間長押しし、画面が消えたことをご確認のうえメイン電源スイッチを「オフ（O）」にします。**
+{% endhint %}
+
+{% hint style="warning" %}
+メイン電源スイッチだけで電源を切ると、タブレットが正しく終了できない場合があります。必ずタブレットのスリープボタンを先に押し、画面を消してからメイン電源スイッチをオフにしてください。
+{% endhint %}
+
+{% hint style="warning" %}
+タブレットのスリープボタンを押して終了した後も暗電流が流れるため、トラクターのバッテリーが上がる恐れがあります。長時間使用しない場合は、使用後に必ずメイン電源スイッチを切って電源を遮断してください。
+{% endhint %}
 
 ![](../../.gitbook/assets/icon-circle-3.svg) **右側(▶)**
 

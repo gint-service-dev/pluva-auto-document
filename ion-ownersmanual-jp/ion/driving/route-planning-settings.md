@@ -74,7 +74,7 @@ A+直進
 
 
 
-<img src="/broken/files/Dbh5ctihbCKFQHmbyiwG" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
 
 
 
@@ -83,11 +83,11 @@ A+直進
 
 
 
-<img src="/broken/files/hlBMisCap43NJbbLEZu3" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
 2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。&#x20;
 
-<img src="/broken/files/ljAmKxNEbV02meUah5iS" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}

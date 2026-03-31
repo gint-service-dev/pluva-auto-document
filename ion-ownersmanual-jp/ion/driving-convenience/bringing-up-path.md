@@ -25,6 +25,12 @@ layout:
 
 #### 経路の取り込み
 
+{% hint style="info" %}
+経路の取り込み機能は、自動経路の取り込みおよびメモリー走行モードでのみ利用可能です。これらのモードでない場合は機能をご利用いただけません。
+
+<img src="/broken/files/Fo7EN0BJWC6Z0NBPbTSa" alt="" data-size="original">
+{% endhint %}
+
 {% stepper %}
 {% step %}
 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]を選択してください。
