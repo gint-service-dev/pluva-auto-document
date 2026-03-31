@@ -1,12 +1,27 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
-    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/fGVifYcsPhKi7NL4xOBx
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/autostere-calibration
 ---
 
 # オートステア補正
-
-### オートステア補正
 
 オートステア補正とは、設定された経路を安定して追従できるよう、ステアリング範囲と　直進基準値を補正するプロセスです。トラクターは2段階、田植え機は3段階の補正を行います。
 
@@ -220,7 +235,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-지속해서 1km이하로 주행한다.
+引き続き時速1km以下で走行します。
 
 <figure><img src="../../.gitbook/assets/leeangi-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
 
@@ -274,5 +289,96 @@ metaLinks:
 補正が完了すると\[確認]ボタンが有効になります。 ボタンを押して補正を完了してください。
 
 <figure><img src="../../.gitbook/assets/leeangi-steering-angle-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 倍速ターン車両のオートステア補正
+
+倍速ターン機能付き車両は、**倍速ターンのON/OFFそれぞれの状態で、**&#x540C;様の補正を行います。
+
+{% hint style="warning" %}
+倍速ターンのオートステア補正は、車両を追加する際に\[倍速ターン車両]トグルを有効（ON）に設定した場合のみ行えます。\
+倍速ターン車両をご使用の際には、本オプションを必ずONに設定してください。
+{% endhint %}
+
+{% hint style="info" %}
+倍速ターンは、トラクター専用のオプションです。田植え機では倍速ターンの設定項目は表示されません。
+{% endhint %}
+
+***
+
+#### 倍速ターンの補正方法
+
+オートステア補正は、**計2つのステップ**で行われます。ステップ2まで完了することで補正が反映されます。
+
+* **ステップ1（倍速ターンOFFの状態）**
+  * ハンドル範囲補正
+  * 直進ステアリング補正
+* **ステップ（倍速ターンONの状態）**
+  * 直進ステアリング補正
+
+
+
+{% stepper %}
+{% step %}
+\[全ての補正を進める]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+倍速ターンを**OFF**に切り替えてか&#x3089;**\[確認]**&#x3092;タップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正を行います。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従って**ハンドル範囲補正**を完了させます。次に、**\[1回目の直進ステアリング補正の開始]**&#x3092;タップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進ステアリング補正の画面の案内を確認します。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+![](../../.gitbook/assets/drive-button.svg)を押し、1回目の直進ステアリング補正を開始します。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-6.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+1回目の直進ステアリング補正の完了後、\[2回目の直進ステアリング補正の開始]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-7.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**倍速ターンの設定確認**に関するポップアップが表示されます。倍速ターンを**ON**に切り替えたうえで\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-8.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+![](../../.gitbook/assets/drive-button.svg)をタップし2回目の直進ステアリング補正を開始します。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+2回目の直進ステアリング補正の完了後、倍速ターン車両のオートステア補正が完了となります。**\[確認]**&#x3092;タップするとMy車両画面へアクセスします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

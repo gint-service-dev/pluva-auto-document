@@ -1,498 +1,474 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/vehicle-calibration
 ---
 
-# 車両設定および補正 \_トラクター
+# 車両の補正
 
-### 車両設定および補正 \_トラクター&#x20;
-
-正確な自動操舵を行うための車両補正開始します。補正項目は全部で3つあり、一括で実行を選択することで、すべての項目をまとめて進めることができます。
-
-
-
-
+正確な自動操舵のための車両補正を行います。車両の補正は計3項目あり「全ての補正を進める」をタップし、まとめて進めることができます。
 
 ***
 
-#### 車両タイプ別の補正項目&#x20;
+#### 車両タイプごとの補正項目
 
-1. [**\[トラクター\]**](vehicle-calibration.md#torakut)
-   1.  **一般車両オートステア補正**
+**一般車両**
 
-       1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
-       2.  [トラクターオートステア補正](vehicle-calibration.md#torakuttosutea)&#x20;
+それぞれの補正項目を**1回ずつ**進めます。
 
-           1. ハンドル範囲補正
-           2. 直進操舵補正画面
+1. [GNSS受信機の位置設定](vehicle-calibration.md#gnss)
+2. [オートステア補正](vehicle-calibration.md#undefined-4)
 
 
 
-       <br>
-   2.  **速ターン車両オートステア補正**
+**倍速ターン機能付き車両**
 
-       *   倍速ターンオプション搭載車は、**倍速ターンのOFF/ONそれぞれの状態でオー**トステア補正を行います。そのため、オートステア補正**は2回**実施されます。
-
-           <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>車両追加時、<strong>[倍速ターン車両]のトグルを必ずON</strong>に設定して登録してください。この設定に基づき、倍速ターン車両に最適化された補正が行われます。</p></div>
-
-       1. [GNSS測定](vehicle-calibration.md#gnss-ce-ding)&#x20;
-       2. [トラクターオートステア補正](vehicle-calibration.md#id-2-tntosutea)&#x20;
-          1. OFF状態設定&#x20;
-             1. ハンドル範囲補正&#x20;
-             2.  1次直進操舵補正画面&#x20;
-
-
-          2.  ON状態設定
-
-              1. 2次直進操舵補正画面
-
-
-
-       <br>
-2.  [**\[田植機\]**](vehicle-calibration.md#tian-zhi-ji)
-
-    1. オートステアリング補正
-       1. ハンドル範囲補正
-       2. 直進操舵補正
-       3. 操舵角補正
-
-
-
-    <br>
-
-
-
-***
-
-### **\[トラクター]**
-
-#### GNSS測定
-
-{% stepper %}
-{% step %}
-**\[一括で実行]**&#x30DC;タンを押して補正を開始します。
-
-<figure><img src="../../.gitbook/assets/tablet 28 - Vehicle setup and calibration (1).png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-縦方向の位置を入力し、確認ボタンを押して下さい。
-
-<figure><img src="../../.gitbook/assets/tablet 29 - Vehicle setup and calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-横方向の位置を入力し、確認を選択してください。
-
-<figure><img src="../../.gitbook/assets/tablet 30 - Vehicle setup and calibration.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-取り付け高さの位置を入力し、確認を選択してください。
-
-<figure><img src="../../.gitbook/assets/tablet 31 - Vehicle setup and calibration.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-GNSS受信機のロール・ピッチ・ヨーを入力し、確認を選択してください。
-
-<figure><img src="../../.gitbook/assets/tablet 32 - Vehicle setup and calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% hint style="info" icon="circle-info" %}
-GNSS受信機の位置入力に関する注意事項
-
-* 縦方向： ステッカーの背面を基準に測定してください。
-*
-
-    <figure><img src="../../.gitbook/assets/tablet 33 - Vehicle setup and calibration (1).png" alt=""><figcaption></figcaption></figure>
-
-
-* 横方向：GNSS下部の突起部を測定してください。
-*
-
-    <figure><img src="../../.gitbook/assets/tablet 34 - Vehicle setup and calibration (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-
-
-
-
-***
-
-### トラクターオートステア補正
-
-<figure><img src="../../.gitbook/assets/tablet 35 - Autosteer calibration (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-#### 1.   一般車両オートステア補正
-
-*   補正画面
-
-    *
-
-        <figure><img src="../../.gitbook/assets/tablet 36 - Autosteer calibration (2).png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% stepper %}
-{% step %}
-**\[一括で実行]**&#x30DC;タンを押してオートステア補正を開始します。
-
-<figure><img src="../../.gitbook/assets/tablet 37 - Autosteer calibration (2).png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-ハンドル範囲補正
-
-* 案内に従ってハンドルを操作します。
-
-<figure><img src="../../.gitbook/assets/tablet 38 - Autosteer calibration (1).png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-ハンドル範囲補正
-
-* ハンドル範囲補正が完了しました。
-
-<figure><img src="../../.gitbook/assets/tablet 39 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
-
-<figure><img src="../../.gitbook/assets/tablet 40 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
-
-* 案内に従って\[2km/h]で走行しながら、「自動補正開始」ボタンを押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 41 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
-
-* 2km/h以下の速度を維持して走行してください。
-
-<figure><img src="../../.gitbook/assets/tablet 42 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
-
-* 補正が終了すると\[確認]ボタンが有効になります。ボタンを押して補正を完了してください。
-
-<figure><img src="../../.gitbook/assets/tablet 43 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-{% endstepper %}
-
-
-
-***
-
-#### 2. 倍速ターン車両オートステア補正
-
-倍速ターン車両は、倍速ターン**OFFとONの両方の状態で**、同一の補正をそれぞれ行います。
+倍速ターン機能付き車両は、**倍速ターンOFF/ONのそれぞれの状態で**オートステア補正を行います。\
+つまり、オートステア補正は、**合計2回**実施されます。
 
 {% hint style="warning" %}
-車両追加時、\[倍速ターン車両]のトグルを必ずONに設定して登録してください。
-
-この設定に基づき、倍速ターン車両に最適化された補正が行われます。
+車両追加時&#x306B;**\[倍速ターン車両]のトグルを必ずON**に設定し登録してください。\
+トグルの設定に従って、倍速ターン車両に適合した補正が開始されます。
 {% endhint %}
+
+1. [GNSS受信機の位置設定](vehicle-calibration.md#gnss)
+2. [オートステア補正](vehicle-calibration.md#undefined-4)
+   * 1回目：倍速ターン**OFF**の状態で補正が進められる。
+   * 2回目：倍速ターン**ON**の状態で補正が進められる。
 
 ***
 
-#### 倍速ターン補正の進め方
-
-オートステア補正は2回にわたって行われ、2回目まで終了することで補正完了となります。
-
-* **1次 (倍速ターンOFF状態で実行)**
-  * オートステアリング補正
-  * 直進操舵補正画面
-* **2次 (倍速ターンON状態で実行)**
-  * 直進操舵補正画面
-
-
+#### 車両の補正を開始する
 
 {% stepper %}
 {% step %}
-**\[一括で実行]**&#x30DC;タンを押して下さい。
+\[全ての補正を進める]をタップし、補正を開始します。
 
-<figure><img src="../../.gitbook/assets/tablet 44 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-倍速ターンをOFFに切り替え、**\[確認]** を押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 45 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-ハンドル範囲補正を実行します。
-
-<figure><img src="../../.gitbook/assets/tablet 46 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-案内に従ってハンドル範囲補正を完了させた後、**\[直進操舵補正開始]**&#x3092;押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 47 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-直進操舵補正画面の案内を確認して下さい。
-
-<figure><img src="../../.gitbook/assets/tablet 48 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-1次直進操舵補正を行います。
-
-<figure><img src="../../.gitbook/assets/tablet 49 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-1次直進操舵補正が完了したら **\[2次直進操舵補正開始]**&#x3092;押します。
-
-<figure><img src="../../.gitbook/assets/tablet 50 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-倍速ターン設定の確認ポップアップが表示されます。倍速ターンをONに切り替え、**\[確認]** を押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 51 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-2次直進操舵補正を行います。
-
-<figure><img src="../../.gitbook/assets/tablet 52 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-2次直進操舵補正の完了後、倍速ターン車両のオートステア補正が終わりましたら、**\[次のステップへ]**&#x3092;押して作業地設定に進んでください。
-
-<figure><img src="../../.gitbook/assets/tablet 53 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" icon="circle-info" %}
-倍速ターン設定車両の走行画面
-
-*
-
-    <figure><img src="../../.gitbook/assets/tablet 54 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-{% endhint %}
-
-
-{% endstep %}
-
-{% step %}
-トラクター 直進操舵補正
-
-<figure><img src="../../.gitbook/assets/tablet 55 - Autosteer calibration.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-トラクター 制限速度は約1.5〜2.5km/hです。速度が足りない場合、ボタンは有効になりません.
-{% endhint %}
-
-{% hint style="info" %}
-トラクター 停止した場合は、直進操舵補正を最初からやり直してください。
-{% endhint %}
-
-{% hint style="info" %}
-直進操舵補正中は、ハンドルが自動で動きます。
-
-自動操作中は、ハンドルを無理に操作しないでください。
-{% endhint %}
+<figure><img src="../../.gitbook/assets/set-calibration.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-
-
-
-
 ***
 
-### **\[田植機]** &#x20;
+#### GNSS受信機の位置設定
 
-#### 車両補正開始
-
-*   補正画面 &#x20;
-
-    *
-
-        <figure><img src="../../.gitbook/assets/tablet 56 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-
-
+傾斜地や不整地でも正確な方向と姿勢を維持するために、GNSS受信機の基準値を調整する機能です。取り付け状態によって傾きが大きい場合は、数値を入力して補正を行うことができます。
 
 {% stepper %}
 {% step %}
-ボタンを押すと、オートステア補正が開始されます。
+GNSS受信機の縦方向、横方向、取り付け高さを入力し\[確認]を選択します。
 
-<figure><img src="../../.gitbook/assets/tablet 57 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/set-location-gnss-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ハンドル範囲補正
-
-* 案内に従ってハンドルを操作した後、**\[確認]** ボタンを押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 58 - Autosteer calibration__rice transplanter (3).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-ハンドル範囲補正
-
-* ハンドル範囲補正が完了しました。
-
-<figure><img src="../../.gitbook/assets/tablet 59 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
+ロール、ピッチ、ヨー値を入力し、\[確認]を選択するとGNSS受信機の位置設定が完了します。
 
 <figure><img src="../../.gitbook/assets/set-location-gnss-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+{% endstepper %}
 
-{% step %}
-直進操舵補正画面&#x20;
+{% hint style="info" %}
+**GNSS受信機の位置入力に関する注意事項**
 
-<figure><img src="../../.gitbook/assets/tablet 60 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
+\
+1\. 縦方向を測定する際には、シールの裏面を測定してください。
 
-{% step %}
-直進操舵補正画面&#x20;
-
-* 案内に従って\[1km/h]で走行しながら、**\[自動補正開始]**&#x30DC;タンを押してください。
-
-<figure><img src="../../.gitbook/assets/tablet 61 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-直進操舵補正画面
-
-* 1km/h以下の速度を維持しながら走行して下さい。
-
-<figure><img src="../../.gitbook/assets/tablet 62 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-直進操舵補正画面&#x20;
-
-* 補正が完了する&#x3068;**\[操舵角補正開始]**&#x30DC;タンが表示されます。ボタンを押して次の補正を行います。
-
-<figure><img src="../../.gitbook/assets/tablet 63 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-操舵角補正画面
-
-<figure><img src="../../.gitbook/assets/tablet 64 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-操舵角補正画面
-
-* 案内に従って\[1km/h]で走行しながら、**\[自動補正開始]**&#x30DC;タンを押してください。&#x20;
-
-<figure><img src="../../.gitbook/assets/tablet 61 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-操舵角補正画面
-
-* 1km/h以下の速度を維持しながら走行して下さい。&#x20;
-
-<figure><img src="../../.gitbook/assets/tablet 62 - Autosteer calibration__rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-操舵角補正画面&#x20;
-
-* 補正が完了する&#x3068;**\[確認]**&#x30DC;タンが表示されます。&#x20;
-
-<figure><img src="../../.gitbook/assets/tablet 65 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-操舵角補正画面
-
-* 補正の完了後、**\[設定完了]** を押して作業機設定に進んでください。&#x20;
-
-<figure><img src="../../.gitbook/assets/tablet 66 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" icon="circle-info" %}
-車両補正はいつでも可能です。&#x20;
-
-*
-
-    <figure><img src="../../.gitbook/assets/tablet 67 - Autosteer calibration__rice transplanter.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/set-location-gnss-middle-1.png" alt="" data-size="original">
 
 
 
+2. 横方向を測定する際には、GNSS受信機下部の突起部分を測定してください。
 
+![](../../.gitbook/assets/set-location-gnss-middle-2.png)<br>
 {% endhint %}
 
 
 
-<br>
+#### GNSS受信機の位置設定に関するご案内
+
+1. **縦方向、横方向、取り付け高さの設定**
+
+* 縦方向の位置：フロントアクスルを基準に前側 - 後ろ側 +
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-tractor-1.png" alt=""><figcaption></figcaption></figure>
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-leeangi-1.png" alt=""><figcaption></figcaption></figure>
+* 横方向の位置：アクスル中央を基準に右側 + 左側 -
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-tractor-2.png" alt=""><figcaption></figcaption></figure>
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-leeangi-2.png" alt=""><figcaption></figcaption></figure>
+* 取り付け高さ：地面から受信機の取り付け位置までの距離
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-tractor-3.png" alt=""><figcaption></figcaption></figure>
+  *
+
+      <figure><img src="../../.gitbook/assets/set-location-gnss-leeangi-3.png" alt=""><figcaption></figcaption></figure>
+
+
+
+2. **ロール/ピッチ/ヨー設定**
+
+<figure><img src="../../.gitbook/assets/set-location-gnss-pitch.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **ROLL ロール**
+
+* GNSS受信機が左右方向に傾いた角度を表します。
+
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **Pitch ピッチ**
+
+* GNSS受信機が前後方向に傾いた角度を表します。
+
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **Yaw ヨー**
+
+* GNSS受信機が垂直軸を基準に回転した角度を表します。
+
+***
+
+#### 一般車両のオートステア補正
+
+オートステア補正は、設定された経路をスムーズに追従するよう、ステアリング範囲と直進基準値を補正するプロセスです。トラクターは2ステップ、田植え機は3ステップで行われます。
+
+**トラクター（2ステップ）**
+
+* ハンドル範囲補正 - 直進ステアリング補正
+*
+
+    <figure><img src="../../.gitbook/assets/vehicle-calibration-tractor.png" alt=""><figcaption></figcaption></figure>
+
+**田植え機 （3ステップ）**
+
+* ハンドル範囲補正 - 直進ステアリング補正 - ステアリング角度補正
+*
+
+    <figure><img src="../../.gitbook/assets/vehicle-calibration-leeangi.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### トラクターのオートステア補正
+
+1. **ハンドル範囲補正**
+
+{% stepper %}
+{% step %}
+\[全ての補正を進める]をタップすると、オートステア補正が開始します。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-tractor-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+各ステップの開始を選択すると、該当するステップの補正のみが行われます。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを左いっぱいに回してから車両を停止し、\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-tractor-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを右いっぱいに回してから車両を停止し、\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-tractor-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを回し、車輪を中央に位置させ車両を停止してから\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-tractor-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正が完了します。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-tractor-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
+
+2. **直進ステアリング補正**
+
+{% stepper %}
+{% step %}
+直進ステアリング補正に必要な案内を確認し、\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-tractor-1.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従って\[時速2km]で走行し\[自動補正の開始]をタップします。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-tractor-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時のトラクターの制限速度は時速2kmであり、スピードを超えると、ボタンが有効になりません。
+{% endhint %}
+
+{% hint style="info" %}
+トラクターが停止した場合、直進ステアリング補正を最初からやり直す必要があります。
+{% endhint %}
+
+{% hint style="info" %}
+直進ステアリング補正中には、ハンドルが自動で回ります。自動操作中にはハンドルを無理に操作しないでください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+引き続き時速2km以下で走行します。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-tractor-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時に必要なスペースが確保できない、または走行不可の場合、緊急停止をタップしてください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+補正が終了すると\[確認]ボタンが有効になります。タップし、補正を完了してください。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-tractor-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+#### 田植え機のオートステア補正
+
+1. **ハンドル範囲補正**
+
+{% stepper %}
+{% step %}
+\[全ての補正を進める]をタップすると、オートステア補正が開始します。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-leeangi-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+各ステップの「開始」をタップすると、該当するステップの補正のみを実施できます。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを左いっぱいに回してから車両を停止し、\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-leeangi-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを右いっぱいに回してから車両を停止し、\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-leeangi-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従ってハンドルを回し、車輪を中央に位置させ車両を停止してから\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-leeangi-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正が完了します。
+
+<figure><img src="../../.gitbook/assets/handle-calibration-leeangi-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
+
+2. **直進ステアリング補正**
+
+{% stepper %}
+{% step %}
+直進ステアリング補正に必要な案内を確認してから\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-1.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従って\[時速2km]で走行し\[自動補正の開始]をタップします。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時の田植え機の制限速度は時速2kmであり、スピードを超えると、ボタンが有効になりません。
+{% endhint %}
+
+{% hint style="info" %}
+田植え機が停止した場合、直進ステアリング補正を最初からやり直す必要があります。
+{% endhint %}
+
+{% hint style="info" %}
+直進ステアリング補正中には、ハンドルが自動で回ります。自動操作中にはハンドルを無理に操作しないでください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+引き続き時速2km以下で走行します。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時に必要なスペースが確保できない、または走行不可の場合、緊急停止をタップしてください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+補正が完了すると\[ステアリング角度補正の開始]ボタンが表示されます。タップし、次の補正を開始してください。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
+
+3. **ステアリング角度補正**
+
+{% stepper %}
+{% step %}
+案内に従って\[時速2km]で走行し\[自動補正の開始]をタップします。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時の田植え機の制限速度は時速2kmであり、スピードを超えると、ボタンが有効になりません。
+{% endhint %}
+
+{% hint style="info" %}
+田植え機が停止した場合、直進ステアリング補正を最初からやり直す必要があります。
+{% endhint %}
+
+{% hint style="info" %}
+直進ステアリング補正中には、ハンドルが自動で回ります。自動操作中にはハンドルを無理に操作しないでください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+引き続き時速2km以下で走行します。
+
+<figure><img src="../../.gitbook/assets/straight-calibration-leeangi-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+補正時に必要なスペースが確保できない、または走行不可の場合、緊急停止をタップしてください。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+補正が完了すると\[確認]ボタンが有効になります。タップすると補正が完了され、圃場の設定に進みます。
+
+<figure><img src="../../.gitbook/assets/angle-calibration-leeangi-complete.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 倍速ターン車両のオートステア補正
+
+倍速ターン車両は、**倍速ターンOFF/ONのそれぞれの状態で**同一の補正を行います。
+
+{% hint style="warning" %}
+倍速ターン車両のオートステア補正は、車両追加時に\[倍速ターン車両]のトグルをONに設定した場合のみ実施できます。\
+倍速ターン車両の場合、必ずこのオプションをONにしてください。
+{% endhint %}
+
+{% hint style="info" %}
+倍速ターンは、トラクター専用のオプションです。田植え機には倍速ターンのオプションが表示されません。
+{% endhint %}
+
+***
+
+#### 倍速ターンの補正プロセス
+
+オートステア補正は計**2回**行われ、2回目まで終了すると補正が完了します。
+
+* **1回目（倍速ターンOFF状態）**
+  * ハンドル範囲補正
+  * 直進ステアリング補正
+* **2回目（倍速ターンON状態）**
+  * 直進ステアリング補正
+
+
+
+{% stepper %}
+{% step %}
+\[全ての補正を進める]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+倍速ターンを**OFF**に切り替え、**\[確認]**&#x3092;タップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+ハンドル範囲補正を進めます。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+案内に従って**ハンドル範囲補正**を完了します。引き続&#x304D;**\[直進ステアリング補正の開始]**&#x3092;タップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+直進ステアリング補正の画面の案内を確認します。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+1回目の直進ステアリング補正を進めます。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-6.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+1回目の直進ステアリング補正が完了したら、\[2回目の直進ステアリング補正の開始]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-7.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**倍速ターンの設定確認**のポップアップが表示されます。倍速ターンを**ON**に切り替え\[確認]をタップします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-8.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**2回目の直進ステアリング補正**を進めます。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**2回目の直進ステアリング補正**が完了したら、倍速ターン車両のオートステア補正が完了されます。**\[次のステップへ]**&#x3092;タップし、**圃場の設定**にアクセスします。
+
+<figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # GNSS受信機の設定
-
-### GNSS受信機の設定
 
 車両に取り付けられたGNSS受信機の正確な位置を登録し、測位精度を向上させます。
 

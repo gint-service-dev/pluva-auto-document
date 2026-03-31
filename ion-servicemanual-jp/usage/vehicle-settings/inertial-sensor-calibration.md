@@ -1,66 +1,47 @@
 ---
+hidden: true
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/imu-calibration
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/inertial-sensor-calibration
 ---
 
-# 慣性センサー矯正
+# 관성센서 보정
 
-### 慣性センサー矯正
+#### 관성센서 보정 <a href="#undefined" id="undefined"></a>
 
-慣性センサー矯正は、車両の傾きや回転、振動データを基準値として補正し、自動操舵時の経路追従の精度を高めるための手順です。必ず車両を停止し、エンジンを切った状態で作業を進めてください。
+관성센서 보정은 차량의 기울기, 회전, 진동 데이터를 기준값으로 보정하여 자율주행 시 경로 추종 적확도를 높이는 절차입니다. 반드시 차량을 정차하고 시동을 끈 상태에서 진행합니다.
 
-{% stepper %}
-{% step %}
-![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
+![](https://servicemanual.pluva.io/assets/ion/kr/ic_vehicle.svg) \[차량] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-1.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-calibration-1.png)
 
-{% step %}
-車両補正をタップしてください。
+차량 보정을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-calibration-2.png)
 
-{% step %}
-慣性センサー矯正をタップするとアクセスできます。
+관성센서 측정을 누르면 진입이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-calibration-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-calibration-3.png)
 
 ***
 
-#### 慣性センサー矯正のご案内
+**관성센서 보정 설명**
 
-{% stepper %}
-{% step %}
-\[矯正開始]をタップしてください。
+\[보정 시작]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-1.png" alt=""><figcaption></figcaption></figure>
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-description-1.png)
 
-{% hint style="info" %}
-必ず車両を停止し、エンジンを切ってから始めてください。
-{% endhint %}
-{% endstep %}
+반드시 차량을 정차하고 시동을 끈 후 시작합니다.
 
-{% step %}
-慣性センサー矯正が始まります。
+관성센서 보정이 진행됩니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-description-2.png)
 
-{% step %}
-矯正が完了したら、\[確認]を押して終了します。
+교정이 완료되면 \[확인]을 눌러 종료합니다.
 
-<figure><img src="../../.gitbook/assets/inertial-sensor-description-3.png" alt=""><figcaption></figcaption></figure>
+![](https://servicemanual.pluva.io/assets/ion/kr/inertial-sensor-description-3.png)
 
-{% hint style="info" %}
-矯正できなった場合は、再度お試しいただくか、購入先にお問い合わせください。
+보정에 실패하면 다시 시도를 하거나 대리점에 문의해주세요.
 
-<img src="../../.gitbook/assets/calibration-failed.png" alt="" data-size="original">
-{% endhint %}
-{% endstep %}
-{% endstepper %}
+![](https://servicemanual.pluva.io/assets/ion/kr/calibration-failed.png)

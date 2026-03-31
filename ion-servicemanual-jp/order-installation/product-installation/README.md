@@ -1,15 +1,29 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation
 ---
 
-# PLUVA iONの取り付け (PLUVA iON 설치)
+# 製品の取り付け
 
-### 제품 설치
-
-製品の取付に必要な構成品を準備し、各パーツの取付を進めます。
+製品の取り付けに必要な構成品を用意し、各構成品を取り付けます。
 
 {% content-ref url="preparing-components.md" %}
 [preparing-components.md](preparing-components.md)

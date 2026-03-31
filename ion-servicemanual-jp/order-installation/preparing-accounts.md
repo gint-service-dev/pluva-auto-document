@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -21,44 +21,49 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/preparing-accounts
 ---
 
-# QRコートの位置 (QR코드 위치)
+# お客様アカウントのご用意
 
-### QRコートの位置
+お客様がPLUVA iONを使用するためには、予めアカウントを作成する必要があります。\
+お客様がアカウントをお持ちか確認し、まだお持ちでない場合は、下記の内容を参考にし、お客様にご案内してください。
 
-
-
-
+{% hint style="info" %}
+[PLUVA iON公式サイトへ](https://gint.pluva.kr/)
+{% endhint %}
 
 
 
 {% stepper %}
 {% step %}
-QRコードの位置(PLUVA iONの梱包箱)
+[PLUVA iONの会員登録サイト](https://gint.pluva.kr/)にアクセスし、\[会員登録]を選択します。
 
-<figure><img src="../.gitbook/assets/QR code location 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preparing-accounts-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-QRコードの位置(GNSS受信機)
+名前、携帯電話番号、パスワードを入力後、\[携帯電話番号の認証]を選択します。
 
-<figure><img src="../.gitbook/assets/QR code location 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preparing-accounts-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+メールアドレスの入力は任意です。入力しなくても会員登録できます。
+{% endhint %}
 {% endstep %}
 
 {% step %}
-QRコードの位置(電動ステアリングホイール)
+携帯電話に送信された6桁の認証番号を入力し、\[認証完了]を選択します。
 
-<figure><img src="../.gitbook/assets/QR code location 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preparing-accounts-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-QRコードの位置(タブレット)
+携帯電話の認証が完了したら、利用規約に同意のチェックを入れ\[登録完了]を選択します。
 
-<figure><img src="../.gitbook/assets/QR code location 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preparing-accounts-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-QRコードの位置(ワンタッチスイッチ)
+会員登録が完了されます。
 
-<figure><img src="../.gitbook/assets/QR code location 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preparing-accounts-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

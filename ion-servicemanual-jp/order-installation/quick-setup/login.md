@@ -1,29 +1,54 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/login
 ---
 
-# ログイン (로그인)
-
-### ログイン&#x20;
+# ログイン
 
 {% hint style="info" %}
-* ログインの前に、**まずは会員登録サイトにて新規登録**を行ってください。
-* アカウントをお持ちでない場合、お客様の情報に基づいた自動操舵機能が提供できないため、**サービスのご利用が制限されます。**
+* ログイン前に、**会員登録サイトにてアカウントの作成**を行ってください。
+* お客様アカウントがない場合、登録情報を基にしたパーソナライズ機能（自動操舵など）をご提供できないため、**サービスのご利用が制限**されます。
 {% endhint %}
 
 {% stepper %}
 {% step %}
-IDとパスワードを入力してか&#x3089;**\[確認]**&#x3092;押して下さい。
+IDとパスワードを入力し、\[確認]をタップします。
 
-<figure><img src="../../.gitbook/assets/tablet 10 - login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-login-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ログインできました。**\[次のステップへ]**&#x3092;押すと開通キーの入力へ進みます。
+\[次のステップへ]をタップすると、ログインが完了します。
 
-<figure><img src="../../.gitbook/assets/tablet 11 - login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-login-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+パスワードをお忘れの場合は、パスワードの再設定を進めてください。
+
+以下の2つの方法で再設定が可能です。
+
+* QRコードによる変更
+* 携帯電話番号認証による変更
+
+<img src="../../.gitbook/assets/finding-passwords.png" alt="" data-size="original">
+{% endhint %}

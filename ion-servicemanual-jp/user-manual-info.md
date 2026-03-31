@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/user-manual-info
 ---
 
-# サービスマニュアル情報
-
-### サービスマニュアル情報
+# 取扱説明書の情報
 
 このマニュアルは、取付 - 使用方法 - トラブルシューティングの順で構成されています。 左側メニューの詳細項目をクリックすると、詳細内容が確認できます。
 

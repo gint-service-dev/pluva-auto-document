@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -7,13 +23,17 @@ metaLinks:
 
 # 経路の取り込み
 
-### 経路の取り込み
-
 保存した経路を取り込んだり、お気に入りや名前の修正、削除などの管理ができます。
 
 ***
 
 #### 経路の取り込み
+
+{% hint style="info" %}
+経路の取り込み機能は、自動経路およびメモリー走行モードでのみ利用可能です。これらのモードでない場合は機能をご利用できません。
+
+<img src="../../.gitbook/assets/calling-path-mode.png" alt="" data-size="original">
+{% endhint %}
 
 {% stepper %}
 {% step %}

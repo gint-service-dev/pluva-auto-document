@@ -1,89 +1,139 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/network-settings
 ---
 
-# ネットワーク設定&#x20;
+# ネットワーク設定
 
-### ネットワーク設定
+簡単セットアップの開始には、ネットワーク設定が必要です。
 
-簡単セットアップが開始できるよう現在ネットワークを設定します。
-
-ネットワーク接続状態のみ簡単セットアップができるため、必ず設定して下さい。
+ネットワークに接続されていない場合、簡単セットアップを開始できませんので、必ず設定してください。
 
 ***
 
 #### ネットワーク設定項目
 
-1. セルラー(LTE)
+1. セルラー（モバイルデータ通信）
 2. Wi-Fi
 
 {% hint style="info" %}
-タブレットの [ネットワーク設定](../../usage/network-settings/)から、現在の接続状態の確認および設定の変更が可能です。
+簡単セットアップ完了後も、タブレットの[ネットワーク設定](../../usage/network-settings/)よりネットワーク環境を確認及び設定変更できます。
 {% endhint %}
-
-
-
-**\[次のステップへ]**&#x3092;押すとネットワーク設定にアクセスされます。
-
-<figure><img src="../../.gitbook/assets/tablet 3 - Network Settings (2).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ***
 
-#### セルラー(LTE) 接続
+#### セルラー接続
 
-タブレットに挿入されたSimカードからモバイルネットワークを通してインターネットに接続する方法です。
+セルラーは、タブレットに挿入されたSimカードを介してモバイルネットワークに接続する方法です。
+
+{% hint style="info" %}
+セルラーは接続が安定しているため、リアルタイム補正信号が必要な精密作業には、セルラーの使用を推奨します。
+{% endhint %}
+
+{% hint style="info" %}
+料金プランやデータ使用量に応じて費用が発生する場合があります。作業前に、Simカードの開通状態、データ残量、有効期限を必ずご確認ください。
+{% endhint %}
 
 {% stepper %}
 {% step %}
-セルラーのトグルをオンにします。
+セルラートグルをオンにします。
 
-<figure><img src="../../.gitbook/assets/tablet 4 - Network Settings _ LET (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-cellular-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-接続が完了します。**\[次のステップへ]**&#x3092;選択しログインページにアクセスします。
+APNが自動的に接続されます。
 
-<figure><img src="../../.gitbook/assets/tablet 5 - Network Settings _ LET (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-cellular-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+セルラー設定は、タブレットにSIｍカードが装着されている場合にのみ設定可能です。
+{% endhint %}
+{% endstep %}
+
+{% step %}
+\[次のステップへ]をタップするとネットワーク設定が完了します。
+
+<figure><img src="../../.gitbook/assets/quick-setup-cellular-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
+
+
+#### セルラーが自動接続されない場合
+
+{% hint style="info" %}
+自動接続されない、または長時間接続が完了しない場合は、\[APN手動接続]を行ってください。
+{% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
+
+1. APN名の入力
+
+* 「ppsim.jp）を入力します。
+
+2. 名前、パスワードなどの任意項目を入力してから\[確認]をタップすると、手動接続できます。
+
+
+
 ***
 
-#### Wi-Fi 接続
+#### Wi-Fi接続
 
-周辺の無線ルーター、またはスマートフォンのテザリングから接続し、インターネットを使用する方法です。
+Wi-Fiは、周辺の無線ルーターやスマートフォンのテザリングに接続して、インターネットを利用する方式です。
+
+{% hint style="info" %}
+通信環境によって信号が不安定、または範囲外になると接続が切れるおそれがあるため、限られた作業範囲内での使用を推奨します。
+{% endhint %}
+
+{% hint style="info" %}
+テザリング使用時には、スマートフォンのバッテリー消耗やデータ使用量が増える場合があります。作業前にバッテリー残量や省電力設定をご確認ください。
+{% endhint %}
 
 {% stepper %}
 {% step %}
-**\[Wi-Fi]**&#x30BF;ブを押して下さい。
+\[Wi-Fi]タブをタップします。
 
-<figure><img src="../../.gitbook/assets/tablet 6 - Network Settings _ WIFI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Wi-Fiトグルをオンにします。
+Wi-Fiのトグルをオンにします。
 
-<figure><img src="../../.gitbook/assets/tablet 7 - Network Settings _ WIFI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-接続したいWi-Fiを選んでください。
+接続するWi-Fiネットワークを選択します。
 
-<figure><img src="../../.gitbook/assets/tablet 8 - Network Settings _ WIFI.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Wi-Fi接続が完了します。**\[次のステップへ]**&#x3092;選択し、ログインページにアクセスします。
+\[次のステップへ]をタップすると、ネットワーク設定が完了します。
 
-<figure><img src="../../.gitbook/assets/tablet 9 - Network Settings _ WIFI.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Wi-Fiの範囲外になると、接続が切断される場合があります。
+Wi-Fiの通信範囲から離れると、接続が切断されるおそれがありますのでご注意ください。
 {% endhint %}
 {% endstep %}
 {% endstepper %}

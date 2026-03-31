@@ -1,12 +1,26 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/customer-guidance/ota
 ---
 
 # ソフトウェアアップデート（OTA）
-
-### ソフトウェアアップデート（OTA）
 
 アップデートの有無は自動で確認され、更新が必要な際にお知らせします。
 

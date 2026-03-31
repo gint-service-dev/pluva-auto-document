@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # ネットワーク設定
-
-### ネットワーク設定
 
 タブレットのネットワークをWi-Fiまたはセルラー通信に接続します。ネットワークが不安定になると位置補正信号の受信が途切れる恐れがありますので、作業前に接続状態を先に確認してください。接続が不安定な場合は、APN設定を確認するか、別のネットワークに切り替えて接続してください。
 

@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # My車両へのアクセスおよび画面のご案内
-
-### My車両へのアクセスおよび画面のご案内
 
 作業に使用する車両を追加、または補正できる管理機能です。\
 現在タブレットが取り付けられている車両の情報が表示されます。\
@@ -50,14 +64,18 @@ My車両へのアクセスが完了します。
 
 * 車両に取り付けられたGNSS受信機の位置を入力し、位置精度を最適化できます。（または位置精度を高められます。）
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **車両の情報**
+&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **車両情報**
 
-* 自動操舵キットが取り付けられた車両のタイプ、別名、メーカー、モデルを表示します。
+* 取り付けられている車両のタイプ、別名、メーカー、機種を表示します。
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **車両寸法**
+&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **倍速ターン ON/OFF**
 
-* 車両の寸法入力が完了したかどうかを表示します。
+* 倍速ターン付きの車両の場合、車両の倍速ターンのON/OFF状態を表示します。倍速ターン付きの車両でない場合には表示されません。
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **車両補正の有無**
+&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **車両寸法**
 
-* 車両の補正作業が完了したかどうかを表示します。
+* 車両の寸法を入力し終わったかどうかが表示されます。タップすると車両の寸法を変更できます。
+
+&#x20;![](../../.gitbook/assets/icon-square-7.svg) **車両補正の有無**
+
+* 車両の補正が終わったかどうかが表示されます。タップすると車両の補正画面にアクセスされます。

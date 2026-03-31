@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -7,148 +23,120 @@ metaLinks:
 
 # 車両の追加
 
-### 車両の追加
-
-作業に使う車両を追加します。
+作業に使用する車両を追加します。
 
 {% hint style="info" %}
-設定した車両の寸法値は、タブレットの [車両](../../usage/vehicle-settings/entering-my-vehicle.md)から確認および変更が可能です。
+設定された車両の寸法は、タブレットの[車両管理](../../usage/vehicle-settings/)メニューから確認及び変更が可能です。
 {% endhint %}
-
-
 
 ***
 
-#### 車両の追加方法&#x20;
+#### 車両の追加方法
 
 {% stepper %}
 {% step %}
-登録したい車両タイプを選択してか&#x3089;**\[選択完了]**&#x3092;押します。
+登録する車両タイプを選択し、\[選択完了]をタップします。
 
-<figure><img src="../../.gitbook/assets/tablet 19 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-別名、メーカー、モデル、年式、車両の寸法を入力&#x3057;**\[車両の追加完了]**&#x3092;押して下さい。
+別名、メーカー、型番、年式、車両寸法を入力し、\[車両の追加完了]をタップします。
 
-<figure><img src="../../.gitbook/assets/tablet 20 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-倍速ターン車両は、その特性に合わせた補正値が必要なため、**［倍速ターン車両］**&#x306E;トグルを必ずONにして進めてください。
+倍速ターン機能付き車両は、その特性に合わせた補正値が必要なため、必ず\[倍速ターン車両]のトグルをオンにした状態で進めてください。
 
-<img src="../../.gitbook/assets/tablet 21 - Add a vehicle (1).png" alt="" data-size="original">
-
-
+<img src="../../.gitbook/assets/add-vehicle-speedturn.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-倍速ターンはトラクターのみに適用されるオプションです。田植機には倍速ターンオプションはありません。
+倍速ターンは、トラクター専用のオプションです。田植え機に倍速ターンオプションはありません。
 {% endhint %}
 {% endstep %}
 
 {% step %}
-車両が追加されました。**\[次のステップへ]**&#x3092;押し、作業機の追加にアクセスしてください。
+\[次のステップへ]をタップすると、車両登録及びGNSS受信機の連動が完了します。
 
-<figure><img src="../../.gitbook/assets/tablet 22 - Add a vehicle.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### 車両寸法の詳細項目
+#### 車両寸法の設定項目
 
 {% hint style="info" %}
 車両寸法の測定は、必ず平らな場所で行ってください。
 
-傾斜地や未舗装の土の上で測定すると、正確な値が得られない場合があります。
+傾斜地や土の上で測定すると、正確な数値が得られない場合があります。
 {% endhint %}
 
 #### トラクター
 
-<figure><img src="../../.gitbook/assets/tablet 23 - Add a vehicle_tractor.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/add-tractor-dimensions.png" alt="" width="284"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) 全幅
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) ホイールベース
 
-* 車両後輪のサイドウォールから反対側の後輪のサイドウォールまでの距離を測定します。
-* ![](../../.gitbook/assets/add-tractor-dimensions-1.png)
-
-
-
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) 前方-前輪軸
-
-* 車両のボンネットから前輪軸までの距離を測定します。
-* ![](../../.gitbook/assets/add-tractor-dimensions-2.png)
-
-
-
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) ホイールベース
-
-* 前輪軸から後輪軸までの距離を測定します。
+* トラクターの前輪軸から後輪軸までの距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-3.png)
 
+&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) 後輪軸 - ヒッチ
 
-
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 後輪軸-ヒッチ
-
-* 後輪軸から下部のヒッチまでの距離を測定します。
+* トラクターの後輪軸からヒッチまでの水平距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-4.png)
 
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 地面 - トップリンク
 
-
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) 地面-後輪軸
-
-* 地面から後輪軸までの距離を測定します。
-* ![](../../.gitbook/assets/add-tractor-dimensions-5.png)
-
-
-
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) 地面-トップリンク
-
-* 地面からトップリンクまでの距離を測定します。
+* 地面からトラクターのトップリンクまでの垂直距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-6.png)
 
 
 
-#### 田植機
+#### 田植え機
 
-<figure><img src="../../.gitbook/assets/tablet 23 - Add a vehicle_rice transplanter (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions (1).png" alt="" width="278"><figcaption></figcaption></figure></div>
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) ホイールベース
 
-* 前輪軸から後輪軸までの距離を測定します。
+* 田植え機の前輪軸から後輪軸までの距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-1.png)
 
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) 後輪軸 - 車両の端
 
-
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) 前方-前輪軸
-
-* 車両のボンネットから前輪軸までの距離を測定します。
-* ![](../../.gitbook/assets/add-leeangi-dimensions-2.png)
-
-
-
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 後輪軸-車両の端
-
-* 後輪軸から移植部の端までの距離を測定します。
+* 田植え機の後輪軸から車両の端までの水平距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 田植え機の幅
 
-
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 全幅
-
-* 後輪のラグから反対側のラグまでの距離を測定します。
+* 田植え機の幅を表し、タイヤの幅も含みます。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
 
+&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 間隔偏差
 
+* 往復作業時に走行間隔が一定でない場合、その誤差を補正するための設定値です。（走行間隔の誤差の絶対値を4で割った値を入力してください。）
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) 地面-後輪軸
+#### 管理機
 
-* 地面から後輪軸までの距離を測定します。
-* ![](../../.gitbook/assets/add-leeangi-dimensions-5.png)
+<div align="left"><figure><img src="../../.gitbook/assets/add-manager-dimensions.png" alt="" width="278"><figcaption></figcaption></figure></div>
 
+&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) ホイールベース
 
+* 管理機の前輪軸から後輪軸までの距離です。
+* ![](../../.gitbook/assets/add-manager-dimensions-1.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) 間隔偏差
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) 後輪軸 - 車両の端
 
-* 移植作業部の偏差発生時に入力する数値です。
+* 管理機の後輪軸から車両の端までの水平距離です。
+* ![](../../.gitbook/assets/add-manager-dimensions-2.png)
+
+&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 管理機の幅
+
+* 管理機の幅を表し、タイヤの幅も含みます。
+* ![](../../.gitbook/assets/add-manager-dimensions-3.png)
+
+&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) 間隔偏差
+
+* 往復作業時に走行間隔が一定でない場合、その誤差を補正するための設定値です。（走行間隔の誤差の絶対値を4で割った値を入力してください。）
 

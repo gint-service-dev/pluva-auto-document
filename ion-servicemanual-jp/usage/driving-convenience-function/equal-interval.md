@@ -1,4 +1,20 @@
 ---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -6,8 +22,6 @@ metaLinks:
 ---
 
 # 等間隔に関する便利な機能
-
-### 等間隔に関する便利な機能
 
 等間隔ラインの移動、ラインを引っ張ってくる、90度回転などの関連機能を自由に利用できます。 この機能は、AB経路を生成してから利用できます。
 
