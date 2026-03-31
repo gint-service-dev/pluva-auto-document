@@ -1,11 +1,11 @@
 # Table of contents
 
 * [KUBODA PLUVA iON Service Manual](README.md)
-* [서비스 메뉴얼 정보](user-manual-info.md)
+* [取扱説明書の情報](user-manual-info.md)
 
 ## 개통/설치 <a href="#order-installation" id="order-installation"></a>
 
-* [개통/설치 단계 설명](order-installation/order-installation-steps.md)
-* [제품 개통](order-installation/product-registration.md)
-* [퀵셋업 설명 및 준비](order-installation/preparing-quick-setup.md)
-* [설치 완료 확인](order-installation/installation-completed.md)
+* [開通および取り付けのご案内](order-installation/order-installation-steps.md)
+* [製品の開通](order-installation/product-registration.md)
+* [簡単セットアップのご案内及び準備](order-installation/preparing-quick-setup.md)
+* [取り付け完了確認](order-installation/installation-completed.md)

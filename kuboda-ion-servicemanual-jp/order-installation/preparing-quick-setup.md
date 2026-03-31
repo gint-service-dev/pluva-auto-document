@@ -5,46 +5,46 @@ metaLinks:
       https://app.gitbook.com/s/fIil1QjLd6DqdBnn2Ex9/order-installation/preparing-quick-setup
 ---
 
-# 퀵셋업 설명 및 준비
+# 簡単セットアップのご案内及び準備
 
-#### **퀵셋업은 무엇인가요?**
+#### 簡単セットアップとは？
 
-퀵셋업은 고객이 제품을 바로 사용할 수 있도록 기본 설정을 진행하는 작업입니다.
-
-***
-
-#### 퀵셋업 단계
-
-퀵셋업은 총 10단계로 이루어져 있습니다.
-
-
-
-1. [언어 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
-2. [네트워크 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
-3. [소프트웨어 업데이트(OTA)](/broken/pages/03SXam5bJolrpGjRuSax)
-4. [로그인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
-5. [GNSS수신기 연결 확인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
-6. [위치보정 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)
-7. [차량 추가](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-vehicle)
-8. [차량 보정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/vehicle-calibration)
-9. [작업기 추가 (선택)](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-worker)
-10. [작업지 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/farm-setting)
-
-
+納品後、お客様が製品をすぐに運用できるようにするための初期セットアップ工程です。
 
 ***
 
-#### 퀵셋업 준비사항
+#### 簡単セットアップの構成
 
-**고객 계정 준비**
-
-* 플루바 아이온 제품에 사용할 고객 계정이 필요합니다.
-* 제품 등록 전 [회원가입 사이트](https://gint.pluva.kr/)에서 가입을 진행해 주세요.
-* 계정이 없으면 제품과 고객 계정을 연결할 수 없으며, 서비스 이용이 불가합니다.
+簡単セットアップは、10ステップで構成されています。
 
 
 
-**네트워크 환경을 확인하세요.**
+1. [言語設定](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
+2. [ネットワーク設定](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
+3. [ソフトウェアアップデート（OTA）](/broken/pages/03SXam5bJolrpGjRuSax)
+4. [ログイン](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
+5. [GNSS受信機の接続確認](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
+6. [位置補正の設定](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)
+7. [車両の追加](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-vehicle)
+8. [車両の補正](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/vehicle-calibration)
+9. [作業機の追加（任意）](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-worker)
+10. [圃場の設定](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/farm-setting)
 
-* 원활한 네트워크 환경에서만 퀵셋업 작업이 가능합니다.
-* 네트워크 환경은 태블릿 상단 네트워크 아이콘 표시를 확인하세요.
+
+
+***
+
+#### 簡単セットアップの準備事項
+
+**お客様のアカウントの用意**
+
+* PLUVA iONの使用には、お客様専用のアカウントが必要です。
+* 製品登録の前に、[会員登録のサイト](https://gint.pluva.kr/)にてアカウントを作成してください。
+* アカウントがない場合、製品とお客様アカウントの紐づけができず、サービスをご利用いただけません。
+
+
+
+**ネットワーク環境を確認してください。**
+
+* 円滑なネットワーク環境でのみ、簡単セットアップ作業が可能です。
+* ネットワークの状態は、タブレット上部のネットワークアイコンにてご確認ください。
