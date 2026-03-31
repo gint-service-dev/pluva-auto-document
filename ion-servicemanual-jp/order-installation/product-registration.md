@@ -218,6 +218,6 @@ metaLinks:
 {% step %}
 製品の開通が完了します。
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-8.png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt="" width="270"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
