@@ -3,7 +3,7 @@
 * [KUBODA PLUVA iON Service Manual](README.md)
 * [取扱説明書の情報](user-manual-info.md)
 
-## 개통/설치 <a href="#order-installation" id="order-installation"></a>
+## 開通および取り付け <a href="#order-installation" id="order-installation"></a>
 
 * [開通および取り付けのご案内](order-installation/order-installation-steps.md)
 * [製品の開通](order-installation/product-registration.md)
