@@ -33,10 +33,6 @@ layout:
 [a-plus-straight.md](a-plus-straight.md)
 {% endcontent-ref %}
 
-{% content-ref url="square-drive.md" %}
-[square-drive.md](square-drive.md)
-{% endcontent-ref %}
-
 {% content-ref url="auto-route-generation.md" %}
 [auto-route-generation.md](auto-route-generation.md)
 {% endcontent-ref %}

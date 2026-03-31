@@ -52,7 +52,7 @@
   * [ネットワーク設定](ion/network-settings/network-setting.md)
 * [カスタマーサポート](ion/consumer-info/README.md)
   * [トラブルシューティング](ion/consumer-info/problem-solving.md)
-  * [リモートサポート](ion/consumer-info/rimtosapto.md)
+  * [リモートサポート](ion/consumer-info/remote-support.md)
   * [整備](ion/consumer-info/maintenance.md)
   * [個人情報処理方針](ion/consumer-info/privacy-policy.md)
   * [仕様情報](ion/consumer-info/specification-information.md)
