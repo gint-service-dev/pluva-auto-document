@@ -150,7 +150,7 @@ layout:
 ![](../../.gitbook/assets/icon-circle-11.svg) **等間隔に関する便利機能**
 
 * 等間隔の移動、引っ張ってくる、90度回転など、等間隔に関する機能を確認し使用できます。\
-  詳細は[等間隔に関する便利機能](../driving-convenience/equal-interval.md)をご参照ください。
+  詳細は[等間隔に関する便利機能](../driving-convenience-function/equal-interval.md)をご参照ください。
 
 ![](../../.gitbook/assets/icon-circle-12.svg) **作業オプション**
 

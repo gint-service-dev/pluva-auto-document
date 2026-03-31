@@ -21,8 +21,8 @@ layout:
 
 等間隔ラインを引っ張ってくる、作業幅の設定、走行画面の比率調整など、利便性を向上するための様々な機能を必要に応じてご利用できます。
 
-{% content-ref url="no.md" %}
-[no.md](no.md)
+{% content-ref url="save-path.md" %}
+[save-path.md](save-path.md)
 {% endcontent-ref %}
 
 {% content-ref url="bringing-up-path.md" %}
