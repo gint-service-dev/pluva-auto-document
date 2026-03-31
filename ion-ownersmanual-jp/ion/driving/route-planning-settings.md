@@ -35,13 +35,7 @@ A+直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-四角形走行
-
-* A-Bラインを基準に90度直角方向の自動操舵経路を生成し、四角形パターンで走行します。
-
-<div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-自動経路（pluva AI）
+自動経路（Pluva AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
@@ -73,4 +67,27 @@ A+直進
 現在選択されている走行モードは、画面左上の走行情報エリアから確認できます。
 
 <img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+倍速ターンの設定状況は、左画面の右上の走行情報からご確認できます。倍速ターンのオン・オフ状況をご確認ください。
+
+
+
+<img src="/broken/files/Dbh5ctihbCKFQHmbyiwG" alt="" data-size="original">
+
+
+
+走行モードにアクセスすると、倍速ターンの設定に関する案内が表示されます。 \
+案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。
+
+
+
+<img src="/broken/files/hlBMisCap43NJbbLEZu3" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。&#x20;
+
+<img src="/broken/files/ljAmKxNEbV02meUah5iS" alt="" data-size="original">
 {% endhint %}
