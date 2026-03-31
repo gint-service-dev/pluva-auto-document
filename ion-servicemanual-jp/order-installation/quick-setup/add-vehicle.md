@@ -96,7 +96,7 @@ metaLinks:
 
 #### 田植え機
 
-<div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions (1).png" alt="" width="278"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) ホイールベース
 

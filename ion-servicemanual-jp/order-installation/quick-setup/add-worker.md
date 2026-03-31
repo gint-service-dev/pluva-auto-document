@@ -33,7 +33,7 @@ metaLinks:
 {% step %}
 \[追加する]をタップします。
 
-<figure><img src="../../.gitbook/assets/add-worker-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -45,7 +45,7 @@ metaLinks:
 {% step %}
 \[次のステップへ]をタップすると、作業機の登録が完了します。
 
-<figure><img src="../../.gitbook/assets/add-worker-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -83,5 +83,4 @@ metaLinks:
 
     * S1：1本目と2本目のライン間の距離 
     * S2：2本目と3本目のライン間の距離
-    * 画面上部のトグルスイッチで、走行方向を選択できます。\
-      ![](../../.gitbook/assets/toggle-on-off.png)
+    * 画面上部のトグルスイッチで、走行方向を選択できます。<br>
