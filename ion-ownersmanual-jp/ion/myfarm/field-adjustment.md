@@ -10,31 +10,31 @@
 {% step %}
 ![](../../.gitbook/assets/ic_menu.svg) メニュー一覧アイコンをタップします。
 
-<figure><img src="/broken/files/umZ25dEr7BZqeN0m0i8b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 My Farmの農場管理の\[圃場]タブにアクセスできます。
 
-<figure><img src="/broken/files/7XxJXyZYfe1D4GrAi97h" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 調整したい圃場の![](../../.gitbook/assets/ic_more.svg)アイコンをタップします。
 
-<figure><img src="/broken/files/jZI8xXPXXeY84upIp7am" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[圃場の調整]を選択します。
 
-<figure><img src="/broken/files/8aYgp9cIElaJzA8U3ttB" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 圃場の調整画面にアクセスされます。
 
-<figure><img src="/broken/files/B3DPaASYSgG3BVokTJUz" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 圃場登録の初期設定&#x306F;**\[地図から選択]**&#x306B;なっています。境界を直接作成するに&#x306F;**\[直接画く]**&#x3092;選択してください。
@@ -44,7 +44,7 @@ My Farmの農場管理の\[圃場]タブにアクセスできます。
 {% step %}
 調整したい位置に車両を移動させ、**\[ポイント調整]**&#x3092;タップします。
 
-<figure><img src="/broken/files/aMV4t8IqlgpNk7kOB4Rj" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 車両の現在地から最も近いポイントが調整されます。
@@ -54,7 +54,7 @@ My Farmの農場管理の\[圃場]タブにアクセスできます。
 {% step %}
 圃場の調整後に&#x306F;**\[境界の調整完了]**&#x3092;タップし、圃場の調整を終了します。
 
-<figure><img src="/broken/files/pCI07z4hWq77bX4Kzg23" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -62,7 +62,7 @@ My Farmの農場管理の\[圃場]タブにアクセスできます。
 
 #### 圃場の調整画面のご案内
 
-<figure><img src="/broken/files/aLoonFhXZFqsuLepK0my" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-adjustment-screen.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1.svg) **最も近いポイント**
 
