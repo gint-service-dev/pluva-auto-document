@@ -45,7 +45,7 @@ metaLinks:
 {% step %}
 \[取り付け完了確認]をタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-2 (1).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-2.png" alt="" width="216"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
