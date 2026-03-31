@@ -25,8 +25,6 @@ layout:
 
 <div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
-
-
 {% stepper %}
 {% step %}
 「自動経路おすすめ」を選択します。
@@ -57,4 +55,4 @@ PLUVA AIが経路を生成します。
 \[経路の修正]を選択し、おすすめ経路を修正できます。
 {% endhint %}
 
-<figure><img src="/broken/files/3AapElKq4uf394kliqJO" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/driving-mode-modify.png" alt=""><figcaption></figcaption></figure>

@@ -25,6 +25,10 @@ layout:
 [problem-solving.md](problem-solving.md)
 {% endcontent-ref %}
 
+{% content-ref url="remote-support.md" %}
+[remote-support.md](remote-support.md)
+{% endcontent-ref %}
+
 {% content-ref url="maintenance.md" %}
 [maintenance.md](maintenance.md)
 {% endcontent-ref %}

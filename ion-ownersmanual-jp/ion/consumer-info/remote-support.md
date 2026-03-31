@@ -35,13 +35,13 @@
 {% step %}
 ![](../../.gitbook/assets/ic_menu.svg) メニュー一覧アイコンをタップします。
 
-<figure><img src="/broken/files/KQW93ktxljfVtAqEP2I3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitorning-enter-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 カスタマーサポート&#x306E;**\[リモートサポート]**&#x30BF;ブを選択すると、リモートサポート画面にアクセスできます。
 
-<figure><img src="/broken/files/lsFdNNFqkaFW8r71BiAA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitorning-enter-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -61,18 +61,18 @@
 {% step %}
 タブレット上でリモートサポートのコードを発行してください。
 
-<figure><img src="/broken/files/04FgqTMejgV3MYUap1mT" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitorning-progress-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 コードは発行から24時間有効です。24時間を経過すると自動的に無効になります。
 
-<img src="/broken/files/GbfTGGpsHsJtepaZcbyQ" alt="" data-size="original">
+<img src="../../.gitbook/assets/monitoring-24hour.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="warning" %}
 コードが発行できなかった場合は、**\[再発行]**&#x3092;タップし再度発行してください。
 
-<img src="/broken/files/QlIx0qjC30GkimEwKRoy" alt="" data-size="original">
+<img src="../../.gitbook/assets/monitoring-failed.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="warning" %}
@@ -83,13 +83,13 @@
 {% step %}
 担当エンジニアがお客様とともにリモートサポートを進めてまいります。
 
-<figure><img src="/broken/files/k3SwVjNthP8q2152eF77" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitorning-progress-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 対応が完了した&#x3089;**\[リモートサポートを終了する]**&#x3092;タップし、サポートを終了します。
 
-<figure><img src="/broken/files/EB5wlGaMUaMz29qao1j5" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/monitorning-progress-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 リモートサポートを一時中断する場合は、**\[中断]**&#x3092;タップしてください。
@@ -97,7 +97,7 @@
 中断後、コード発行から24時間以内であればいつでも再接続が可能です。\
 サポートを完全に終了したい場合は、**\[リモートサポートを終了する]**&#x3092;タップしてください。
 
-<img src="/broken/files/GSIhKjqqF5LfmZnCSde2" alt="" data-size="original">
+<img src="../../.gitbook/assets/monitoring-stop.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 {% endstepper %}

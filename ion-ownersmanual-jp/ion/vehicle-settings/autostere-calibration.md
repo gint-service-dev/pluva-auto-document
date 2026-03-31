@@ -100,8 +100,6 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-
-
 2. **直進ステアリング補正**
 
 {% stepper %}
@@ -194,8 +192,6 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-
-
 2. 直進ステアリング補正
 
 {% stepper %}
@@ -246,8 +242,6 @@ layout:
 <figure><img src="../../.gitbook/assets/tractor-straight-steering-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 3. ステアリング角度補正
 
@@ -315,66 +309,64 @@ layout:
 * **ステップ（倍速ターンONの状態）**
   * 直進ステアリング補正
 
-
-
 {% stepper %}
 {% step %}
 \[全ての補正を進める]をタップします。
 
-<figure><img src="/broken/files/T4BloYInEmT1oiD2Ailp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 倍速ターンを**OFF**に切り替えてか&#x3089;**\[確認]**&#x3092;タップします。
 
-<figure><img src="/broken/files/m7ebIbO4GgXk3OJeVicl" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ハンドル範囲補正を行います。
 
-<figure><img src="/broken/files/kPnPgwH6FIAcWkbUZVFX" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従って**ハンドル範囲補正**を完了させます。次に、**\[1回目の直進ステアリング補正の開始]**&#x3092;タップします。
 
-<figure><img src="/broken/files/pSV6QPU0MN2vmPETLTC0" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 直進ステアリング補正の画面の案内を確認します。
 
-<figure><img src="/broken/files/xL5ezZC41j5LPAzLCoJa" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ![](../../.gitbook/assets/drive-button.svg)を押し、1回目の直進ステアリング補正を開始します。
 
-<figure><img src="/broken/files/i852pu1e72YqGxS6aUUI" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 1回目の直進ステアリング補正の完了後、\[2回目の直進ステアリング補正の開始]をタップします。
 
-<figure><img src="/broken/files/tkuOB0n0AeJEFvpDmSkp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **倍速ターンの設定確認**に関するポップアップが表示されます。倍速ターンを**ON**に切り替えてから\[確認]をタップします。
 
-<figure><img src="/broken/files/HuwuAxWFvZTdxQWtER2K" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-8.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ![](../../.gitbook/assets/drive-button.svg)をタップし、2回目の直進ステアリング補正を開始します。
 
-<figure><img src="/broken/files/3WHqYXsf9jgsxhA4mOEg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 2回目の直進ステアリング補正が終わると、倍速ターン車両のオートステア補正が完了となります。**\[確認]**&#x3092;タップするとMy車両画面へアクセスします。
 
-<figure><img src="/broken/files/D3rnWsqYMgGjpG3KdERu" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
