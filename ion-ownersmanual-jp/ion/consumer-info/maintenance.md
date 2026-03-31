@@ -49,7 +49,7 @@ layout:
 
 <品目別保証期間の表>
 
-<table><thead><tr><th width="114.72943115234375">区分</th><th width="244.27130126953125">品目</th><th width="94.05108642578125">保証期間</th><th width="118.1917724609375">교환, 수리 후 보증기간</th><th>備考</th></tr></thead><tbody><tr><td>製品構成品</td><td>GNSS受信機</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>タブレット</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>電動ステアリングホイール</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>カメラ</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品(オプション）</td><td>ワンタッチスイッチ</td><td>２年</td><td>１年</td><td></td></tr><tr><td>消耗品</td><td>ハーネス</td><td>１年</td><td>0.5年</td><td></td></tr><tr><td>消耗品</td><td>構造物 (ブラケット、Uマウント、スプライン）</td><td>１年</td><td>0.5年</td><td>ハーネス以外の全部品</td></tr></tbody></table>
+<table><thead><tr><th width="114.72943115234375">区分</th><th width="244.27130126953125">品目</th><th width="94.05108642578125">保証期間</th><th width="118.1917724609375">交換、修理後の保証期間</th><th>備考</th></tr></thead><tbody><tr><td>製品構成品</td><td>GNSS受信機</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>タブレット</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>電動ステアリングホイール</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品</td><td>カメラ</td><td>２年</td><td>１年</td><td></td></tr><tr><td>製品構成品(オプション）</td><td>ワンタッチスイッチ</td><td>２年</td><td>１年</td><td></td></tr><tr><td>消耗品</td><td>ハーネス</td><td>１年</td><td>0.5年</td><td></td></tr><tr><td>消耗品</td><td>構造物 (ブラケット、Uマウント、スプライン）</td><td>１年</td><td>0.5年</td><td>ハーネス以外の全部品</td></tr></tbody></table>
 
 {% hint style="warning" %}
 製品の構成品が販売中止になった場合は、最新の互換性があるモデルで代替する場合があります。
