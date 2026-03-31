@@ -33,6 +33,7 @@
   * [農場管理](ion/myfarm/farm-management.md)
   * [農場主の管理](ion/myfarm/farm-owner-management.md)
   * [圃場の登録](ion/myfarm/field-add.md)
+  * [圃場の調整](ion/myfarm/field-adjustment.md)
   * [圃場情報の修正/削除](ion/myfarm/managing-field-information.md)
   * [枕地の登録](ion/myfarm/headland-add.md)
   * [枕地情報の修正/削除](ion/myfarm/managing-headland-information.md)
