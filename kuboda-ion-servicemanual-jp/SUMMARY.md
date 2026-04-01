@@ -7,6 +7,5 @@
 
 * [開通および取り付けのご案内](order-installation/order-installation-steps.md)
 * [製品の開通](order-installation/product-registration.md)
-* [簡単セットアップ](order-installation/settoappu.md)
 * [簡単セットアップのご案内及び準備](order-installation/preparing-quick-setup.md)
 * [取り付け完了確認](order-installation/installation-completed.md)

@@ -191,8 +191,6 @@ QRスキャンできない場合は、\[社員番号の直接入力]をタップ
 {% hint style="info" %}
 梱包番号（シリアル番号）が無効な場合、QRコードのスキャン画面に戻ります。
 
-詳細は [お客様のお困りごとへの対応 → 6) QRコードがスキャンできない](/broken/pages/NzifUvx5zIDCh6FtuDrB#qr-not-scanned)をご参照ください。
-
 <img src="../.gitbook/assets/product-opening-invaild.png" alt="" data-size="original">
 {% endhint %}
 
