@@ -26,7 +26,7 @@ metaLinks:
 タブレットとGNSS受信機の接続状態を確認するステップです。
 
 {% hint style="info" %}
-設定値は、タブレットの[GNSS受信機の設定](../../usage/vehicle-settings/gnss-receiver-setting.md)メニューから確認および変更ができます。
+設定値は、タブレットのGNSS受信機の設定メニューから確認および変更ができます。
 {% endhint %}
 
 ***
