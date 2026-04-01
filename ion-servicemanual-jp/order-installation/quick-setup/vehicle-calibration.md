@@ -34,7 +34,7 @@ metaLinks:
 それぞれの補正項目を**1回ずつ**進めます。
 
 1. [GNSS受信機の位置設定](vehicle-calibration.md#gnss)
-2. [オートステア補正](https://app.gitbook.com/o/qCjx7YRpvDahoGijeERY/s/YgZGmmCCfllSmVLHO3Uz/~/edit/~/changes/16/order-installation/quick-setup/vehicle-calibration#auto)
+2. [オートステア補正](vehicle-calibration.md#auto)
 
 
 
@@ -49,7 +49,7 @@ metaLinks:
 {% endhint %}
 
 1. [GNSS受信機の位置設定](vehicle-calibration.md#gnss)
-2. [オートステア補正](https://app.gitbook.com/o/qCjx7YRpvDahoGijeERY/s/YgZGmmCCfllSmVLHO3Uz/~/edit/~/changes/16/order-installation/quick-setup/vehicle-calibration#auto)
+2. [オートステア補正](vehicle-calibration.md#auto)
    * 1回目：倍速ターン**OFF**の状態で補正が進められる。
    * 2回目：倍速ターン**ON**の状態で補正が進められる。
 
