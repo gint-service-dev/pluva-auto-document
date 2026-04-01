@@ -22,7 +22,7 @@ layout:
 작업에 사용할 차량을 추가합니다.
 
 {% hint style="info" %}
-설정된 차량 수치 값은 태블릿의 [내 차량](/broken/pages/fGVifYcsPhKi7NL4xOBx)에서 확인하고 변경할 수 있습니다.
+설정된 차량 수치 값은 태블릿의 내 차량에서 확인하고 변경할 수 있습니다.
 {% endhint %}
 
 ***
