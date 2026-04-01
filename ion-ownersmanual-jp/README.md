@@ -38,7 +38,7 @@ layout:
 {% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ21A3gjvc_jYkS6jjd_cba8&si=YHqsuPgg3SQ20XKZ" %}
 
 {% hint style="info" %}
-他の案内動画を確認する
+[他の案内動画を確認する](https://youtube.com/playlist?list=PLH3vv0_FUaJ21A3gjvc_jYkS6jjd_cba8\&si=YHqsuPgg3SQ20XKZ)
 {% endhint %}
 
 ### 概要
