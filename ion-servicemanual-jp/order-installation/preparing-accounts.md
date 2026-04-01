@@ -27,14 +27,14 @@ metaLinks:
 お客様がアカウントをお持ちか確認し、まだお持ちでない場合は、下記の内容を参考にし、お客様にご案内してください。
 
 {% hint style="info" %}
-[PLUVA iON公式サイトへ](https://gint.pluva.kr/)
+[PLUVA iON公式サイトへ](https://gint.pluva.jp/)
 {% endhint %}
 
 
 
 {% stepper %}
 {% step %}
-[PLUVA iONの会員登録サイト](https://gint.pluva.kr/)にアクセスし、\[会員登録]を選択します。
+[PLUVA iONの会員登録サイト](https://gint.pluva.jp/)にアクセスし、\[会員登録]を選択します。
 
 <figure><img src="../.gitbook/assets/preparing-accounts-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

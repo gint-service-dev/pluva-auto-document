@@ -136,7 +136,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-[アドミンページ](../others/initial-setup.md#qr-not-scanned)にログインします。
+[アドミンページ](https://gint-admin.pluva.jp/auth/operators/login)にログインします。
 
 <figure><img src="../.gitbook/assets/enter-ticket-1.png" alt="" width="348"><figcaption></figcaption></figure>
 {% endstep %}
