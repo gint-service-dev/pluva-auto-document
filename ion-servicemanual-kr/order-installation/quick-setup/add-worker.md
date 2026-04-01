@@ -78,5 +78,4 @@ layout:
     <figure><img src="../../.gitbook/assets/add-worker-dimensions-4.png" alt=""><figcaption></figcaption></figure>
 
     * S1: 첫 번째 라인과 두 번째 사이의 거리 
-    * S2: 두 번째 라인과 세 번째 사이의 거리
-    * 화면 상단의 토글을 통해 주행 방향을 선택할 수 있습니다.<br>
+    * S2: 두 번째 라인과 세 번째 사이의 거리<br>
