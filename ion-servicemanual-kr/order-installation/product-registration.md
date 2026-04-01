@@ -132,7 +132,7 @@ layout:
 
 {% stepper %}
 {% step %}
-[어드민 페이지](../others/initial-setup.md#qr-not-scanned)에 로그인합니다.
+[어드민 페이지](https://gint-admin.pluva.kr/auth/operators/login)에 로그인합니다.
 
 <figure><img src="../.gitbook/assets/enter-ticket-1.png" alt="" width="348"><figcaption></figcaption></figure>
 {% endstep %}
