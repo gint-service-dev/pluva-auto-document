@@ -76,6 +76,10 @@ layout:
 APN을 자동으로 설정해 연결합니다.
 
 <figure><img src="../../.gitbook/assets/cellular-connection-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습니다. 접속이 확인될 때까지 전원을 끄지 말고 기다려 주십시오.
+{% endhint %}
 {% endstep %}
 
 {% step %}
