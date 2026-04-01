@@ -80,6 +80,10 @@ metaLinks:
 APNが自動で設定および接続されます。
 
 <figure><img src="../../.gitbook/assets/cellular-connection-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+USIMカード挿入後、通信開始まで数分かかる場合があります。接続が確認できるまで電源を切らずにお待ちください。
+{% endhint %}
 {% endstep %}
 
 {% step %}
