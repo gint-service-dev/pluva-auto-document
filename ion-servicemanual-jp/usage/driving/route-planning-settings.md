@@ -80,7 +80,7 @@ A+直進
 
 
 
-<img src="../../.gitbook/assets/speed turn-on.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
 
 
 
@@ -88,8 +88,6 @@ A+直進
 案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。
 
 
-
-<img src="../../.gitbook/assets/speed turn-alert.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}

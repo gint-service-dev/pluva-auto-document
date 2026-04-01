@@ -80,9 +80,9 @@ metaLinks:
 &#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **位置補正**
 
 * RTKの手動接続/RTKのBluetoothなど、補正方法や接続方法を設定します。\
-  詳細については、[位置補正の設定](/broken/pages/xZ233BnOydt1v7jmcC3y)をご参照ください。
+  詳細については、[位置補正の設定](../../order-installation/quick-setup/rtk-setting.md)をご参照ください。
 
 &#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **ネットワーク**
 
 * タブレットのセルラー（LTE）およびWi-Fi接続の状態を設定します。\
-  詳細については、[ネットワーク設定](/broken/pages/7YZg3kpS1XNuwxdRKjM1)をご参照ください。
+  詳細については、[ネットワーク設定](../../order-installation/quick-setup/network-settings.md)をご参照ください。
