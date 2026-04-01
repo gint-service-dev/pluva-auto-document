@@ -82,5 +82,4 @@ metaLinks:
     <figure><img src="../../.gitbook/assets/add-worker-dimensions-4.png" alt=""><figcaption></figcaption></figure>
 
     * S1：1本目と2本目のライン間の距離 
-    * S2：2本目と3本目のライン間の距離
-    * 画面上部のトグルスイッチで、走行方向を選択できます。<br>
+    * S2：2本目と3本目のライン間の距離<br>
