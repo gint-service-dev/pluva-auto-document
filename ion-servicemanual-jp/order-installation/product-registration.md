@@ -39,7 +39,7 @@ metaLinks:
 
 
 
-1. **PLUVA iON**
+1. **pluva ion**
 
 * 全ての主な構成品を登録します。
   * タブレット
@@ -48,7 +48,7 @@ metaLinks:
 
 
 
-2. **エクスパンションキット（拡張キット）**
+2. **pluva ion エクスパンションキット（拡張キット）**
 
 * タブレット以外の構成品を登録します。
   * GNSS受信機
@@ -136,7 +136,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-[アドミンページ](https://gint-admin.pluva.jp/auth/operators/login)にログインします。
+[アドミンページ](https://gint-admin.pluva.jp/)にログインします。
 
 <figure><img src="../.gitbook/assets/enter-ticket-1.png" alt="" width="348"><figcaption></figcaption></figure>
 {% endstep %}

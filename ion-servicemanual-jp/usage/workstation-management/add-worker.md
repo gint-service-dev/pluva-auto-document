@@ -93,9 +93,7 @@ metaLinks:
 * 画像で示された方向に沿って3本のラインを走行し、走行ライン間の距離を測定して入力してください。<br>
 *
 
-    <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/worker-deviation-calculation (1).png" alt=""><figcaption></figcaption></figure>
 
     * S1：一本目と二本目の間の距離
-    * S2：二本目と三本目の間の距離
-    * 画面上部のトグルから、左方向または右方向を選択できます。\
-      ![](../../.gitbook/assets/toggle-on-off.png)
+    * S2：二本目と三本目の間の距離<br>
