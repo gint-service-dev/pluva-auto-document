@@ -91,6 +91,4 @@ layout:
     <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
 
     * S1: 첫 번째 라인과 두 번째 사이의 거리 
-    * S2: 두 번째 라인과 세 번째 사이의 거리
-    * 화면 상단의 토글을 통해 좌측 방향/우측 방향을 선택할 수 있습니다.\
-      ![](../../.gitbook/assets/toggle-on-off.png)
+    * S2: 두 번째 라인과 세 번째 사이의 거리<br>
