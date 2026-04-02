@@ -67,7 +67,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。**開通
 #### **お客様への操作説明**
 
 * 製品の取り付けが完了されたら、安全な運用をサポートするための初期レクチャーを実施します。**主な機能や使用方法についてご案内**します。
-* 詳細は、[<mark style="color:$primary;">使い方</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/jp/usage/customer-guidance)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">使い方</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/jp/customer-guidance)をご参照ください。
 {% endstep %}
 
 {% step %}
