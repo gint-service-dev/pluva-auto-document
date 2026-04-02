@@ -66,7 +66,7 @@
   * [オートステア補正](usage/vehicle-settings/autostere-calibration.md)
   * [ロール／ピッチ／ヨー補正](usage/vehicle-settings/imu-calibration.md)
   * [관성센서 보정](usage/vehicle-settings/inertial-sensor-calibration.md)
-  * [차량 제어 설정](usage/vehicle-settings/vehicle-control-settings.md)
+  * [車両の制御設定](usage/vehicle-settings/vehicle-control-settings.md)
   * [GNSS受信機の設定](usage/vehicle-settings/gnss-receiver-setting.md)
 * [作業機の管理](usage/workstation-management/README.md)
   * [作業機リストへのアクセス及び画面のご案内](usage/workstation-management/worker-entry.md)
