@@ -1,6 +1,6 @@
 # Table of contents
 
-* [KUBODA PLUVA iON Service Manual](README.md)
+* [kubota pluva ion Service Manual](README.md)
 * [取扱説明書の情報](user-manual-info.md)
 
 ## 開通および取り付け <a href="#order-installation" id="order-installation"></a>
