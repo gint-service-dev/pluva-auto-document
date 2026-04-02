@@ -1,0 +1,42 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/language-settings
+---
+
+# 언어 설정
+
+퀵셋업을 시작할 수 있도록 현재 사용 언어를 설정하는 단계입니다.
+
+
+
+{% stepper %}
+{% step %}
+태블릿 전원을 킵니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-language-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+사용 언어를 선택합니다. \[다음 단계로] 버튼을 누르면 언어 설정이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-language-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
