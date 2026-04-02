@@ -20,9 +20,33 @@ metaLinks:
     - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/
 ---
 
-# KUBODA PLUVA iON Service Manual
+# kubota pluva ion Service Manual
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>메뉴얼 활용 방법</summary>
+
+* 이 매뉴얼의 각 절차는 완료에 필요한 모든 단계를 포함하고 있습니다.
+* 일부 단계에서 다른 절차를 참조하는 경우, 해당 절차로 이동하여 진행합니다.
+* 이미 완료한 단계는 건너뛰고 다음 단계로 진행하면 됩니다.
+
+</details>
+
+
+
+### 영상 가이드 <a href="#guide" id="guide"></a>
+
+메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
+
+{% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw&si=XKvvquRvSZQHj89V" %}
+
+{% hint style="info" %}
+[다른 영상 가이드도 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
+{% endhint %}
+
+
 
 ### 목차
 
