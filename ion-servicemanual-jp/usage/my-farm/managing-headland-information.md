@@ -27,27 +27,27 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
+![](<../../.gitbook/assets/ic_menu (1).svg>) \[メニュー一覧のアイコン]をクリックします。
 
-<figure><img src="../../.gitbook/assets/headland-information-management-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/headland-information-management-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 My Farmの枕地項目をクリックします。
 
-<figure><img src="../../.gitbook/assets/headland-information-management-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/headland-information-management-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ご希望の枕地項目の ![](../../.gitbook/assets/ic_more.svg) アイコンを押します。
+ご希望の枕地項目の ![](<../../.gitbook/assets/ic_more (1).svg>) アイコンを押します。
 
-<figure><img src="../../.gitbook/assets/headland-information-management-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/headland-information-management-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ポップアップからご希望の管理機能を選択します。
 
-<figure><img src="../../.gitbook/assets/headland-information-management-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/headland-information-management-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -59,18 +59,18 @@ My Farmの枕地項目をクリックします。
 {% step %}
 \[削除]オプションをクリックします。
 
-<figure><img src="../../.gitbook/assets/delete-headland-information-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-headland-information-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[削除]ボタンを押します。
 
-<figure><img src="../../.gitbook/assets/delete-headland-information-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-headland-information-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 削除が完了します。
 
-<figure><img src="../../.gitbook/assets/delete-headland-information-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/delete-headland-information-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

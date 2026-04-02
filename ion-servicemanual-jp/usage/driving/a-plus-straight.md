@@ -29,30 +29,30 @@ A+直進
 
 * A点を基準に設定した角度の直線経路を生成して走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">を押してA地点を生成します。
+<img src="../../.gitbook/assets/a-button (1).svg" alt="" data-size="original">を押してA地点を生成します。
 
-<figure><img src="../../.gitbook/assets/a+-straight-explanation-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a+-straight-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/a+-button.svg" alt="" data-size="original">を押します。
+<img src="../../.gitbook/assets/a+-button (1).svg" alt="" data-size="original">を押します。
 
-<figure><img src="../../.gitbook/assets/a+-straight-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a+-straight-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 経路の方向、角度、長さを設定し\[確認]をタップします。
 
-<figure><img src="../../.gitbook/assets/a+-straight-explanation-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a+-straight-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[自動操舵の開始]ボタンを押して走行を始めます。
+<img src="../../.gitbook/assets/drive-button (1).svg" alt="" data-size="original">\[自動操舵の開始]ボタンを押して走行を始めます。
 
-<figure><img src="../../.gitbook/assets/a+-straight-explanation-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a+-straight-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

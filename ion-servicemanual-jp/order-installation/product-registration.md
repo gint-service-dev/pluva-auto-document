@@ -37,8 +37,6 @@ metaLinks:
 
 注文いただいた製品ごとに、下記の構成品を予めご用意ください。
 
-
-
 1. **pluva ion**
 
 * 全ての主な構成品を登録します。
@@ -46,21 +44,15 @@ metaLinks:
   * GNSS受信機
   * 電動ステアリングホイール
 
-
-
 2. **pluva ion エクスパンションキット（拡張キット）**
 
 * タブレット以外の構成品を登録します。
   * GNSS受信機
   * 電動ステアリングホイール
 
-
-
 3. 追加オプション
 
 * ワンタッチスイッチ
-
-
 
 ***
 
@@ -70,8 +62,6 @@ metaLinks:
 
 * 梱包番号（外箱のQRコード）を登録すると、構成品を**一括登録**できます。
 
-
-
 #### QRコードの位置
 
 #### 梱包箱のシリアル番号
@@ -80,7 +70,7 @@ metaLinks:
 {% column width="58.333333333333336%" %}
 外箱側面のQRコードを確認して下さい。
 
-<figure><img src="../.gitbook/assets/serial-number-package.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/serial-number-package (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -88,13 +78,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 #### 各構成品のシアリアル番号
 
 {% columns %}
 {% column %}
-#### タブレット
+**タブレット**
 
 裏面のQRコードを確認してください。
 
@@ -102,7 +90,7 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### GNSS受信機
+**GNSS受信機**
 
 右側面、または底面のQRコードを確認してください。
 
@@ -112,7 +100,7 @@ metaLinks:
 
 {% columns %}
 {% column %}
-#### 電動ステアリングホイール
+**電動ステアリングホイール**
 
 モーター側面のQRコードを確認してください。
 
@@ -120,15 +108,13 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### ワンタッチスイッチ
+**ワンタッチスイッチ**
 
 裏面のQRコードを確認してください。
 
 <figure><img src="../.gitbook/assets/serial-number-switch.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 ***
 
@@ -203,7 +189,7 @@ metaLinks:
 {% hint style="info" %}
 無効な梱包番号（シリアル番号）の場合、QRスキャン画面に戻ります。
 
-詳細は、[お客様のお困りごとへの対応策 → 6) QRコードがスキャンできない](../others/initial-setup.md#qr-not-scanned)をご参照ください。&#x20;
+詳細は、[お客様のお困りごとへの対応策 → 6) QRコードがスキャンできない](../others/initial-setup.md#qr-not-scanned)をご参照ください。
 
 <img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
 {% endhint %}

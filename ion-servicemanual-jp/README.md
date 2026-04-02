@@ -15,16 +15,12 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/
+metaLinks: {}
 ---
 
 # pluva ion Service Manual
 
-<figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/service-main-image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 映像ガイド <a href="#guide" id="guide"></a>
 
@@ -70,7 +66,4 @@ metaLinks:
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>お客様のお困りごとへの対応策</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>アドミンへのログイン</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>リモートサポート</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
-
-
 </details>
-

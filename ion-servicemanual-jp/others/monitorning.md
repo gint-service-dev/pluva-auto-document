@@ -40,7 +40,7 @@ metaLinks:
 {% hint style="warning" %}
 **ネットワークのご確認**
 
-* 画面のフリーズや通信エラーを防ぐため、**お客様のネットワーク状態をご確認**ください。&#x20;
+* 画面のフリーズや通信エラーを防ぐため、**お客様のネットワーク状態をご確認**ください。
 * **セルラー（モバイル通信）や通信信号が安定した状態で実施することを推奨**します。
 {% endhint %}
 
@@ -49,8 +49,6 @@ metaLinks:
 
 * 安全確保のため、リモートサポートは**必ずお客様が車両に乗車した状態**で行ってください。
 {% endhint %}
-
-
 
 ***
 
@@ -166,7 +164,7 @@ metaLinks:
 <img src="../.gitbook/assets/monitoring-stop-madal.png" alt="" data-size="original">
 {% endhint %}
 
-3. **接続不可**&#x20;
+3. **接続不可**
 
 * リモートサポートコードが発行されていない、もしくは期限切れの状態です。
 * この場合、**\[リモート接続]**&#x30DC;タンは無効になります。
@@ -183,47 +181,44 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/monitorning-description-pc.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../.gitbook/assets/icon-square-1-1.svg) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
+![](<../.gitbook/assets/icon-square-1-1 (2).svg>) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
+![](../.gitbook/assets/icon-square-2.svg) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **接続時間**：リモートサポート画面に接続した時間が表示されます。
+![](<../.gitbook/assets/icon-square-3-3 (2).svg>) **接続時間**：リモートサポート画面に接続した時間が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
+![](<../.gitbook/assets/icon-square-4-4 (2).svg>) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
 
 *
 
-    <figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
+```
 
-&#x20;![](../.gitbook/assets/icon-square-5-5.svg) 「**リモートサポートを終了する」ボタン**：現在、接続中のリモートサポート画面を終了します。
+![](<../.gitbook/assets/icon-square-5-5 (2).svg>) 「**リモートサポートを終了する」ボタン**：現在、接続中のリモートサポート画面を終了します。
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **経過時間**：リモートサポート開始からの経過時間が表示されます。
+![](<../.gitbook/assets/icon-square-6-6 (2).svg>) **経過時間**：リモートサポート開始からの経過時間が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-7.svg) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
-
-
+![](<../.gitbook/assets/icon-square-7 (1).svg>) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
 
 #### アプリ版
 
 <div align="left"><figure><img src="../.gitbook/assets/monitorning-description-mo.png" alt="" width="293"><figcaption></figcaption></figure></div>
 
-&#x20;![](../.gitbook/assets/icon-square-1-1.svg) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
+![](<../.gitbook/assets/icon-square-1-1 (2).svg>) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **「拡大する」ボタン**：リモートサポート画面を横に切り替え、拡大できます。
-
-
+![](../.gitbook/assets/icon-square-2.svg) **「拡大する」ボタン**：リモートサポート画面を横に切り替え、拡大できます。
 
 <figure><img src="../.gitbook/assets/monitorning-biggermode.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
+![](<../.gitbook/assets/icon-square-3-3 (2).svg>) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
 
-&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **経過時間**：リモートサポート開始からの経過時間が表示されます。
+![](<../.gitbook/assets/icon-square-4-4 (2).svg>) **経過時間**：リモートサポート開始からの経過時間が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-5-5.svg) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
+![](<../.gitbook/assets/icon-square-5-5 (2).svg>) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
+![](<../.gitbook/assets/icon-square-6-6 (2).svg>) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-7.svg) **接続時間**：リモートサポート画面に接続した時間が表示されます。
+![](<../.gitbook/assets/icon-square-7 (1).svg>) **接続時間**：リモートサポート画面に接続した時間が表示されます。
 
-&#x20;![](../.gitbook/assets/icon-square-8.svg) 「**リモートサポートを終了する」ボタン**：現在、接続中のリモートサポート画面を終了します。
-
+![](<../.gitbook/assets/icon-square-8 (1).svg>) 「**リモートサポートを終了する」ボタン**：現在、接続中のリモートサポート画面を終了します。

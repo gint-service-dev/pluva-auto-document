@@ -29,13 +29,13 @@ metaLinks:
 
 * ハンドル範囲の補正 - 直進ステアリング補正
 
-<figure><img src="../../.gitbook/assets/autostere-calibration-tractor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autostere-calibration-tractor (1).png" alt=""><figcaption></figcaption></figure>
 
 **田植え機（3段階）**
 
 * ハンドル範囲の補正 - 直進ステアリング補正 - ステアリング角度補正
 
-<figure><img src="../../.gitbook/assets/autostere-calibration-leeangi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autostere-calibration-leeangi (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,21 +43,21 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
+![](<../../.gitbook/assets/ic_vehicle (1).svg>) \[車両]をタップします。
 
-<figure><img src="../../.gitbook/assets/autostere-calibration-information-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autostere-calibration-information-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 車両補正をタップしてください。
 
-<figure><img src="../../.gitbook/assets/autostere-calibration-information-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autostere-calibration-information-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 オートステア補正をタップすると、アクセスが完了します。
 
-<figure><img src="../../.gitbook/assets/autostere-calibration-information-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autostere-calibration-information-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -71,7 +71,7 @@ metaLinks:
 {% step %}
 「全ての補正を進める」をタップするとオートステア補正が開始されます。
 
-<figure><img src="../../.gitbook/assets/tractor-handle-range-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 各段階の開始ボタンをタップすると、その段階の補正のみを進めることができます。
@@ -81,30 +81,28 @@ metaLinks:
 {% step %}
 案内に従ってハンドルを左いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-2 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを右いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-3 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを回し、車輪を中央に位置させます。\
 その後車両を停止し、\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-4 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ハンドル範囲の補正が完了します。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 2. **直進ステアリング補正**
 
@@ -112,17 +110,17 @@ metaLinks:
 {% step %}
 直進ステアリング補正に必要なご案内をお読みになった後、\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従って\[時速2km]で走行しながら、\[自動補正の開始]を押してください。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 トラクターの制限速度である2km/hを超過すると、ボタンは有効になりません。
@@ -140,7 +138,7 @@ metaLinks:
 {% step %}
 引き続き2km/h以下で走行してください。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 補正に必要な面積が確保できない場合や、走行不可の場合は緊急停止を押してください。
@@ -150,7 +148,7 @@ metaLinks:
 {% step %}
 補正が完了すると\[確認]ボタンが有効になります。ボタンを押して補正を完了してください。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -164,7 +162,7 @@ metaLinks:
 {% step %}
 「全ての補正を進める」をタップするとオートステア補正が開始されます。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 各段階の開始ボタンをタップすると、その段階の補正のみを進めることができます。
@@ -174,31 +172,29 @@ metaLinks:
 {% step %}
 案内に従ってハンドルを左いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-2 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを右いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-3 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを回し、車輪を中央に位置させます。\
 その後車両を停止し、\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-4 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ハンドル範囲の補正が完了します。 \[直進ステアリング補正]をタップし、\
 次の補正を開始してください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 2. 直進ステアリング補正
 
@@ -206,19 +202,19 @@ metaLinks:
 {% step %}
 直進ステアリング補正に必要なご案内をお読みになった後、\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-3 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-1-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従って\[時速1km]で走行しながら、\[自動補正の開始]を押してください。
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 田植え機の制限速度である1km/hを超過すると、ボタンは有効になりません。
@@ -237,7 +233,7 @@ metaLinks:
 {% step %}
 引き続き時速1km以下で走行します。
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 補正に必要な面積が確保できない場合や、走行不可の場合は緊急停止を押してください。
@@ -247,11 +243,9 @@ metaLinks:
 {% step %}
 補正が完了すると、\[ステアリング角度補正の開始]ボタンが有効になります。ボタンを押して次の補正を進めてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-straight-steering-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 3. ステアリング角度補正
 
@@ -259,7 +253,7 @@ metaLinks:
 {% step %}
 案内に従って\[時速1km]で走行し、\[自動補正の開始]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-steering-angle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-steering-angle-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 田植機の制限速度である1km/hを超過すると、ボタンは有効になりません。
@@ -278,7 +272,7 @@ metaLinks:
 {% step %}
 引き続き1km/h未満で走行してください。
 
-<figure><img src="../../.gitbook/assets/leeangi-steering-angle-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-steering-angle-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 補正に必要な面積が確保できない場合や、走行不可の場合は、緊急停止を押してください。
@@ -288,7 +282,7 @@ metaLinks:
 {% step %}
 補正が完了すると\[確認]ボタンが有効になります。 ボタンを押して補正を完了してください。
 
-<figure><img src="../../.gitbook/assets/leeangi-steering-angle-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-steering-angle-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -319,43 +313,41 @@ metaLinks:
 * **ステップ（倍速ターンONの状態）**
   * 直進ステアリング補正
 
-
-
 {% stepper %}
 {% step %}
 \[全ての補正を進める]をタップします。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 倍速ターンを**OFF**に切り替えてか&#x3089;**\[確認]**&#x3092;タップします。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ハンドル範囲補正を行います。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従って**ハンドル範囲補正**を完了させます。次に、**\[1回目の直進ステアリング補正の開始]**&#x3092;タップします。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 直進ステアリング補正の画面の案内を確認します。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-5 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/drive-button.svg)を押し、1回目の直進ステアリング補正を開始します。
+![](<../../.gitbook/assets/drive-button (1).svg>)を押し、1回目の直進ステアリング補正を開始します。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-6 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -367,11 +359,11 @@ metaLinks:
 {% step %}
 **倍速ターンの設定確認**に関するポップアップが表示されます。倍速ターンを**ON**に切り替えたうえで\[確認]をタップします。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-8 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-![](../../.gitbook/assets/drive-button.svg)をタップし2回目の直進ステアリング補正を開始します。
+![](<../../.gitbook/assets/drive-button (1).svg>)をタップし2回目の直進ステアリング補正を開始します。
 
 <figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -379,6 +371,6 @@ metaLinks:
 {% step %}
 2回目の直進ステアリング補正の完了後、倍速ターン車両のオートステア補正が完了となります。**\[確認]**&#x3092;タップするとMy車両画面へアクセスします。
 
-<figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calibration-speed-10 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
