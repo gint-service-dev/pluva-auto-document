@@ -174,27 +174,27 @@ metaLinks:
 {% step %}
 案内に従ってハンドルを左いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを右いっぱいに切った後、車両を止めて\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 案内に従ってハンドルを回し、車輪を中央に位置させます。\
 その後車両を停止し、\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ハンドル範囲の補正が完了します。 \[直進ステアリング補正]をタップし、\
 次の補正を開始してください。
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
