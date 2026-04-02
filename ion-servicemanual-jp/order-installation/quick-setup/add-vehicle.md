@@ -106,7 +106,7 @@ metaLinks:
 &#x20;![](../../.gitbook/assets/icon-square-2.svg) 後輪軸 - 車両の端
 
 * 田植え機の後輪軸から車両の端までの水平距離です。
-* ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
+* ![](../../.gitbook/assets/add-leeangi-dimensions-2.png)
 
 &#x20;![](../../.gitbook/assets/icon-square-3-3.svg) 田植え機の幅
 
