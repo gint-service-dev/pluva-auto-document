@@ -20,7 +20,7 @@ metaLinks:
     - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/
 ---
 
-# PLUVA iON Service Manual
+# pluva ion Service Manual
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ metaLinks:
 
 <summary><a href="others/initial-setup.md">기타</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
 
 
