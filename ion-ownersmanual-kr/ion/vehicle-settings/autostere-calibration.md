@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/vehicle-settings/autostere-calibration
 ---
 
 # 오토스티어 보정

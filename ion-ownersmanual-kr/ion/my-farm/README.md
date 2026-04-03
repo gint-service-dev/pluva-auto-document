@@ -15,9 +15,12 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/my-farm
 ---
 
-# 내 농장 관리 (MY Farm)
+# 내 농장 관리
 
 
 

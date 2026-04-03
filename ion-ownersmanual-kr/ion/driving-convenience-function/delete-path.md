@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving-convenience-function/delete-path
 ---
 
 # 경로 리셋/삭제

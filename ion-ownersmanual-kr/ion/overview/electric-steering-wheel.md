@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/electric-steering-wheel
 ---
 
 # 전동 스티어링 휠

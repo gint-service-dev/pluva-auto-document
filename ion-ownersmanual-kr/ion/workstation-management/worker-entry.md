@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/workstation-management/worker-entry
 ---
 
 # 작업기 목록 진입 및 화면 설명

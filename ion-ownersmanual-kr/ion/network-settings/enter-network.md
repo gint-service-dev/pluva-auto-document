@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/network-settings/enter-network
 ---
 
 # 네트워크 설정 진입 및 화면 설명

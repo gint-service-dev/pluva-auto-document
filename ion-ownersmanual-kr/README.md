@@ -15,19 +15,22 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/
 ---
 
-# PLUVA iON Owner's Manual
+# pluva ion Owner's Manual
 
 <figure><img src=".gitbook/assets/Ion-package-image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**참고**\
+**참고** \
 자율주행 키트 모델에 따라 제공되는 제품 매뉴얼의 종류 및 내용은 일부 다를 수 있습니다. 제품 매뉴얼의 내용 중 일부 장치 및 소프트웨어는 제조사 정책에 따라 변경될 수 있으며 버전이 다를 수 있습니다.
 {% endhint %}
 
 {% hint style="danger" %}
-**주의**\
+**주의** \
 사용 전 반드시 이 제품 메뉴얼을 읽고 자율주행 키트를 안전하고 올바르게 사용하세요.
 {% endhint %}
 
