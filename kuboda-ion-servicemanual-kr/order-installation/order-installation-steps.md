@@ -34,14 +34,14 @@ metaLinks:
 #### 제품 개통
 
 * 설치할 구성품을 선택하고 시리얼 번호를 등록하여 개통을 진행합니다.
-* 자세한 내용은 [<mark style="color:$primary;">제품개통</mark>](product-registration.md)을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">제품개통</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-registration)을 참고하세요.
 {% endstep %}
 
 {% step %}
 #### **설치**
 
 * 차량에 제품를 설치합니다. 기존 핸들을 자율주행용 핸들로 교체하고, 각종 센서 및 장치를 연결하는 작업을 포함합니다.
-* 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation)를 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -54,7 +54,7 @@ metaLinks:
 {% endhint %}
 
 * 네트워크/차량 정보 등 시스템 작동에 필요한 **초기 설정을 완료**합니다. 설정이 완료되면 제품이 활성화되어 사용 가능한 상태가 됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup)을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup)을 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -67,7 +67,7 @@ metaLinks:
 #### **고객 교육**
 
 * 제품 설치가 완료된 후, 고객이 제품을 안전하게 사용할 수 있도록 **주요 기능과 사용 방법을 안내**합니다.
-* 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/initial-setup)을 참고하세요.
+* 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/kr/initial-setup)을 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -77,3 +77,4 @@ metaLinks:
 * 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](installation-completed.md) 을 참고하세요.
 {% endstep %}
 {% endstepper %}
+

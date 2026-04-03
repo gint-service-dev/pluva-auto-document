@@ -130,7 +130,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-제품 개통 페이지에 접속하여 \[QR코드로 사번 입력] 버튼을 누릅니다.
+[제품 개통 페이지](https://fkk-install.pluva.jp/install)에 접속하여 \[QR코드로 사번 입력] 버튼을 누릅니다.
 
 <figure><img src="../.gitbook/assets/product-opening-1.png" alt="" width="338"><figcaption></figcaption></figure>
 {% endstep %}
