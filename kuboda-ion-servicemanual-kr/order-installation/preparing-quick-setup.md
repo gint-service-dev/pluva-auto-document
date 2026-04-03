@@ -14,7 +14,7 @@
 
 1. [언어 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
 2. [네트워크 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
-3. [소프트웨어 업데이트(OTA)](/broken/pages/03SXam5bJolrpGjRuSax)
+3. [소프트웨어 업데이트(OTA)](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup)
 4. [로그인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
 5. [GNSS수신기 연결 확인](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
 6. [위치보정 설정](https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)

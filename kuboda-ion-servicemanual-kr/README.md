@@ -52,14 +52,6 @@ metaLinks:
 
 <details>
 
-<summary>서비스 메뉴얼 정보</summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>서비스 메뉴얼 기본 정보</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
 <summary>개통/설치</summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>개통/설치 단계 설명</td><td><a href="order-installation/order-installation-steps.md">order-installation-steps.md</a></td></tr><tr><td>제품 개통</td><td><a href="order-installation/product-registration.md">product-registration.md</a></td></tr><tr><td>제품 설치</td><td><a href="https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation">https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation</a></td></tr><tr><td>퀵셋업</td><td><a href="https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup">https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup</a></td></tr><tr><td>설치 완료 확인</td><td><a href="https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/installation-completed">https://kuboda-pluva-servicemanual.pluva.io/ion/kr/order-installation/installation-completed</a></td></tr></tbody></table>
