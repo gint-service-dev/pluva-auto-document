@@ -1,12 +1,12 @@
 # Table of contents
 
-* [PLUVA iON Owner's Manual](README.md)
+* [pluva ion Owner's Manual](README.md)
 
 ## pluva ion 取扱説明書 <a href="#ion" id="ion"></a>
 
 * [取扱説明書の情報](ion/user-manual-info.md)
 * [概要](ion/overview/README.md)
-  * [PLUVA iONのご紹介](ion/overview/pluva-ion-introduction.md)
+  * [pluva ionのご紹介](ion/overview/pluva-ion-introduction.md)
   * [電動ステアリングホイール](ion/overview/electric-steering-wheel.md)
   * [GNSS受信機](ion/overview/gnss-receiver.md)
   * [タブレット](ion/overview/tablet.md)
@@ -19,7 +19,7 @@
   * [AB直進](ion/driving/ab-straight.md)
   * [A+直進](ion/driving/a-plus-straight.md)
   * [四角形走行](ion/driving/square-drive.md)
-  * [自動経路（PLUVA AI）](ion/driving/auto-route-generation.md)
+  * [自動経路（Pluva AI）](ion/driving/auto-route-generation.md)
 * [ターンモード](ion/uturn-mode/README.md)
   * [ターンの設定方法](ion/uturn-mode/uturn-mode-setting.md)
 * [走行の利便性を向上するための機能](ion/driving-convenience-function/README.md)
@@ -29,7 +29,7 @@
   * [経路のリセット及び削除](ion/driving-convenience-function/delete-path.md)
   * [等間隔に関する便利な機能](ion/driving-convenience-function/equal-interval.md)
   * [走行画面の調整](ion/driving-convenience-function/adjusting-driving-screen.md)
-* [My農場管理（MY Farm）](ion/my-farm/README.md)
+* [My農場管理](ion/my-farm/README.md)
   * [農場管理](ion/my-farm/farm-management.md)
   * [農場主の管理](ion/my-farm/farm-owner-management.md)
   * [圃場の登録](ion/my-farm/field-add.md)
