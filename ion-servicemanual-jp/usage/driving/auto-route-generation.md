@@ -21,9 +21,9 @@ metaLinks:
       https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/auto-route-generation
 ---
 
-# 自動経路（PLUVA AI）
+# 自動経路（Pluva AI）
 
-自動経路（PLUVA AI）
+自動経路（Pluva AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
@@ -37,7 +37,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-PLUVA AIが経路を生成します。
+Pluva AIが経路を生成します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

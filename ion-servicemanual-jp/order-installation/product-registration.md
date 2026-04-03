@@ -189,8 +189,6 @@ metaLinks:
 {% hint style="info" %}
 無効な梱包番号（シリアル番号）の場合、QRスキャン画面に戻ります。
 
-詳細は、[お客様のお困りごとへの対応策 → 6) QRコードがスキャンできない](../others/initial-setup.md#qr-not-scanned)をご参照ください。
-
 <img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
 {% endhint %}
 

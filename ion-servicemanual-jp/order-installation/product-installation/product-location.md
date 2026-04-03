@@ -37,7 +37,7 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-\[エクスパンションキット（拡張キット）]\
+**\[エクスパンションキット（拡張キット）]** \
 タブレットを除いた、経済的な拡張型パッケージです。\
 GNSS受信機、電動ステアリングホイール、カメラが含まれます。注文前にPLUVA iONのタブレットを保有していることをご確認ください。
 {% endhint %}

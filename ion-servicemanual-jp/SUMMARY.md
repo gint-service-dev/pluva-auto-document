@@ -1,7 +1,6 @@
 # Table of contents
 
 * [pluva ion Service Manual](README.md)
-* [取扱説明書の情報](user-manual-info.md)
 
 ## 注文/取付 <a href="#order-installation" id="order-installation"></a>
 
@@ -42,7 +41,7 @@
   * [AB直進](usage/driving/ab-straight.md)
   * [A+直進](usage/driving/a-plus-straight.md)
   * [사각주행](usage/driving/square-drive.md)
-  * [自動経路（PLUVA AI）](usage/driving/auto-route-generation.md)
+  * [自動経路（Pluva AI）](usage/driving/auto-route-generation.md)
 * [ターンモード](usage/uturn-mode/README.md)
   * [ターンの設定方法](usage/uturn-mode/uturn-mode-setting.md)
 * [走行の利便性を向上するための機能](usage/driving-convenience-function/README.md)
@@ -52,7 +51,7 @@
   * [経路のリセット及び削除](usage/driving-convenience-function/delete-path.md)
   * [等間隔に関する便利な機能](usage/driving-convenience-function/equal-interval.md)
   * [走行画面の調整](usage/driving-convenience-function/adjusting-driving-screen.md)
-* [My農場管理（MY Farm）](usage/my-farm/README.md)
+* [My農場管理](usage/my-farm/README.md)
   * [農場管理](usage/my-farm/farm-management.md)
   * [農場主の管理](usage/my-farm/farm-owner-management.md)
   * [圃場の登録](usage/my-farm/field-add.md)

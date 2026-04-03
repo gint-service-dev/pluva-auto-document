@@ -23,7 +23,7 @@ metaLinks:
 
 # GNSS受信機
 
-PLUVA iONの自動操舵に必要なGNSS受信機を取り付けます。
+pluva ionの自動操舵に必要なGNSS受信機を取り付けます。
 
 ***
 

@@ -22,6 +22,18 @@ metaLinks: {}
 
 <figure><img src=".gitbook/assets/service-main-image (1).png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>マニュアルの使い方</summary>
+
+* 本マニュアルの各手順には、完了に必要なすべてのステップが含まれています。
+* 一部の手順で他の手順を参照する場合は、該当する手順に移動して作業を進めてください。
+* 既に完了した手順はスキップし、次の手順へ進んでください。
+
+</details>
+
+
+
 ### 映像ガイド <a href="#guide" id="guide"></a>
 
 マニュアルの内容を簡潔にまとめた動画ガイドをご用意しました。以下の動画から内容を素早くご確認いただけます。
@@ -34,13 +46,15 @@ metaLinks: {}
 [他の案内動画を確認する](https://youtube.com/playlist?list=PLH3vv0_FUaJ21A3gjvc_jYkS6jjd_cba8\&si=YHqsuPgg3SQ20XKZ)
 {% endhint %}
 
+
+
 ### 目次
 
 <details>
 
-<summary><a href="user-manual-info.md">取扱説明書の情報</a></summary>
+<summary><a href="/broken/pages/QEmFOn3TNLTXwqvm4mwU">取扱説明書の情報</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>サービスマニュアル情報</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>サービスマニュアル情報</td><td><a href="/broken/pages/QEmFOn3TNLTXwqvm4mwU">Broken link</a></td></tr></tbody></table>
 
 </details>
 
