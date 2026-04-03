@@ -24,6 +24,16 @@ metaLinks:
 
 <figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
+<details>
+
+<summary>메뉴얼 활용 방법</summary>
+
+* 이 매뉴얼의 각 절차는 완료에 필요한 모든 단계를 포함하고 있습니다.
+* 일부 단계에서 다른 절차를 참조하는 경우, 해당 절차로 이동하여 진행합니다.
+* 이미 완료한 단계는 건너뛰고 다음 단계로 진행하면 됩니다.
+
+</details>
+
 
 
 ### 영상 가이드 <a href="#guide" id="guide"></a>
@@ -38,13 +48,15 @@ metaLinks:
 [다른 영상 가이드도 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
 {% endhint %}
 
+
+
 ### 목차
 
 <details>
 
-<summary><a href="user-manual-info.md">서비스 메뉴얼 정보</a></summary>
+<summary><a href="/broken/pages/bGBUJA5L4X4C4rqR2w9p">서비스 메뉴얼 정보</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>서비스 메뉴얼 기본 정보</td><td><a href="user-manual-info.md">user-manual-info.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>서비스 메뉴얼 기본 정보</td><td><a href="/broken/pages/bGBUJA5L4X4C4rqR2w9p">Broken link</a></td></tr></tbody></table>
 
 </details>
 

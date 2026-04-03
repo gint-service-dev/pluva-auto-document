@@ -44,7 +44,7 @@ layout:
 
 
 
-2. **Expansion Kit (확장키트)**
+2. **플루바 아이온 Expansion Kit (확장키트)**
 
 * 태블릿을 제외한 구성품들을 등록합니다.
   * GNSS 수신기

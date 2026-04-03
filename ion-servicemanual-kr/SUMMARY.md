@@ -1,7 +1,6 @@
 # Table of contents
 
 * [pluva ion Service Manual](README.md)
-* [서비스 메뉴얼 정보](user-manual-info.md)
 
 ## 주문/설치 <a href="#order-installation" id="order-installation"></a>
 
@@ -37,12 +36,12 @@
 
 * [초기 설정법](usage/customer-guidance/README.md)
   * [소프트웨어 업데이트(OTA)](usage/customer-guidance/ota.md)
-* [주행모드(경로플래닝)](usage/driving/README.md)
+* [주행 모드(경로플래닝)](usage/driving/README.md)
   * [경로플래닝 설정 방법](usage/driving/route-planning-settings.md)
   * [AB직진](usage/driving/ab-straight.md)
   * [A+직진](usage/driving/a-plus-straight.md)
   * [사각주행](usage/driving/square-drive.md)
-  * [자동 경로 (Pluava AI)](usage/driving/auto-route-generation.md)
+  * [자동 경로 (플루바 AI)](usage/driving/auto-route-generation.md)
 * [턴 모드](usage/uturn-mode/README.md)
   * [턴 설정 방법](usage/uturn-mode/uturn-mode-setting.md)
 * [주행 편의 기능](usage/driving-convenience-function/README.md)
@@ -52,7 +51,7 @@
   * [경로 리셋/삭제](usage/driving-convenience-function/delete-path.md)
   * [등간격 편의 기능](usage/driving-convenience-function/equal-interval.md)
   * [주행 화면 조정](usage/driving-convenience-function/adjusting-driving-screen.md)
-* [내 농장 관리 (MY Farm)](usage/my-farm/README.md)
+* [내 농장 관리](usage/my-farm/README.md)
   * [농장 관리](usage/my-farm/farm-management.md)
   * [농장 소유자 관리](usage/my-farm/farm-owner-management.md)
   * [필드 조정](usage/my-farm/undefined.md)

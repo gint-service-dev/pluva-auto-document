@@ -33,7 +33,7 @@ layout:
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-\[Expansion Kit]\
+**\[Expansion Kit]**\
 태블릿을 제외한 경제적인 확장형 제품입니다.\
 GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 주문 전, 플루바 아이온 태블릿을 보유하고 있는지 확인이 필요합니다.
 {% endhint %}
