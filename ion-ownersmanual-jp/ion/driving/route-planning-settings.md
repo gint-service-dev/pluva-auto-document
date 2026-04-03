@@ -66,28 +66,22 @@ A+直進
 {% hint style="info" %}
 現在選択されている走行モードは、画面左上の走行情報エリアから確認できます。
 
-<img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-driving-1.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
 倍速ターンの設定状況は、左画面の右上の走行情報からご確認できます。倍速ターンのオン・オフ状況をご確認ください。
 
-
-
 <img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
 
-
-
-走行モードにアクセスすると、倍速ターンの設定に関する案内が表示されます。 \
+走行モードにアクセスすると、倍速ターンの設定に関する案内が表示されます。\
 案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。
-
-
 
 <img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。&#x20;
+2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。
 
 <img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}
