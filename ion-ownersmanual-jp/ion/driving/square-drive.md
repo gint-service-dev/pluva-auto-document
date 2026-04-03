@@ -16,6 +16,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/driving/square-drive
 ---
 
 # 四角形走行

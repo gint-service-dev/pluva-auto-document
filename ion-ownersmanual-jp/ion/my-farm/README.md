@@ -15,9 +15,12 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm
 ---
 
-# My農場管理（MY Farm）
+# My農場管理
 
 My Farmは農場と圃場情報をまとめて作業環境を管理するメニューです。 圃場や作業経路、余裕区間（枕地）などを一か所にまとめて管理できます。
 

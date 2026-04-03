@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/managing-headland-information
 ---
 
 # 枕地情報の修正/削除

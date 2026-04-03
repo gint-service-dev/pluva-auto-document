@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/headland-add
 ---
 
 # 枕地の登録

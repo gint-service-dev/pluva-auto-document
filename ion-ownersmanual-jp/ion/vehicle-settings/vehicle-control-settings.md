@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/vehicle-settings/vehicle-control-settings
 ---
 
 # 車両の制御設定

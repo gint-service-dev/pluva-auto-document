@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/consumer-info/remote-support
+---
+
 # リモートサポート
 
 リモートサポートは、エンジニアがタブレット画面を遠隔で確認し、トラブル解決に向けてご案内する機能です。タブレットからコードを発行し、エンジニアにお伝えください。確認後、リモートサポートを開始します。

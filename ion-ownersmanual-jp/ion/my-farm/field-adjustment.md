@@ -1,3 +1,10 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/field-adjustment
+---
+
 # 圃場の調整
 
 登録済みの圃場の形を調整できる機能です。直接車両を移動させ圃場を調整します。
