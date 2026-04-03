@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/product-location
 ---
 
 # 제품 설치 위치

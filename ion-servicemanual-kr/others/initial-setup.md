@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/others/initial-setup
 ---
 
 # 고객 불편사항 대응 방법

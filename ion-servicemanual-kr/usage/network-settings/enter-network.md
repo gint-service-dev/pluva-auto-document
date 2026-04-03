@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings/enter-network
 ---
 
 # 네트워크 설정 진입 및 화면 설명

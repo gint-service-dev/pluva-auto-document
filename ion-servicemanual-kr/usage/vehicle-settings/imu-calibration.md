@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/imu-calibration
 ---
 
 # 롤/피치/요 보정(IMU)

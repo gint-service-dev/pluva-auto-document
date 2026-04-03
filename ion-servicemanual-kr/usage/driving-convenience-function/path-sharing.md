@@ -1,5 +1,9 @@
 ---
 hidden: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/path-sharing
 ---
 
 # 경로 공유

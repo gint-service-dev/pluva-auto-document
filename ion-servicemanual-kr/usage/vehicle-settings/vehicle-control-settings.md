@@ -15,6 +15,10 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/vehicle-control-settings
 ---
 
 # 차량 제어 설정

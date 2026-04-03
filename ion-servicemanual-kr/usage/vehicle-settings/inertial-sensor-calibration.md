@@ -1,5 +1,9 @@
 ---
 hidden: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/inertial-sensor-calibration
 ---
 
 # 관성센서 보정

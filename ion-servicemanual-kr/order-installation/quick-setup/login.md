@@ -17,7 +17,8 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - /broken/spaces/jOhU5MWpMqraceI5pg9u/pages/sd2v2aY6nf9Dk4wB4CZm
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/login
 ---
 
 # 로그인

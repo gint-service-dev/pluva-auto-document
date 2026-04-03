@@ -17,7 +17,8 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/switch
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/switch
 ---
 
 # 스위치

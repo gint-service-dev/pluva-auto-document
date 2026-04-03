@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/route-planning-settings
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/preparing-quick-setup
 ---
 
 # 퀵셋업 설명 및 준비

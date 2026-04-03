@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm/undefined
+---
+
 # 필드 조정
 
 등록한 필드의 형태를 조정할 수 있는 기능입니다. 차량을 직접 이동하여 필드를 조정합니다.

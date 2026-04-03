@@ -15,9 +15,12 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/others/admin-login
 ---
 
-# 어드민 로그인 방법
+# 어드민 로그인
 
 주문, 개통, 원격 지원 등의 서비스 이용을 위해 어드민 로그인을 진행합니다.
 

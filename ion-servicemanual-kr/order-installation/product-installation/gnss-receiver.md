@@ -17,7 +17,8 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - /broken/spaces/jOhU5MWpMqraceI5pg9u/pages/lWdZgI2P4YIODQ7uazsl
+    - >-
+      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/gnss-receiver
 ---
 
 # GNSS 수신기

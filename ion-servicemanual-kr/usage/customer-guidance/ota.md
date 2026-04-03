@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/customer-guidance/ota
 ---
 
 # 소프트웨어 업데이트(OTA)
