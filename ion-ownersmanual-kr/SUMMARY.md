@@ -1,12 +1,12 @@
 # Table of contents
 
-* [PLUVA iON Owner's Manual](README.md)
+* [pluva ion Owner's Manual](README.md)
 
-## PLUVA iON 사용자 메뉴얼 <a href="#ion" id="ion"></a>
+## &#x20;pluva ion 사용자 메뉴얼 <a href="#ion" id="ion"></a>
 
 * [사용 메뉴얼 정보](ion/user-manual-info.md)
 * [개요](ion/overview/README.md)
-  * [PLUVA iON 소개](ion/overview/pluva-ion-introduction.md)
+  * [플루바 아이온 소개](ion/overview/pluva-ion-introduction.md)
   * [전동 스티어링 휠](ion/overview/electric-steering-wheel.md)
   * [GNSS 수신기](ion/overview/gnss-receiver.md)
   * [태블릿](ion/overview/tablet.md)
@@ -19,7 +19,7 @@
   * [AB직진](ion/driving/ab-straight.md)
   * [A+직진](ion/driving/a-plus-straight.md)
   * [사각주행](ion/driving/square-drive.md)
-  * [자동 경로 (Pluava AI)](ion/driving/auto-route-generation.md)
+  * [자동 경로 (플루바 AI)](ion/driving/auto-route-generation.md)
 * [턴 모드](ion/uturn-mode/README.md)
   * [턴 설정 방법](ion/uturn-mode/uturn-mode-setting.md)
 * [주행 편의 기능](ion/driving-convenience-function/README.md)
@@ -29,7 +29,7 @@
   * [경로 리셋/삭제](ion/driving-convenience-function/delete-path.md)
   * [등간격 편의 기능](ion/driving-convenience-function/equal-interval.md)
   * [주행 화면 조정](ion/driving-convenience-function/adjusting-driving-screen.md)
-* [내 농장 관리 (MY Farm)](ion/my-farm/README.md)
+* [내 농장 관리](ion/my-farm/README.md)
   * [농장 관리](ion/my-farm/farm-management.md)
   * [농장 소유자 관리](ion/my-farm/farm-owner-management.md)
   * [필드 등록](ion/my-farm/field-add.md)

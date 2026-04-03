@@ -136,7 +136,9 @@ layout:
 ![](../.gitbook/assets/ic_warning.svg) **비상 시 태블릿 상부에 부착된 ‘메인 전원 스위치’를 OFF 하면&#x20;**<mark style="color:blue;">**자율주행 키트 전체 전원이 차단됩니다.**</mark>
 
 {% hint style="info" %}
-**메인 전원 스위치**\
+**메인 전원 스위치**
+
+\
 태블릿 상단에 위치해있으며, 전동 스티어링 휠, GNSS 수신기,\
 태블릿 등의 모든 장치의 전원을 한 번에 켜거나 끌 수 있습니다.\
 자세한 내용은 [태블릿](overview/tablet.md)을 참고해주세요.
