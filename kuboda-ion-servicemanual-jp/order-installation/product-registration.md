@@ -130,7 +130,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-製品の開通ページにアクセスし、\[QRをスキャンし社員番号を入力]をタップします。
+[製品の開通ページ](https://fkk-install.pluva.jp/install)にアクセスし、\[QRをスキャンし社員番号を入力]をタップします。
 
 <figure><img src="../.gitbook/assets/product-opening-1.png" alt="" width="338"><figcaption></figcaption></figure>
 {% endstep %}

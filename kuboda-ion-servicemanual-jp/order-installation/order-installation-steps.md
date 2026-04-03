@@ -41,7 +41,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。**開通
 #### **取り付け**
 
 * 車両に製品を取り付けます。既存のハンドルを自動操舵用のハンドルに交換し、各種センサーおよび機器を接続する作業が含まれます。
-* 詳細は、[<mark style="color:$primary;">製品の取り付け</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/jp/order-installation/product-installation)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">製品の取り付け</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/product-installation)をご参照ください。
 {% endstep %}
 
 {% step %}
@@ -54,7 +54,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。**開通
 {% endhint %}
 
 * ネットワークや車両情報など、システム作動に必要な**初期設定を完了**します。設定完了後には、製品がアクティベートされ利用可能な状態になります。
-* 詳細は、[<mark style="color:$primary;">簡単セットアップ</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">簡単セットアップ</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup)をご参照ください。
 {% endstep %}
 
 {% step %}
@@ -67,14 +67,14 @@ pluva ionは、専門的な取り付け工程が必要な製品です。**開通
 #### **お客様への操作説明**
 
 * 製品の取り付けが完了されたら、安全な運用をサポートするための初期レクチャーを実施します。**主な機能や使用方法についてご案内**します。
-* 詳細は、[<mark style="color:$primary;">使い方</mark>](https://kuboda-pluva-servicemanual.pluva.io/ion/jp/customer-guidance)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">使い方</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/jp/customer-guidance)をご参照ください。
 {% endstep %}
 
 {% step %}
 #### 取り付け完了
 
 * 全ての取り付け及び設定が完了されたら、取り付け確認事項を点検し、取り付けを終了してください。
-* 詳細は、[<mark style="color:$primary;">取り付け完了確認</mark>](installation-completed.md)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">取り付け完了確認</mark>](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/installation-completed)をご参照ください。
 {% endstep %}
 {% endstepper %}
 
