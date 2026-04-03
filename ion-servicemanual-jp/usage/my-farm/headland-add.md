@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/headland-add
+---
+
 # 枕地の登録
 
 枕地とは？

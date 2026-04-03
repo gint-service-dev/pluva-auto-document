@@ -3,7 +3,7 @@ hidden: true
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/modifying-vehicle-information
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/modifying-vehicle-information
 ---
 
 # 내 차량 정보 수정

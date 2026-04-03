@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/bringing-up-path
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function/bringing-up-path
 ---
 
 # 経路の取り込み

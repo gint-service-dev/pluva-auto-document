@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-registration
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-registration
 ---
 
 # 取り付けチケットでの製品開通

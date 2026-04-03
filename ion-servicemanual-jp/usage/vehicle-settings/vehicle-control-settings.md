@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/vehicle-control-settings
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/vehicle-control-settings
 ---
 
 # 車両の制御設定

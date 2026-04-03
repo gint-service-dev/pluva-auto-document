@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/autostere-calibration
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/autostere-calibration
 ---
 
 # オートステア補正

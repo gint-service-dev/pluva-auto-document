@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm/farm-management
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/farm-management
 ---
 
 # 農場管理

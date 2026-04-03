@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/field-add
+---
+
 # 圃場の登録
 
 一度圃場を登録すれば、各作業で同一の基準を適用できるため、作業準備時間を短縮し、繰り返しの設定を最小限に抑えることができます。また、作業履歴が圃場単位で蓄積・照会されるため、圃場ごとの作業記録を簡単に確認でき、農作業の体系的な管理が可能です。

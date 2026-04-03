@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/entering-my-vehicle
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/entering-my-vehicle
 ---
 
 # My車両へのアクセスおよび画面のご案内

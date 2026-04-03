@@ -18,12 +18,12 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/ota
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/ota
 ---
 
 # ソフトウェアアップデート（OTA）
 
-#### ソフトウェアアップデート（OTA）とは？&#x20;
+#### ソフトウェアアップデート（OTA）とは？
 
 常に最新のパフォーマンスと安定した使用環境を提供するため、機器が自動的に最新バージョンを確認しアップデートを行います。
 

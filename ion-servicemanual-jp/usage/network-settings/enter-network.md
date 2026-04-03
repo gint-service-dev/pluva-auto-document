@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings/enter-network
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/network-settings/enter-network
 ---
 
 # ネットワーク設定へのアクセスおよび画面のご案内

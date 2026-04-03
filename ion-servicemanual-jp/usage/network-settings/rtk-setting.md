@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings/rtk-setting
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/network-settings/rtk-setting
 ---
 
 # 位置補正の設定

@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/rtk-setting
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/rtk-setting
 ---
 
 # 位置補正の設定
@@ -58,7 +58,7 @@ RTK手動接続を選択し、\[確認]をタップします。
 {% endstep %}
 
 {% step %}
-&#x20;\[次のステップへ]をタップするとRTK手動接続の設定が完了します。
+\[次のステップへ]をタップするとRTK手動接続の設定が完了します。
 
 <figure><img src="../../.gitbook/assets/quick-setup-rtkdirect-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -73,8 +73,6 @@ RTK手動接続を選択し、\[確認]をタップします。
 #### RTK Bluetooth接続
 
 RTK Bluetooth接続は、スマートフォンのRTKアプリとBluetoothでペアリングし、RTK補正信号をGNSS受信機へ送信する設定です。
-
-
 
 {% stepper %}
 {% step %}
@@ -118,8 +116,6 @@ PLUVA iONの正確な自動操舵を維持するため、作業中は外部のRT
 > * バッテリー節約機能により、バックグランドアプリが強制終了される場合
 > * 対策1：アプリ設定から**バッテリーの最適化をOFF**にしてください。
 > * 対策2：Android設定で**省電力設定の対象外アプリ**として登録してください。
->
->
 >
 > **アプリ終了の予防策**
 >

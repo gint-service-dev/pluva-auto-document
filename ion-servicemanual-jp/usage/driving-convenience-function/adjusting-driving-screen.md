@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/adjusting-driving-screen
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function/adjusting-driving-screen
 ---
 
 # 走行画面の調整

@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/installation-completed
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/installation-completed
 ---
 
 # 取り付け完了確認

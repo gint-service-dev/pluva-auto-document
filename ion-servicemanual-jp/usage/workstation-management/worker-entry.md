@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management/worker-entry
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/workstation-management/worker-entry
 ---
 
 # 作業機リストへのアクセス及び画面のご案内

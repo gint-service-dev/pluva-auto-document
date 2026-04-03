@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/others/monitorning
+    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/others/monitorning
 ---
 
 # リモートサポート

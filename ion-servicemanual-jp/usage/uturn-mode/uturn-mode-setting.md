@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/uturn-mode/uturn-mode-setting
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/uturn-mode/uturn-mode-setting
 ---
 
 # ターンの設定方法

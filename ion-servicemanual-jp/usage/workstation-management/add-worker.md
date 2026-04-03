@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management/add-worker
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/workstation-management/add-worker
 ---
 
 # 作業機の追加

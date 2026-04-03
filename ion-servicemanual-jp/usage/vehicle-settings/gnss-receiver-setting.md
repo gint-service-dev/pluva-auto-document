@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/gnss-receiver-setting
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/gnss-receiver-setting
 ---
 
 # GNSS受信機の設定

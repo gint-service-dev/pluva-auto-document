@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation
 ---
 
 # 製品の取り付け
@@ -56,4 +56,3 @@ metaLinks:
 {% content-ref url="switch.md" %}
 [switch.md](switch.md)
 {% endcontent-ref %}
-

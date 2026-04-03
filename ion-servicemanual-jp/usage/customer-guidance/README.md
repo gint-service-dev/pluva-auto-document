@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/customer-guidance
+    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/customer-guidance
 ---
 
 # 初期設定方法

@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup
 ---
 
 # 簡単セットアップ
@@ -72,4 +72,3 @@ metaLinks:
 {% content-ref url="farm-setting.md" %}
 [farm-setting.md](farm-setting.md)
 {% endcontent-ref %}
-

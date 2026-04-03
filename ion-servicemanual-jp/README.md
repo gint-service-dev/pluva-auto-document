@@ -15,7 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks: {}
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/
 ---
 
 # pluva ion Service Manual

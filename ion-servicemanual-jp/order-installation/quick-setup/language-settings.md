@@ -18,14 +18,12 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/language-settings
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/language-settings
 ---
 
 # 言語設定
 
 簡単セットアップの開始に向けて、使用言語を設定するステップです。
-
-
 
 {% stepper %}
 {% step %}

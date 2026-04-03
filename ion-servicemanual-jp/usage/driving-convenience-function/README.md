@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function
+      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function
 ---
 
 # 走行の利便性を向上するための機能
