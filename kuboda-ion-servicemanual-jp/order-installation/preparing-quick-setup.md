@@ -19,16 +19,16 @@ metaLinks:
 
 
 
-1. [言語設定](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/language-settings)
-2. [ネットワーク設定](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/network-settings)
-3. [ソフトウェアアップデート（OTA）](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/ota)
-4. [ログイン](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/login)
-5. [GNSS受信機の接続確認](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/gnss-connect)
-6. [位置補正の設定](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/rtk-setting)
-7. [車両の追加](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/add-vehicle)
-8. [車両の補正](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/vehicle-calibration)
-9. [作業機の追加（任意）](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/add-worker)
-10. [圃場の設定](https://kubota-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/farm-setting)
+1. [言語設定](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/language-settings)
+2. [ネットワーク設定](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/network-settings)
+3. [ソフトウェアアップデート（OTA）](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/ota)
+4. [ログイン](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/login)
+5. [GNSS受信機の接続確認](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/gnss-connect)
+6. [位置補正の設定](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/rtk-setting)
+7. [車両の追加](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/add-vehicle)
+8. [車両の補正](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/vehicle-calibration)
+9. [作業機の追加（任意）](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/add-worker)
+10. [圃場の設定](https://fkk-pluva-servicemanual.pluva.io/ion/jp/order-installation/quick-setup/farm-setting)
 
 
 
