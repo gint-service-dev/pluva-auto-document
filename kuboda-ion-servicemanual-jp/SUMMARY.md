@@ -1,6 +1,6 @@
 # Table of contents
 
-* [kubota pluva ion Service Manual](README.md)
+* [Fukuoka Kyushu Kubota pluva ion Service Manual](README.md)
 
 ## 開通および取り付け <a href="#order-installation" id="order-installation"></a>
 
