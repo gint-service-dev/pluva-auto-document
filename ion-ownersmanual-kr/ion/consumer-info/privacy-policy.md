@@ -29,4 +29,4 @@ metaLinks:
 
 
 
-* [**개인정보 처리방침 확인하기 >**](https://pluva.jp/pluva_ion/privacy-policy/)
+* [**개인정보 처리방침 확인하기 >**](https://gint.pluva.kr/policies/ko/privacy)
