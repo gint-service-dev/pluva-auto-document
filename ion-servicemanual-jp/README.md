@@ -22,7 +22,7 @@ metaLinks:
 
 # pluva ion Service Manual
 
-<figure><img src=".gitbook/assets/service-main-image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
