@@ -32,13 +32,13 @@ A+직진
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">버튼을 눌러 A 지점을 생성합니다.
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> 버튼을 눌러 A 지점을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/a+-straight-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/a+-button.svg" alt="" data-size="original">버튼을 누릅니다.
+<img src="../../.gitbook/assets/a+-button.svg" alt="" data-size="original"> 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/a+-straight-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

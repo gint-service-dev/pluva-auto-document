@@ -80,7 +80,9 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
 
-자율주행 시스템의 디스플레이 장치로, 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정 기능을 제공합니다.\
+자율주행 시스템의 디스플레이 장치로, 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 각종 설정 기능을 제공합니다.
+
+\
  자세한 사용 방법은 [태블릿](tablet.md) 항목을 참조해주세요.
 {% endcolumn %}
 

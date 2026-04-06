@@ -160,7 +160,7 @@ metaLinks:
 ![](../../.gitbook/assets/icon-circle-15.svg) 시스템 상태
 
 * 화면 최상단에 표시되며, 작업에 필요한 핵심 시스템 정보를 실시간으로 제공합니다.\
-  자세한 내용은 [시스템 상태 아이콘](tablet.md#undefined-2)을 참고해주세요.
+  자세한 내용은 [시스템 상태 아이콘](tablet.md#system-icon)을 참고해주세요.
 
 ![](../../.gitbook/assets/icon-circle-16.svg) 나침판
 
@@ -184,7 +184,7 @@ metaLinks:
 
 ***
 
-#### 시스템 상태 아이콘
+#### 시스템 상태 아이콘 <a href="#system-icon" id="system-icon"></a>
 
 
 
