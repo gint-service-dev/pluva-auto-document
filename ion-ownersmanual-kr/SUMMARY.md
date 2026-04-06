@@ -4,7 +4,7 @@
 
 ## pluva ion 사용자 메뉴얼 <a href="#ion" id="ion"></a>
 
-* [사용 메뉴얼 정보](ion/user-manual-info.md)
+* [사용자 메뉴얼 정보](ion/user-manual-info.md)
 * [개요](ion/overview/README.md)
   * [플루바 아이온 소개](ion/overview/pluva-ion-introduction.md)
   * [전동 스티어링 휠](ion/overview/electric-steering-wheel.md)
