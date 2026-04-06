@@ -12,16 +12,16 @@
 
 
 
-1. [언어 설정](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
-2. [네트워크 설정](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
-3. [소프트웨어 업데이트(OTA)](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/ota)
-4. [로그인](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
-5. [GNSS수신기 연결 확인](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
-6. [위치보정 설정](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)
-7. [차량 추가](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-vehicle)
-8. [차량 보정](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/vehicle-calibration)
-9. [작업기 추가 (선택)](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-worker)
-10. [작업지 설정](https://kubota-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/farm-setting)
+1. [언어 설정](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/language-settings)
+2. [네트워크 설정](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/network-settings)
+3. [소프트웨어 업데이트(OTA)](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/ota)
+4. [로그인](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/login)
+5. [GNSS수신기 연결 확인](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/gnss-connect)
+6. [위치보정 설정](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/rtk-setting)
+7. [차량 추가](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-vehicle)
+8. [차량 보정](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/vehicle-calibration)
+9. [작업기 추가 (선택)](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/add-worker)
+10. [작업지 설정](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup/farm-setting)
 
 
 
