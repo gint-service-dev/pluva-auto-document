@@ -12,6 +12,7 @@
   * [태블릿](ion/overview/tablet.md)
   * [스위치(옵션품)](ion/overview/switch.md)
   * [카메라](ion/overview/camera.md)
+* [Page 1](ion/page-1.md)
 * [초기 설정법](ion/initial-setup/README.md)
   * [소프트웨어 업데이트(OTA)](ion/initial-setup/ota.md)
 * [주행모드(경로플래닝)](ion/driving/README.md)
