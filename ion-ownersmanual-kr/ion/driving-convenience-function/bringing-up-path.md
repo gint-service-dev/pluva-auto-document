@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving-convenience-function/bringing-up-path
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/bringing-up-path
 ---
 
 # 경로 불러오기

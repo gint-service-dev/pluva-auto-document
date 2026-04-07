@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/my-farm/field-add
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/my-farm/field-add
 ---
 
 # 필드 등록

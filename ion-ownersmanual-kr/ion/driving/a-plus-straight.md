@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/a-plus-straight
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving/a-plus-straight
 ---
 
 # A+직진

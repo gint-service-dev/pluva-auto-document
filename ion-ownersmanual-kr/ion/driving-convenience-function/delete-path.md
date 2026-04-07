@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving-convenience-function/delete-path
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/delete-path
 ---
 
 # 경로 리셋/삭제

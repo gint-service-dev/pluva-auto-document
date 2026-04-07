@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/route-planning-settings
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving/route-planning-settings
 ---
 
 # 경로플래닝 설정 방법
@@ -94,7 +94,9 @@ A+직진
 {% endhint %}
 
 {% hint style="info" %}
-필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.&#x20;
+필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.
+
+
 
 <img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}

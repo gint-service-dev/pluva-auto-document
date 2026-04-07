@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/vehicle-settings/autostere-calibration
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings/autostere-calibration
 ---
 
 # 오토스티어 보정

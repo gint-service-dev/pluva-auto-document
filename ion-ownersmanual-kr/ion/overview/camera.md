@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/overview/camera
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/camera
 ---
 
 # 카메라

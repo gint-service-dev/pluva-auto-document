@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/my-farm/managing-headland-information
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/my-farm/managing-headland-information
 ---
 
 # 헤드랜드 정보 관리

@@ -17,10 +17,10 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/
 ---
 
-# pluva ion Owner's Manual
+# pluva ion User Manual
 
 <figure><img src=".gitbook/assets/Ion-package-image (2).png" alt=""><figcaption></figcaption></figure>
 

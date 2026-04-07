@@ -17,10 +17,10 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/user-manual-info
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/user-manual-info
 ---
 
-# 사용 메뉴얼 정보
+# 사용자 메뉴얼 정보
 
 
 

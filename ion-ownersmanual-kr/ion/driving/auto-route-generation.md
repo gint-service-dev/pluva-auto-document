@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/driving/auto-route-generation
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving/auto-route-generation
 ---
 
 # 자동 경로 (플루바 AI)

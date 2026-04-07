@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/network-settings/network-setting
+      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/network-settings/network-setting
 ---
 
 # 네트워크 설정

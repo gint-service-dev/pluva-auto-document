@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/jOhU5MWpMqraceI5pg9u/ion/vehicle-settings
+    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings
 ---
 
 # 차량 관리
