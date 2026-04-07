@@ -54,7 +54,7 @@ metaLinks:
 
 <details>
 
-<summary><a href="ion/user-manual-info.md">사용 메뉴얼 정보</a></summary>
+<summary><a href="ion/user-manual-info.md">사용자 메뉴얼 정보</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>사용자 메뉴얼 기본 정보</td><td><a href="ion/user-manual-info.md">user-manual-info.md</a></td></tr><tr><td>고지사항 및 안전가이드</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
 
