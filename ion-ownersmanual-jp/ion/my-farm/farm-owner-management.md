@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/farm-owner-management
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/my-farm/farm-owner-management
 ---
 
 # 農場主の管理

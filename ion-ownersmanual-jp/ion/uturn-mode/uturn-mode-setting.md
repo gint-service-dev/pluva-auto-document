@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/uturn-mode/uturn-mode-setting
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/uturn-mode/uturn-mode-setting
 ---
 
 # ターンの設定方法

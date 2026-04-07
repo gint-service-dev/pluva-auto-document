@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/driving/route-planning-settings
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/driving/route-planning-settings
 ---
 
 # 経路のプランニングの設定方法

@@ -2,7 +2,7 @@
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/field-adjustment
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/my-farm/field-adjustment
 ---
 
 # 圃場の調整

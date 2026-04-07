@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/driving-convenience-function/save-path
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/driving-convenience-function/save-path
 ---
 
 # 経路の保存

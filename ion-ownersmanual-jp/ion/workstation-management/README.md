@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/workstation-management
+    - https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/workstation-management
 ---
 
 # 作業機の管理

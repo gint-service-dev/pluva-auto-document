@@ -18,10 +18,10 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/managing-field-information
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/my-farm/managing-field-information
 ---
 
-# 圃場情報の修正/削除
+# 圃場情報の削除
 
 #### 圃場情報の管理機能へアクセス
 

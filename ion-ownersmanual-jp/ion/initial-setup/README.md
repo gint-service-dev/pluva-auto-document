@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/initial-setup
+    - https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/initial-setup
 ---
 
 # 初期設定方法

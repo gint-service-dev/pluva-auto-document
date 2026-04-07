@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/overview/pluva-ion-introduction
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/overview/pluva-ion-introduction
 ---
 
 # pluva ionのご紹介

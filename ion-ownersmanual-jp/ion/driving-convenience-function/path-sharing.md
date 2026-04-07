@@ -19,7 +19,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/driving-convenience-function/path-sharing
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/driving-convenience-function/path-sharing
 ---
 
 # 経路の共有

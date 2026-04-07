@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/consumer-info/maintenance
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/consumer-info/maintenance
 ---
 
 # 整備

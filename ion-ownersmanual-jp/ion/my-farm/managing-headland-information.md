@@ -18,10 +18,10 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/Lxu7xFAm2ntQK9UKfrU5/ion/my-farm/managing-headland-information
+      https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/ion/my-farm/managing-headland-information
 ---
 
-# 枕地情報の修正/削除
+# 枕地情報の削除
 
 #### 枕地情報の管理機能へアクセス
 
