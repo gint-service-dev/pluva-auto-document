@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/3dxIXbvvXAmW8N8HljEZ/
+---
+
 # 고객 문의
 
 <figure><img src=".gitbook/assets/260325_PLUVA-robotics_.png" alt=""><figcaption></figcaption></figure>
