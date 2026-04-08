@@ -57,7 +57,7 @@ metaLinks:
 {% step %}
 経路の取り込みポップアップから\[取り込み]を選択します。
 
-<figure><img src="../../.gitbook/assets/calling-path-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/calling-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
