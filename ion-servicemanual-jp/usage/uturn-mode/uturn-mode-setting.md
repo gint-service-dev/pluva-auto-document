@@ -172,13 +172,13 @@ AB直進モードでのみ使用でき、それ以外のモードでは無効に
 {% step %}
 使用するターンの形態を選択します。最小回転半径などのターン設定値に基づいて可能なターン形態のみが有効になります。
 
-<figure><img src="../../.gitbook/assets/uturn-shape-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[確認]をクリックします。
 
-<figure><img src="../../.gitbook/assets/uturn-shape-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -190,7 +190,7 @@ AB直進モードでのみ使用でき、それ以外のモードでは無効に
 
 #### Uターン形態画面のご案内
 
-<figure><img src="../../.gitbook/assets/uturn-shape-explanation-screen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/uturn-shape-explanation-screen.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **Kターン**
 
