@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/workstation-management/add-worker
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/workstation-management/add-worker
 ---
 
 # 작업기 추가

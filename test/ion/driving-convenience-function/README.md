@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/driving-convenience-function
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/driving-convenience-function
 ---
 
 # 주행 편의 기능

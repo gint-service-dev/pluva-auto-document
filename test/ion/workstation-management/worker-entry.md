@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/workstation-management/worker-entry
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/workstation-management/worker-entry
 ---
 
 # 작업기 목록 진입 및 화면 설명

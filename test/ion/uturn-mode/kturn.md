@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/uturn-mode/kturn
+---
+
 # K턴
 
 K턴은 좁은 헤드랜드에서 전진 → 후진 → 전진의 3단계 구간으로 방향을 전환하여 다음 작업 라인으로 이동하는 턴 형태입니다.

@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/my-farm/managing-field-information
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/my-farm/managing-field-information
 ---
 
 # 필드 정보 관리

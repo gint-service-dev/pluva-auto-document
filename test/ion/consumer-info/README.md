@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/consumer-info
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/consumer-info
 ---
 
 # 고객지원

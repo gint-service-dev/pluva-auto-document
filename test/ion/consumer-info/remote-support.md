@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/consumer-info/remote-support
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/consumer-info/remote-support
 ---
 
 # 원격 지원

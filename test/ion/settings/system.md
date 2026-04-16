@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/system
+---
+
 # 시스템 설정
 
 앱의 시간대, 언어, 단위 등 기본 환경을 설정합니다.

@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/my-farm/field-adjustment
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/my-farm/field-adjustment
 ---
 
 # 필드 조정

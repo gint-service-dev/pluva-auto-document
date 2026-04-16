@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/my-info
+---
+
 # 내 정보
 
 내 정보에서는 현재 로그인된 계정의 프로필 정보를 확인하고, 개인정보 처리 방침 열람 및 계정 관련 작업을 수행할 수 있습니다.

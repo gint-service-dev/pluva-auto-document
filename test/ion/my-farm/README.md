@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/my-farm
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/my-farm
 ---
 
 # 내 농장 관리

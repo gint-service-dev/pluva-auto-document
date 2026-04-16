@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/vehicle-settings/imu-calibration
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/vehicle-settings/imu-calibration
 ---
 
 # 롤/피치/요 보정(IMU)

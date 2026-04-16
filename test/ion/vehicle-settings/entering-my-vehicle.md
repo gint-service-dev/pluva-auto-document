@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/vehicle-settings/entering-my-vehicle
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/vehicle-settings/entering-my-vehicle
 ---
 
 # 내 차량 진입 및 화면 설명

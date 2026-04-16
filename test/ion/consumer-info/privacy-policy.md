@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/consumer-info/privacy-policy
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/consumer-info/privacy-policy
 ---
 
 # 개인정보 처리 방침

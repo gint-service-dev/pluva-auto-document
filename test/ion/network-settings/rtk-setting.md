@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/network-settings/rtk-setting
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/network-settings/rtk-setting
 ---
 
 # 위치 보정 설정

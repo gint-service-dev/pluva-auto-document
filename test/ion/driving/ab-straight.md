@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/driving/ab-straight
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/driving/ab-straight
 ---
 
 # AB직진

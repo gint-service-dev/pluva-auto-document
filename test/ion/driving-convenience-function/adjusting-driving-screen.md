@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/driving-convenience-function/adjusting-driving-screen
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/driving-convenience-function/adjusting-driving-screen
 ---
 
 # 주행 화면 조정

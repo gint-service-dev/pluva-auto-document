@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/user-manual-info
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/user-manual-info
 ---
 
 # 사용자 메뉴얼 정보

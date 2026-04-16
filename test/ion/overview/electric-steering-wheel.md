@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/overview/electric-steering-wheel
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/overview/electric-steering-wheel
 ---
 
 # 전동 스티어링 휠

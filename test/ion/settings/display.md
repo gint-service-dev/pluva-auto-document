@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/display
+---
+
 # 화면 설정
 
 주행 화면의 밝기와 음량, 카메라 표시를 설정합니다.

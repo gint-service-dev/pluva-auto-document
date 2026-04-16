@@ -2,7 +2,7 @@
 hidden: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/driving/square-drive
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/driving/square-drive
 ---
 
 # 사각주행

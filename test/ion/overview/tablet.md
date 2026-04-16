@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/overview/tablet
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/overview/tablet
 ---
 
 # 태블릿

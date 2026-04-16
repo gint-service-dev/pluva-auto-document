@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/my-farm/headland-add
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/my-farm/headland-add
 ---
 
 # 헤드랜드 등록

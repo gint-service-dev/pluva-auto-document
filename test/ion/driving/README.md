@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/driving
+    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/driving
 ---
 
 # 주행모드(경로플래닝)
