@@ -15,7 +15,7 @@ icon: transformer-bolt
    1. 이름
    2. 이메일
    3. 대리점 명
-2. 요청한 이메일로 **임시 비밀번호**를 수신한다.&#x20;
+2. 요청한 이메일로 **임시 비밀번호**를 수신한다.
 3. 수신한 **이메일(ID)과 임시 비밀번호**로 **어드민**과 **EasyCheck**에 로그인한다.
 4. 첫번째 로그인 시 발급 받았던 임시 비밀번호를 변경한다.
 
@@ -38,7 +38,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/풀세트, 반세트.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [order.md](orders-install/order.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [order.md](orders-install/order.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -56,7 +56,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/주문 접수 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [order.md](orders-install/order.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [order.md](orders-install/order.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -70,7 +70,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/제조사와 모델 리스트에 원하는 항목 없을 때.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [order.md](orders-install/order.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [order.md](orders-install/order.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -88,7 +88,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/구성품 별 준비물.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [hardware](hardware/ "mention") ] 을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [hardware](hardware/ "mention") ] 을 참고한다.
 {% endhint %}
 
 </details>
@@ -108,7 +108,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/이지셋업 접속 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [installation.md](easysetup/installation.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [installation.md](easysetup/installation.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -124,7 +124,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/바코드 스캔.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [components.md](easysetup/components.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [components.md](easysetup/components.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -140,7 +140,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/QR 스캔.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [components.md](easysetup/components.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [components.md](easysetup/components.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -149,7 +149,7 @@ icon: transformer-bolt
 
 <summary><strong>구성품·장비 등록 방법</strong></summary>
 
-#### **순서**
+**순서**
 
 1. **차량 정보/수치**
 2. **메인컨트롤러 위치**
@@ -162,7 +162,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/차량 치수 입력 스와이프.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [equipment.md](easysetup/equipment.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [equipment.md](easysetup/equipment.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -184,7 +184,7 @@ icon: transformer-bolt
     수준기, 수평계
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [equipment.md](easysetup/equipment.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [equipment.md](easysetup/equipment.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -196,10 +196,10 @@ icon: transformer-bolt
 * 반드시 **실제 사용자가 사용하는 휴대전화 번호**를 입력한다.
 * 고객이 이미 **플루바 오토 회원**일 경우, 휴대번호 인증 요청 시 **기존 회원 안내 메시지**가 표시된다.
 
-<img src=".gitbook/assets/주문자의 휴대번호가 기존 고객의 휴대번호와 동일한 경우.png" alt="" data-size="original">
+<img src=".gitbook/assets/유사고객 발견 모달.png" alt="" data-size="original">
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [account.md](easysetup/account.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [account.md](easysetup/account.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -216,7 +216,7 @@ icon: transformer-bolt
    4. **조향 시스템 조정**
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [initialization](initialization/ "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [initialization](initialization/ "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -227,11 +227,11 @@ icon: transformer-bolt
 
 <summary><strong>계정 생성 중 인증번호를 받지 못한 경우</strong></summary>
 
-#### **원인**
+**원인**
 
 > **국제번호 수신 차단이 되어있거나, 올바른 전화번호가 아닐 경우 인증번호 문자를 받지 못할 수 있다.**
 
-#### **해결 방안**
+**해결 방안**
 
 > 1. **올바른 전화번호인지 먼저 확인한다.**
 > 2. **올바르지않을 경우 설치 담당자 권한 인증으로 계정을 생성한다.**
@@ -245,7 +245,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/계정 생성 과정에서 인증번호를 받지 못한 경우.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [account.md](easysetup/account.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [account.md](easysetup/account.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -258,7 +258,7 @@ icon: transformer-bolt
 2. 이전에 진행 중이던 **단계부터 자동으로 이어서 시작**한다. **입력한 데이터는 유지된다.**
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [easysetup](easysetup/ "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [easysetup](easysetup/ "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -278,7 +278,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/앱 다운로드 및 로그인 과정.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [confirmation.md](initialization/confirmation.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [confirmation.md](initialization/confirmation.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -298,7 +298,7 @@ icon: transformer-bolt
 {% endhint %}
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [autosteering.md](initialization/autosteering.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [autosteering.md](initialization/autosteering.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -318,7 +318,7 @@ icon: transformer-bolt
 {% endhint %}
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [imu.md](initialization/imu.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [imu.md](initialization/imu.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -338,7 +338,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/반세트 설치로 메인컨트롤러를 다른 차량으로 이동하는 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [13..md](auto-use/13..md "mention")]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [13..md](auto-use/13..md "mention")]을 참고한다.
 {% endhint %}
 
 </details>
@@ -349,16 +349,16 @@ icon: transformer-bolt
 
 <summary><strong>IMU 교정이 되지 않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > * **미세 진동으로 인해 교정이 진행되지 않는다.**
 
-#### **해결 방법**
+**해결 방법**
 
-> * **트랙터 시동 OFF 및  하차 , 1분 후 교정을 진행한다.**
+> * **트랙터 시동 OFF 및 하차 , 1분 후 교정을 진행한다.**
 
 {% hint style="warning" %}
-&#x20;관성센서 교정 과정을 보고싶다면?  \[ [imu.md](initialization/imu.md "mention") ] 참고한다.
+관성센서 교정 과정을 보고싶다면? \[ [imu.md](initialization/imu.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -367,16 +367,16 @@ icon: transformer-bolt
 
 <summary><strong>조향 시스템 보정에서 자동 보정 시작 버튼이 활성화되지않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > **속도가 충족되지않는 경우 조향시스템 보정의 \[자동 보정 시작] 버튼이 비활성화 된다.**
 
-#### 해결방법
+**해결방법**
 
 > **트랙터는&#x20;**<mark style="color:$primary;">**\[2km 시속]**</mark>**, 이앙기는&#x20;**<mark style="color:$primary;">**\[1km 시속]**</mark>**로 주행한다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [autosteering.md](initialization/autosteering.md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [autosteering.md](initialization/autosteering.md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -390,7 +390,7 @@ icon: transformer-bolt
 **긴급정지를 누른 후 필요한 면적과 안전한 영역이 확보된 곳에서 다시 보정을 진행한다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [autosteering.md](initialization/autosteering.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [autosteering.md](initialization/autosteering.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -399,19 +399,19 @@ icon: transformer-bolt
 
 <summary><strong>RTK 연결이 자꾸 끊기거나 연결되지 않을 경우 (한국엔 없애고 일본에만 노출 예정)</strong></summary>
 
-#### 원인
+**원인**
 
 > * **RTK 앱이 백그라운드에 있을 때 고객이 실수로 RTK 앱을 종료한다.**
 > * **배터리 절약을 위해 안드로이드가 RTK 앱을 자동으로 종료한다.**
 
-#### 해결방안
+**해결방안**
 
 > * **RTK 앱이 백그라운드에 있을 때 고객이 실수로 끄지않도록 안내한다.**
 > * **배터리 절약을 위해 안드로이드가 RTK 앱을 자동 방지 안내한다.**
 > * **정기적으로 RTK 연결 상태를 확인한다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [rtk-gps.md](initialization/rtk-gps.md "mention") ]을 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [rtk-gps.md](initialization/rtk-gps.md "mention") ]을 참고한다.
 {% endhint %}
 
 </details>
@@ -431,7 +431,7 @@ icon: transformer-bolt
 <figure><img src=".gitbook/assets/등간격 기능 4가지 설명.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [7..md](auto-use/7..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [7..md](auto-use/7..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -455,7 +455,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 {% endhint %}
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [16..md](auto-use/16..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [16..md](auto-use/16..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -471,7 +471,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/저장된 경로 불러오는 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [12..md](auto-use/12..md "mention") ]를 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [12..md](auto-use/12..md "mention") ]를 참고한다.
 {% endhint %}
 
 </details>
@@ -487,7 +487,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/AB경로만 삭제하는 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [12..md](auto-use/12..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [12..md](auto-use/12..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -515,7 +515,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/작업기 변경 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [18..md](auto-use/18..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [18..md](auto-use/18..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -531,7 +531,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/작업기 치수 변경 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [10..md](auto-use/10..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [10..md](auto-use/10..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -542,13 +542,13 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>메인컨트롤러 전원이 들어오지 않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > 1. **배터리 전압 불량**
 > 2. **전원 하네스 불량**
 > 3. **전원 케이블에 있는 휴즈 소손**
 
-#### **해결 방법**
+**해결 방법**
 
 > 1. **배터리 전압을 확인한다.**
 > 2. **전원 하네스를 교환한다.**
@@ -564,7 +564,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 2. **자동 유턴과 사각 패턴 작업은 동시에 사용할 수 없다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [11..md](auto-use/11..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [11..md](auto-use/11..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -577,7 +577,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 2. **자동 유턴과 사각 패턴 작업은 동시에 사용할 수 없다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [15..md](auto-use/15..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [15..md](auto-use/15..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -586,16 +586,16 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>주행 수치값이 원하는 값으로 저장 안 되는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > **유효범위에 벗어난 값을 입력하면 입력한 수치가 저장되지않고&#x20;**<mark style="color:$primary;">**해당 항목의 최대값으로 저장된다.**</mark>
 
-#### 해결방안
+**해결방안**
 
 > <mark style="color:$primary;">**유효 범위 내 수치로**</mark>**만 입력한다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [8..md](auto-use/8..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [8..md](auto-use/8..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -604,7 +604,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>주행 화면에서 자율주행을 할 수 없는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > 1. **차량제어 설정에서 지정한 주행 설정 값을 충족하지 않게 주행하는 경우**
 >    * **자율주행 해제 조건을 벗어난 경우**
@@ -616,7 +616,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 >      * **주행 거리가 설정 값보다 초과한 경우**
 >    * **메인컨트롤러에 불량이 발생한 경우**
 
-#### **조치 방법**
+**조치 방법**
 
 > 1. **차량제어 설정 값을 점검하고 필요에 따라 변경 (** [7..md](easycheck/7..md "mention") **참고)**
 >    * **자율주행 해제 조건의 최저 속도, 속도 조건을 조정**
@@ -629,12 +629,12 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>로그인이 되지 않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > * **가입되지 않은 전화번호를 입력한 경우**
 > * **비밀번호를 잘못 입력한 경우**
 
-#### **조치 방법**
+**조치 방법**
 
 > * **올바른 전화번호가 아닐 수 있으니 입력한 전화번호를 확인한다.**
 > * **비밀번호 재설정 후 로그인을 재시도한다.**
@@ -645,13 +645,13 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>골이 일직선으로 똑바르게 나오지 않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > 1. **심한 작업기 유동**
 > 2. **심한 트랙터 부하**
 > 3. **센서 캘리브레이션 오차**
 
-#### **조치 방법**
+**조치 방법**
 
 > 1. **3단 히치에 작업기를 단단히 고정해서 유격이 없도록 조치한다.**
 > 2. **RPM을 올리거나 작업기를 올려 부하를 적게 받도록 조치한다.**
@@ -665,7 +665,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>등간격이 맞지 않는 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > 1. **작업기가 트랙터의 정중앙에 위치하지 않음**
 > 2. **작업기가 기울어져 편차 차이가 큼**
@@ -674,7 +674,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 > 5. **(000) 이전 S/W 버전의 GPS 이상으로 작업지 이동 시 등간격 틀어짐**
 > 6. **트랙터의 자체 수평제어 기능이 켜져있을 경우 < 현재 테스트 중**
 
-#### **조치 방법**
+**조치 방법**
 
 > 1. **링크 길이 확인 후 정중앙에 맞게 작업기 위치를 조정한다.**
 > 2. **수평계를 이용하여 작업기를 수평으로 맞춘다.**
@@ -700,7 +700,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/EasyCheck 주요 사용 기능.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [3..md](easycheck/3..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [3..md](easycheck/3..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -716,7 +716,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/실시간 모니터링 보는 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [4..md](easycheck/4..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [4..md](easycheck/4..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -732,7 +732,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/차량 데이터 수정 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [4..md](easycheck/4..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [4..md](easycheck/4..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -748,7 +748,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 <figure><img src=".gitbook/assets/작업기 데이터 수정 방법.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [4..md](easycheck/4..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [4..md](easycheck/4..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -771,7 +771,7 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 {% endhint %}
 
 {% hint style="warning" %}
-더 상세한 가이드를 보고싶다면?  \[ [7..md](easycheck/7..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [7..md](easycheck/7..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
@@ -780,18 +780,18 @@ AB커브 모드에서는 등간격 수가 좌, 우 1개로 고정된다. (변경
 
 <summary><strong>자율주행 전·후진 보정 수치 저장이 안 된 경우</strong></summary>
 
-#### 원인
+**원인**
 
 > **유효범위에 벗어난 값을 입력하면 입력한 수치가 저장되지않고 아래와 같은 팝업이 뜬다.**
 
 <figure><img src=".gitbook/assets/유효범위넘은 모달.png" alt=""><figcaption></figcaption></figure>
 
-#### 해결방안
+**해결방안**
 
 > **유효 범위 안에 있는 수치로만 입력한다.**
 
 {% hint style="warning" %}
-&#x20;더 상세한 가이드를 보고싶다면?  \[ [7..md](easycheck/7..md "mention") ] 참고한다.
+더 상세한 가이드를 보고싶다면? \[ [7..md](easycheck/7..md "mention") ] 참고한다.
 {% endhint %}
 
 </details>
