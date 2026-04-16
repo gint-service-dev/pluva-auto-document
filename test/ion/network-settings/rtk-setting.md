@@ -143,6 +143,26 @@ RTK 직접 수신 연결이 완료됩니다.
 {% endstep %}
 {% endstepper %}
 
+{% stepper %}
+{% step %}
+\[RTK 직접 수신 연결]에서 \[정보 입력]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/rtk-direct-receive-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+기지국/서버 정보를 입력한 뒤 \[연결]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/rtk-direct-receive-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+RTK 직접 수신 연결이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/rtk-direct-receive-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
 ***
 
 #### RTK 블루투스 연결
