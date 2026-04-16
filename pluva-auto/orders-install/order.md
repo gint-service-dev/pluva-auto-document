@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 1. 주문서 작성
 
 ## 1-1. 주문서 작성
@@ -13,17 +32,11 @@
 
 #### 1. 플루바 오토 어드민 \[주문 관리] > \[주문서 등록/조회] 메뉴에서 \[주문서 작성] 버튼을 클릭한다.
 
-
-
 <figure><img src="../.gitbook/assets/1-1-1. 주문서 작성 (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-#### 2. 플루바오토를 구매하는 사람의 정보를 입력한다.&#x20;
+#### 2. 플루바오토를 구매하는 사람의 정보를 입력한다.
 
 <figure><img src="../.gitbook/assets/1-1-2. 주문서 작성.png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### 3. \[고객 확인] 버튼을 눌러 신규/기존 고객 여부를 확인한다.
 
@@ -36,7 +49,7 @@
 *   구매 이력이 없는 고객 : "새로운 고객으로 등록됩니다" 표시
 
     <figure><img src="../.gitbook/assets/고객확인결과 새로운 고객.png" alt=""><figcaption></figcaption></figure>
-*   구매 이력이 있는 고객:  "기존 고객으로 확인되었습니다." 표시
+*   구매 이력이 있는 고객: "기존 고객으로 확인되었습니다." 표시
 
     <figure><img src="../.gitbook/assets/고객확인결과 기존고객.png" alt=""><figcaption></figcaption></figure>
 *   주문자의 휴대번호가 기존 고객의 휴대번호와 동일한 경우 기존 고객 정보를 사용하거나 다른 휴대번호를 입력해야 한다.
@@ -45,15 +58,13 @@
 
 </details>
 
-
-
-#### 4. 플루바오토를 설치할 차량의 정보를 입력한다.&#x20;
+#### 4. 플루바오토를 설치할 차량의 정보를 입력한다.
 
 <figure><img src="../.gitbook/assets/1-1-4. 주문서 작성.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
-<summary>풀세트와 반세트란? </summary>
+<summary>풀세트와 반세트란?</summary>
 
 * 풀세트
   * 플루바오토의 완전한 구성품으로 메인컨트롤러, 오토스티어, 인터페이스박스, 원터치스위치를 포함한다.
@@ -78,22 +89,18 @@
 
 </details>
 
-
-
 #### 5. 미리 고객에게 확인해두면 좋은 항목들을 체크리스트에서 확인하고 \[주문 완료] 버튼을 클릭한다.
 
 <figure><img src="../.gitbook/assets/1-1-5. 주문서 작성.png" alt=""><figcaption></figcaption></figure>
 
-> **ℹ️  체크리스트 항목을 미리 확인해두면 설치 당일 시간을 절약할 수 있다.**
+> **ℹ️ 체크리스트 항목을 미리 확인해두면 설치 당일 시간을 절약할 수 있다.**
 >
-> **ℹ️  항목에 체크하지 않아도 주문서를 작성할 수 있다. (필수 항목 아님)**
+> **ℹ️ 항목에 체크하지 않아도 주문서를 작성할 수 있다. (필수 항목 아님)**
 >
-> **ℹ️  Easy Setup에서도 체크리스트와 동일한 내용을 확인할 수 있다.**
-
-
+> **ℹ️ Easy Setup에서도 체크리스트와 동일한 내용을 확인할 수 있다.**
 
 #### **6. 작성한 주문서의 상세 정보를 확인한다.**
 
 <figure><img src="../.gitbook/assets/1-1-6. 주문서 작성.png" alt=""><figcaption></figcaption></figure>
 
-> **ℹ️  주문서 작성이 완료되면 설치티켓이 자동으로 발급된다.**
+> **ℹ️ 주문서 작성이 완료되면 설치티켓이 자동으로 발급된다.**

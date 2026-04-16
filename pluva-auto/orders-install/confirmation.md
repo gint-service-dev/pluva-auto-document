@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 3. 설치 담당자 확인사항
 
 ## 1-3. 설치 담당자 확인사항
@@ -19,4 +38,3 @@
 > * 고객이 안드로이드 스마트폰을 사용하고 있거나 플레이스토어에 로그인할 수 있는 구글 계정을 보유하고 있는지 확인한다.
 > * 플레이스토어 로그인은 고객에게 제공되는 태블릿에 플루바오토 앱과 가타카나 키보드를 설치하기 위해 필요하다.
 > * 안드로이드 스마트폰을 사용하고 있지 않거나 플레이스토어에 로그인할 수 있는 구글 계정이 없는 경우, 사전에 준비하도록 안내하거나 설치 시 계정 생성을 도와드린다.
-

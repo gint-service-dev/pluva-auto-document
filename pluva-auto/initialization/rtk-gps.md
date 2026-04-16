@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 1. RTK-GPS 데이터 설정
 
 ## 4-1. RTK-GPS 데이터 설정
@@ -10,19 +29,19 @@
 
 {% stepper %}
 {% step %}
-#### 스위치를 눌러 플루바오토의 전원을 켠다.
+**스위치를 눌러 플루바오토의 전원을 켠다.**
 {% endstep %}
 
 {% step %}
-#### RTK-GPS 앱이 설치된 스마트폰 또는 태블릿에서 블루투스를 켠다.
+**RTK-GPS 앱이 설치된 스마트폰 또는 태블릿에서 블루투스를 켠다.**
 {% endstep %}
 
 {% step %}
-#### RTK-GPS 앱을 실행한다.
+**RTK-GPS 앱을 실행한다.**
 {% endstep %}
 
 {% step %}
-#### 플루바오토 페어링을 진행한다.
+**플루바오토 페어링을 진행한다.**
 
 > 1. 호쿠렌 앱 사용 시: 접속 설정
 > 2. 데이터 전송
@@ -41,7 +60,7 @@
 {% endstep %}
 
 {% step %}
-#### 블루투스가 연결되었는지 확인한다.
+**블루투스가 연결되었는지 확인한다.**
 {% endstep %}
 {% endstepper %}
 
@@ -82,19 +101,19 @@
 
 {% stepper %}
 {% step %}
-#### 설정 화면에서 \[RTK 데이터 설정]을 선택한다.
+**설정 화면에서 \[RTK 데이터 설정]을 선택한다.**
 
 <figure><img src="../.gitbook/assets/4-1.직접 설정(1).png" alt="" width="371"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 메인컨트롤러를 선택한다.
+**메인컨트롤러를 선택한다.**
 
 <figure><img src="../.gitbook/assets/4-1.직접 설정(2).png" alt="" width="371"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### RTK-GPS 시스템 정보를 입력하고 \[저장]을 누른다.
+**RTK-GPS 시스템 정보를 입력하고 \[저장]을 누른다.**
 
 <figure><img src="../.gitbook/assets/4-1.직접 설정(3).png" alt="" width="371"><figcaption></figcaption></figure>
 {% endstep %}

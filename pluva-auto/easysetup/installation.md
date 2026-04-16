@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 1. 설치 정보 확인
 
 ## 3-1. 설치 정보 확인
@@ -8,28 +27,20 @@
 
 {% stepper %}
 {% step %}
-#### 1. <mark style="color:$primary;">Easy Setup</mark> 페이지에 접속한다.
+**1.&#x20;**<mark style="color:$primary;">**Easy Setup**</mark>**&#x20;페이지에 접속한다.**
 
 <figure><img src="../.gitbook/assets/3-1-1. 설치 정보 확인.png" alt="" width="371"><figcaption></figcaption></figure>
-
-
-
-
 {% endstep %}
 
 {% step %}
-#### 티켓번호에 맞는 설치키를 입력하고 <mark style="color:$primary;">\[설치 정보 확인]</mark>을 누른다.
+**티켓번호에 맞는 설치키를 입력하고&#x20;**<mark style="color:$primary;">**\[설치 정보 확인]**</mark>**을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-1-2. 설치 정보 확인.png" alt="" width="371"><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
-#### 설치에 필요한 상세 정보를 확인하고 <mark style="color:$primary;">\[확인]</mark>을 누른다.
+**설치에 필요한 상세 정보를 확인하고&#x20;**<mark style="color:$primary;">**\[확인]**</mark>**을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-1-3. 설치 정보 확인.png" alt="" width="371"><figcaption></figcaption></figure>
-
-
 {% endstep %}
 {% endstepper %}

@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 1. 플루바오토 구성품 준비
 
 ## 2-1. 플루바 오토 구성품 준비
@@ -32,7 +51,7 @@
 
 <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치.png" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="99.7890625">용도</th><th>크기</th></tr></thead><tbody><tr><td>용도</td><td><p></p><ul><li>어플리케이션 및 원터치 스위치를 통해 자율주행 조작이 가능</li><li>직관적인 사용법으로 누구나 쉽게 경로를 생성하고 주행이 가능</li></ul></td></tr><tr><td>크기</td><td>76 X 151 X 18 (가로X세로X높이)</td></tr><tr><td>무게</td><td>0.144 kg</td></tr><tr><td>재질</td><td>ABS</td></tr><tr><td>핵심기술</td><td><ol><li>직진/후진/선회주행 설정</li><li>방수 방진 IP 67</li></ol></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="99.7890625">용도</th><th>크기</th></tr></thead><tbody><tr><td>용도</td><td><ul><li>어플리케이션 및 원터치 스위치를 통해 자율주행 조작이 가능</li><li>직관적인 사용법으로 누구나 쉽게 경로를 생성하고 주행이 가능</li></ul></td></tr><tr><td>크기</td><td>76 X 151 X 18 (가로X세로X높이)</td></tr><tr><td>무게</td><td>0.144 kg</td></tr><tr><td>재질</td><td>ABS</td></tr><tr><td>핵심기술</td><td><ol><li>직진/후진/선회주행 설정</li><li>방수 방진 IP 67</li></ol></td></tr></tbody></table>
 
 #### 📱 버튼별 역할
 
@@ -40,23 +59,21 @@
 
 <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치 버튼역할(2).png" alt=""><figcaption></figcaption></figure>
 
-
-
 <div><figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(부팅중).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>부팅 중</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(연결중).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>연결 중</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(OTA 진행중).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>OTA 진행 중</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(준비완료).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>준비 완료</strong></mark></p></figcaption></figure></div>
 
 | 부팅 중                                       | 연결 중                                            |
 | ------------------------------------------ | ----------------------------------------------- |
 | <ul><li>LDE 화면에 PLUVA 로고가 표시됩니다.</li></ul> | <ul><li>LCD 화면상의 GPS의 문자가 녹색으로 점등됩니다.</li></ul> |
 
-| OTA 진행 중                                                                            | 준비 완료                                      |
-| ----------------------------------------------------------------------------------- | ------------------------------------------ |
-| <p></p><ul><li>업데이트가 필요할 경우 진행을 합니다.</li><li>LED 화면상의 단말기 OTA 종료으로 표시됩니다.</li></ul> | <ul><li>연결 완료가 되면 해당 이미지가 표시됩니다.</li></ul> |
+| OTA 진행 중                                                                     | 준비 완료                                      |
+| ---------------------------------------------------------------------------- | ------------------------------------------ |
+| <ul><li>업데이트가 필요할 경우 진행을 합니다.</li><li>LED 화면상의 단말기 OTA 종료으로 표시됩니다.</li></ul> | <ul><li>연결 완료가 되면 해당 이미지가 표시됩니다.</li></ul> |
 
 <div><figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(구간 지정 A점).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>구간 지정 (A점)</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(구간 지정 B점).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>구간 지정 (B점)</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(자율주행 준비).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>자율주행 준비</strong></mark></p></figcaption></figure> <figure><img src="../.gitbook/assets/2-1-1.원터치 스위치(자율주행 중).png" alt=""><figcaption><p><mark style="color:$primary;"><strong>자율주행 중</strong></mark></p></figcaption></figure></div>
 
-| 구간 지정 (A 점)                                                                                                | 구간 지정 (B 점)                                                                 |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <p></p><ul><li>주행모드 선택 후 직진 주행을 누르면 해당 아이콘이 나옵니다.</li><li>AB직선 모드를 선택하면 B점 화면이 신지 선택 화면으로 전환됩니다.</li></ul> | <ul><li>10M 이상 주행 후 B지점 선택 화면이 표시됩니다.</li><li>B 지점 선택화면으로 전환 됩니다.</li></ul> |
+| 구간 지정 (A 점)                                                                                         | 구간 지정 (B 점)                                                                 |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <ul><li>주행모드 선택 후 직진 주행을 누르면 해당 아이콘이 나옵니다.</li><li>AB직선 모드를 선택하면 B점 화면이 신지 선택 화면으로 전환됩니다.</li></ul> | <ul><li>10M 이상 주행 후 B지점 선택 화면이 표시됩니다.</li><li>B 지점 선택화면으로 전환 됩니다.</li></ul> |
 
 | 자율주행 준비                                                          | 자율주행 중                                                                                                        |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |

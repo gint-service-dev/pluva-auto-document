@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 5. 계정 생성/확인
 
 ## 3-5. 계정 생성
@@ -10,7 +29,7 @@
 
 {% stepper %}
 {% step %}
-#### \[인증 요청]을 누른다.
+**\[인증 요청]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (1).png" alt="" width="383"><figcaption></figcaption></figure>
 
@@ -24,7 +43,7 @@
 {% endstep %}
 
 {% step %}
-#### 고객의 휴대전화 메시지로 수신한 인증번호를 입력한다.
+**고객의 휴대전화 메시지로 수신한 인증번호를 입력한다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (2).png" alt="" width="372"><figcaption></figcaption></figure>
 
@@ -32,31 +51,31 @@
 {% endstep %}
 
 {% step %}
-#### \[확인]을 누른다.
+**\[확인]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (3).png" alt="" width="372"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 휴대번호 인증 완료.  \[다음]을 누른다.
+**휴대번호 인증 완료.  \[다음]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (4).png" alt="" width="379"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 휴대번호 인증 완료.  \[다음]을 누른다.
+**휴대번호 인증 완료.  \[다음]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (5).png" alt="" width="372"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 계정 정보를 확인하고 \[완료]를 눌러 Easy Setup을 끝낸다.
+**계정 정보를 확인하고 \[완료]를 눌러 Easy Setup을 끝낸다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (6).png" alt="" width="372"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Easy Setup 완료
+**Easy Setup 완료**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 받음 (7).png" alt="" width="372"><figcaption></figcaption></figure>
 
@@ -84,7 +103,7 @@
 
 {% stepper %}
 {% step %}
-#### \[인증 요청]을 누른다.
+**\[인증 요청]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (1).png" alt="" width="342"><figcaption></figcaption></figure>
 
@@ -94,43 +113,43 @@
 {% endstep %}
 
 {% step %}
-#### \[인증 번호를 받지 못했나요?]을 누른다.
+**\[인증 번호를 받지 못했나요?]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (2).png" alt="" width="339"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 팝업창에서 \[담당자 권한으로 인증]을 누른다.
+**팝업창에서 \[담당자 권한으로 인증]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (3).png" alt="" width="339"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 담당자 이름과 휴대번호를 입력한다.
+**담당자 이름과 휴대번호를 입력한다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (4).png" alt="" width="339"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 아래 확인사항을 체크한 다음 \[휴대번호 인증]을 누른다.
+**아래 확인사항을 체크한 다음 \[휴대번호 인증]을 누른다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (5).png" alt="" width="347"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 고객의 이메일 주소를 입력하고 \[다음]을 누른다. (선택 입력 사항)
+**고객의 이메일 주소를 입력하고 \[다음]을 누른다. (선택 입력 사항)**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (6).png" alt="" width="372"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### 계정 정보를 확인하고 \[완료]를 눌러 Easy Setup을 끝낸다.
+**계정 정보를 확인하고 \[완료]를 눌러 Easy Setup을 끝낸다.**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (7).png" alt="" width="372"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Easy Setup 완료
+**Easy Setup 완료**
 
 <figure><img src="../.gitbook/assets/3-5. 계정생성-인증번호 못받음 (8).png" alt="" width="372"><figcaption></figcaption></figure>
 
