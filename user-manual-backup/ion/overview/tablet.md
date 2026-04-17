@@ -53,9 +53,7 @@ metaLinks:
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
 * 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
-*   유턴 중: 즉시 유턴을 우측으로 실행합니다.
-
-
+* 유턴 중: 즉시 유턴을 우측으로 실행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -190,23 +188,19 @@ metaLinks:
 
 #### 시스템 상태 아이콘 <a href="#system-icon" id="system-icon"></a>
 
-
-
 1. RTK 통신 상태
 
 * 위성 신호 수신 상태를 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/network-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-> <img src="../../.gitbook/assets/status-bar-gps-fixed (2).png" alt="" data-size="line"> : 위성 신호 우수
+> <img src="../../.gitbook/assets/status-bar-gps-fixed (1).png" alt="" data-size="line"> : 위성 신호 우수
 >
 > <img src="../../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line"> : 위성 신호 보통
 >
 > <img src="../../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line"> : 위성 신호 나쁨
 >
 > <img src="../../.gitbook/assets/status-bar-gps-not-fixed (1).png" alt="" data-size="line"> : 신호 없음
-
-
 
 2. 네트워크 통신 상태
 
@@ -230,8 +224,6 @@ OTA(무선 소프트웨어 업데이트) 및 엔터테인먼트(Youtube) 이용 
 USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습니다. 접속이 확인될 때까지 전원을 끄지 말고 기다려 주십시오.
 {% endhint %}
 
-
-
 3. 현재 작업 라인
 
 * 현재 작업 중인 줄(라인)의 위치를 표시합니다.
@@ -239,19 +231,14 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-work-line.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-
-
 4. 현재 온도
 
 * 현재 작업 위치의 실시간 기온을 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-temperature.png" alt="" width="82"><figcaption></figcaption></figure></div>
 
-
-
 5. 현재 시간
 
 * 시스템 시간을 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-time.png" alt="" width="98"><figcaption></figcaption></figure></div>
-

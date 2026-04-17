@@ -34,14 +34,14 @@
 
 <figure><img src="../.gitbook/assets/entertainment-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../.gitbook/assets/icon-square-1-1.svg) **YouTube 동영상 플레이어**
+![](../.gitbook/assets/icon-square-1.svg) **YouTube 동영상 플레이어**
 
 * YouTube 영상을 검색하고 재생합니다. 재생 중에도 주행 화면은 실시간으로 업데이트됩니다.
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **닫기 아이콘**
+![](../.gitbook/assets/icon-square-2.svg) **닫기 아이콘**
 
 * YouTube 플레이어를 닫습니다.
 
-&#x20;![](../.gitbook/assets/icon-square-3.svg) **크게 보기 버튼**
+![](../.gitbook/assets/icon-square-3.svg) **크게 보기 버튼**
 
 * YouTube 플레이어 영역을 지도 영역 전체로 확대합니다.

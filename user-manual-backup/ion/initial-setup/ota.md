@@ -46,16 +46,16 @@ metaLinks:
 
 플루바 아이온의 업데이트는 내용과 중요도에 따라 다음과 같이 안내됩니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-1.svg) **필수 업데이트**
+![](../../.gitbook/assets/icon-square-1.svg) **필수 업데이트**
 
 * 안전/안정성에 영향을 줄 수 있어 반드시 설치해야 하는 업데이트입니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **선택 업데이트**
+![](../../.gitbook/assets/icon-square-2.svg) **선택 업데이트**
 
 * 편의 기능 개선이나 경미한 변경사항으로, 원하는 시점에 설치할 수 있는 업데이트입니다.
   * 설치하지 않아도 현재 버전으로 계속 사용 가능합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **긴급 업데이트**
+![](../../.gitbook/assets/icon-square-3.svg) **긴급 업데이트**
 
 * 중요한 문제를 빠르게 해결해야 하는 경우로, 즉시 업데이트가 필요합니다.
 
@@ -91,7 +91,5 @@ metaLinks:
 
 {% step %}
 **재부팅 후 업데이트 적용**
-
-
 {% endstep %}
 {% endstepper %}
