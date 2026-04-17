@@ -216,7 +216,7 @@ metaLinks:
 {% step %}
 제품 개통이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12751-32758&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -224,4 +224,4 @@ metaLinks:
 제품 개통이 완료되면 설치 티켓에 등록된 제품의 시리얼 번호, 구성품 정보를 확인할 수 있습니다.
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12751-33217&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/enter-ticketdetail-6-1.png" alt=""><figcaption></figcaption></figure>
