@@ -84,46 +84,48 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-registration-screen-0.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **주소 검색으로 필드 선택**
+![](../../.gitbook/assets/icon-square-1.svg) **주소 검색으로 필드 선택**
 
-* 주소 검색으로 필드를 선택합니다.
-  *
+*   주소 검색으로 필드를 선택합니다. \*
 
-      <figure><img src="../../.gitbook/assets/field-registration-screen-1.png" alt=""><figcaption></figcaption></figure>
+    ```
+    <figure><img src="../../.gitbook/assets/field-registration-screen-1.png" alt=""><figcaption></figcaption></figure>
+    ```
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **직접 그리기**
+![](../../.gitbook/assets/icon-square-2.svg) **직접 그리기**
 
-* 필드 영역을 직접 점을 찍어 생성합니다.
-  *
+*   필드 영역을 직접 점을 찍어 생성합니다. \*
 
-      <figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt=""><figcaption></figcaption></figure>
+    ```
+    <figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt=""><figcaption></figcaption></figure>
+    ```
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **지도에서 선택**
+![](../../.gitbook/assets/icon-square-3.svg) **지도에서 선택**
 
 * 지도에서 필드를 직접 눌러 선택합니다. \[지도에서 등록]이 기본으로 설정되어있습니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **이전**
+![](../../.gitbook/assets/icon-square-4.svg) **이전**
 
 * 이전 단계로 돌아갑니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **다음**
+![](../../.gitbook/assets/icon-square-5.svg) **다음**
 
 * 다음 단계로 넘어갑니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **나가기**
+![](../../.gitbook/assets/icon-square-6.svg) **나가기**
 
 * 필드 추가하기 화면에서 나갑니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-7.svg) **내 위치로 가기**
+![](../../.gitbook/assets/icon-square-7.svg) **내 위치로 가기**
 
 * 현재 내 위치로 지도를 이동합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-8.svg) **진(출)입로 설정**
+![](../../.gitbook/assets/icon-square-8.svg) **진(출)입로 설정**
 
 * 진출입로 위치를 설정합니다. 필드를 선택한 후 해당 버튼을 사용할 수 있습니다. 진출입로는 같은 위치로 설정하거나, 각각 따로 설정할 수 있으며, 수정 버튼을 통해\
   위치를 변경할 수 있습니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-9.svg) **경계 등록 완료**
+![](../../.gitbook/assets/icon-square-9.svg) **경계 등록 완료**
 
 * 경계 등록을 완료합니다. 진출입로를 선택한 후 해당 버튼을 사용할 수 있습니다.
 
@@ -133,22 +135,22 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/register-on-a-map.png" alt="" width="233"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 이름**
+![](../../.gitbook/assets/icon-square-1.svg) **필드 이름**
 
 * 대표로 표기할 필드 이름을 입력합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **농장**
+![](../../.gitbook/assets/icon-square-2.svg) **농장**
 
 * 필드와 연결할 농장을 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **농장 소유자**
+![](../../.gitbook/assets/icon-square-3.svg) **농장 소유자**
 
 * 필드와 연결할 농장 소유자를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **작물**
+![](../../.gitbook/assets/icon-square-4.svg) **작물**
 
 * 현재 필드에서 작업 중인 작물을 추가합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **메모**
+![](../../.gitbook/assets/icon-square-5.svg) **메모**
 
 * 추가적인 정보를 메모로 남깁니다.

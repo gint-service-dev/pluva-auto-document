@@ -15,9 +15,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/
+metaLinks: {}
 ---
 
 # pluva ion Service Manual
@@ -34,8 +32,6 @@ metaLinks:
 
 </details>
 
-
-
 ### 영상 가이드 <a href="#guide" id="guide"></a>
 
 메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
@@ -47,8 +43,6 @@ metaLinks:
 {% hint style="info" %}
 [다른 영상 가이드도 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
 {% endhint %}
-
-
 
 ### 목차
 
@@ -74,7 +68,4 @@ metaLinks:
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
-
-
 </details>
-

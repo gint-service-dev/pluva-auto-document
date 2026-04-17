@@ -104,8 +104,6 @@ metaLinks:
 {% endstep %}
 {% endstepper %}
 
-
-
 2. **직진 조향 보정**
 
 {% stepper %}
@@ -174,29 +172,27 @@ metaLinks:
 {% step %}
 안내에 따라 핸들을 왼쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 오른쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 이용하여 바퀴를 중앙에 위치시키고 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 핸들 범위 보정 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 2. **직진 조향 보정**
 
@@ -247,8 +243,6 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/leeangi-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 3. **조향 각도 보정**
 
@@ -314,8 +308,6 @@ metaLinks:
   * 직진 조향 보정
 * **2회차 (배속턴 ON 상태)**
   * 직진 조향 보정
-
-
 
 {% stepper %}
 {% step %}

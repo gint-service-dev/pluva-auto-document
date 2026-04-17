@@ -25,8 +25,6 @@ metaLinks:
 
 위치 보정은 RTK 등의 보정 신호를 연결해 위치 정확도를 높이는 설정입니다. 현장 환경에 맞는 방식을 선택해 연결 상태를 구성합니다.
 
-
-
 #### 위치 보정은 무엇인가요?
 
 위성 신호가 계산한 “기본 위치”에서 오차를 줄이는 보정 정보를 받아 정밀도를 올리는 작업입니다.\
@@ -46,7 +44,7 @@ metaLinks:
 {% step %}
 \[네트워크 설정]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/enter-network-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -68,11 +66,11 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **RTK 직접 수신 연결**
+![](../../.gitbook/assets/icon-square-1.svg) **RTK 직접 수신 연결**
 
 * 서버 정보를 입력해 보정 신호를 직접 수신합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **RTK 블루투스 연결**
+![](../../.gitbook/assets/icon-square-2.svg) **RTK 블루투스 연결**
 
 * 스마트폰의 외부 앱을 통해 보정 신호를 받은 뒤, 블루투스로 연결합니다.\
   외부 앱이 꺼지면 보정 신호가 끊길 수 있습니다.
@@ -140,7 +138,7 @@ RTK 블루투스 연결의 \[선택]을 누릅니다.
 {% step %}
 연결이 완료되면 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

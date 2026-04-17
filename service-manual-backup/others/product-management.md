@@ -28,7 +28,7 @@
 
 <figure><img src="../.gitbook/assets/product-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1-1.svg) **상태**
+![](../.gitbook/assets/icon-square-1.svg) **상태**
 
 * 구분: 개통, 미개통
 
@@ -42,11 +42,11 @@
 
 * 구분: 판매용, 서비스용, 테스트용
 
-![](../.gitbook/assets/icon-square-3-3.svg) **담당 조직**
+![](../.gitbook/assets/icon-square-3.svg) **담당 조직**
 
-![](../.gitbook/assets/icon-square-4-4.svg) **제조일**
+![](../.gitbook/assets/icon-square-4.svg) **제조일**
 
-![](../.gitbook/assets/icon-square-5-5.svg) **태블릿 시리얼 번호**
+![](../.gitbook/assets/icon-square-5.svg) **태블릿 시리얼 번호**
 
 ![](../.gitbook/assets/icon-square-6.svg) **현재 소프트웨어 버전**
 
@@ -74,9 +74,9 @@
 
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt="" width="288"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1-1.svg) **상태**
+![](../.gitbook/assets/icon-square-1.svg) **상태**
 
 * 구분: 개통, 미개통
 
@@ -90,11 +90,11 @@
 
 * 구분: 판매용, 서비스용, 테스트용
 
-![](../.gitbook/assets/icon-square-3-3.svg) **태블릿 시리얼 번호**
+![](../.gitbook/assets/icon-square-3.svg) **태블릿 시리얼 번호**
 
-![](../.gitbook/assets/icon-square-4-4.svg) **담당 조직**
+![](../.gitbook/assets/icon-square-4.svg) **담당 조직**
 
-![](../.gitbook/assets/icon-square-5-5.svg) **제조일**
+![](../.gitbook/assets/icon-square-5.svg) **제조일**
 
 ![](../.gitbook/assets/icon-square-6.svg) **현재 소프트웨어 버전**
 

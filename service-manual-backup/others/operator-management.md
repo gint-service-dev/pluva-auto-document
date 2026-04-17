@@ -64,7 +64,7 @@
 <figure><img src="../.gitbook/assets/operator-management-account-add-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**계정 생성 시 임시 비밀번호가 입력한 이메일로 발송됩니다.** \
+**계정 생성 시 임시 비밀번호가 입력한 이메일로 발송됩니다.**\
 이메일이 수신되지 않는 경우, 스팸 메일함을 확인하세요.
 {% endhint %}
 {% endstep %}
@@ -84,7 +84,7 @@
 {% step %}
 변경할 부분을 변경하고 \[수정 완료]를 누릅니다.
 
-<figure><img src="../.gitbook/assets/operator-management-account-edit-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/operator-management-account-add-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -138,9 +138,9 @@
 
 #### PC 환경
 
-<figure><img src="../.gitbook/assets/operator-management-account-list-pc-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/operator-management-account-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1-1.svg) 상태
+![](../.gitbook/assets/icon-square-1.svg) 상태
 
 ![](../.gitbook/assets/icon-square-2.svg) 이름
 
@@ -150,7 +150,7 @@
 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4-4.svg) 역할
+![](../.gitbook/assets/icon-square-4.svg) 역할
 
 ![](../.gitbook/assets/icon-square-5.svg) 생성일
 
@@ -168,13 +168,11 @@
 
 * 조직에 대한 정보를 표시합니다.
 
-
-
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/operator-management-account-list-mobile-1.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/operator-management-account-detail-mobile-1.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
-![](../.gitbook/assets/icon-square-1-1.svg) 상태
+![](../.gitbook/assets/icon-square-1.svg) 상태
 
 ![](../.gitbook/assets/icon-square-2.svg) 이름
 
@@ -184,7 +182,7 @@
 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4-4.svg) 역할
+![](../.gitbook/assets/icon-square-4.svg) 역할
 
 ![](../.gitbook/assets/icon-square-5.svg) 생성일
 

@@ -23,7 +23,7 @@ metaLinks:
 
 # 구성품 준비
 
-제품 설치를 위해 필요 구성품을 준비합니다.&#x20;
+제품 설치를 위해 필요 구성품을 준비합니다.
 
 ***
 
@@ -46,8 +46,6 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <table data-header-hidden><thead><tr><th width="100.4921875"></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>노란색 점멸</td></tr><tr><td>상태</td><td>정상</td><td>오류 발생</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-left-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-left-yellow.png" alt=""></td></tr></tbody></table>
 
-
-
 2. 중앙 LED
    1. GNSS 보정 정보 수신 여부
 
@@ -55,9 +53,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 상태 구분
 
-<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>정상</td><td>5초 이상 미수신</td><td>60초 이상 미수신 (또는 수신된적 없음)</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-off.png" alt=""></td></tr></tbody></table>
-
-
+<table data-header-hidden><thead><tr><th width="99.57421875"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>색상</td><td>파란색 (점등)</td><td>파란색 점멸</td><td>OFF</td></tr><tr><td>상태</td><td>정상</td><td>5초 이상 미수신</td><td>60초 이상 미수신 (또는 수신된적 없음)</td></tr><tr><td>이미지</td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blue.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-middle-blinking.png" alt=""></td><td><img src="../../.gitbook/assets/gnss-receiver-right-off.png" alt=""></td></tr></tbody></table>
 
 3. 우측 LED
    1. GNSS RTK 상태
@@ -78,8 +74,6 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/electric-steering-wheel-description.png" alt=""><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/1.svg) 핸들
 
 ![](../../.gitbook/assets/2.svg) 모터
@@ -96,7 +90,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 태블릿은 자율주행 시스템의 디스플레이입니다. 작업 경로 설정, 주행 상태 모니터링, 시스템 제어 및 설정을 수행하며, 실시간 위치/주행 정보/오류 상태를 확인할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-description-1.png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/tablet-description-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,15 +112,13 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 태블릿 전원으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우, 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/3.svg) 우측(▶)
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
 * 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
-*   유턴 중: 즉시 유턴을 우측으로 실행합니다.
-
-
+* 유턴 중: 즉시 유턴을 우측으로 실행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
@@ -191,10 +183,6 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 트랙터 뒤쪽 상부에 카메라를 설치하며, 후방 작업을 모니터링합니다.
 
 <figure><img src="../../.gitbook/assets/camera-direction.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-
 
 ***
 
@@ -281,4 +269,3 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
   * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
-

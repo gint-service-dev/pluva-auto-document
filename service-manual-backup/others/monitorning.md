@@ -41,7 +41,7 @@ metaLinks:
 {% hint style="warning" %}
 **네트워크 확인 요청**
 
-* 화면 멈춤이나 오류를 방지하기 위해 **고객의 네트워크 상태를 확인**합니다.&#x20;
+* 화면 멈춤이나 오류를 방지하기 위해 **고객의 네트워크 상태를 확인**합니다.
 * **셀룰러 또는 신호가 안정적인 환경에서 진행하는 것을 권장**합니다.
 {% endhint %}
 
@@ -50,8 +50,6 @@ metaLinks:
 
 * 안전상의 이유로, **반드시 고객이 차량에 탑승한 상태에서만** 원격 지원을 진행합니다.
 {% endhint %}
-
-
 
 ***
 
@@ -167,7 +165,7 @@ metaLinks:
 <img src="../.gitbook/assets/monitoring-stop-madal.png" alt="" data-size="original">
 {% endhint %}
 
-3. **접속 불가능**&#x20;
+3. **접속 불가능**
 
 * 원격 지원 코드가 발급되지 않았거나 만료된 상태입니다.
 * 이 상태에서는 **\[원격 접속]** 버튼이 비활성화됩니다.
@@ -184,47 +182,44 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/monitorning-description-pc.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;![](../.gitbook/assets/icon-square-1-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
+![](../.gitbook/assets/icon-square-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
+![](../.gitbook/assets/icon-square-2.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+![](../.gitbook/assets/icon-square-3.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
+![](../.gitbook/assets/icon-square-4.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
 *
 
-    <figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
+```
 
-&#x20;![](../.gitbook/assets/icon-square-5-5.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
+![](../.gitbook/assets/icon-square-5.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+![](../.gitbook/assets/icon-square-6.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-7.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
-
-
+![](../.gitbook/assets/icon-square-7.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
 
 #### 모바일 환경
 
 <div align="left"><figure><img src="../.gitbook/assets/monitorning-description-mo.png" alt="" width="293"><figcaption></figcaption></figure></div>
 
-&#x20;![](../.gitbook/assets/icon-square-1-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
+![](../.gitbook/assets/icon-square-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-2.svg) **크게 보기 모드 버튼**: 원격 지원 화면을 가로로 전환해 더 크게 볼 수 있습니다.
-
-
+![](../.gitbook/assets/icon-square-2.svg) **크게 보기 모드 버튼**: 원격 지원 화면을 가로로 전환해 더 크게 볼 수 있습니다.
 
 <figure><img src="../.gitbook/assets/monitorning-biggermode.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../.gitbook/assets/icon-square-3-3.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
+![](../.gitbook/assets/icon-square-3.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
 
-&#x20;![](../.gitbook/assets/icon-square-4-4.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+![](../.gitbook/assets/icon-square-4.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-5-5.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
+![](../.gitbook/assets/icon-square-5.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
-&#x20;![](../.gitbook/assets/icon-square-6-6.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
+![](../.gitbook/assets/icon-square-6.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-7.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+![](../.gitbook/assets/icon-square-7.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
 
-&#x20;![](../.gitbook/assets/icon-square-8.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
-
+![](../.gitbook/assets/icon-square-8.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
