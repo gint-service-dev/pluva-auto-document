@@ -14,13 +14,13 @@
 {% step %}
 좌측 메뉴에서 **계정 관리**를 선택합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12212-28093&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/account-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 계정 항목을 선택하면 계정 상세 진입이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12212-26841&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@
 
 #### PC 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12212-29935&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/account-management-list-pc-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) 계정 이름
 
@@ -70,7 +70,7 @@
 
 #### 모바일 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12212-29365&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/account-management-list-mobile-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) 계정 이름
 
