@@ -10,13 +10,13 @@
 {% step %}
 사이드바에서 \[제품 관리]를 누르고 원하는 항목을 선택합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12075-91804&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/product-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 제품 목록 상세 진입이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12075-92268&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/product-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -26,7 +26,7 @@
 
 #### PC 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12085-96506&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/product-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1-1.svg) **상태**
 
@@ -74,7 +74,7 @@
 
 #### 모바일 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12085-96505&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1-1.svg) **상태**
 
