@@ -32,36 +32,30 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[경계 완료]를 선택합니다.&#x20;
+\[경계 완료]를 선택합니다.
 
 {% hint style="info" %}
-**최소 설정 점수**&#x20;
+**최소 설정 점수**
 
-경로를 생성하려면 최소 4점(A\~D)을 설정해야 합니다.&#x20;
+경로를 생성하려면 최소 4점(A\~D)을 설정해야 합니다.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **최대 추가 점수**\
-최대 4점까지 추가할 수 있습니다.&#x20;
+최대 4점까지 추가할 수 있습니다.
 {% endhint %}
 
 {% hint style="info" %}
 **포인트 수정**\
 설정 직후 해당 점의 **수정** 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
-{% endhint %}
 
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-6.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/cross-path-adjustment.png" alt="" data-size="original">
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -73,18 +67,16 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 {% step %}
 격자 라인 생성이 완료되면 작업 경로를 설정하고 \[주행 시작]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/cross-path-adjustment.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 격자 경로는 선택한 기준변에 평행한 방향으로 생성됩니다.
 {% endhint %}
 
 {% hint style="info" %}
-**작업 경로 기준 변 상태**&#x20;
+**작업 경로 기준 변 상태**
 
 아래 표시 형식에 따라 기준변 상태를 구분합니다.
-
-
 
 * **선택 가능:** ![](<../../.gitbook/assets/Group 1000001098.svg>)
 * **선택 불가능:** ![](<../../.gitbook/assets/Group 1000001099.svg>)
@@ -92,8 +84,8 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 {% endhint %}
 
 {% hint style="info" %}
-**작업 경로 기준변 선택 조건** \
-두 기준변은 아래 조건을 모두 충족해야 선택할 수 있습니다. 조건을 충족하지 못하는 변은 선택 항목으로 노출되지않습니다. \
+**작업 경로 기준변 선택 조건**\
+두 기준변은 아래 조건을 모두 충족해야 선택할 수 있습니다. 조건을 충족하지 못하는 변은 선택 항목으로 노출되지않습니다.\
 \
 **조건 1. 두 기준변의 사이각이 45도 이상**
 
