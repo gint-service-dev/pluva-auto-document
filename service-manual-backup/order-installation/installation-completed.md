@@ -45,7 +45,7 @@ metaLinks:
 {% step %}
 \[설치 완료 확인]을 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12075-67246&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/installation-completion-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **설치 완료 처리 전 유심 정보를 반드시 등록해주세요.**
@@ -53,7 +53,7 @@ metaLinks:
 유심 정보는 유심 카드에 부착된 바코드를 스캔하면 등록할 수 있습니다.
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12751-33675&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/installation-completion-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
