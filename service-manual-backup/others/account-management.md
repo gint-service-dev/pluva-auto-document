@@ -32,7 +32,7 @@
 
 #### PC 환경
 
-<figure><img src="../.gitbook/assets/account-management-list-pc-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) 계정 이름
 
@@ -70,7 +70,7 @@
 
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/account-management-list-mobile-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/account-management-detail-mobile-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) 계정 이름
 
