@@ -21,7 +21,7 @@
 {% step %}
 주행모드 목록에서 격자주행을 선택합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-105851&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -31,13 +31,13 @@
 A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더리)를 지정하는 작업입니다. 설정한 포인트를 꼭지점으로 하는 다각형 영역이 바운더리로 확정되며, 격자 경로는 이 바운더리 안쪽으로 자동 생성됩니다.
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-106349&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107026&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107025&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107024&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -49,7 +49,7 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 경로를 생성하려면 최소 4점(A\~D)을 설정해야 합니다.&#x20;
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107093&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **최대 추가 점수**\
@@ -61,19 +61,19 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 설정 직후 해당 점의 **수정** 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107699&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 격자 라인이 자동 생성됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-107700&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 격자 라인 생성이 완료되면 작업 경로를 설정하고 \[주행 시작]을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-108552&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/cross-path-adjustment.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 격자 경로는 선택한 기준변에 평행한 방향으로 생성됩니다.
@@ -108,7 +108,7 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 {% step %}
 작업 경로 설정이 완료됩니다. \[자율주행 시작] 버튼을 누르면 선택한 방향의 경로를 따라 자율주행이 시작됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2651-108542&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/Group 1000001420.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **사전 설정 항목**\
