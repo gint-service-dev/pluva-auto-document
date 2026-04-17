@@ -191,19 +191,19 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 등록 옵션 선택 팝업에서 차량으로 등록을 선택하고 \[확인]을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-240759&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량으로 등록 화면에 진입합니다. 차량을 필드의 각 꼭지점으로 이동한 후 버튼을 눌러 점을 설정합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2818-210731&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-242771&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-242770&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-243052&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 설정 직후 해당 점의 **수정** 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
@@ -217,7 +217,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고 진입로, 진출로 설정 버튼을 눌러 설정합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-243368&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
@@ -231,13 +231,13 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 {% step %}
 각 점과 진출로 설정이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-243368&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 필드 정보 입력 화면에서 필지 이름, 농장, 작물 등을 입력합니다. **등록**을 누르면 필지 등록이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-243810&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -245,7 +245,7 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 #### 화면 버튼 안내
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-245621&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **미니맵**
 
@@ -275,7 +275,7 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 ### 차량에서 필드 등록 모달 설명
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2819-245622&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/field-add-vehicle-register-modal-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 이름**
 
