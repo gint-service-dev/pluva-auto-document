@@ -14,13 +14,13 @@
 {% step %}
 좌측 메뉴에서 오퍼레이터 관리를 선택합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12361-31821&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 하위 메뉴에서 오퍼레이터 계정 목록을 선택하면 계정 목록 화면으로 이동합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12361-32377&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,13 +32,13 @@
 {% step %}
 오퍼레이터 목록 화면 오른쪽 위의 \[계정 생성] 버튼을 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-34007&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-add-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 아래 항목을 입력합니다. \* 표시 항목은 반드시 입력해야 합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-34006&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-add-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 소속 조직은 이 계정의 관리 범위를 결정합니다. 소속 조직에 따라 조회 가능한 제품·계정·이력 정보가 달라집니다.
@@ -61,7 +61,7 @@
 {% step %}
 모든 필수 항목을 입력하면 \[계정 생성] 버튼이 활성화됩니다. 버튼을 눌러 계정 생성을 완료합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-33423&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-add-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **계정 생성 시 임시 비밀번호가 입력한 이메일로 발송됩니다.** \
@@ -78,19 +78,19 @@
 {% step %}
 오퍼레이션 상세에서 ![](../.gitbook/assets/ic_more.svg)버튼을 누르고 \[수정]을 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-35597&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-edit-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 변경할 부분을 변경하고 \[수정 완료]를 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-35584&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-edit-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 수정이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12417-34461&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-edit-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -108,19 +108,19 @@
 {% step %}
 오퍼레이터 상세에서 ![](../.gitbook/assets/ic_more.svg)버튼을 누르고 \[비활성화]를 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12467-35598&t=KUot4efSPEjFmK0G-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-status-toggle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 확인 팝업에서 \[확인] 버튼을 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12467-36754&t=KUot4efSPEjFmK0G-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-status-toggle-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 비활성화가 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12467-35786&t=KUot4efSPEjFmK0G-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-status-toggle-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -128,7 +128,7 @@
 비활성 상태 계정에선 비활성화 옵션대신 활성화 옵션만 표시됩니다. 해당 항목을 누르면 계정이 활성화됩니다.
 {% endhint %}
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12467-35968&t=KUot4efSPEjFmK0G-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-active.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -138,7 +138,7 @@
 
 #### PC 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12361-33280&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-list-pc-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1-1.svg) 상태
 
@@ -172,7 +172,7 @@
 
 #### 모바일 환경
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=12361-33291&t=uo2TE99mSkTpbtji-1" %}
+<figure><img src="../.gitbook/assets/operator-management-account-list-mobile-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1-1.svg) 상태
 
