@@ -18,13 +18,13 @@
 {% step %}
 앱 하단 내비게이션에서 YouTube 아이콘을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2943-155523&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/entertainment-youtube-icon-tap-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 주행 화면 우측에 YouTube 플레이어가 표시됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2943-156748&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/entertainment-youtube-player-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@
 
 ### 엔터테인먼트 화면
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2943-156971&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/entertainment-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../.gitbook/assets/icon-square-1-1.svg) **YouTube 동영상 플레이어**
 
