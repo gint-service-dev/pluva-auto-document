@@ -10,25 +10,25 @@ K턴은 좁은 헤드랜드에서 전진 → 후진 → 전진의 3단계 구간
 {% step %}
 턴 형태에서 K턴을 선택합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2650-104127&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ![](../../.gitbook/assets/drive-button.svg)\[자율 주행 시작] 버튼을 누르고 K턴 지점에 도달하면 즉시 작업기를 올리세요.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2757-109225&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 전진 기어를 유지한 상태로 차량이 방향을 전환합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2757-109610&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 방향 전환이 완료되면, 차량을 다음 작업 진입 라인까지 후진합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2757-109884&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **후진 안내 알람이 뜰 때  반드시 변속기를 후진 기어로 변경하세요.**&#x20;
@@ -43,7 +43,7 @@ K턴은 좁은 헤드랜드에서 전진 → 후진 → 전진의 3단계 구간
 후진을 완료한 후, 전진 기어로 변경한 뒤 다음 작업 라인으로 이동합니다. \
 다음 작업 라인에 진입하기 전 작업기를 내립니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2760-110690&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **전진 안내 알람이 뜰 때  반드시 변속기를 전진 기어로 변경하세요.**&#x20;
@@ -57,7 +57,7 @@ K턴은 좁은 헤드랜드에서 전진 → 후진 → 전진의 3단계 구간
 {% step %}
 새 작업 라인에서 자율주행 작업이 재개됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2760-110923&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../../.gitbook/assets/kturn-mode-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
