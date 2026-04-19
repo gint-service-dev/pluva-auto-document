@@ -41,9 +41,11 @@
   * [AB직진](usage/driving/ab-straight.md)
   * [A+직진](usage/driving/a-plus-straight.md)
   * [사각주행](usage/driving/square-drive.md)
+  * [격자주행](usage/driving/cross-path.md)
   * [자동 경로 (플루바 AI)](usage/driving/auto-route-generation.md)
 * [턴 모드](usage/uturn-mode/README.md)
   * [턴 설정 방법](usage/uturn-mode/uturn-mode-setting.md)
+  * [K턴](usage/uturn-mode/kturn.md)
 * [주행 편의 기능](usage/driving-convenience-function/README.md)
   * [경로 저장하기](usage/driving-convenience-function/save-path.md)
   * [경로 불러오기](usage/driving-convenience-function/bringing-up-path.md)
@@ -74,6 +76,7 @@
   * [네트워크 설정 진입 및 화면 설명](usage/network-settings/enter-network.md)
   * [위치 보정 설정](usage/network-settings/rtk-setting.md)
   * [네트워크 설정](usage/network-settings/network-setting.md)
+* [엔터테인먼트](usage/entertainment.md)
 
 ## 기타 <a href="#others" id="others"></a>
 
