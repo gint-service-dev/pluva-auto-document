@@ -79,4 +79,7 @@
 
 * [고객 불편사항 대응 방법](others/initial-setup.md)
 * [어드민 로그인](others/admin-login.md)
+* [계정 관리](others/account-management.md)
+* [제품 관리](others/product-management.md)
+* [오퍼레이터 계정 관리](others/operator-management.md)
 * [원격 지원](others/monitorning.md)
