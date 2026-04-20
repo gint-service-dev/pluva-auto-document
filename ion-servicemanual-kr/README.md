@@ -15,9 +15,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/
+metaLinks: {}
 ---
 
 # pluva ion Service Manual
@@ -34,8 +32,6 @@ metaLinks:
 
 </details>
 
-
-
 ### 영상 가이드 <a href="#guide" id="guide"></a>
 
 메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
@@ -47,8 +43,6 @@ metaLinks:
 {% hint style="info" %}
 [다른 영상 가이드도 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
 {% endhint %}
-
-
 
 ### 목차
 
@@ -64,7 +58,7 @@ metaLinks:
 
 <summary><a href="/broken/pages/LJm8CV0ry1K8NPVMKZ2f">사용법</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>사용 전 고객 안내 사항</td><td><a href="usage/customer-guidance/">customer-guidance</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="usage/driving/">driving</a></td></tr><tr><td>턴 모드</td><td><a href="usage/uturn-mode/">uturn-mode</a></td></tr><tr><td>주행 편의 기능</td><td><a href="usage/driving-convenience-function/">driving-convenience-function</a></td></tr><tr><td>내 농장 관리</td><td><a href="usage/my-farm/">my-farm</a></td></tr><tr><td>차량 관리</td><td><a href="usage/vehicle-settings/">vehicle-settings</a></td></tr><tr><td>작업기 관리</td><td><a href="usage/workstation-management/">workstation-management</a></td></tr><tr><td>네트워크 설정</td><td><a href="order-installation/quick-setup/network-settings.md">network-settings.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>사용 전 고객 안내 사항</td><td><a href="usage/customer-guidance/">customer-guidance</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="usage/driving/">driving</a></td></tr><tr><td>턴 모드</td><td><a href="usage/uturn-mode/">uturn-mode</a></td></tr><tr><td>주행 편의 기능</td><td><a href="usage/driving-convenience-function/">driving-convenience-function</a></td></tr><tr><td>내 농장 관리</td><td><a href="usage/my-farm/">my-farm</a></td></tr><tr><td>차량 관리</td><td><a href="usage/vehicle-settings/">vehicle-settings</a></td></tr><tr><td>작업기 관리</td><td><a href="usage/workstation-management/">workstation-management</a></td></tr><tr><td>네트워크 설정</td><td><a href="order-installation/quick-setup/network-settings.md">network-settings.md</a></td></tr><tr><td>엔터테인먼트</td><td><a href="usage/entertainment.md">entertainment.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -72,9 +66,6 @@ metaLinks:
 
 <summary><a href="others/initial-setup.md">기타</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
-
-
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-management.md">account-management.md</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
 </details>
-

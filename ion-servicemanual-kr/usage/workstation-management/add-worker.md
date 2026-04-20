@@ -67,27 +67,27 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **작업기 타입**
+![](../../.gitbook/assets/icon-square-1.svg) **작업기 타입**
 
 * 작업기 타입을 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **작업기 너비**
+![](../../.gitbook/assets/icon-square-2.svg) **작업기 너비**
 
 * 작업기 너비를 입력합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **고랑폭**
+![](../../.gitbook/assets/icon-square-3.svg) **고랑폭**
 
 * 고랑폭을 입력합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **링크-작업기 거리**
+![](../../.gitbook/assets/icon-square-4.svg) **링크-작업기 거리**
 
 * 링크와 작업기 간의 거리를 입력합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **작업기 편차**
+![](../../.gitbook/assets/icon-square-5.svg) **작업기 편차**
 
 * 작업기 편차를 입력합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **작업기 편차 계산**
+![](../../.gitbook/assets/icon-square-6.svg) **작업기 편차 계산**
 
 * 3개의 라인을 주행하여 라인 간격을 입력하면 작업기 편차를 자동으로 계산할 수 있습니다.
 *   그림에서 안내하는 방향으로 3개의 라인을 주행하고, 주행 라인 사이의 거리를 측정하여 입력하세요.<br>

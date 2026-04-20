@@ -71,17 +71,17 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **카메라 번호**
+![](../../.gitbook/assets/icon-square-1.svg) **카메라 번호**
 
 * 현재 노출되는 화면의 카메라 번호를 표기합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **크게보기**
+![](../../.gitbook/assets/icon-square-2.svg) **크게보기**
 
 *   카메라 화면을 주행화면의 전체화면으로 키울 수 있습니다. 닫기를 누르면 카메라 창이 닫힙니다.<br>
 
     <figure><img src="../../.gitbook/assets/look-at-it-big.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **카메라 선택**
+![](../../.gitbook/assets/icon-square-3.svg) **카메라 선택**
 
 * 다른 카메라로 전환할 수 있는 버튼입니다. 카메라 변경을 누르면 나타납니다.\
   ![](../../.gitbook/assets/change-camera.png)

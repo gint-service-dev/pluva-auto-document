@@ -80,28 +80,28 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-adjustment-screen.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **가장 가까운 점**
+![](../../.gitbook/assets/icon-square-1.svg) **가장 가까운 점**
 
 * 현재 차량 위치에서 가장 가까운 점을 표시합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **점 조정**
+![](../../.gitbook/assets/icon-square-2.svg) **점 조정**
 
 * 차량 위치를 기준으로 가장 가까운 점의 위치를 조정합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3-3.svg) **초기화**
+![](../../.gitbook/assets/icon-square-3.svg) **초기화**
 
 * 필드 조정 전 초기 상태로 되돌립니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-4-4.svg) **나가기**
+![](../../.gitbook/assets/icon-square-4.svg) **나가기**
 
 * 필드 조정 화면에서 나갑니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-5-5.svg) **진(출)입로 수정**
+![](../../.gitbook/assets/icon-square-5.svg) **진(출)입로 수정**
 
 * 진출입로 위치를 수정합니다. 해당 버튼을 선택하거나 진출입로 아이콘을 선택하면 이동 가능한 상태로 전환됩니다.
 * 진출입로 수정 모드에서 아이콘을 드래그하여 위치를 변경합니다.
 * 진입로와 출입로가 각각 설정된 경우 별도의 버튼으로 표시됩니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **경계 조정 완료**
+![](../../.gitbook/assets/icon-square-6.svg) **경계 조정 완료**
 
 * 경계 조정을 완료합니다.

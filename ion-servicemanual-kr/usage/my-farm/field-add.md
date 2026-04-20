@@ -61,14 +61,10 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% stepper %}
 {% step %}
 지도에서 등록 옵션을 선택한 후 \[확인]을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 지도에서 필드를 선택합니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 기본 필드 등록은 \[지도에서 선택]으로 설정되어 있습니다. 경계를 직접 만들려면 \[직접 그리기]를 누릅니다.
@@ -77,14 +73,10 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 진입출로 위치 설정 팝업에서 \[같은 위치로 설정]을 선택합니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \[진출로 따로 설정]을 선택한 경우, 진입/진출 위치를 각각 지정해야 합니다.
@@ -95,14 +87,10 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 {% step %}
 진출입로 설정이 완료되고 필드 정보를 입력한 뒤 \[등록]을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 필드 등록이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/map-registration-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -118,7 +106,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 ![](../../.gitbook/assets/icon-square-2.svg) **직접 그리기**
 
-* 필드 영역을 직접 점을 찍어 생성합니다.&#x20;
+* 필드 영역을 직접 점을 찍어 생성합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
