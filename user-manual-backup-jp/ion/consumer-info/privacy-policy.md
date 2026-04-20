@@ -1,0 +1,30 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/consumer-info/privacy-policy
+---
+
+# 개인정보 처리 방침
+
+플루바 아이온은 서비스 제공을 위해 필요한 범위에서 개인정보를 처리하며, 관련 법령과 내부 기준에 따라 안전하게 관리합니다.
+
+자세한 내용은 아래 링크에서 개인정보 처리방침 전문을 확인하세요.
+
+* [**개인정보 처리방침 확인하기 >**](https://gint.pluva.kr/policies/ko/privacy)
