@@ -25,8 +25,6 @@ metaLinks:
 
 위치 보정은 RTK 보정 신호를 연결해 위치 정확도를 높이는 설정입니다. 현장 환경에 맞는 방식을 선택해 연결 상태를 구성합니다.
 
-
-
 #### 위치 보정은 무엇인가요?
 
 위성 신호가 계산한 “기본 위치”에서 오차를 줄이는 보정 정보를 받아 정밀도를 올리는 작업입니다.\
@@ -35,6 +33,32 @@ metaLinks:
 {% hint style="info" %}
 설정된 값은 태블릿의 위치보정 설정에서 확인하고 변경할 수 있습니다.
 {% endhint %}
+
+***
+
+#### Smart RTK 연결
+
+보정 신호를 자동으로 받습니다. 별도 설정 없이 바로 연결됩니다.
+
+{% stepper %}
+{% step %}
+Smart RTK 연결을 선택하고 \[확인]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+RTK를 자동으로 연결합니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[다음 단계로] 버튼을 누르면 Smart RTK 연결이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -60,7 +84,7 @@ RTK 직접 수신 연결을 선택하고 \[확인]을 누릅니다.
 {% endstep %}
 
 {% step %}
-&#x20;\[다음 단계로] 버튼을 누르면 RTK 직접 수신 설정이 완료됩니다.
+\[다음 단계로] 버튼을 누르면 RTK 직접 수신 설정이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/quick-setup-rtkdirect-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -75,8 +99,6 @@ RTK 직접 수신 연결을 선택하고 \[확인]을 누릅니다.
 #### RTK 블루투스 연결
 
 RTK 블루투스 연결은 스마트폰의 RTK 앱과 블루투스로 페어링하여, RTK 보정 신호를 GNSS 수신기로 전달하는 설정입니다.
-
-
 
 {% stepper %}
 {% step %}
@@ -115,15 +137,11 @@ RTK 블루투스 연결을 선택하고 \[확인]을 누릅니다.
 > * 최근 실행 목록에서 \[모두 닫기]를 누르면 함께 종료됩니다.
 > * 메모리 정리 앱 사용 시 종료될 수 있습니다.
 >
->
->
 > 2. 안드로이드가 자동 종료한 경우
 >
 > * 배터리 절약 기능이 백그라운드 앱을 자동 종료할 수 있습니다.
 > * 앱 설정에서 **배터리 최적화 OFF**로 설정합니다.
 > * 안드로이드 설정에서 **자동 절전 예외 앱**으로 등록합니다.
->
->
 >
 > **외부 앱 종료 예방법**
 >
