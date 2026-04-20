@@ -95,7 +95,7 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 {% step %}
 작업 경로 설정이 완료됩니다. \[자율주행 시작] 버튼을 누르면 선택한 방향의 경로를 따라 자율주행이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/cross-path-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-6 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **사전 설정 항목**\
