@@ -33,11 +33,23 @@ AB直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 A+直進
 
 * A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+格子走行
+
+* 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
+
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="126"><figcaption></figcaption></figure></div>
+
+
 
 自動経路（Pluva AI）
 
@@ -74,7 +86,7 @@ A+直進
 {% endhint %}
 
 {% hint style="info" %}
-倍速ターンの設定状況は、左画面の右上の走行情報からご確認できます。倍速ターンのオン・オフ状況をご確認ください。
+倍速モードの設定状況は、左画面の右上の走行情報からご確認できます。倍速モードのオン・オフ状況をご確認ください。
 
 <img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
 
