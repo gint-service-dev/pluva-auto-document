@@ -46,13 +46,13 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-倍速ターン機能付き車両は、その特性に合わせた補正値が必要なため、必ず\[倍速ターン車両]のトグルをオンにした状態で進めてください。
+倍速モード機能付き車両は、その特性に合わせた補正値が必要なため、必ず\[倍速モード車両]のトグルをオンにした状態で進めてください。
 
 <img src="../../.gitbook/assets/add-vehicle-speedturn.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-倍速ターンは、トラクター専用のオプションです。田植え機に倍速ターンオプションはありません。
+倍速モードは、トラクター専用のオプションです。田植え機に倍速モードオプションはありません。
 {% endhint %}
 {% endstep %}
 
