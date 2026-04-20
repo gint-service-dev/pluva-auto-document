@@ -25,8 +25,6 @@ metaLinks:
 
 플루바 아이온은 트랙터·이앙기용 오토가이던스(Autoguidance) 시스템으로, GNSS(항법 위성 장치) 와 전동 스티어링을 이용해 정밀한 직진 주행과 자동 유턴 등을 지원하는 장비입니다. 운전자의 조작 부담을 줄이고, 작업 품질과 효율을 향상시키는 작업 보조 시스템입니다.
 
-
-
 자율주행 기능은 여러 구성품의 연동으로 동작합니다. 아래에서 구성품과 각 장치의 역할을 확인하세요.
 
 ***
@@ -56,7 +54,7 @@ metaLinks:
 
 {% columns %}
 {% column %}
-#### 전동 스티어링 휠
+**전동 스티어링 휠**
 
 <figure><img src="../../.gitbook/assets/electric-steering-wheel.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,7 +63,7 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### GNSS 수신기
+**GNSS 수신기**
 
 <figure><img src="../../.gitbook/assets/gnss-receiver.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +74,7 @@ metaLinks:
 
 {% columns %}
 {% column %}
-#### 태블릿
+**태블릿**
 
 <figure><img src="../../.gitbook/assets/tablet.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,9 +85,9 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### 스위치 (옵션품)
+**스위치 (옵션품)**
 
-<figure><img src="../../.gitbook/assets/switch (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
 
@@ -100,7 +98,7 @@ metaLinks:
 
 {% columns %}
 {% column width="50%" %}
-#### 카메라
+**카메라**
 
 <figure><img src="../../.gitbook/assets/camera-description.png" alt=""><figcaption></figcaption></figure>
 
@@ -110,7 +108,7 @@ metaLinks:
 {% endcolumn %}
 
 {% column width="50%" %}
-####
+
 {% endcolumn %}
 {% endcolumns %}
 
@@ -132,8 +130,8 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**\[Expansion Kit]**&#x20;
+**\[Expansion Kit]**
 
-태블릿을 제외한 경제적인 확장형 제품입니다.\
+태블릿을 제외한 경제적인 확장형 제품입니다.\
 GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 주문 전, 플루바 아이온 태블릿을 보유하고 있는지 확인이 필요합니다.
 {% endhint %}
