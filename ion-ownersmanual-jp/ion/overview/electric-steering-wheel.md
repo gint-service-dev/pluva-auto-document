@@ -27,8 +27,12 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/Electric Steering Wheel-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-1.svg) ハンドル
 
 ![](../../.gitbook/assets/icon-circle-2.svg) モーター
+
+{% hint style="danger" %}
+**使用上のご注意**
+
+本製品は、ステアリングのための構成品です。モーターが装着してある状態で過度な荷重や衝撃を与える場合、製品が破損、または変形する恐れがありますので、取り扱いには十分ご注意ください。
+{% endhint %}

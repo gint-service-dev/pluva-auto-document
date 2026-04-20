@@ -15,9 +15,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/W9zolTVOCJkGCWFEPCa0/
+metaLinks: {}
 ---
 
 # pluva ion User Manual
@@ -25,12 +23,12 @@ metaLinks:
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**ご参考** \
+**ご参考**\
 自動操舵キットのモデルによって、提供される製品マニュアルの種類や内容は一部異なる場合があります。マニュアル内容の一部の装置及びソフトウェアは、メーカーのポリシーによって変更される可能性があり、バージョンが異なる場合があります。
 {% endhint %}
 
 {% hint style="danger" %}
-**ご注意** \
+**ご注意**\
 ご使用の前に必ず本製品マニュアルをお読みいただき、自動操舵キットを安全かつ正しくご使用ください。
 {% endhint %}
 

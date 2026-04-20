@@ -28,8 +28,6 @@ AB直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 {% stepper %}
 {% step %}
 <img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">を押してA地点を生成します。
@@ -65,7 +63,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% hint style="info" %}
 生成された圃場がない場合は、ガイドに従ってすぐ圃場を登録できます。
 
-<img src="../../.gitbook/assets/ab-automatic-path-nonefield.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/automatic-path-nonefield.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
@@ -102,8 +100,6 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 * 枕地：数値で枕地の間隔を調整します。
 * ![](../../.gitbook/assets/headland.png)
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}

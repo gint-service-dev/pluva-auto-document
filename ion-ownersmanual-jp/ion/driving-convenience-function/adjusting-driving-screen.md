@@ -64,9 +64,9 @@ metaLinks:
 
 #### カメラビュー画面のご案内 <a href="#camera-on" id="camera-on"></a>
 
-<figure><img src="../../.gitbook/assets/turn-on-camera-view-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turn-on-camera-view.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](<../../.gitbook/assets/icon-square-1 (1).svg>) 拡大する
+![](../../.gitbook/assets/icon-square-1.svg) 拡大する
 
 *   カメラ画面を走行画面の全画面表示に切り替えることができます。 「閉じるX」をクリックするとカメラ画面が終了されます。<br>
 

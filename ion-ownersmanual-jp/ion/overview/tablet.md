@@ -56,7 +56,7 @@ metaLinks:
 {% endhint %}
 
 {% hint style="warning" %}
-タブレットのスリープボタンを押して終了した後も暗電流が流れるため、トラクターのバッテリーが上がる恐れがあります。長時間使用しない場合は、使用後に必ずメイン電源スイッチを切って電源を遮断してください。
+必ず、タブレットの「スリープボタン」を長押しし完全に終了してから、メイン電源スイッチをOFFにしてください。
 {% endhint %}
 
 
@@ -84,23 +84,17 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-6.svg) **キャンセル/前へ**
 
 * 前の画面に移動、または実施中の動作を中断します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-7.svg) **お気に入り機能**
 
 * お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-8.svg) **メインコネクター**
 
@@ -217,9 +211,9 @@ metaLinks:
 
 > <img src="../../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line">: 衛星信号が良好
 >
-> <img src="../../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line">: 衛星信号が普通
+> <img src="../../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line">: 衛星信号が普通
 >
-> <img src="../../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line">: 衛星信号が不良
+> <img src="../../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line">: 衛星信号が不良
 >
 > <img src="../../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line">: 信号なし
 
@@ -239,6 +233,10 @@ metaLinks:
 
 {% hint style="warning" %}
 OTA（無線ソフトウェアアップデート）および（Youtube）の利用時は、データ通信量が非常に多くなるため、基本データ容量を使い切る 恐れがあります。データの追加課金を防ぐため、必ずWi-Fiまたはスマートフォンのテザリングに接続してご利用ください。
+{% endhint %}
+
+{% hint style="warning" %}
+Simカードを差し込んでから通信に接続するまで、数分かかる場合があります。接続確認できるまで電源を切らずにお待ちください。
 {% endhint %}
 
 3. **現在の作業ライン**
