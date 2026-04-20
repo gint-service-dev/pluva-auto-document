@@ -2,7 +2,7 @@
 
 격자 주행은 바운더리를 설정하고 두 개의 기준변을 선택하면, 두 방향의 격자형 경로를 자동으로 생성하는 주행모드입니다. 가로·세로 방향을 자유롭게 오가며 교차 방향 작업을 수행할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 ### 주요 활용 작업
 
@@ -78,9 +78,9 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 
 아래 표시 형식에 따라 기준변 상태를 구분합니다.
 
-* **선택 가능:** ![](<../../.gitbook/assets/Group 1000001098.svg>)
-* **선택 불가능:** ![](<../../.gitbook/assets/Group 1000001099.svg>)
-* **선택 됨:** ![](<../../.gitbook/assets/Group 1000001100.svg>)
+* **선택 가능:** ![](../../.gitbook/assets/path-default.png)
+* **선택 불가능:** ![](../../.gitbook/assets/path-disabled.png)
+* **선택 됨:** ![](../../.gitbook/assets/path-selected.png)
 {% endhint %}
 
 {% hint style="info" %}

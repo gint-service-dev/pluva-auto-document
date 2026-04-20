@@ -26,9 +26,7 @@ AB 직진
 
 * A점과 B점을 잇는 방향으로 직진 주행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -56,8 +54,6 @@ AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg
 
 **\[자동 AB 라인 생성]**&#xC740; 등록된 필드의 바운더리(경계선)를 기준으로, 필드 안에서 AB 지점을 직접 찍지 않고 작업 라인(AB 라인)을 자동으로 생성합니다.\
 간격·여유 구간 값을 설정해 자동 생성된 라인을 작업 상황에 맞게 조정할 수 있으며, 현재 위치에서 즉시 라인을 생성해 준비 시간을 줄이고 빠르게 작업을 시작할 수 있습니다.
-
-
 
 {% stepper %}
 {% step %}
@@ -105,8 +101,6 @@ AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.s
 * 헤드랜드: 수치로 헤드랜드 간격을 조절합니다.
 * ![](../../.gitbook/assets/headland.png)
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}
