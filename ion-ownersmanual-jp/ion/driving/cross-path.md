@@ -8,7 +8,7 @@ metaLinks:
 
 格子走行は、境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。縦・横の方向を自在に切り替え、交差方向の作業をスムーズに行うことができます。
 
-<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 ### 主な作業例
 

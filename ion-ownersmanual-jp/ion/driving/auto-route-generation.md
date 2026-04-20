@@ -27,7 +27,7 @@ metaLinks:
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
-<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="199"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

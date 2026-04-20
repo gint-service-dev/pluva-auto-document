@@ -26,7 +26,7 @@ AB直進
 
 * A点とB点を結ぶ方向へ直進走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

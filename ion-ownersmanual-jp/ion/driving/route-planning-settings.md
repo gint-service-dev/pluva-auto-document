@@ -31,31 +31,25 @@ AB直進
 
 * A点とB点を結ぶ方向へ直進走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 A+直進
 
 * A点を基準に設定した角度の直線経路を生成して走行します。
 
-<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 格子走行
 
 * 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
 
-<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="126"><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 自動経路（Pluva AI）
 
 * ユーザーの圃場や車両条件を基に、最適な作業経路を自動生成する機能です。
 
-<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="149"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="199"><figcaption></figcaption></figure></div>
 
 ***
 
