@@ -49,13 +49,11 @@ metaLinks:
 
 #### 차량제어 설정 설명
 
-> #### **일반 설정 방법**
+> **일반 설정 방법**
 
 <div align="left"><figure><img src="../../.gitbook/assets/general-settings.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;
-
-![](../../.gitbook/assets/icon-square-1-1.svg) **자율주행 해제 허용**
+![](../../.gitbook/assets/icon-square-1.svg) **자율주행 해제 허용**
 
 * 운전자가 핸들을 직접 조작했을 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -73,9 +71,7 @@ metaLinks:
 <img src="../../.gitbook/assets/ic_circle_help.svg" alt="" data-size="line">아이콘을 누르면 해당 기능에 대한 설명을 볼 수 있습니다.
 {% endhint %}
 
-&#x20;
-
-![](../../.gitbook/assets/icon-square-2-2.svg) **경로 진입 거리 설정**
+![](../../.gitbook/assets/icon-square-2.svg) **경로 진입 거리 설정**
 
 * 차량이 경로 상 얼마나 먼 지점을 목표로 진입할지 설정합니다.
 
@@ -95,8 +91,6 @@ metaLinks:
 <img src="../../.gitbook/assets/ic_circle_help.svg" alt="" data-size="line">아이콘을 누르면 해당 기능에 대한 설명을 볼 수 있습니다.
 {% endhint %}
 
-
-
 > **고급 설정 방법**
 
 {% stepper %}
@@ -104,16 +98,14 @@ metaLinks:
 고급 설정 <img src="../../.gitbook/assets/ic_arrow_tiny.svg" alt="" data-size="line"> 을 눌러 고급 설정 기능을 사용할 수 있습니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/advanced-settings.png" alt=""><figcaption></figcaption></figure></div>
-
-
 {% endstep %}
 {% endstepper %}
 
-> #### **고급 설정 항목 설명**
+> **고급 설정 항목 설명**
 
 #### **a. 자율주행 해제 허용 (전진)**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **전진 시작 조건**
+![](../../.gitbook/assets/icon-square-1.svg) **전진 시작 조건**
 
 1. 전진 시작 조건: 전진으로 자율주행을 시작하기 위한 안전 조건 사용 여부를 설정합니다.
 
@@ -149,9 +141,7 @@ metaLinks:
 차이 속도보다 빠르게 주행 중일 때는 자율주행을 시작할 수 없습니다.
 {% endhint %}
 
-&#x20;
-
-![](../../.gitbook/assets/icon-square-2-2.svg) **전진 해제 조건**
+![](../../.gitbook/assets/icon-square-2.svg) **전진 해제 조건**
 
 1. 전진 해제 조건 사용 : 전진으로 조건을 벗어날 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -193,8 +183,6 @@ metaLinks:
 이 속도보다 빠르게 주행하면 자율주행이 자동으로 해제됩니다.
 {% endhint %}
 
-&#x20;
-
 ![](../../.gitbook/assets/icon-square-3.svg) **전진 최저 속도 조건**
 
 * 전진으로 자율주행 동작에 필요한 최저 속도를 설정합니다.
@@ -207,11 +195,9 @@ metaLinks:
 시작 조건과 해제 조건의 사용 여부에 따라 해당 시점에만 적용됩니다.
 {% endhint %}
 
-
-
 #### **b. 자율주행 해제 허용 (후진)**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **후진 시작 조건**
+![](../../.gitbook/assets/icon-square-1.svg) **후진 시작 조건**
 
 1. 후진 시작 조건 : 후진으로 자율주행을 시작하기 위한 안전 조건 사용 여부를 설정합니다.
 
@@ -241,9 +227,7 @@ metaLinks:
 이 속도보다 빠르게 주행 중일 때는 자율주행을 시작할 수 없습니다.
 {% endhint %}
 
-
-
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg)  **후진 해제 조건**
+![](../../.gitbook/assets/icon-square-2.svg) **후진 해제 조건**
 
 1. 후진 해제 조건 사용 : 후진으로 조건을 벗어날 때 자율주행을 자동으로 해제할지 설정합니다.
 
@@ -285,9 +269,7 @@ metaLinks:
 이 속도보다 빠르게 주행하면 자율주행이 자동으로 해제됩니다.
 {% endhint %}
 
-
-
-&#x20;![](../../.gitbook/assets/icon-square-3.svg)  **후진 최저 속도 조건**
+![](../../.gitbook/assets/icon-square-3.svg) **후진 최저 속도 조건**
 
 * 후진으로 자율주행 동작에 필요한 최저 속도를 설정합니다.
 
@@ -299,11 +281,9 @@ metaLinks:
 시작 조건과 해제 조건의 사용 여부에 따라 해당 시점에만 적용됩니다.
 {% endhint %}
 
-
-
 #### **c. 경로 진입 거리 고급 설정**
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg)  **진입 성향**
+![](../../.gitbook/assets/icon-square-1.svg) **진입 성향**
 
 1. 전진 경로 진입 거리: 전진으로 차량이 경로 상 얼마나 먼 지점을 목표로 진입할지 설정합니다.
 
@@ -337,9 +317,7 @@ metaLinks:
 차량의 경로 진입 정도를 조정하려면 진입 거리 → 진입 각도 → 진입 시간 순으로 설정하는 것을 권장합니다.
 {% endhint %}
 
-&#x20;
-
-![](../../.gitbook/assets/icon-square-2-2.svg)  **추종 민감도**
+![](../../.gitbook/assets/icon-square-2.svg) **추종 민감도**
 
 1. 전진 경로 추종 민감도: 전진으로 진입 후 경로를 얼마나 정밀하게 따라갈지 설정합니다.
 
@@ -361,9 +339,7 @@ metaLinks:
 이 설정은 주행 성능에 큰 영향을 미치므로 신중하게 조정합니다.
 {% endhint %}
 
-
-
-![](../../.gitbook/assets/icon-square-3.svg)  **조향 민감도**
+![](../../.gitbook/assets/icon-square-3.svg) **조향 민감도**
 
 1. 랜딩 전 전진 조향 민감도: 전진으로 경로에 완전히 진입하기 전 조향 민감도를 설정합니다.
 
@@ -405,9 +381,7 @@ metaLinks:
 값이 클수록 경로 안쪽으로 들어가며 적극적으로 유턴합니다.
 {% endhint %}
 
-
-
-![](../../.gitbook/assets/icon-square-4.svg)  **곡률 반경 제한**
+![](../../.gitbook/assets/icon-square-4.svg) **곡률 반경 제한**
 
 * 커브 경로 생성 시 최대 곡률을 제한하여 경로를 보정합니다.
 

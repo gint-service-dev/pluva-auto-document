@@ -45,7 +45,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-원하는 치수를 입력하고 \[확인]을 누르면  적용이 완료됩니다.
+원하는 치수를 입력하고 \[확인]을 누르면 적용이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/imu-calibration-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -57,14 +57,14 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/imu-calibration-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **ROll 롤**
+![](../../.gitbook/assets/icon-square-1.svg) **ROll 롤**
 
 * GNSS 수신기가 좌/우 방향으로 기울어진 각도를 의미합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **Pitch 피치**
+![](../../.gitbook/assets/icon-square-2.svg) **Pitch 피치**
 
 * GNSS 수신기가 앞/뒤 방향으로 기울어진 각도를 의미합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **Yaw 요**
+![](../../.gitbook/assets/icon-square-3.svg) **Yaw 요**
 
 * GNSS 수신기가 수직축을 기준으로 회전한 각도를 의미합니다.

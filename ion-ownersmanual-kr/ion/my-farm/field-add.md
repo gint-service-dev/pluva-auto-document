@@ -78,6 +78,8 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
+<figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
@@ -118,7 +120,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 ![](../../.gitbook/assets/icon-square-2.svg) **직접 그리기**
 
-* 필드 영역을 직접 점을 찍어 생성합니다.&#x20;
+* 필드 영역을 직접 점을 찍어 생성합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -192,6 +194,8 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 차량으로 등록 화면에 진입합니다. 차량을 필드의 각 꼭지점으로 이동한 후 버튼을 눌러 점을 설정합니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 설정 직후 해당 점의 수정 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.

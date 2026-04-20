@@ -72,15 +72,15 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/headland-display-line.png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 경계 오프셋 표시선**
+![](../../.gitbook/assets/icon-square-1.svg) **필드 경계 오프셋 표시선**
 
 * 붉은 실선으로 표시됩니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **필드 경계선**
+![](../../.gitbook/assets/icon-square-2.svg) **필드 경계선**
 
 * 흰 실선으로 표시됩니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 표시선**
+![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 표시선**
 
 * 흰 점선으로 표시됩니다.
 
@@ -96,20 +96,20 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 선택**
+![](../../.gitbook/assets/icon-square-1.svg) **필드 선택**
 
 * 적용할 헤드랜드 필드를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **헤드랜드 이름**
+![](../../.gitbook/assets/icon-square-2.svg) **헤드랜드 이름**
 
 * 구분할 헤드랜드 이름을 표기합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 거리**
+![](../../.gitbook/assets/icon-square-3.svg) **헤드랜드 거리**
 
 * 헤드랜드 거리를 수치로 조정합니다.
   * ![](../../.gitbook/assets/full-headland-street.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
+![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
 
 * 헤드랜드 갯수를 조정합니다.
   * 헤드랜드 1개 설정 시\
@@ -117,7 +117,7 @@ My Farm의 헤드랜드 항목을 누릅니다.
   * 헤드랜드 2개 설정 시\
     ![](../../.gitbook/assets/full-headland-setting-two-headland.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-5.svg) **필드 경계 오프셋**
+![](../../.gitbook/assets/icon-square-5.svg) **필드 경계 오프셋**
 
 * 수치로 필드 경계를 조정합니다. On/off로 끄고 킬 수 있으며\
   +는 바깥쪽, -는 안쪽으로 이동합니다.
@@ -126,11 +126,11 @@ My Farm의 헤드랜드 항목을 누릅니다.
   * -로 수치 설정 시\
     ![](../../.gitbook/assets/full-headland-minus-when-setting.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **작업기**
+![](../../.gitbook/assets/icon-square-6.svg) **작업기**
 
 * 작업할 작업기를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-7.svg) **메모**
+![](../../.gitbook/assets/icon-square-7.svg) **메모**
 
 * 추가적인 정보를 메모로 남깁니다.
 
@@ -146,19 +146,19 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal.png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1-1.svg) **필드 선택**
+![](../../.gitbook/assets/icon-square-1.svg) **필드 선택**
 
 * 적용할 헤드랜드 필드를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-2-2.svg) **헤드랜드 이름**
+![](../../.gitbook/assets/icon-square-2.svg) **헤드랜드 이름**
 
 * 구분할 헤드랜드 이름을 표기합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **작업기**
+![](../../.gitbook/assets/icon-square-3.svg) **작업기**
 
 * 작업할 작업기를 선택합니다.
 
-&#x20;![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
+![](../../.gitbook/assets/icon-square-4.svg) **헤드랜드 개수**
 
 * 헤드랜드 갯수를 조정합니다.
   * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 번의 헤드랜드 1개 설정 시\
@@ -166,12 +166,12 @@ My Farm의 헤드랜드 항목을 누릅니다.
   * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 번의 헤드랜드 3개 설정 시\
     ![](../../.gitbook/assets/partial-headland-setting-three-headland.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-5.svg) **헤드랜드 거리**
+![](../../.gitbook/assets/icon-square-5.svg) **헤드랜드 거리**
 
 * 헤드랜드 거리를 수치로 조정합니다.
   * ![](../../.gitbook/assets/partial-headland-street.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-6-6.svg) **필드 경계 오프셋**
+![](../../.gitbook/assets/icon-square-6.svg) **필드 경계 오프셋**
 
 * 수치로 필드 경계를 조정합니다. On/off로 끄고 킬 수 있으며\
   +는 바깥쪽, -는 안쪽으로 이동합니다.
@@ -180,6 +180,6 @@ My Farm의 헤드랜드 항목을 누릅니다.
   * -로 수치 설정 시\
     ![](../../.gitbook/assets/partial-headland-minus-when-setting.png)
 
-&#x20;![](../../.gitbook/assets/icon-square-7.svg) **메모**
+![](../../.gitbook/assets/icon-square-7.svg) **메모**
 
 * 추가적인 정보를 메모로 남깁니다.

@@ -41,10 +41,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 2. 노란색 점멸
    1. 오류 발생
    2. ![](../../.gitbook/assets/gnss-receiver-left-yellow.png)
-
-
-
-2. 중앙 LED
+3. 중앙 LED
    1. GNSS 보정 정보 수신 여부
 
 <div align="left"><figure><img src="../../.gitbook/assets/gnss-receiver-middle.png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -59,7 +56,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
    2. ![](../../.gitbook/assets/gnss-receiver-middle-blinking.png)
 3. OFF
    1. 60초 이상 미수신 (또는 수신된적 없음)
-   2. ![](../../.gitbook/assets/gnss-receiver-middle-off.png)
+   2. ![](../../.gitbook/assets/gnss-receiver-right-off.png)
 4. 우측 LED
    1. GNSS RTK 상태
 
