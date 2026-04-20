@@ -32,18 +32,14 @@ metaLinks:
 * 현재 위치를 기준으로 기본 생성됩니다.
 *
 
-```
-<figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
-```
+    <figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
 
 2. **농장 소유자 등록**
 
 * 고객 계정을 기준으로 기본 생성됩니다.
 *
 
-```
-<figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
-```
+    <figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
 
 3. **필드 등록**
 
@@ -133,19 +129,15 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-1.svg) **주소 검색으로 필드 선택**
 
-*   주소를 검색하여 필드를 선택합니다. \*
+*   주소를 검색하여 필드를 선택합니다. <br>
 
-    ```
     <figure><img src="../../.gitbook/assets/field-registration-screen-1.png" alt=""><figcaption></figcaption></figure>
-    ```
 
 ![](../../.gitbook/assets/icon-square-2.svg) **직접 그리기**
 
-*   지도에 직접 점을 찍어 필드 영역을 생성합니다. \*
+*   지도에 직접 점을 찍어 필드 영역을 생성합니다.<br>
 
-    ```
     <figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt=""><figcaption></figcaption></figure>
-    ```
 
 ![](../../.gitbook/assets/icon-square-3.svg) **지도에서 선택**
 

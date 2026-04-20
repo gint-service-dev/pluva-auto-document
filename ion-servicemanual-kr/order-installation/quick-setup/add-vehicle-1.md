@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -15,13 +16,9 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-vehicle
 ---
 
-# 차량 추가
+# (관리기 포함)차량 추가
 
 작업에 사용할 차량을 추가합니다.
 
@@ -110,6 +107,29 @@ metaLinks:
 
 * 이앙기의 폭을 의미하며 타이어 너비를 포함합니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
+
+![](../../.gitbook/assets/icon-square-4.svg) 간격 편차
+
+* 양방향 작업 주행 시 간격이 일정하지 않을 때 보정하기 위한 수치값입니다. (간격 편차의 절대값을 4로 나눈 수치를 입력)
+
+#### 관리기
+
+<div align="left"><figure><img src="../../.gitbook/assets/add-manager-dimensions.png" alt="" width="278"><figcaption></figcaption></figure></div>
+
+![](../../.gitbook/assets/icon-square-1.svg) 휠베이스
+
+* 관리기의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
+* ![](../../.gitbook/assets/add-manager-dimensions-1.png)
+
+![](../../.gitbook/assets/icon-square-2.svg) 후륜 축-차량 끝
+
+* 관리기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
+* ![](../../.gitbook/assets/add-manager-dimensions-2.png)
+
+![](../../.gitbook/assets/icon-square-3.svg) 관리기 폭
+
+* 관리기의 폭을 의미하며 타이어 너비를 포함합니다.
+* ![](../../.gitbook/assets/add-manager-dimensions-3.png)
 
 ![](../../.gitbook/assets/icon-square-4.svg) 간격 편차
 

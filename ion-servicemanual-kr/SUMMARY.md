@@ -27,6 +27,7 @@
   * [GNSS 수신기 연결 확인](order-installation/quick-setup/gnss-connect.md)
   * [위치보정 설정](order-installation/quick-setup/rtk-setting.md)
   * [차량 추가](order-installation/quick-setup/add-vehicle.md)
+  * [(관리기 포함)차량 추가](order-installation/quick-setup/add-vehicle-1.md)
   * [작업기 추가 (선택)](order-installation/quick-setup/add-worker.md)
   * [차량 보정](order-installation/quick-setup/vehicle-calibration.md)
   * [작업지 설정](order-installation/quick-setup/farm-setting.md)
