@@ -110,15 +110,15 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+{% hint style="warning" %}
+태블릿 절전 전원으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우, 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
+{% endhint %}
+
 
 
 ![](../../.gitbook/assets/2.svg) 태블릿 절전 버튼
 
 * 태블릿의 전원을 끄거나 켭니다.
-
-{% hint style="warning" %}
-태블릿 전원으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우, 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
-{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
