@@ -36,6 +36,10 @@ metaLinks:
 [a-plus-straight.md](a-plus-straight.md)
 {% endcontent-ref %}
 
+{% content-ref url="cross-path.md" %}
+[cross-path.md](cross-path.md)
+{% endcontent-ref %}
+
 {% content-ref url="auto-route-generation.md" %}
 [auto-route-generation.md](auto-route-generation.md)
 {% endcontent-ref %}

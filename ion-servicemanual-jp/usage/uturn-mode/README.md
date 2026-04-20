@@ -27,3 +27,8 @@ metaLinks:
 {% content-ref url="uturn-mode-setting.md" %}
 [uturn-mode-setting.md](uturn-mode-setting.md)
 {% endcontent-ref %}
+
+{% content-ref url="kturn.md" %}
+[kturn.md](kturn.md)
+{% endcontent-ref %}
+
