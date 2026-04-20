@@ -78,9 +78,9 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 
 아래 표시 형식에 따라 기준변 상태를 구분합니다.
 
-* **선택 가능:**&#x20;
-* **선택 불가능:**&#x20;
-* **선택 됨:**&#x20;
+* **선택 가능:** ![](../../.gitbook/assets/path-default.png)
+* **선택 불가능:** ![](../../.gitbook/assets/path-disabled.png)
+* **선택 됨:** ![](../../.gitbook/assets/path-selected.png)
 {% endhint %}
 
 {% hint style="info" %}
