@@ -82,7 +82,7 @@
 
 * [お客様のお困りごとへの対応策](others/initial-setup.md)
 * [アドミンへのログイン](others/admin-login.md)
-* [アカウント管理](others/account-management.md)
 * [製品管理](others/product-management.md)
+* [アカウント管理](others/account-management.md)
 * [管理者アカウントの管理](others/operator-management.md)
 * [リモートサポート](others/monitorning.md)

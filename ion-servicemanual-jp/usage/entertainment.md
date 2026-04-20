@@ -24,13 +24,13 @@ metaLinks:
 {% step %}
 アプリ下部の項目蘭の「YouTube」アイコンをタップします。
 
-<figure><img src="../.gitbook/assets/entertainment-youtube-icon-tap-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/entertainment-youtube-icon-tap-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 走行画面の右側にYouTube画面が表示されます。
 
-<figure><img src="../.gitbook/assets/entertainment-youtube-player-open-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/entertainment-youtube-player-open-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -38,16 +38,16 @@ metaLinks:
 
 ### エンターテインメント画面
 
-<figure><img src="../.gitbook/assets/entertainment-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/entertainment-screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **YouTube動画画面**
+![](<../.gitbook/assets/icon-square-1 (2).svg>) **YouTube動画画面**
 
 * YouTubeの動画を検索および再生します。再生中にも走行画面はリアルタイムでアップデートされます。
 
-![](../.gitbook/assets/icon-square-2.svg) **閉じる**
+![](<../.gitbook/assets/icon-square-2 (2).svg>) **閉じる**
 
 * YouTube画面を閉じます。
 
-![](../.gitbook/assets/icon-square-3.svg) **拡大する**
+![](<../.gitbook/assets/icon-square-3 (2).svg>) **拡大する**
 
 * YouTube画面を全体画面に拡大します。

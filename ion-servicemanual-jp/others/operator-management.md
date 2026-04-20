@@ -146,21 +146,21 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/operator-management-account-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) ステータス
+![](<../.gitbook/assets/icon-square-1 (1).svg>) ステータス
 
-![](../.gitbook/assets/icon-square-2.svg) 名前
+![](<../.gitbook/assets/icon-square-2 (1).svg>) 名前
 
-![](../.gitbook/assets/icon-square-3.svg) 「詳細をみる」ボタン
+![](<../.gitbook/assets/icon-square-3 (1).svg>) 「詳細をみる」ボタン
 
 {% hint style="info" %}
 ボタンを押すと、\[修正]、\[無効化]（または、\[有効化]）オプションを選択できます。
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) 担当
+![](<../.gitbook/assets/icon-square-4 (1).svg>) 担当
 
-![](../.gitbook/assets/icon-square-5.svg) 作成日
+![](<../.gitbook/assets/icon-square-5 (1).svg>) 作成日
 
-![](../.gitbook/assets/icon-square-6.svg) メールアドレス
+![](<../.gitbook/assets/icon-square-6 (1).svg>) メールアドレス
 
 ![](../.gitbook/assets/icon-square-7.svg) 携帯電話番号
 
@@ -178,21 +178,21 @@ metaLinks:
 
 <div align="left"><figure><img src="../.gitbook/assets/operator-management-account-detail-mobile-1.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
-![](../.gitbook/assets/icon-square-1.svg) ステータス
+![](<../.gitbook/assets/icon-square-1 (1).svg>) ステータス
 
-![](../.gitbook/assets/icon-square-2.svg) 名前
+![](<../.gitbook/assets/icon-square-2 (1).svg>) 名前
 
-![](../.gitbook/assets/icon-square-3.svg) 「詳細をみる」ボタン
+![](<../.gitbook/assets/icon-square-3 (1).svg>) 「詳細をみる」ボタン
 
 {% hint style="info" %}
 ボタンを押すと、\[修正]、\[無効化]（または、\[有効化]）オプションを選択できます。
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) 担当
+![](<../.gitbook/assets/icon-square-4 (1).svg>) 担当
 
-![](../.gitbook/assets/icon-square-5.svg) 作成日
+![](<../.gitbook/assets/icon-square-5 (1).svg>) 作成日
 
-![](../.gitbook/assets/icon-square-6.svg) メールアドレス
+![](<../.gitbook/assets/icon-square-6 (1).svg>) メールアドレス
 
 ![](../.gitbook/assets/icon-square-7.svg) 携帯電話番号
 
