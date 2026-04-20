@@ -37,8 +37,6 @@ metaLinks:
 
 각 주문 제품에 따라 아래 구성품을 준비합니다.
 
-
-
 1. **플루바 아이온**
 
 * 모든 주요 구성품을 등록합니다.
@@ -46,21 +44,15 @@ metaLinks:
   * GNSS 수신기
   * 전동 스티어링 휠
 
-
-
 2. **플루바 아이온 Expansion Kit (확장키트)**
 
 * 태블릿을 제외한 구성품들을 등록합니다.
   * GNSS 수신기
   * 전동 스티어링 휠
 
-
-
 3. **추가 옵션**
 
 * 스위치
-
-
 
 ***
 
@@ -69,8 +61,6 @@ metaLinks:
 제품 등록은 제품에 부착된 QR 코드(시리얼 넘버 혹은 패키징 넘버)를 스캔해 진행합니다.
 
 * 패키징 넘버(패키지 박스 QR)를 등록하면, 구성품을 **한 번에 등록**할 수 있습니다.
-
-
 
 #### QR 코드 위치 안내
 
@@ -88,13 +78,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 #### 개별 시리얼 넘버
 
 {% columns %}
 {% column %}
-#### 태블릿
+**태블릿**
 
 후면의 QR코드를 확인합니다.
 
@@ -102,7 +90,7 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### GNSS 수신기
+**GNSS 수신기**
 
 우측면 또는 하단의 QR 코드를 확인합니다.
 
@@ -112,7 +100,7 @@ metaLinks:
 
 {% columns %}
 {% column %}
-#### 전동 스티어링 휠
+**전동 스티어링 휠**
 
 모터 측면에 QR 코드를 확인합니다.
 
@@ -120,15 +108,13 @@ metaLinks:
 {% endcolumn %}
 
 {% column %}
-#### 스위치
+**스위치**
 
 후면의 QR코드를 확인합니다.
 
 <figure><img src="../.gitbook/assets/serial-number-switch.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 ***
 
@@ -194,7 +180,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-등록이 완료되면 제품 등록 팝업에서 \[개통 완료]를 누릅니다.
+스캔이 완료되면 제품 등록 팝업에서 \[개통 완료]를 누릅니다.
 
 <figure><img src="../.gitbook/assets/enter-ticketdetail-5.png" alt="" width="311"><figcaption></figcaption></figure>
 
@@ -216,6 +202,12 @@ metaLinks:
 {% step %}
 제품 개통이 완료됩니다.
 
-<figure><img src="../.gitbook/assets/enter-ticketdetail-8.png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enter-ticketdetail-6.png" alt="" width="180"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+제품 개통이 완료되면 설치 티켓에 등록된 제품의 시리얼 번호, 구성품 정보를 확인할 수 있습니다.
+
+<img src="../.gitbook/assets/enter-ticketdetail-7.png" alt="" data-size="original">
+{% endhint %}
