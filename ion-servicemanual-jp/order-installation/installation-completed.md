@@ -39,25 +39,25 @@ metaLinks:
 {% step %}
 取り付けチケット一覧から、「取り付け中」のチケットをタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-1 (1).png" alt="" width="224"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-1.png" alt="" width="224"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[取り付け完了確認]をタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-2 (2).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-2.png" alt="" width="216"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 取り付け完了の確認事項をチェックし、\[確認完了]をタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-3 (1).png" alt="" width="211"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-3.png" alt="" width="211"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 取り付けが完了されます。
 
-<figure><img src="../.gitbook/assets/installation-completion-4 (1).png" alt="" width="180"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-4.png" alt="" width="180"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -69,36 +69,36 @@ metaLinks:
 {% step %}
 取り付けチケット一覧から、「取り付け中」のチケットをタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-1 (1).png" alt="" width="224"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-1.png" alt="" width="224"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[取り付け完了確認]をタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-expansion-2 (1).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-expansion-2.png" alt="" width="216"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 取り付けた製品のお客様のアカウントを選択します。
 
-<figure><img src="../.gitbook/assets/installation-completion-expansion-3 (1).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-expansion-3.png" alt="" width="216"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 お客様名、または電話番号で検索するとお客様リストが表示されます。リストが表示されない場合は、キーワードが正しく入力されたかをご確認ください。
 
-<img src="../.gitbook/assets/installation-completion-expansion-account (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/installation-completion-expansion-account.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 取り付け完了の確認事項をチェックし、\[確認完了]をタップします。
 
-<figure><img src="../.gitbook/assets/installation-completion-expansion-4 (1).png" alt="" width="216"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-expansion-4.png" alt="" width="216"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 取り付けが完了されます。
 
-<figure><img src="../.gitbook/assets/installation-completion-expansion-5 (1).png" alt="" width="180"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/installation-completion-expansion-5.png" alt="" width="180"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
