@@ -43,7 +43,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_vehicle (1).svg>) \[車両]をタップします。
+![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
 
 <figure><img src="../../.gitbook/assets/autostere-calibration-information-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -345,7 +345,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-![](<../../.gitbook/assets/drive-button (1).svg>)を押し、1回目の直進ステアリング補正を開始します。
+![](../../.gitbook/assets/drive-button.svg)を押し、1回目の直進ステアリング補正を開始します。
 
 <figure><img src="../../.gitbook/assets/calibration-speed-6 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -363,7 +363,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-![](<../../.gitbook/assets/drive-button (1).svg>)をタップし2回目の直進ステアリング補正を開始します。
+![](../../.gitbook/assets/drive-button.svg)をタップし2回目の直進ステアリング補正を開始します。
 
 <figure><img src="../../.gitbook/assets/calibration-speed-9.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

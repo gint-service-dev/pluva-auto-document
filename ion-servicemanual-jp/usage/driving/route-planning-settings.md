@@ -35,11 +35,23 @@ AB直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 A+直進
 
 * A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
+
+格子走行
+
+* 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
+
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="126"><figcaption></figcaption></figure></div>
+
+
 
 自動経路（pluva AI）
 
@@ -53,7 +65,7 @@ A+直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/autoplanning-button (1).svg" alt="" data-size="original"> **\[経路のプランニング]**&#x30DC;タンを押します。
+<img src="../../.gitbook/assets/autoplanning-button.svg" alt="" data-size="original"> **\[経路のプランニング]**&#x30DC;タンを押します。
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -78,7 +90,7 @@ A+直進
 {% hint style="info" %}
 倍速モードの設定状況は、右上の走行情報からご確認できます。倍速ターンのオン・オフ状況をご確認ください。
 
-<img src="../../.gitbook/assets/autoplanning-current-speedturn (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-speedturn.png" alt="" data-size="original">
 
 走行モードにアクセスすると、倍速モードの設定に関する案内が表示されます。\
 案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。

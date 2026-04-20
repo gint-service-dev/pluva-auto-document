@@ -49,7 +49,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **1. 精密ドライバーを用い、タブレット側面のSIMポートカバーを開けます。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-1.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -61,7 +61,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **2. SIMカードの向きに注意して差し込み、ポートカバーを元通りに結合します。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-2.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -73,7 +73,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **3. タブレットの取り付け位置を確認します。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-3.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -85,7 +85,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **4. 同梱のボルト（M5x10 / 4EA）を使用し、固定ボールを締結します。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -97,7 +97,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **5. マウントボールにタブレットを取り付けます。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-5.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -109,7 +109,7 @@ pluva ionの自動操舵に必要なタブレットを取り付けます。
 {% column width="83.33333333333334%" %}
 **6. 操作しやすい位置にタブレットを調整します。**
 
-<figure><img src="../../.gitbook/assets/how-install-tablet-6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-tablet-6.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}

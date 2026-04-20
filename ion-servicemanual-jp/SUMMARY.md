@@ -40,10 +40,12 @@
   * [経路のプランニングの設定方法](usage/driving/route-planning-settings.md)
   * [AB直進](usage/driving/ab-straight.md)
   * [A+直進](usage/driving/a-plus-straight.md)
+  * [格子走行](usage/driving/cross-path.md)
   * [사각주행](usage/driving/square-drive.md)
   * [自動経路（Pluva AI）](usage/driving/auto-route-generation.md)
 * [ターンモード](usage/uturn-mode/README.md)
   * [ターンの設定方法](usage/uturn-mode/uturn-mode-setting.md)
+  * [Kターン](usage/uturn-mode/kturn.md)
 * [走行の利便性を向上するための機能](usage/driving-convenience-function/README.md)
   * [経路の保存](usage/driving-convenience-function/save-path.md)
   * [経路の取り込み](usage/driving-convenience-function/bringing-up-path.md)
@@ -74,9 +76,13 @@
   * [ネットワーク設定へのアクセスおよび画面のご案内](usage/network-settings/enter-network.md)
   * [位置補正の設定](usage/network-settings/rtk-setting.md)
   * [ネットワーク設定](usage/network-settings/network-setting.md)
+* [エンターテインメント](usage/entertainment.md)
 
 ## その他 <a href="#others" id="others"></a>
 
 * [お客様のお困りごとへの対応策](others/initial-setup.md)
 * [アドミンへのログイン](others/admin-login.md)
+* [アカウント管理](others/account-management.md)
+* [製品管理](others/product-management.md)
+* [管理者アカウントの管理](others/operator-management.md)
 * [リモートサポート](others/monitorning.md)

@@ -27,7 +27,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-ABラインを生成した状態で <img src="../../.gitbook/assets/drive-function-button (1).svg" alt="" data-size="original"> \[作業]をタップしてください。
+ABラインを生成した状態で <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]をタップしてください。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

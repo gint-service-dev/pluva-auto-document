@@ -30,19 +30,19 @@ AB直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button (1).svg" alt="" data-size="original">を押してA地点を生成します。
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">を押してA地点を生成します。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-10m以上直進走行した後、ご希望の地点で<img src="../../.gitbook/assets/b-button (1).svg" alt="" data-size="original">を押してB地点を生成します。
+10m以上直進走行した後、ご希望の地点で<img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original">を押してB地点を生成します。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button (1).svg" alt="" data-size="original">\[自動操舵の開始]を押して自動操舵を始めます。
+AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[自動操舵の開始]を押して自動操舵を始めます。
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -56,14 +56,14 @@ AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button 
 
 {% stepper %}
 {% step %}
-AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button (1).svg" alt="" data-size="original">**\[ABラインの自動生成ボタン]**&#x3092;押します。
+AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original">**\[ABラインの自動生成ボタン]**&#x3092;押します。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 生成された圃場がない場合は、ガイドに従ってすぐ圃場を登録できます。
 
-<img src="../../.gitbook/assets/automatic-path-nonefield (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/automatic-path-nonefield.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
@@ -82,28 +82,28 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button (1)
 次の設定で細かい調整ができます。
 
 * 現在地を基準に生成：現在地を基準にラインを生成します。
-* ![](<../../.gitbook/assets/my-location-criteria (1).png>)
+* ![](../../.gitbook/assets/my-location-criteria.png)
   * 従来の生成ライン：白
   * 現在地を基準に生成されたライン：青
 * 横走行（縦走行）：進行方向の基準が切り替わります。タップすると縦走行ボタンに切り替わります。
-* ![縦走行](<../../.gitbook/assets/vertical-drive (1).png>)
+* ![縦走行](../../.gitbook/assets/vertical-drive.png)
   * 縦走行
-* ![縦走行](<../../.gitbook/assets/horizontal-drive (1).png>)
+* ![縦走行](../../.gitbook/assets/horizontal-drive.png)
   * 横走行
 * A/B点の入れ替え：A点とB点を入れ替えます。
-* ![](<../../.gitbook/assets/before-replace-abpoints (1).png>)
+* ![](../../.gitbook/assets/before-replace-abpoints.png)
   * 変更前
-* ![](<../../.gitbook/assets/after-replace-abpoints (1).png>)
+* ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 変更後
 * 等間隔：数値で等間隔を調整します。
-* ![](<../../.gitbook/assets/equidistant-interval (1).png>)
+* ![](../../.gitbook/assets/equidistant-interval.png)
 * 枕地：数値で枕地の間隔を調整します。
-* ![](<../../.gitbook/assets/headland (1).png>)
+* ![](../../.gitbook/assets/headland.png)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button (1).svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
+<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

@@ -27,13 +27,13 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_menu (1).svg>) \[メニュー一覧のアイコン]をクリックします。
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/field-information-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ご希望の圃場項目の ![](<../../.gitbook/assets/ic_more (1).svg>) アイコンをクリックします。
+ご希望の圃場項目の ![](../../.gitbook/assets/ic_more.svg) アイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/field-information-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

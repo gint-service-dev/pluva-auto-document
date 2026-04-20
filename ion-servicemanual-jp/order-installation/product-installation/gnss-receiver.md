@@ -49,7 +49,7 @@ pluva ionの自動操舵に必要なGNSS受信機を取り付けます。
 {% column width="83.33333333333334%" %}
 **1. 受信機の取り付け位置を確認し、乾いた布で農業機械の表面を拭き取ります。**
 
-<figure><img src="../../.gitbook/assets/how-install-gnss-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-gnss-1.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -61,7 +61,7 @@ pluva ionの自動操舵に必要なGNSS受信機を取り付けます。
 {% column width="83.33333333333334%" %}
 **2. ブラケットに付着してあるシールをはがします。**
 
-<figure><img src="../../.gitbook/assets/how-install-gnss-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-gnss-2.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -73,7 +73,7 @@ pluva ionの自動操舵に必要なGNSS受信機を取り付けます。
 {% column width="83.33333333333334%" %}
 **3. トラクターの中央、または後方にGNSS受信機を取り付けます。**
 
-<figure><img src="../../.gitbook/assets/how-install-gnss-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-gnss-3.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -85,7 +85,7 @@ pluva ionの自動操舵に必要なGNSS受信機を取り付けます。
 {% column width="83.33333333333334%" %}
 **4. 六角頭付きボルト（M8x25）で調整し、水平を確認後、ボルトを締め付けます。**
 
-<figure><img src="../../.gitbook/assets/how-install-gnss-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-install-gnss-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}

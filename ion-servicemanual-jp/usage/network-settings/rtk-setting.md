@@ -35,7 +35,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_menu (1).svg>) メニュー一覧のアイコンをクリックします。
+![](../../.gitbook/assets/ic_menu.svg) メニュー一覧のアイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/position-calibration-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -65,11 +65,11 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **RTKの手動接続**
+![](../../.gitbook/assets/icon-square-1.svg) **RTKの手動接続**
 
 * サーバー情報を入力し、補正信号を直接受信します。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **RTKのBluetooth接続**
+![](../../.gitbook/assets/icon-square-2.svg) **RTKのBluetooth接続**
 
 * スマートフォンの外部アプリを通して補正信号を受信した後、Bluetoothで接続します。外部アプリが落ちると、補正信号が切断される恐れがあります。
 
@@ -131,7 +131,7 @@ RTKのBluetooth接続の\[選択]を押してください。
 {% step %}
 Bluetoothが接続されます。
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

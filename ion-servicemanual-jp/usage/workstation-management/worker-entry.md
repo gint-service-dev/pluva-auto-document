@@ -31,9 +31,9 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_worker (1).svg>) \[作業機]をタップします。
+![](../../.gitbook/assets/ic_worker.svg) \[作業機]をタップします。
 
-<figure><img src="../../.gitbook/assets/work-machine-entry-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-machine-entry-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -49,28 +49,28 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/work-machine-entry-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **取り付け済みの作業機**
+![](../../.gitbook/assets/icon-square-1.svg) **取り付け済みの作業機**
 
 * 現在取り付け済みの作業機を表示します。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **リストを確認する**
+![](../../.gitbook/assets/icon-square-2.svg) **リストを確認する**
 
 *   作業機を一覧形式でご確認できます。リスト表示では\[拡大する]と表記されます。<br>
 
-    <figure><img src="../../.gitbook/assets/work-machine-entry-view-list (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/work-machine-entry-view-list.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **作業機3D**
+![](../../.gitbook/assets/icon-square-3.svg) **作業機3D**
 
 * 登録された作業機を3Dで表示します。
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **作業機の情報**
+![](../../.gitbook/assets/icon-square-4.svg) **作業機の情報**
 
 * 作業機タイプ、別名など作業機を追加した際に入力した情報が表示されます。
 
-![](<../../.gitbook/assets/icon-square-5-5 (2).svg>) **詳細をみる**
+![](../../.gitbook/assets/icon-square-5.svg) **詳細をみる**
 
 * 作業機の幅や偏差など、作業機の詳細情報を確認できます。
 
-![](<../../.gitbook/assets/icon-square-6-6 (2).svg>) **作業機の追加ボタン**
+![](../../.gitbook/assets/icon-square-6.svg) **作業機の追加ボタン**
 
 * 作業機を追加できるボタンです。

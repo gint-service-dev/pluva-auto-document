@@ -33,13 +33,13 @@ A+直進
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button (1).svg" alt="" data-size="original">を押してA地点を生成します。
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original">を押してA地点を生成します。
 
 <figure><img src="../../.gitbook/assets/a+-straight-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/a+-button (1).svg" alt="" data-size="original">を押します。
+<img src="../../.gitbook/assets/a+-button.svg" alt="" data-size="original">を押します。
 
 <figure><img src="../../.gitbook/assets/a+-straight-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -51,7 +51,7 @@ A+直進
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive-button (1).svg" alt="" data-size="original">\[自動操舵の開始]ボタンを押して走行を始めます。
+<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[自動操舵の開始]ボタンを押して走行を始めます。
 
 <figure><img src="../../.gitbook/assets/a+-straight-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

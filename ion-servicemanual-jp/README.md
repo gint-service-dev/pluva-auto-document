@@ -15,9 +15,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/
+metaLinks: {}
 ---
 
 # pluva ion Service Manual
@@ -34,8 +32,6 @@ metaLinks:
 
 </details>
 
-
-
 ### 映像ガイド <a href="#guide" id="guide"></a>
 
 マニュアルの内容を簡潔にまとめた動画ガイドをご用意しました。以下の動画から内容を素早くご確認いただけます。
@@ -47,8 +43,6 @@ metaLinks:
 {% hint style="info" %}
 [他の案内動画を確認する](https://youtube.com/playlist?list=PLH3vv0_FUaJ21A3gjvc_jYkS6jjd_cba8\&si=YHqsuPgg3SQ20XKZ)
 {% endhint %}
-
-
 
 ### 目次
 

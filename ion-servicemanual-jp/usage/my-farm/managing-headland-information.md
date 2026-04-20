@@ -27,7 +27,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_menu (1).svg>) \[メニュー一覧のアイコン]をクリックします。
+![](../../.gitbook/assets/ic_menu.svg) \[メニュー一覧のアイコン]をクリックします。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -39,7 +39,7 @@ My Farmの枕地項目をクリックします。
 {% endstep %}
 
 {% step %}
-ご希望の枕地項目の ![](<../../.gitbook/assets/ic_more (1).svg>) アイコンを押します。
+ご希望の枕地項目の ![](../../.gitbook/assets/ic_more.svg) アイコンを押します。
 
 <figure><img src="../../.gitbook/assets/headland-information-management-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

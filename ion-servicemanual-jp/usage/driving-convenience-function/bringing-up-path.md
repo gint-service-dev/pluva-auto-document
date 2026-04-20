@@ -32,12 +32,12 @@ metaLinks:
 {% hint style="info" %}
 経路の取り込み機能は、自動経路およびメモリー走行モードでのみ利用可能です。これらのモードでない場合は機能をご利用できません。
 
-<img src="../../.gitbook/assets/calling-path-mode (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/calling-path-mode (1).png" alt="" data-size="original">
 {% endhint %}
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/drive-function-button (1).svg" alt="" data-size="original"> \[作業]を選択してください。
+<img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[作業]を選択してください。
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -73,7 +73,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-取り込みたい経路の <img src="../../.gitbook/assets/ic_more (1).svg" alt="" data-size="original"> アイコンをタップします。
+取り込みたい経路の <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/modify-name-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -103,7 +103,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-削除したい経路の <img src="../../.gitbook/assets/ic_more (1).svg" alt="" data-size="original"> アイコンをタップします。
+削除したい経路の <img src="../../.gitbook/assets/ic_more.svg" alt="" data-size="original"> アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/delete-name-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -133,7 +133,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-取り込んだ経路から、お気に入り保存したい経路の <img src="../../.gitbook/assets/ic_star_active (1).svg" alt="" data-size="original"> お気に入りアイコンをタップします。
+取り込んだ経路から、お気に入り保存したい経路の <img src="../../.gitbook/assets/ic_star_active.svg" alt="" data-size="original"> お気に入りアイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/bookmark-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

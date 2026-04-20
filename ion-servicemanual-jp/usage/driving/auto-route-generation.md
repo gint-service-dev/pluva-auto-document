@@ -49,7 +49,7 @@ Pluva AIが経路を生成します。
 {% endstep %}
 
 {% step %}
-開始点に移動した後![](<../../.gitbook/assets/drive_ai-button (1).svg>)「自動操舵の開始」をタップすると走行が始まります。
+開始点に移動した後![](../../.gitbook/assets/drive_ai-button.svg)「自動操舵の開始」をタップすると走行が始まります。
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-4 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

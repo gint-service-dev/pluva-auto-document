@@ -31,7 +31,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_menu (1).svg>) メニュー一覧のアイコンをクリックします。
+![](../../.gitbook/assets/ic_menu.svg) メニュー一覧のアイコンをクリックします。
 
 <figure><img src="../../.gitbook/assets/network-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

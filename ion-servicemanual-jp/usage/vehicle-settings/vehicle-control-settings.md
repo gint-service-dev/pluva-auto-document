@@ -27,7 +27,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_vehicle (1).svg>) \[車両]をタップします。
+![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
 
 <figure><img src="../../.gitbook/assets/vehicle-control-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -35,7 +35,7 @@ metaLinks:
 {% step %}
 \[車両]をタップします。
 
-<figure><img src="../../.gitbook/assets/vehicle-control-settings-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vehicle-control-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -53,14 +53,14 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/general-settings (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **自動操舵の解除の許可**
+![](../../.gitbook/assets/icon-square-1.svg) **自動操舵の解除の許可**
 
 * 運転者がハンドルを直接操作したときに、自動操舵を自動で解除するかどうかを設定します。
 
 {% hint style="info" %}
 手動解除強度の許可トグルをオンにすると強度を設定できます。
 
-<img src="../../.gitbook/assets/toggle-onoff (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/toggle-onoff.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
@@ -71,7 +71,7 @@ metaLinks:
 アイコンを押すと、その機能に関する説明を確認できます。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **経路の進入距離の設定**
+![](../../.gitbook/assets/icon-square-2.svg) **経路の進入距離の設定**
 
 * 車両が走行経路上のどの程度離れた地点を目標にして進入するかを設定します。
 
@@ -88,14 +88,14 @@ metaLinks:
 {% endhint %}
 
 {% hint style="info" %}
-<img src="../../.gitbook/assets/ic_circle_help (1).svg" alt="" data-size="line">アイコンを押すと、その機能に関する説明を確認できます。
+<img src="../../.gitbook/assets/ic_circle_help.svg" alt="" data-size="line">アイコンを押すと、その機能に関する説明を確認できます。
 {% endhint %}
 
 > **詳細設定の方法**
 
 {% stepper %}
 {% step %}
-詳細設定 <img src="../../.gitbook/assets/ic_arrow_tiny (1).svg" alt="" data-size="line"> をタップし、高度な設定機能を使用できます。
+詳細設定 <img src="../../.gitbook/assets/ic_arrow_tiny.svg" alt="" data-size="line"> をタップし、高度な設定機能を使用できます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/advanced-settings (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -105,14 +105,14 @@ metaLinks:
 
 #### **a.** 自動操舵の解除の許可（前進）
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **前進での開始条件**
+![](../../.gitbook/assets/icon-square-1.svg) **前進での開始条件**
 
 1. 前進開始条件 ：前進で自動操舵を開始する際に、安全条件を使用するかどうかを設定します。
 
 {% hint style="info" %}
 トグルで機能をオン・オフできます。
 
-<img src="../../.gitbook/assets/toggle-onoff (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/toggle-onoff.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
@@ -142,7 +142,7 @@ metaLinks:
 この速度より速く走行している場合は、自動操舵を開始できません。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **前進での解除条件**
+![](../../.gitbook/assets/icon-square-2.svg) **前進での解除条件**
 
 1. 前進解除条件の使用 ：前進時に条件から外れた場合、自動操舵を自動で解除するかどうかを設定します。
 
@@ -185,7 +185,7 @@ metaLinks:
 この速度より速く走行すると、自動操舵が自動で解除されます。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **前進での最低速度条件**
+![](../../.gitbook/assets/icon-square-3.svg) **前進での最低速度条件**
 
 * 前進自動操舵に必要な最低速度を設定します。
 
@@ -199,7 +199,7 @@ metaLinks:
 
 #### **b.** 自動操舵の解除の許可 (後進)
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **後進での開始条件**
+![](../../.gitbook/assets/icon-square-1.svg) **後進での開始条件**
 
 1. 後進開始条件 ：後進で自動操舵を開始する際に、安全条件を使用するかどうかを設定します。
 
@@ -230,7 +230,7 @@ metaLinks:
 この速度より速く走行している場合は、自動操舵を開始できません。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **後進での解除条件**
+![](../../.gitbook/assets/icon-square-2.svg) **後進での解除条件**
 
 1. 後進解除条件の使用 ：後進時に条件から外れた場合、自動操舵を自動で解除するかどうかを設定します。
 
@@ -273,7 +273,7 @@ metaLinks:
 この速度より速く走行すると、自動操舵が自動で解除されます。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **後進での最低速度条件**
+![](../../.gitbook/assets/icon-square-3.svg) **後進での最低速度条件**
 
 * 後進自動操舵に必要な最低速度を設定します。
 
@@ -287,7 +287,7 @@ metaLinks:
 
 #### **c.** 経路の進入距離の詳細設定
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **進入傾向**
+![](../../.gitbook/assets/icon-square-1.svg) **進入傾向**
 
 1. 前進経路の進入距離 : 前進で車両が経路上のどれくらい遠い地点を目標に進入するかを設定します。
 
@@ -321,7 +321,7 @@ metaLinks:
 車両の経路進入度合いを調整するには、進入距離 → 進入角度 → 進入時間の順に設定することをおすすめします。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **追従感度**
+![](../../.gitbook/assets/icon-square-2.svg) **追従感度**
 
 1. 前進経路の追従感度 : 前進で進入した後、経路をどれだけ正確に追従するかを設定します。
 
@@ -343,7 +343,7 @@ metaLinks:
 この設定は走行性能に大きな影響を与えるため、慎重に調整してください。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **ステアリング感度**
+![](../../.gitbook/assets/icon-square-3.svg) **ステアリング感度**
 
 1. ランディング前の前進ステアリング感度 : 前進で経路に完全に入る前のステアリング感度を設定します。
 
@@ -385,7 +385,7 @@ metaLinks:
 値が大きいほど経路の内側に入り、積極的にターンします。
 {% endhint %}
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **曲率半径の制限**
+![](../../.gitbook/assets/icon-square-4.svg) **曲率半径の制限**
 
 * カーブ経路の生成時に最大曲率を制限して経路を補正します。
 

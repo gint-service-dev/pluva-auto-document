@@ -131,7 +131,7 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/field-registration-screen-0 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **住所検索による圃場登録**
+![](../../.gitbook/assets/icon-square-1.svg) **住所検索による圃場登録**
 
 *   住所を検索し、圃場を登録します。 \*
 
@@ -139,7 +139,7 @@ metaLinks:
     <figure><img src="../../.gitbook/assets/field-registration-screen-1.png" alt=""><figcaption></figcaption></figure>
     ```
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **直接描く**
+![](../../.gitbook/assets/icon-square-2.svg) **直接描く**
 
 *   地図上で直接点を打ち、圃場エリアを作成します。 \*
 
@@ -147,31 +147,31 @@ metaLinks:
     <figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt=""><figcaption></figcaption></figure>
     ```
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **地図から登録**
+![](../../.gitbook/assets/icon-square-3.svg) **地図から登録**
 
 * 地図上の圃場をタップし選択します。初期設定は\[地図から登録]になっています。
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **戻る**
+![](../../.gitbook/assets/icon-square-4.svg) **戻る**
 
 * 前の画面に戻ります。
 
-![](<../../.gitbook/assets/icon-square-5-5 (2).svg>) **次へ**
+![](../../.gitbook/assets/icon-square-5.svg) **次へ**
 
 * 次のステップへ進みます。
 
-![](<../../.gitbook/assets/icon-square-6-6 (2).svg>) **終了する**
+![](../../.gitbook/assets/icon-square-6.svg) **終了する**
 
 * 圃場の登録画面を終了します。
 
-![](<../../.gitbook/assets/icon-square-7 (1).svg>) **現在地へ**
+![](../../.gitbook/assets/icon-square-7.svg) **現在地へ**
 
 * 現在地を表示します。
 
-![](<../../.gitbook/assets/icon-square-8 (1).svg>) **進入・退出口の設定**
+![](../../.gitbook/assets/icon-square-8.svg) **進入・退出口の設定**
 
 * 進入・退出口の位置を設定します。圃場を登録すると、このボタンが使用可能になります。進入・退出口は同じ場所に設定することも、それぞれ別々に設定することも可能です。また、「修正」ボタンから位置変更ができます。
 
-![](<../../.gitbook/assets/icon-square-9 (1).svg>) **境界登録の完了**
+![](../../.gitbook/assets/icon-square-9.svg) **境界登録の完了**
 
 * 境界登録を完了します。進入・退出口を選択すると、このボタンが使用可能になります。
 
@@ -181,23 +181,23 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/register-on-a-map (1).png" alt="" width="233"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **圃場名**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場名**
 
 * 表示名を入力します。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **農場**
+![](../../.gitbook/assets/icon-square-2.svg) **農場**
 
 * 圃場と紐づける農場を選択します。
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **農場主**
+![](../../.gitbook/assets/icon-square-3.svg) **農場主**
 
 * 圃場と紐づける農場主を選択します。
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **作物**
+![](../../.gitbook/assets/icon-square-4.svg) **作物**
 
 * この圃場で作業中の作物を追加します。
 
-![](<../../.gitbook/assets/icon-square-5-5 (2).svg>) **メモ**
+![](../../.gitbook/assets/icon-square-5.svg) **メモ**
 
 * 追加情報をメモします。
 
@@ -221,7 +221,7 @@ My Farmから「枕地」を選択します。
 {% endstep %}
 
 {% step %}
-![](<../../.gitbook/assets/add-button (1).svg>) 「枕地の追加」ボタンをタップします。
+![](../../.gitbook/assets/add-button.svg) 「枕地の追加」ボタンをタップします。
 
 <figure><img src="../../.gitbook/assets/quick-headland-registration-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -253,17 +253,17 @@ My Farmから「枕地」を選択します。
 
 #### 枕地の表示ラインのご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/boundary (2).png" alt="" width="291"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/boundary.png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **圃場の境界オフセットの表示ライン**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の境界オフセットの表示ライン**
 
 * 赤の実線で表示されます。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **圃場の境界線**
+![](../../.gitbook/assets/icon-square-2.svg) **圃場の境界線**
 
 * 白の実線で表示されます。
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **枕地の表示ライン**
+![](../../.gitbook/assets/icon-square-3.svg) **枕地の表示ライン**
 
 * 白の点線で表示されます。
 
@@ -279,41 +279,41 @@ My Farmから「枕地」を選択します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal (1).png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **圃場の選択**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
 * 枕地を適用する圃場を選択します。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **枕地名**
+![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
 * 識別するための枕地名を入力します。
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **枕地の長さ**
+![](../../.gitbook/assets/icon-square-3.svg) **枕地の長さ**
 
 * 枕地の幅を数値入力で設定します。
-  * ![](<../../.gitbook/assets/full-headland-street (1).png>)
+  * ![](../../.gitbook/assets/full-headland-street.png)
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **枕地の数**
+![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
 
 * 枕地の周回数を設定します。
   * 枕地を1周に設定した場合\
-    ![](<../../.gitbook/assets/full-headland-setting-one-headland (1).png>)
+    ![](../../.gitbook/assets/full-headland-setting-one-headland.png)
   * 枕地を2周に設定した場合\
-    ![](<../../.gitbook/assets/full-headland-setting-two-headland (1).png>)
+    ![](../../.gitbook/assets/full-headland-setting-two-headland.png)
 
-![](<../../.gitbook/assets/icon-square-5-5 (2).svg>) **圃場の境界オフセット**
+![](../../.gitbook/assets/icon-square-5.svg) **圃場の境界オフセット**
 
 * 数値入力で圃場境界を調整します。ON/OFFの切り替えが可能で
 * +は外側、-は内側へ境界線が移動します。
   * プラス（+）で数値設定の場合\
-    ![](<../../.gitbook/assets/full-headland-plus-when-setting (1).png>)
+    ![](../../.gitbook/assets/full-headland-plus-when-setting.png)
   * マイナス（-）で数値設定の場合\
-    ![](<../../.gitbook/assets/full-headland-minus-when-setting (1).png>)
+    ![](../../.gitbook/assets/full-headland-minus-when-setting.png)
 
-![](<../../.gitbook/assets/icon-square-6-6 (2).svg>) **作業機**
+![](../../.gitbook/assets/icon-square-6.svg) **作業機**
 
 * 作業に使用する作業機を選択します。
 
-![](<../../.gitbook/assets/icon-square-7 (1).svg>) **メモ**
+![](../../.gitbook/assets/icon-square-7.svg) **メモ**
 
 * 追加情報をメモします。
 
@@ -329,40 +329,40 @@ My Farmから「枕地」を選択します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal (1).png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1-1 (2).svg>) **圃場の選択**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
 * 枕地を適用する圃場を選択します。
 
-![](<../../.gitbook/assets/icon-square-2-2 (2).svg>) **枕地名**
+![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
 * 識別するための枕地名を入力します。
 
-![](<../../.gitbook/assets/icon-square-3-3 (2).svg>) **作業機**
+![](../../.gitbook/assets/icon-square-3.svg) **作業機**
 
 * 作業に使う作業機を選択します。
 
-![](<../../.gitbook/assets/icon-square-4-4 (2).svg>) **枕地の本数**
+![](../../.gitbook/assets/icon-square-4.svg) **枕地の本数**
 
 * 枕地の本数を設定します。
-  * <img src="../../.gitbook/assets/partical-headland-one-ic (1).svg" alt="" data-size="line"> 番ラインに枕地を1本設定の場合\
-    ![](<../../.gitbook/assets/partial-headland-setting-one-headland (1).png>)
-  * <img src="../../.gitbook/assets/partical-headland-one-ic (1).svg" alt="" data-size="line"> 番ラインに枕地を3本設定の場合\
-    ![](<../../.gitbook/assets/partial-headland-setting-three-headland (1).png>)
+  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 番ラインに枕地を1本設定の場合\
+    ![](../../.gitbook/assets/partial-headland-setting-one-headland.png)
+  * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 番ラインに枕地を3本設定の場合\
+    ![](../../.gitbook/assets/partial-headland-setting-three-headland.png)
 
-![](<../../.gitbook/assets/icon-square-5-5 (2).svg>) **枕地の長さ**
+![](../../.gitbook/assets/icon-square-5.svg) **枕地の長さ**
 
 * 枕地の幅を数値入力で設定します。
-  * ![](<../../.gitbook/assets/partial-headland-street (1).png>)
+  * ![](../../.gitbook/assets/partial-headland-street.png)
 
-![](<../../.gitbook/assets/icon-square-6-6 (2).svg>) **圃場の境界オフセット**
+![](../../.gitbook/assets/icon-square-6.svg) **圃場の境界オフセット**
 
 * 数値入力で圃場境界を調整します。ON/OFFの切り替えが可能で、
 * +は外側、-は内側へ境界線が移動します。
 * プラス（+）で数値設定の場合\
-  ![](<../../.gitbook/assets/partial-headland-plus-when-setting (1).png>)
+  ![](../../.gitbook/assets/partial-headland-plus-when-setting.png)
 * マイナス（-）で数値設定の場合\
-  ![](<../../.gitbook/assets/partial-headland-minus-when-setting (1).png>)
+  ![](../../.gitbook/assets/partial-headland-minus-when-setting.png)
 
-![](<../../.gitbook/assets/icon-square-7 (1).svg>) **メモ**
+![](../../.gitbook/assets/icon-square-7.svg) **メモ**
 
 * 追加情報をメモします。
