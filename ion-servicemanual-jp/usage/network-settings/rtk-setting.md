@@ -65,11 +65,11 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **RTKの手動接続**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **RTKの手動接続**
 
 * サーバー情報を入力し、補正信号を直接受信します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **RTKのBluetooth接続**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **RTKのBluetooth接続**
 
 * スマートフォンの外部アプリを通して補正信号を受信した後、Bluetoothで接続します。外部アプリが落ちると、補正信号が切断される恐れがあります。
 

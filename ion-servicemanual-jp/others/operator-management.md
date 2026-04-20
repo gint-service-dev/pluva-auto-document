@@ -158,9 +158,9 @@ metaLinks:
 
 ![](<../.gitbook/assets/icon-square-4 (1).svg>) 担当
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) 作成日
+![](../.gitbook/assets/icon-square-5.svg) 作成日
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) メールアドレス
+![](../.gitbook/assets/icon-square-6.svg) メールアドレス
 
 ![](../.gitbook/assets/icon-square-7.svg) 携帯電話番号
 
@@ -190,9 +190,9 @@ metaLinks:
 
 ![](<../.gitbook/assets/icon-square-4 (1).svg>) 担当
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) 作成日
+![](../.gitbook/assets/icon-square-5.svg) 作成日
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) メールアドレス
+![](../.gitbook/assets/icon-square-6.svg) メールアドレス
 
 ![](../.gitbook/assets/icon-square-7.svg) 携帯電話番号
 

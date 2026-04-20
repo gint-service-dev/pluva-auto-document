@@ -49,21 +49,21 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/work-machine-entry-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **取り付け済みの作業機**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **取り付け済みの作業機**
 
 * 現在取り付け済みの作業機を表示します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **リストを確認する**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **リストを確認する**
 
 *   作業機を一覧形式でご確認できます。リスト表示では\[拡大する]と表記されます。<br>
 
     <figure><img src="../../.gitbook/assets/work-machine-entry-view-list.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-3.svg) **作業機3D**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **作業機3D**
 
 * 登録された作業機を3Dで表示します。
 
-![](../../.gitbook/assets/icon-square-4.svg) **作業機の情報**
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **作業機の情報**
 
 * 作業機タイプ、別名など作業機を追加した際に入力した情報が表示されます。
 

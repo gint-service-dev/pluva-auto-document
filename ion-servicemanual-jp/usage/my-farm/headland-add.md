@@ -58,15 +58,15 @@ My Farmの枕地項目をクリックします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/boundary.png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **圃場の境界オフセットの表示ライン**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の境界オフセットの表示ライン**
 
 * 赤の実線で表示されます。
 
-![](../../.gitbook/assets/icon-square-2.svg) **圃場の境界線**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **圃場の境界線**
 
 * 白の実線で表示されます。
 
-![](../../.gitbook/assets/icon-square-3.svg) **枕地の表示ライン**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **枕地の表示ライン**
 
 * 白の点線で表示されます。
 
@@ -82,20 +82,20 @@ My Farmの枕地項目をクリックします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal (1).png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の選択**
 
 * 適用する枕地の圃場を選択します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **枕地名**
 
 * 区分するための枕地名を記入します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **枕地の長さ**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **枕地の長さ**
 
 * 枕地の長さを数値で調整します。
   * ![](../../.gitbook/assets/full-headland-street.png)
 
-![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **枕地の数**
 
 * 枕地の数を調整します。
   * 枕地を1つに設定する場合\
@@ -132,19 +132,19 @@ My Farmの枕地項目をクリックします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal (1).png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の選択**
 
 * 適用する枕地の圃場を選択します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **枕地名**
 
 * 区分するための枕地名を記入します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **作業機**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **作業機**
 
 * 作業する作業機を選択します。
 
-![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **枕地の数**
 
 * 枕地の数を調整します。枕地全体とは異なり、各面の枕地の数を調整できます。
   * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> に枕地を1つ設定時\

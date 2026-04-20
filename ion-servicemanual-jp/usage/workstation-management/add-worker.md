@@ -67,19 +67,19 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) 作業機タイプ
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) 作業機タイプ
 
 * 作業機タイプを選択します。
 
-![](../../.gitbook/assets/icon-square-2.svg) 作業機の幅
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) 作業機の幅
 
 * 作業機の幅を入力します。
 
-![](../../.gitbook/assets/icon-square-3.svg) 畝間
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) 畝間
 
 * 畝間を入力します。
 
-![](../../.gitbook/assets/icon-square-4.svg) リンク -作業機の距離
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) リンク -作業機の距離
 
 * リンクと作業機の間の距離を入力します。
 

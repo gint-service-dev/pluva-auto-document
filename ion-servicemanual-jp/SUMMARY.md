@@ -27,6 +27,7 @@
   * [GNSS受信機の接続確認](order-installation/quick-setup/gnss-connect.md)
   * [位置補正の設定](order-installation/quick-setup/rtk-setting.md)
   * [車両の追加](order-installation/quick-setup/add-vehicle.md)
+  * [(관리기 추가)車両の追加](order-installation/quick-setup/add-vehicle-2.md)
   * [作業機の追加（任意）](order-installation/quick-setup/add-worker.md)
   * [車両の補正](order-installation/quick-setup/vehicle-calibration.md)
   * [圃場の設定](order-installation/quick-setup/farm-setting.md)

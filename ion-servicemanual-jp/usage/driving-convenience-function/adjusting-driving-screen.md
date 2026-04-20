@@ -66,7 +66,7 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) 拡大する
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) 拡大する
 
 *   カメラ画面を走行画面の全画面表示に切り替えることができます。 「閉じるX」をクリックするとカメラ画面が終了されます。<br>
 

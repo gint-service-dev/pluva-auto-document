@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -15,13 +16,9 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/add-vehicle
 ---
 
-# 車両の追加
+# (관리기 추가)車両の追加
 
 作業に使用する車両を追加します。
 
@@ -110,6 +107,29 @@ metaLinks:
 
 * 田植え機の幅を表し、タイヤの幅も含みます。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
+
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) 間隔偏差
+
+* 往復作業時に走行間隔が一定でない場合、その誤差を補正するための設定値です。（走行間隔の誤差の絶対値を4で割った値を入力してください。）
+
+#### 管理機
+
+<div align="left"><figure><img src="../../.gitbook/assets/add-manager-dimensions.png" alt="" width="278"><figcaption></figcaption></figure></div>
+
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
+
+* 管理機の前輪軸から後輪軸までの距離です。
+* ![](../../.gitbook/assets/add-manager-dimensions-1.png)
+
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸 - 車両の端
+
+* 管理機の後輪軸から車両の端までの水平距離です。
+* ![](../../.gitbook/assets/add-manager-dimensions-2.png)
+
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) 管理機の幅
+
+* 管理機の幅を表し、タイヤの幅も含みます。
+* ![](../../.gitbook/assets/add-manager-dimensions-3.png)
 
 ![](<../../.gitbook/assets/icon-square-4 (1).svg>) 間隔偏差
 

@@ -52,9 +52,9 @@ metaLinks:
 
 ![](<../.gitbook/assets/icon-square-4 (1).svg>) **製造日**
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) **タブレットのシリアル番号**
+![](../.gitbook/assets/icon-square-5.svg) **タブレットのシリアル番号**
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) **現在のソフトウェアバージョン**
+![](../.gitbook/assets/icon-square-6.svg) **現在のソフトウェアバージョン**
 
 * 現在の製品のアップデートバージョン
 
@@ -100,9 +100,9 @@ metaLinks:
 
 ![](<../.gitbook/assets/icon-square-4 (1).svg>) **担当部署**
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) **製造日**
+![](../.gitbook/assets/icon-square-5.svg) **製造日**
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) **現在のソフトウェアバージョン**
+![](../.gitbook/assets/icon-square-6.svg) **現在のソフトウェアバージョン**
 
 ![](../.gitbook/assets/icon-square-7.svg) **次のソフトウェアバージョン**
 
@@ -123,4 +123,3 @@ metaLinks:
 ![](../.gitbook/assets/icon-square-10.svg) **アップデート履歴**
 
 * ソフトウェアがアップデートされた日付とバージョンの情報が確認できます。
-

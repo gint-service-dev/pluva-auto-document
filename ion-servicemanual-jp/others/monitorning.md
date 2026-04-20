@@ -181,13 +181,13 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/monitorning-description-pc.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
+![](<../.gitbook/assets/icon-square-1 (1).svg>) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
 
-![](../.gitbook/assets/icon-square-2.svg) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
+![](<../.gitbook/assets/icon-square-2 (1).svg>) **お客様情報**：リモートサポートを依頼したお客様のお名前と連絡先が表示されます。
 
-![](../.gitbook/assets/icon-square-3.svg) **接続時間**：リモートサポート画面に接続した時間が表示されます。
+![](<../.gitbook/assets/icon-square-3 (1).svg>) **接続時間**：リモートサポート画面に接続した時間が表示されます。
 
-![](../.gitbook/assets/icon-square-4.svg) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
+![](<../.gitbook/assets/icon-square-4 (1).svg>) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
 
 *
 
@@ -205,15 +205,15 @@ metaLinks:
 
 <div align="left"><figure><img src="../.gitbook/assets/monitorning-description-mo.png" alt="" width="293"><figcaption></figcaption></figure></div>
 
-![](../.gitbook/assets/icon-square-1.svg) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
+![](<../.gitbook/assets/icon-square-1 (1).svg>) **タブレットのシリアル番号**：リモートサポート中のタブレットのシリアル番号が表示されます。
 
-![](../.gitbook/assets/icon-square-2.svg) **「拡大する」ボタン**：リモートサポート画面を横に切り替え、拡大できます。
+![](<../.gitbook/assets/icon-square-2 (1).svg>) **「拡大する」ボタン**：リモートサポート画面を横に切り替え、拡大できます。
 
 <figure><img src="../.gitbook/assets/monitorning-biggermode.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-3.svg) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
+![](<../.gitbook/assets/icon-square-3 (1).svg>) **リモートサポートの画面**：現在のお客様のタブレット画面が確認できます。
 
-![](../.gitbook/assets/icon-square-4.svg) **経過時間**：リモートサポート開始からの経過時間が表示されます。
+![](<../.gitbook/assets/icon-square-4 (1).svg>) **経過時間**：リモートサポート開始からの経過時間が表示されます。
 
 ![](../.gitbook/assets/icon-square-5.svg) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
 

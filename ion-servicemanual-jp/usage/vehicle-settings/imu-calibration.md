@@ -57,14 +57,14 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/imu-calibration-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **ROll ロール**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **ROll ロール**
 
 * GNSS受信機が左右方向に傾いている角度を意味します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **Pitch ピッチ**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **Pitch ピッチ**
 
 * GNSS受信機が左右方向に傾いている角度を意味します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **Yaw ヨー**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **Yaw ヨー**
 
 * GNSS受信機が垂直軸を基準に回転した角度を意味します。

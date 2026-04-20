@@ -71,19 +71,19 @@ My Farmの農場管理の\[圃場]タブにアクセスできます。
 
 <figure><img src="../../.gitbook/assets/field-adjustment-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **最も近いポイント**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **最も近いポイント**
 
 * 車両の現在地から最も近いポイントを表示します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **ポイント調整**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **ポイント調整**
 
 * 車両の位置から最も近いポイントの位置を調整します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **リセット**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **リセット**
 
 * 圃場の調整を進める前の初期状態に復元します。
 
-![](../../.gitbook/assets/icon-square-4.svg) **終了する**
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **終了する**
 
 * 圃場の調整画面を終了します。
 
