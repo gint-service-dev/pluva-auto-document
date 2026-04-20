@@ -34,6 +34,8 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-2.svg) **タブレットのスリープボタン**
 
 * タブレットの電源をオン・オフできます。
@@ -57,21 +59,23 @@ metaLinks:
 タブレットのスリープボタンを押して終了した後も暗電流が流れるため、トラクターのバッテリーが上がる恐れがあります。長時間使用しない場合は、使用後に必ずメイン電源スイッチを切って電源を遮断してください。
 {% endhint %}
 
+
+
 ![](../../.gitbook/assets/icon-circle-3.svg) **右側(▶)**
 
 * 設定画面：選択項目を右へ移動します。
-* 自動操舵中：等間隔のラインを右側に一定間隔で移動させます。
-* Uターン中：右側へ即時Uターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-4.svg) **左側(◀)**
 
 * 設定画面：選択項目を左へ移動します。
-* 自動操舵中：等間隔ラインを左側に一定間隔で移動させます。
-* Uターン中：左側へ即時Uターンします。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-5.svg) **選択 / 自動操舵ON・OFF**
 
@@ -80,17 +84,23 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-6.svg) **キャンセル/前へ**
 
 * 前の画面に移動、または実施中の動作を中断します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-7.svg) **お気に入り機能**
 
 * お客様がよく使う機能をお気に入りに登録し、ボタンを押すとその機能へ移動します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-8.svg) **メインコネクター**
 
