@@ -46,13 +46,13 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-배속턴 차량은 배속턴 특성에 맞춘 보정값이 필요하므로, \[배속턴 차량] 토글을 반드시 켜고 진행해 주세요.
+퀵턴 차량은 퀵턴 특성에 맞춘 보정값이 필요하므로, \[퀵턴 차량] 토글을 반드시 켜고 진행해 주세요.
 
 <img src="../../.gitbook/assets/add-vehicle-speedturn.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-배속턴은 트랙터에만 적용되는 옵션입니다. 이앙기에는 배속턴 옵션이 없습니다.
+퀵턴은 트랙터에만 적용되는 옵션입니다. 이앙기에는 퀵턴 옵션이 없습니다.
 {% endhint %}
 {% endstep %}
 
