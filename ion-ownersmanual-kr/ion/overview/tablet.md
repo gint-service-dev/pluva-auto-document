@@ -39,7 +39,9 @@ metaLinks:
 태블릿 절전 버튼으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
 {% endhint %}
 
-
+{% hint style="warning" %}
+반드시 ‘태블릿 전원 버튼’을 길게 눌러 시스템을 완전히 종료한 후, 메인 전원 스위치를 OFF하여 주세요.
+{% endhint %}
 
 ![](../../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
 
@@ -47,23 +49,21 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
+* 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
+* 유턴 중: 즉시 유턴을 우측으로 실행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-4.svg) 좌측(◀)
 
 * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
+* 자율주행 중: 등간격을 좌측으로 일정 간격 이동합니다.
+* 유턴 중: 즉시 유턴을 좌측으로 실행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-5.svg) 선택 / 자율주행 버튼
 
@@ -72,23 +72,17 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-6.svg) 취소/이전
 
 * 이전 화면으로 이동하거나 진행 중 동작을 취소합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-7.svg) 즐겨찾기
 
 * 고객이 자주 사용하는 기능을 즐겨찾기로 설정하고, 버튼을 누르면 해당 기능으로 이동합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-8.svg) 메인 커넥터
 
@@ -194,23 +188,19 @@ metaLinks:
 
 #### 시스템 상태 아이콘 <a href="#system-icon" id="system-icon"></a>
 
-
-
 1. RTK 통신 상태
 
 * 위성 신호 수신 상태를 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/network-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-> <img src="../../.gitbook/assets/status-bar-gps-fixed (2).png" alt="" data-size="line"> : 위성 신호 우수
+> <img src="../../.gitbook/assets/status-bar-gps-fixed (1).png" alt="" data-size="line"> : 위성 신호 우수
 >
 > <img src="../../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line"> : 위성 신호 보통
 >
 > <img src="../../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line"> : 위성 신호 나쁨
 >
 > <img src="../../.gitbook/assets/status-bar-gps-not-fixed (1).png" alt="" data-size="line"> : 신호 없음
-
-
 
 2. 네트워크 통신 상태
 
@@ -230,7 +220,9 @@ metaLinks:
 OTA(무선 소프트웨어 업데이트) 및 엔터테인먼트(Youtube) 이용 시 데이터 사용량이 극히 많아 기본제공 데이터가 모두 소진될 수 있습니다. 데이터 초과 과금을 방지하기 위해 반드시 와이파이 또는 휴대폰 테더링을 연결하여 사용하십시오.
 {% endhint %}
 
-
+{% hint style="warning" %}
+USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습니다. 접속이 확인될 때까지 전원을 끄지 말고 기다려 주십시오.
+{% endhint %}
 
 3. 현재 작업 라인
 
@@ -239,19 +231,14 @@ OTA(무선 소프트웨어 업데이트) 및 엔터테인먼트(Youtube) 이용 
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-work-line.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-
-
 4. 현재 온도
 
 * 현재 작업 위치의 실시간 기온을 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-temperature.png" alt="" width="82"><figcaption></figcaption></figure></div>
 
-
-
 5. 현재 시간
 
 * 시스템 시간을 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/current-time.png" alt="" width="98"><figcaption></figcaption></figure></div>
-
