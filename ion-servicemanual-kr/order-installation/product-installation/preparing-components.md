@@ -110,6 +110,8 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/2.svg) 태블릿 절전 버튼
 
 * 태블릿의 전원을 끄거나 켭니다.
@@ -120,23 +122,23 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/3.svg) 우측(▶)
 
 * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
-* 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
-*   유턴 중: 즉시 유턴을 우측으로 실행합니다.
-
-
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/4.svg) 좌측(◀)
 
 * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
-* 자율주행 중: 등간격을 좌측으로 일정 간격 이동합니다.
-* 유턴 중: 즉시 유턴을 좌측으로 실행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/5.svg) 선택 / 자율주행 버튼
 
@@ -145,17 +147,23 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-6.svg) 취소/이전
 
 * 이전 화면으로 이동하거나 진행 중 동작을 취소합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-7.svg) 멀티펑션(즐겨찾기)
 
 * 고객이 자주 사용하는 기능을 즐겨찾기로 설정하고, 버튼을 누르면 해당 기능으로 이동합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-8.svg) 메인 커넥터
 
@@ -217,6 +225,8 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/2.svg) 멀티펑션 기능
 
 * 기능
@@ -227,6 +237,8 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/3.svg) 취소 or 이전
 
 * 기능
@@ -236,6 +248,8 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
   * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/4.svg) 엔터
 
@@ -248,29 +262,31 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/5.svg) 좌측(◀)
 
 * 기능
   * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
-  * 자율주행 중: 등간격을 좌측으로 일정 간격 이동합니다.
-  * 유턴 중: 즉시 유턴을 좌측으로 실행합니다.
 * 상태
   * 기본 - 미점등
   * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+
+
 ![](../../.gitbook/assets/icon-circle-6.svg) 우측(▶)
 
 * 기능
   * 설정 화면: 선택 항목을 오른쪽으로 이동합니다.
-  * 자율주행 중: 등간격을 우측으로 일정 간격 이동합니다.
-  * 유턴 중: 즉시 유턴을 우측으로 실행합니다.
 * 상태
   * 기본 - 미점등
   * 버튼 동작 - 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+
 
 ![](../../.gitbook/assets/icon-circle-7.svg) 자율주행 ON/OFF
 
