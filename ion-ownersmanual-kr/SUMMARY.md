@@ -19,7 +19,7 @@
   * [AB직진](ion/driving/ab-straight.md)
   * [A+직진](ion/driving/a-plus-straight.md)
   * [사각주행](ion/driving/square-drive.md)
-  * [격자 주행](ion/driving/cross-path.md)
+  * [격자주행](ion/driving/cross-path.md)
   * [자동 경로 (플루바 AI)](ion/driving/auto-route-generation.md)
 * [턴 모드](ion/uturn-mode/README.md)
   * [턴 설정 방법](ion/uturn-mode/uturn-mode-setting.md)
