@@ -2,7 +2,7 @@
 
 격자 주행은 바운더리를 설정하고 두 개의 기준변을 선택하면, 두 방향의 격자형 경로를 자동으로 생성하는 주행모드입니다. 가로·세로 방향을 자유롭게 오가며 교차 방향 작업을 수행할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/cross-path (1).png" alt="" width="189"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="189"><figcaption></figcaption></figure></div>
 
 ### 주요 활용 작업
 
@@ -21,7 +21,7 @@
 {% step %}
 주행모드 목록에서 격자주행을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -43,7 +43,7 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 경로를 생성하려면 최소 4점(A\~D)을 설정해야 합니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **최대 추가 점수**\
@@ -54,14 +54,14 @@ A, B, C, D 포인트를 설정하는 것은 작업할 영역의 경계(바운더
 **포인트 수정**\
 설정 직후 해당 점의 **수정** 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
 
-<img src="../../.gitbook/assets/cross-path-adjustment (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/cross-path-adjustment.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
 격자 라인이 자동 생성됩니다.
 
-<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cross-path-boundary-point-setup-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

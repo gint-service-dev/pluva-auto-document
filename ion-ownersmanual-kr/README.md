@@ -74,7 +74,7 @@ metaLinks: {}
 
 <summary><a href="ion/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>격자주행</td><td><a href="ion/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -82,7 +82,7 @@ metaLinks: {}
 
 <summary><a href="ion/uturn-mode/">턴 모드</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>턴 설정 방법</td><td><a href="ion/uturn-mode/uturn-mode-setting.md">uturn-mode-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>턴 설정 방법</td><td><a href="ion/uturn-mode/uturn-mode-setting.md">uturn-mode-setting.md</a></td></tr><tr><td>k턴</td><td><a href="ion/uturn-mode/kturn.md">kturn.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -123,6 +123,14 @@ metaLinks: {}
 <summary><a href="ion/network-settings/">네트워크 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>네트워크 설정 진입 및 화면 설명</td><td><a href="ion/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>위치 보정 설정</td><td><a href="ion/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>네트워크 설정</td><td><a href="ion/network-settings/network-setting.md">network-setting.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="ion/entertainment.md">엔터테인먼트</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>엔터테인먼트</td><td><a href="ion/entertainment.md">entertainment.md</a></td></tr></tbody></table>
 
 </details>
 
