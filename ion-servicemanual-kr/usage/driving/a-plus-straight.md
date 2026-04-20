@@ -27,7 +27,7 @@ A+직진
 
 * A점을 기준으로 설정한 각도의 대각선 직선 경로로 주행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

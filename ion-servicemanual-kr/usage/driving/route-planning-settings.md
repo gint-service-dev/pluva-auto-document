@@ -34,13 +34,19 @@ AB 직진
 
 * A점과 B점을 잇는 방향으로 직진 주행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 A+직진
 
 * A점을 기준으로 설정한 각도의 직선경로를 생성하여 주행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
+
+격자 주행
+
+* 격자 주행은 바운더리를 설정하고 두 개의 기준변을 선택하면, 두 방향의 격자형 경로를 자동으로 생성하는 주행모드입니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 자동 경로 (pluva AI)
 
@@ -79,22 +85,16 @@ A+직진
 {% hint style="info" %}
 퀵턴 설정은 오른쪽 상단의 주행 정보 영역에서 확인할 수 있습니다. 해당 영역에서 퀵턴 ON/OFF 상태를 확인합니다.
 
-
-
 <img src="../../.gitbook/assets/speed turn-on.png" alt="" data-size="original">
 
-
-
-주행 모드에 진입하면 퀵턴 설정 안내 팝업이 표시됩니다. \
+주행 모드에 진입하면 퀵턴 설정 안내 팝업이 표시됩니다.\
 안내에 따라 **퀵턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
-
-
 
 <img src="../../.gitbook/assets/speed turn-alert.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
-필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.&#x20;
+필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.
 
 <img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}

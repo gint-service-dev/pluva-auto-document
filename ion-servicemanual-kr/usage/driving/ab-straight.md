@@ -26,9 +26,7 @@ AB 직진
 
 * A점과 B점을 잇는 방향으로 직진 주행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -102,8 +100,6 @@ AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.s
 * 헤드랜드: 수치로 헤드랜드 간격을 조절합니다.
 * ![](../../.gitbook/assets/headland.png)
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}

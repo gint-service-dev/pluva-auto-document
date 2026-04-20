@@ -34,7 +34,7 @@ layout:
 {% step %}
 등록할 차량 타입을 선택한 후 \[선택 완료]를 누릅니다.
 
-<figure><img src="../../.gitbook/assets/add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
