@@ -187,7 +187,6 @@ metaLinks:
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않으면 QR 스캔 화면으로 돌아갑니다.
 
-자세한 내용은 [기타 불편사항 대응 방법 → 6)QR코드가 스캔되지 않음](../others/initial-setup.md#qr-not-scanned) 항목 참고하세요.
 
 <img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
 {% endhint %}
