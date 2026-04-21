@@ -196,7 +196,7 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 
 {% stepper %}
 {% step %}
-위치 보정 화면에서 **UHF (베이스 스테이션)**을 선택합니다.
+위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
