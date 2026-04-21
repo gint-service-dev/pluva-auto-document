@@ -91,7 +91,7 @@
 
 ![](../.gitbook/assets/icon-square-3.svg) **작업 면적**
 
-* 실제 작업이 완료된 총 면적입니다.
+* 자율주행으로 완료된 총 작업 면적입니다.
 
 ![](../.gitbook/assets/icon-square-4.svg) **주행 거리**
 
