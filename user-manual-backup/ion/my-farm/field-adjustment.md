@@ -40,12 +40,6 @@ metaLinks:
 My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-adjustment-2.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-\[작업 옵션]의 \[필드 조정] 버튼을 통해서도 필드 조정 화면에 진입할 수 있습니다.
-
-<img src="../../.gitbook/assets/field-adjustment-etc.png" alt="" data-size="original">
-{% endhint %}
 {% endstep %}
 
 {% step %}
