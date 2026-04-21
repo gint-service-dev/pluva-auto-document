@@ -8,13 +8,13 @@
 {% step %}
 앱 하단 내비게이션에서 설정 아이콘을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-105624&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 좌측 메뉴에서 화면 설정을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-106987&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -22,7 +22,7 @@
 
 ### 화면 설정 화면
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-107206&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -40,7 +40,7 @@
 
 ### 주행 설정 화면
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-107439&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-layout-2.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **지도 설정**
 
@@ -49,13 +49,13 @@
   * 작업 경로: 이미 주행한 경로 표시 여부
   * 헤드랜드: 헤드랜드 영역 표시 여부
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-108468&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-layout-3.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **주행라인 설정**
 
 * 주행 기준선의 표시 방식을 설정합니다. 원하는 옵션을 선택합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-108340&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-3.svg) **차량 아이콘 설정**
 
