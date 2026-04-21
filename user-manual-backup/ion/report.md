@@ -68,25 +68,40 @@
 
 <figure><img src="../.gitbook/assets/report-detail-view-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **작업 시간 및 상태**
+![](../.gitbook/assets/icon-square-1.svg) **작업 시간**
 
-* 작업 시작·종료 시각과 완료 여부를 표시합니다.
+* 작업 시작·종료 시각입니다.
 
 ![](../.gitbook/assets/icon-square-2.svg) **작업 지도**
 
 * 작업 경로와 작업 완료 구간을 지도 위에 시각화하여 보여줍니다.
+* 경로는 주행 방식에 따라 색상으로 구분됩니다.
+* 지도 상단에는 작업 필지의 주소와 필드 이름이 표시됩니다.
+* 자동경로로 작업한 경우 지도 좌측 상단에 자동경로 태그가 표시됩니다.
 
-![](../.gitbook/assets/icon-square-3.svg) **작업 결과**
+{% hint style="info" %}
+* **자동**: 자율주행으로 작업한 구간
+* **수동**: 수동으로 작업한 구간
+* **RTK 불안정 구간**: RTK 신호가 불안정했던 구간
+{% endhint %}
 
-* 총 작업 면적과 작업 내용을 표시합니다.
+{% hint style="info" %}
+크게보기 버튼을 탭하면 지도를 전체 화면으로 확인할 수 있습니다.
+{% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) **주행 정보**
+![](../.gitbook/assets/icon-square-3.svg) **작업 면적**
 
-* 자율주행 및 수동 주행 거리를 구분하여 표시합니다.
+* 실제 작업이 완료된 총 면적입니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **작업 시간 요약**
+![](../.gitbook/assets/icon-square-4.svg) **주행 거리**
 
-* 총 작업 시간, 시작·종료 시각, 체류시간을 표시합니다.
+* 자동 및 수동 주행을 합산한 총 주행 거리입니다.
+
+![](../.gitbook/assets/icon-square-5.svg) **작업 시간 정보**
+
+* 순수 작업시간은 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
+* 총 체류시간은 작업 시작부터 종료까지 필드 내에 머문 전체 시간으로, 대기·이동 시간이 포함됩니다.
+* 작업이 이루어진 시간대(오전작업 / 오후작업)가 함께 표시됩니다.
 
 ![](../.gitbook/assets/icon-square-6.svg) **메모**
 
@@ -94,8 +109,8 @@
 
 ![](../.gitbook/assets/icon-square-7.svg) **장비 정보**
 
-* 해당 작업에 사용된 차량 및 작업기 정보, 작업폭, RTK 위치정보를 확인합니다.
+* 해당 작업에 사용된 차량 및 작업기 정보입니다.
 
 ![](../.gitbook/assets/icon-square-8.svg) **날씨 정보**
 
-* 작업 당시의 기온, 습도, 풍속을 표시합니다.
+* 작업 당시의 기온, 습도, 풍속입니다. 고온·고습·강풍 등 작업 환경 상태가 함께 표시됩니다.
