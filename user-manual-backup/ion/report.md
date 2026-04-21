@@ -35,24 +35,30 @@
 
 ![](../.gitbook/assets/icon-square-1.svg) **정렬**
 
-* 최신순, 오래된 순으로 정렬합니다.
+* 최신순·오래된순으로 목록을 정렬합니다.
 
 ![](../.gitbook/assets/icon-square-2.svg) **날짜 선택**
 
 * 주간 달력에서 원하는 날짜를 선택하면 해당 날짜의 작업 기록을 확인할 수 있습니다.
-* 상단의 년/월 또는 달력 아이콘을 누르면 년/월을 변경할 수 있습니다.
+* 상단의 년/월 또는 달력 아이콘을 탭하면 년/월을 변경할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/report-list-calendar-picker-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-3.svg) **필드 이름**
+![](../.gitbook/assets/icon-square-3.svg) **필드 정보**
 
-![](../.gitbook/assets/icon-square-4.svg) **주소**
+* 작업이 이루어진 필드 이름을 표시합니다.
+
+![](../.gitbook/assets/icon-square-4.svg) **작업 주소**
+
+* 작업이 이루어진 필지의 주소를 표시합니다.
 
 ![](../.gitbook/assets/icon-square-5.svg) **작업 정보**
 
-* 작업 이름, 시작·종료 시각, 총 작업 시간, 총 작업 면적을 표시합니다.
+* 작업 이름, 시작·종료 시각, 순수 작업시간, 작업 면적을 표시합니다.
 
 ![](../.gitbook/assets/icon-square-6.svg) **작업 상태 태그**
+
+* 해당 작업의 주요 상태를 태그로 표시합니다. 경로 유형(자동경로), 작업 시간대(오전·오후작업), 기온·습도·풍속 상태 등이 표시됩니다.
 
 ***
 
