@@ -11,13 +11,13 @@
 {% step %}
 홈 화면에서 ![](../.gitbook/assets/ic_menu.svg) 버튼을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2867-105065&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../.gitbook/assets/report-menu-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[작업 리포트]를 누르면 작업 리포트 목록으로 진입합니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2867-107655&t=hCS5qBIYZpUDsa9g-1" %}
+<figure><img src="../.gitbook/assets/report-menu-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -31,28 +31,28 @@
 
 작업 이력 목록은 날짜별로 묶인 카드 형태로 표시됩니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2867-107656&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/report-list-view-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1.svg) **정렬**
 
 * 최신순, 오래된 순으로 정렬합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) **일자**
+![](../.gitbook/assets/icon-square-2.svg) **날짜 선택**
 
-* 일자를 선택하면 해당 작업을 확인할 수 있습니다.
-* 상단 캘린더 아이콘을 누르면 년/월을 변경할 수 있습니다.
+* 주간 달력에서 원하는 날짜를 선택하면 해당 날짜의 작업 기록을 확인할 수 있습니다.
+* 상단의 년/월 또는 달력 아이콘을 누르면 년/월을 변경할 수 있습니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2995-102821&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/report-list-calendar-picker-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-3.svg) **필드 이름**
 
-![](../.gitbook/assets/icon-square-4.svg) **작업 시작·종료 시각**
+![](../.gitbook/assets/icon-square-4.svg) **주소**
 
-![](../.gitbook/assets/icon-square-5.svg) **총 작업 시간**
+![](../.gitbook/assets/icon-square-5.svg) **작업 정보**
 
-![](../.gitbook/assets/icon-square-6.svg) **총작업 면적**
+* 작업 이름, 시작·종료 시각, 총 작업 시간, 총 작업 면적을 표시합니다.
 
-![](../.gitbook/assets/icon-square-7.svg) **작업 상태 태그**
+![](../.gitbook/assets/icon-square-6.svg) **작업 상태 태그**
 
 ***
 
@@ -60,60 +60,36 @@
 
 목록에서 카드를 누르면 해당 작업의 상세 정보를 확인할 수 있습니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2995-102822&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../.gitbook/assets/report-detail-view-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **농장명 및 작업 시간**
+![](../.gitbook/assets/icon-square-1.svg) **작업 시간 및 상태**
 
-* 작업이 이루어진 농장 이름과 작업 시작·종료 시각입니다.
+* 작업 시작·종료 시각과 완료 여부를 표시합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) **총 작업 면적**
-
-* 실제 작업이 완료된 총 면적입니다.
-
-![](../.gitbook/assets/icon-square-3.svg) **작업 지도**
+![](../.gitbook/assets/icon-square-2.svg) **작업 지도**
 
 * 작업 경로와 작업 완료 구간을 지도 위에 시각화하여 보여줍니다.
 
-![](../.gitbook/assets/icon-square-4.svg) **총 작업 시간**
+![](../.gitbook/assets/icon-square-3.svg) **작업 결과**
 
-* 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
+* 총 작업 면적과 작업 내용을 표시합니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **총 체류시간**
+![](../.gitbook/assets/icon-square-4.svg) **주행 정보**
 
-* 작업 시작부터 종료까지 필드 내에 머문 전체 시간입니다. 대기·이동 시간이 포함됩니다.
+* 자율주행 및 수동 주행 거리를 구분하여 표시합니다.
 
-![](../.gitbook/assets/icon-square-6.svg) **작업 중단 횟수**
+![](../.gitbook/assets/icon-square-5.svg) **작업 시간 요약**
 
-* 주행 중 자율주행이 중단된 횟수입니다.
+* 총 작업 시간, 시작·종료 시각, 체류시간을 표시합니다.
 
-![](../.gitbook/assets/icon-square-7.svg) **작업 기온 / 습도**
-
-* 작업 당시의 기온과 습도입니다.
-
-![](../.gitbook/assets/icon-square-8.svg) **풍속**
-
-* 작업 당시의 풍속입니다.
-
-![](../.gitbook/assets/icon-square-9.svg) **작업 시간대**
-
-* 작업이 이루어진 시간대를 표시합니다.
-
-![](../.gitbook/assets/icon-square-10.svg) **RTK 위치정보**
-
-* RTK의 통신 상태를 표시합니다.
-
-{% hint style="warning" %}
-RTK 위치 정보는 통신 상태가 불안정할 경우 표시되는 정보입니다. 통신 불안정이 지속될 경우 네트워크 환경을 점검하세요.
-{% endhint %}
-
-![](../.gitbook/assets/icon-square-11.svg) **장비 정보**
-
-* 해당 작업에 사용된 차량 및 작업기 정보입니다.
-
-![](../.gitbook/assets/icon-square-12.svg) **메모**
+![](../.gitbook/assets/icon-square-6.svg) **메모**
 
 * 작업 시 입력한 메모를 확인합니다.
 
-![](../.gitbook/assets/icon-square-13.svg) **이미지로 공유하기**
+![](../.gitbook/assets/icon-square-7.svg) **장비 정보**
 
-* 작업 결과를 이미지 형태로 이메일로 공유할 수 있습니다.
+* 해당 작업에 사용된 차량 및 작업기 정보, 작업폭, RTK 위치정보를 확인합니다.
+
+![](../.gitbook/assets/icon-square-8.svg) **날씨 정보**
+
+* 작업 당시의 기온, 습도, 풍속을 표시합니다.
