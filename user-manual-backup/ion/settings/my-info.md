@@ -8,13 +8,13 @@
 {% step %}
 앱 하단 내비게이션에서 설정 아이콘을 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-108991&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/my-info-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 좌측 메뉴에서 내 정보를 누릅니다.
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-110581&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/my-info-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -22,7 +22,7 @@
 
 ### 내 정보 화면
 
-{% embed url="https://www.figma.com/design/Su0Eve5h4QCKU9y0P8sbsY/%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=2880-110956&t=Ph1xwRv3derJ6qDg-1" %}
+<figure><img src="../../.gitbook/assets/my-info-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **프로필**
 
