@@ -197,22 +197,25 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 {% stepper %}
 {% step %}
 위치 보정 화면에서 **UHF (베이스 스테이션)**을 선택합니다.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 자동으로 베이스 스테이션 신호를 탐색합니다. 잠시 기다려주세요.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 연결이 완료되면 \[확인]을 누릅니다.
 
+<figure><img src="../../.gitbook/assets/basestation-connection-3.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 연결에 실패할 경우 아래 사항을 확인한 후 \[다시 시도]를 누릅니다.
 
-* 베이스 스테이션의 전원이 켜져 있나요?
-* 베이스 스테이션과의 거리가 너무 멀지 않나요? (최대 2~3km 이내)
-* 신호를 차단하는 장애물이 없나요?
-* 안테나가 올바르게 연결되어 있나요?
+<img src="../../.gitbook/assets/basestation-connection-failure.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 {% endstepper %}
