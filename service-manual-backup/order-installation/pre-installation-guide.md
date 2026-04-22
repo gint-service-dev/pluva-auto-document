@@ -50,11 +50,9 @@ metaLinks:
 {% hint style="warning" %}
 **기종 제한 사항**
 
-| 기종 유형 | 설치 가능 여부 |
-|---|---|
-| 타이어형 | 가능 |
-| 하프 크롤러 | 가능 |
-| 풀 크롤러(Full Crawler) | 불가 |
+* 타이어형: 설치 가능
+* 하프 크롤러: 설치 가능
+* 풀 크롤러(Full Crawler): 설치 불가
 {% endhint %}
 
 {% hint style="info" %}
