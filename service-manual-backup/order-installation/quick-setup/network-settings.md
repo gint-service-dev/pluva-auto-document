@@ -112,6 +112,8 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 
 APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
 
+<div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
+
 * KT: lte.ktfwing.com
 * LG: internet.lguplus.co.kr
 
