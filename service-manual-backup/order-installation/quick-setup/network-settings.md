@@ -107,20 +107,16 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 정상 기준: 셀룰러 아이콘 표시 및 서버/RTK 연결 정상 동작
 {% endhint %}
 
+{% hint style="info" %}
 10분 후에도 연결되지 않으면 **APN 수동 연결**을 진행합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
-
-1. APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
-
-{% hint style="info" %}
-유심 통신사에 따른 APN 이름
+APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
 
 * KT: lte.ktfwing.com
 * LG: internet.lguplus.co.kr
-{% endhint %}
 
-2. 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누릅니다.
+이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누릅니다.
+{% endhint %}
 {% endstep %}
 
 {% step %}
