@@ -50,13 +50,7 @@ metaLinks:
 {% hint style="warning" %}
 **기종 제한 사항**
 
-* 타이어형: 설치 가능
-* 하프 크롤러: 설치 가능
-* 풀 크롤러(Full Crawler): 설치 불가
-{% endhint %}
-
-{% hint style="info" %}
-모델명을 정확히 확인합니다. (예: 쿠보타 MR1000)
+타이어형 및 하프 크롤러는 설치 가능하나, Full 크롤러 모델은 설치가 불가합니다. 모델명을 정확히 확인해주세요.
 {% endhint %}
 {% endstep %}
 
