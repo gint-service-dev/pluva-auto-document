@@ -129,7 +129,3 @@ metaLinks:
 * [ ] 원터치 스위치
 * [ ] USIM 카드
 * [ ] 타공 도구
-
-***
-
-준비가 완료되면 [제품 설치](product-installation/)를 진행합니다.
