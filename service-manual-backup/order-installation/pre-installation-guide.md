@@ -21,7 +21,7 @@ metaLinks:
       https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/pre-installation-guide
 ---
 
-# 설치 전 대리점 준비 가이드
+# 설치 전 준비 가이드
 
 현장 방문 전 아래 항목을 반드시 확인하고 준비합니다. 사전 준비가 미흡하면 부품 불일치나 현장 가공 불가로 인해 설치 일정이 지연될 수 있습니다.
 
