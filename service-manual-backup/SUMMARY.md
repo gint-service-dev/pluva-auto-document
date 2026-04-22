@@ -4,6 +4,7 @@
 
 ## 주문/설치 <a href="#order-installation" id="order-installation"></a>
 
+* [설치 전 대리점 준비 가이드](order-installation/pre-installation-guide.md)
 * [주문/설치 단계 설명](order-installation/order-installation-steps.md)
 * [주문 등록](order-installation/order-registration.md)
 * [고객 계정 준비](order-installation/preparing-accounts.md)
