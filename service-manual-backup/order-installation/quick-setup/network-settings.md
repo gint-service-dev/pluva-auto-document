@@ -107,51 +107,6 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 
 ***
 
-#### Wi-Fi 연결
-
-Wi-Fi는 주변의 무선 공유기 또는 스마트폰 테더링에 연결해 인터넷을 사용하는 방식입니다.
-
-{% hint style="info" %}
-환경에 따라 신호가 약하거나 범위를 벗어나면 연결이 끊길 수 있어, 제한된 작업 구간에서 사용을 권장합니다.
-{% endhint %}
-
-{% hint style="info" %}
-테더링 사용 시 스마트폰 배터리 소모와 데이터 사용량이 늘 수 있으니 작업 전 배터리 상태와 절전 설정을 확인합니다.
-{% endhint %}
-
-{% stepper %}
-{% step %}
-\[Wi-Fi] 탭을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/quick-setup-wifi-1.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-Wi-Fi 토글을 켭니다.
-
-<figure><img src="../../.gitbook/assets/quick-setup-wifi-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-연결할 Wi-Fi를 선택합니다.
-
-<figure><img src="../../.gitbook/assets/quick-setup-wifi-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-\[다음 단계로] 버튼을 누르면 네트워크 설정이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/quick-setup-wifi-4.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Wi-Fi 범위를 벗어나면 연결이 끊길 수 있습니다.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-
-***
-
 #### LTE 연결 불가 시 단계별 대응
 
 LTE 연결이 되지 않을 경우 아래 절차에 따라 순서대로 점검합니다.
@@ -227,3 +182,48 @@ LTE 망 등록 및 APN 인증에 시간이 소요될 수 있습니다.
 
 USIM을 휴대폰에 테스트하는 것이 가장 중요한 분기점입니다.
 {% endhint %}
+
+***
+
+#### Wi-Fi 연결
+
+Wi-Fi는 주변의 무선 공유기 또는 스마트폰 테더링에 연결해 인터넷을 사용하는 방식입니다.
+
+{% hint style="info" %}
+환경에 따라 신호가 약하거나 범위를 벗어나면 연결이 끊길 수 있어, 제한된 작업 구간에서 사용을 권장합니다.
+{% endhint %}
+
+{% hint style="info" %}
+테더링 사용 시 스마트폰 배터리 소모와 데이터 사용량이 늘 수 있으니 작업 전 배터리 상태와 절전 설정을 확인합니다.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+\[Wi-Fi] 탭을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+Wi-Fi 토글을 켭니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+연결할 Wi-Fi를 선택합니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[다음 단계로] 버튼을 누르면 네트워크 설정이 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/quick-setup-wifi-4.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Wi-Fi 범위를 벗어나면 연결이 끊길 수 있습니다.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
+
