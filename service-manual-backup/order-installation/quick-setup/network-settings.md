@@ -91,7 +91,7 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 {% hint style="warning" %}
 **증상**
 
-* <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘이 표시되지 않음
+* <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘이 표시되지 않음
 * 셀룰러(LTE) 연결이 반복적으로 끊김
 {% endhint %}
 
