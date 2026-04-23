@@ -84,7 +84,7 @@
 {% step %}
 변경할 부분을 변경하고 \[수정 완료]를 누릅니다.
 
-<figure><img src="../.gitbook/assets/operator-management-account-add-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/operator-management-account-add-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

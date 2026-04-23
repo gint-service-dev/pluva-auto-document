@@ -52,7 +52,7 @@ metaLinks:
 
 유심 정보는 유심 카드에 부착된 바코드를 스캔하면 등록할 수 있습니다.
 
-<img src="../.gitbook/assets/installation-completion-5.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Dashboard for Mobile.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
