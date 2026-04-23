@@ -80,8 +80,6 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 {% endstep %}
 {% endstepper %}
 
-
-
 ***
 
 #### 셀룰러(LTE) 연결 불가 시 단계별 대응
@@ -95,7 +93,6 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 * 셀룰러(LTE) 연결이 반복적으로 끊김
 {% endhint %}
 
-
 {% stepper %}
 {% step %}
 **초기 연결 대기**
@@ -107,7 +104,7 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 
 APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" width="495"><figcaption></figcaption></figure></div>
+<img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" data-size="original">
 
 * KT: lte.ktfwing.com
 * LG: internet.lguplus.co.kr
@@ -118,56 +115,49 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
 >
 > **연결 실패**: 2단계 진행
-
 {% endstep %}
 
 {% step %}
 **전원 재부팅**
 
-장비 전원을 OFF한 후 약 10초 뒤 다시 ON합니다. 재부팅 후 최대 **5~10분** 대기합니다.
+장비 전원을 OFF한 후 약 10초 뒤 다시 ON합니다. 재부팅 후 최대 **5\~10분** 대기합니다.
 
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 아이콘 표시
 >
 > **연결 실패**: 3단계 진행
-
 {% endstep %}
 
 {% step %}
-**USIM 정상 여부 확인**
+**USIM 정상 여부 확인 및 재장착**
 
-태블릿에서 USIM을 꺼내 휴대폰에 삽입한 후 데이터 통신(웹 접속) 가능 여부를 확인합니다.
+1.  **USIM 정상 여부 확인**
 
-> **정상 연결**: 휴대폰에서 연결 가능 USIM 재장착 후 4단계 진행
->
-> **연결 실패**: 휴대폰에서도 연결 안 됨 통신사 문의 또는 USIM 교체
+    태블릿에서 USIM을 꺼내 휴대폰에 삽입한 후 데이터 통신(웹 접속) 가능 여부를 확인합니다.
 
-{% endstep %}
+{% hint style="info" %}
+**연결 실패시** 휴대폰에서도 연결 안 됨 통신사 문의 또는 USIM 교체하세요.
+{% endhint %}
 
-{% step %}
-**USIM 재장착 후 재확인**
-
-태블릿에 USIM을 재삽입하고 전원 재부팅 후 최대 **30분~1시간** 대기합니다. 네트워크 재등록 및 IP 할당에 시간이 소요될 수 있습니다.
+2. **태블릿 재장착 후 확인**\
+   태블릿에 USIM을 재삽입하고 전원 재부팅 후 최대 **30분\~1시간** 대기합니다. 네트워크 재등록 및 IP 할당에 시간이 소요될 수 있습니다.
 
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 정상 표시
 >
-> **연결 실패**: 5단계 진행
-
+> **연결 실패**: 4단계 진행
 {% endstep %}
 
 {% step %}
 **본사 문의**
 
-1~4단계를 모두 진행했음에도 연결되지 않을 경우 아래 정보를 확보하여 본사에 문의합니다.
+1\~4단계를 모두 진행했음에도 연결되지 않을 경우 아래 정보를 확보하여 본사에 문의합니다.
 
 * ION Tablet 번호
 * 증상 발생 시점 및 증상 내용
 * 현재 설치 위치 (지역)
 * 셀룰러(LTE) 아이콘 상태 (없음 / 약함 / 반복 끊김)
-* 수행한 조치 단계 (1~4단계 진행 여부)
-
+* 수행한 조치 단계 (1\~4단계 진행 여부)
 {% endstep %}
 {% endstepper %}
-
 
 ***
 
@@ -212,4 +202,3 @@ Wi-Fi 범위를 벗어나면 연결이 끊길 수 있습니다.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
-
