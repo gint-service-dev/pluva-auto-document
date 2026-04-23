@@ -95,9 +95,6 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 * 셀룰러(LTE) 연결이 반복적으로 끊김
 {% endhint %}
 
-{% hint style="info" %}
-셀룰러(LTE)가 연결되지 않더라도 **\[다음 단계로]를 눌러 다음 설치 단계를 진행**할 수 있습니다.
-{% endhint %}
 
 {% stepper %}
 {% step %}
@@ -109,7 +106,7 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 **정상 기준**: 셀룰러(LTE) 아이콘 표시 <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 및 서버/RTK 연결 정상 동작 → **다음 단계로 진행**
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 10분 후에도 연결되지 않으면 **APN 수동 연결**을 진행합니다.
 
 APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
@@ -120,7 +117,9 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 * LG: internet.lguplus.co.kr
 
 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누릅니다.
+{% endhint %}
 
+{% hint style="warning" %}
 APN 설정 후에도 미연결 시 → **2단계 진행**
 {% endhint %}
 {% endstep %}
