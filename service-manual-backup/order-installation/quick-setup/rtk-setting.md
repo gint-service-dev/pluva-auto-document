@@ -164,3 +164,35 @@ RTK 블루투스 연결을 선택하고 \[확인]을 누릅니다.
 외부 앱에서 연결 오류가 발생한다면, 앱에 정보가 정확하게 입력되었는지 확인한다.\
 ID, 비밀번호, 포트번호 등 RTK 사업자가 제공한 정보 그대로 입력해야 서비스를 정상적으로 이용할 수 있다.
 {% endhint %}
+
+***
+
+#### UHF (베이스 스테이션) 연결
+
+UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다. 최대 2~3km 범위 내에서 사용할 수 있으며, 네트워크 없이도 동작합니다.
+
+{% stepper %}
+{% step %}
+위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+자동으로 베이스 스테이션 신호를 탐색합니다. 잠시 기다려주세요.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+연결이 완료되면 \[확인]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+연결에 실패할 경우 아래 사항을 확인한 후 \[다시 시도]를 누릅니다.
+
+<img src="../../.gitbook/assets/basestation-connection-failure.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+{% endstepper %}
