@@ -46,19 +46,19 @@ metaLinks:
 {% step %}
 Smart RTK 연결을 선택하고 \[확인]을 누릅니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=13092-20321&t=pd3rfgGRrJlaGRzk-1" %}
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 RTK를 자동으로 연결합니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=13092-20492&t=pd3rfgGRrJlaGRzk-1" %}
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 &#x20;\[다음 단계로] 버튼을 누르면 Smart RTK 연결이 완료됩니다.
 
-{% embed url="https://www.figma.com/design/3caVmkxMdvjppUG5NWSjbb/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%8C%80%EB%A6%AC%EC%A0%90-%EB%A9%94%EB%89%B4%EC%96%BC?node-id=13092-20467&t=pd3rfgGRrJlaGRzk-1" %}
+<figure><img src="../../.gitbook/assets/quick-setup-smartdirect-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -175,24 +175,19 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 {% step %}
 위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-basetation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 자동으로 베이스 스테이션 신호를 탐색합니다. 잠시 기다려주세요.
 
-<figure><img src="../../.gitbook/assets/basestation-connection-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-basetation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 연결이 완료되면 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/basestation-connection-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quick-setup-basetation-3.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-연결에 실패할 경우 아래 사항을 확인한 후 \[다시 시도]를 누릅니다.
-
-<img src="../../.gitbook/assets/basestation-connection-failure.png" alt="" data-size="original">
-{% endhint %}
 {% endstep %}
 {% endstepper %}
