@@ -21,3 +21,11 @@ layout:
 
 현장 방문 전 필요한 고객 계정 준비와 현장 준비 사항을 안내합니다.
 
+{% content-ref url="pre-installation-guide.md" %}
+[pre-installation-guide.md](pre-installation-guide.md)
+{% endcontent-ref %}
+
+{% content-ref url="preparing-accounts.md" %}
+[preparing-accounts.md](preparing-accounts.md)
+{% endcontent-ref %}
+
