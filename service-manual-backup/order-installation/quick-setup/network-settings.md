@@ -103,7 +103,7 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 전원 ON 후 최대 **10분**까지 대기합니다. 셀룰러(LTE) 망 등록 및 APN 인증에 시간이 소요될 수 있습니다.
 
 {% hint style="info" %}
-**정상 기준**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작 → **다음 단계로 진행**
+**정상 기준**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
 {% endhint %}
 
 {% hint style="info" %}
