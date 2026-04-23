@@ -117,7 +117,7 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
 >
-> **연결 실패**: → 2단계 진행
+> **연결 실패**: 2단계 진행
 
 {% endstep %}
 
@@ -128,7 +128,7 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 아이콘 표시
 >
-> **연결 실패**: → 3단계 진행
+> **연결 실패**: 3단계 진행
 
 {% endstep %}
 
@@ -137,9 +137,9 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 
 태블릿에서 USIM을 꺼내 휴대폰에 삽입한 후 데이터 통신(웹 접속) 가능 여부를 확인합니다.
 
-> **정상 연결**: 휴대폰에서 연결 가능 → USIM 재장착 후 4단계 진행
+> **정상 연결**: 휴대폰에서 연결 가능 USIM 재장착 후 4단계 진행
 >
-> **연결 실패**: 휴대폰에서도 연결 안 됨 → 통신사 문의 또는 USIM 교체
+> **연결 실패**: 휴대폰에서도 연결 안 됨 통신사 문의 또는 USIM 교체
 
 {% endstep %}
 
@@ -150,7 +150,7 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 
 > **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 정상 표시
 >
-> **연결 실패**: → 5단계 진행
+> **연결 실패**: 5단계 진행
 
 {% endstep %}
 
