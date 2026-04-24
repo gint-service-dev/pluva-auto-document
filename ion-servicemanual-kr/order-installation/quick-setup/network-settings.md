@@ -89,7 +89,7 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 {% hint style="warning" %}
 **증상**
 
-* <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘이 표시되지 않음
+* &#x20;셀룰러(LTE) 아이콘이 표시되지 않음
 * 셀룰러(LTE) 연결이 반복적으로 끊김
 {% endhint %}
 
@@ -112,9 +112,9 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 이름, 비밀번호 등 선택 사항을 입력한 후 \[확인]을 누릅니다.
 {% endhint %}
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
+> **정상 연결**:  셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad (1).svg" alt="" data-size="line">신호 없음 표시, 2단계 진행
+> **연결 실패**: 신호 없음 표시, 2단계 진행
 {% endstep %}
 
 {% step %}
@@ -122,9 +122,9 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 
 장비 전원을 OFF한 후 약 10초 뒤 다시 ON합니다. 재부팅 후 최대 **5\~10분** 대기합니다.
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 아이콘 표시
+> **정상 연결**:  셀룰러(LTE) 연결 아이콘 표시
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad (1).svg" alt="" data-size="line">신호 없음 표시, 3단계 진행
+> **연결 실패**: 신호 없음 표시, 3단계 진행
 {% endstep %}
 
 {% step %}
@@ -141,9 +141,9 @@ APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름
 2. **태블릿 재장착 후 확인**\
    태블릿에 USIM을 재삽입하고 전원 재부팅 후 최대 **30분\~1시간** 대기합니다. 네트워크 재등록 및 IP 할당에 시간이 소요될 수 있습니다.
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line"> 셀룰러(LTE) 연결 정상 표시
+> **정상 연결**:  셀룰러(LTE) 연결 정상 표시
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad (1).svg" alt="" data-size="line">신호 없음 표시, 4단계 진행
+> **연결 실패**: 신호 없음 표시, 4단계 진행
 {% endstep %}
 
 {% step %}

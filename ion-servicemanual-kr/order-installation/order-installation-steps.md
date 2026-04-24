@@ -31,7 +31,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-#### **주문 등록**
+**주문 등록**
 
 * 어드민에 주문 정보를 입력하면 고객이 주문한 제품 수만큼 설치티켓이 자동 발행됩니다.\
   설치티켓은 설치에 필요한 정보를 포함하며 제품 등록, 개통, 설치 완료까지 전 과정을 관리하는 단위입니다.
@@ -39,14 +39,14 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-#### 고객 계정 준비
+**고객 계정 준비**
 
 * 서비스 사용에 필요한 고객 계정을 사전에 준비합니다. 해당 고객 계정 정보를 기반으로 맞춤 자율주행 서비스가 제공됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">고객 계정 준비</mark>](preparing-accounts.md)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">고객 계정 준비</mark>](pre-installation-overview/preparing-accounts.md)를 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **설치티켓으로 제품 개통**
+**설치티켓으로 제품 개통**
 
 {% hint style="info" %}
 설치티켓이 무엇인가요?
@@ -59,14 +59,14 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-#### **설치**
+**설치**
 
 * 차량에 제품를 설치합니다. 기존 핸들을 자율주행용 핸들로 교체하고, 각종 센서 및 장치를 연결하는 작업을 포함합니다.
 * 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](product-installation/)를 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **퀵셋업**
+**퀵셋업**
 
 {% hint style="info" %}
 퀵셋업은 무엇인가요?
@@ -79,20 +79,20 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-#### **시범 운행**
+**시범 운행**
 
 * 설치가 완료된 제품을 시범 운행하여, 설치 상태를 점검하고 **오작동/이상 여부를 확인**합니다. 문제가 발견되면 원인을 확인하고 필요한 조치를 진행합니다.
 {% endstep %}
 
 {% step %}
-#### **고객 교육**
+**고객 교육**
 
 * 제품 설치가 완료된 후, 고객이 제품을 안전하게 사용할 수 있도록 **주요 기능과 사용 방법을 안내**합니다.
 * 해당 내용은 [<mark style="color:$primary;">사용법</mark>](/broken/pages/LJm8CV0ry1K8NPVMKZ2f)을 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **설치 완료**
+**설치 완료**
 
 * 모든 설치 및 설정이 완료되면 설치티켓에서 \[완료]를 눌러 설치 완료 상태를 시스템에 기록합니다.
 * 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](installation-completed.md) 을 참고하세요.

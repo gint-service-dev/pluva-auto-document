@@ -32,14 +32,18 @@ metaLinks:
 * 현재 위치를 기준으로 기본 생성됩니다.
 *
 
-    <figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
+```
 
 2. **농장 소유자 등록**
 
 * 고객 계정을 기준으로 기본 생성됩니다.
 *
 
-    <figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
+```
 
 3. **필드 등록**
 
@@ -151,15 +155,15 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **지도에서 선택**
+![](../../.gitbook/assets/icon-square-3.svg) **지도에서 선택**
 
 * 지도에서 필드를 직접 눌러 선택합니다. \[지도에서 등록]이 기본으로 설정되어있습니다.
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **이전**
+![](../../.gitbook/assets/icon-square-4.svg) **이전**
 
 * 이전 단계로 돌아갑니다.
 
-![](<../../.gitbook/assets/icon-square-5 (1).svg>) **다음**
+![](../../.gitbook/assets/icon-square-5.svg) **다음**
 
 * 다음 단계로 넘어갑니다.
 
@@ -180,8 +184,6 @@ metaLinks:
 
 * 경계 등록을 완료합니다. 진출입로를 선택한 후 해당 버튼을 사용할 수 있습니다.
 
-
-
 #### 지도에서 필드 등록 모달 설명
 
 <div align="left"><figure><img src="../../.gitbook/assets/register-on-a-map.png" alt="" width="233"><figcaption></figcaption></figure></div>
@@ -194,15 +196,15 @@ metaLinks:
 
 * 필드와 연결할 농장을 선택합니다.
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **농장 소유자**
+![](../../.gitbook/assets/icon-square-3.svg) **농장 소유자**
 
 * 필드와 연결할 농장 소유자를 선택합니다.
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **작물**
+![](../../.gitbook/assets/icon-square-4.svg) **작물**
 
 * 현재 필드에서 작업 중인 작물을 추가합니다.
 
-![](<../../.gitbook/assets/icon-square-5 (1).svg>) **메모**
+![](../../.gitbook/assets/icon-square-5.svg) **메모**
 
 * 추가적인 정보를 메모로 남깁니다.
 
@@ -216,13 +218,13 @@ metaLinks:
 {% step %}
 등록 옵션 선택 팝업에서 차량으로 등록을 선택하고 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량으로 등록 화면에 진입합니다. 차량을 필드의 각 꼭지점으로 이동한 후 버튼을 눌러 점을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -238,7 +240,7 @@ metaLinks:
 {% step %}
 D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고 진입로, 진출로 설정 버튼을 눌러 설정합니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
@@ -252,19 +254,19 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 {% step %}
 각 점과 진출로 설정이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 필드 정보 입력 화면에서 필지 이름, 농장, 작물 등을 입력합니다. **등록**을 누르면 필지 등록이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 #### 화면 버튼 안내
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **미니맵**
 
@@ -274,15 +276,15 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 * 진출 경로 위치를 현재 차량 위치로 설정합니다.
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **필드 등록**
+![](../../.gitbook/assets/icon-square-3.svg) **필드 등록**
 
 * 모든 점 설정 완료 후 필지 등록 진행합니다.
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **나가기**
+![](../../.gitbook/assets/icon-square-4.svg) **나가기**
 
 * 등록을 중단하고 이전 화면으로 돌아갑니다.
 
-![](<../../.gitbook/assets/icon-square-5 (1).svg>) **수정**
+![](../../.gitbook/assets/icon-square-5.svg) **수정**
 
 * 이미 설정한 꼭지점을 현재 위치로 업데이트합니다.
 
@@ -290,11 +292,9 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 * 해당 꼭지점을 현재 차량 위치로 설정합니다.
 
-
-
 #### 차량에서 필드 등록 모달 설명
 
-<div align="left"><figure><img src="../../.gitbook/assets/field-add-vehicle-register-modal-1 (1).png" alt="" width="350"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/field-add-vehicle-register-modal-1.png" alt="" width="350"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **필드 이름**
 
@@ -304,15 +304,15 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 * 필드와 연결할 농장을 선택합니다.
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **농장 소유자**
+![](../../.gitbook/assets/icon-square-3.svg) **농장 소유자**
 
 * 필드와 연결할 농장 소유자를 선택합니다.
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **작물**
+![](../../.gitbook/assets/icon-square-4.svg) **작물**
 
 * 현재 필드에서 작업 중인 작물을 추가합니다.
 
-![](<../../.gitbook/assets/icon-square-5 (1).svg>) **메모**
+![](../../.gitbook/assets/icon-square-5.svg) **메모**
 
 * 추가적인 정보를 메모로 남깁니다.
 
