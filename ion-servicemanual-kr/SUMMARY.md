@@ -6,7 +6,9 @@
 
 * [주문/설치 단계 설명](order-installation/order-installation-steps.md)
 * [주문 등록](order-installation/order-registration.md)
-* [고객 계정 준비](order-installation/preparing-accounts.md)
+* [설치 전 준비 가이드](order-installation/pre-installation-overview.md)
+  * [설치 전 준비 사항](order-installation/pre-installation-guide.md)
+  * [고객 계정 준비](order-installation/preparing-accounts.md)
 * [설치티켓으로 제품 개통](order-installation/product-registration.md)
 * [제품 설치](order-installation/product-installation/README.md)
   * [구성품 준비](order-installation/product-installation/preparing-components.md)
