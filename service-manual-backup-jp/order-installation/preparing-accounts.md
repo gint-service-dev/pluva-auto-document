@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/S9QxvkgOCtdmIoYhCUqg/order-installation/preparing-accounts
+      https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/preparing-accounts
 ---
 
 # 고객 계정 준비
@@ -27,8 +27,10 @@ metaLinks:
 고객의 계정 보유 여부를 확인하고, 아직 계정이 없다면 다음 내용을 참고하여 고객에게 안내합니다.
 
 {% hint style="info" %}
-[플루바 아이온 홈페이지 바로가기](https://gint.pluva.kr/)
+[플루바 아이온 홈페이지 바로가기 ](https://gint.pluva.kr/)
 {% endhint %}
+
+
 
 {% stepper %}
 {% step %}
