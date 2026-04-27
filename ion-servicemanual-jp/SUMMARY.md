@@ -6,7 +6,9 @@
 
 * [注文および取り付けプロセスのご案内](order-installation/order-installation-steps.md)
 * [注文登録](order-installation/order-registration.md)
-* [お客様アカウントのご用意](order-installation/preparing-accounts.md)
+* [取り付け前の確認事項](order-installation/pre-installation-overview.md)
+  * [取り付け前の準備](order-installation/pre-installation-guide.md)
+  * [お客様アカウントのご用意](order-installation/preparing-accounts.md)
 * [取り付けチケットでの製品開通](order-installation/product-registration.md)
 * [製品の取り付け](order-installation/product-installation/README.md)
   * [構成品のご用意](order-installation/product-installation/preparing-components.md)
