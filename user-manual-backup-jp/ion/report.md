@@ -3,119 +3,122 @@ metaLinks:
   alternates:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/report
 ---
-# 작업 리포트
 
-작업 이력에서는 완료된 작업 기록을 날짜별로 확인하고, 작업 궤적·효율·환경 정보를 한눈에 파악할 수 있습니다.\
-단순한 기록 보관을 넘어, 작업 당시의 날씨·장비 상태와 결과를 연결하여 다음 작업의 효율을 높이는 근거 데이터로 활용할 수 있습니다.
+# 作業日誌
+
+作業日誌では、完了した作業記録を日付ごとに確認でき、作業軌跡や作業効率、環境情報を一目で把握できます。
+
+また、記録を残すだけでなく、作業当時の天候や機器の状態を作業結果と繋ぎ合わせることで、次の作業の効率を高めるための判断材料としてご活用いただけます。
 
 ***
 
-### 진입 방법
+### アクセス方法
 
 {% stepper %}
 {% step %}
-홈 화면에서 ![](../.gitbook/assets/ic_menu.svg) 버튼을 누릅니다.
+ホーム画面から ![](../.gitbook/assets/ic_menu.svg) をタップします。
 
 <figure><img src="../.gitbook/assets/report-menu-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[작업 리포트]를 누르면 작업 리포트 목록으로 진입합니다.
+\[作業日誌]を選択すると、作業日誌リストへアクセスします。
 
 <figure><img src="../.gitbook/assets/report-menu-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-작업 완료 직후에는 완료 화면의 \[작업 기록 보기]를 누르면 바로 진입할 수 있습니다.
+作業完了直後には、完了画面から\[作業記録を確認する]をタップすると、すぐにアクセスできます。
 {% endhint %}
 
 ***
 
-### 목록 화면
+### リスト画面
 
-작업 이력 목록은 날짜별로 묶인 카드 형태로 표시됩니다.
+作業履歴​リストは、日付ごとにまとめられたカード形式で表示されます。
 
 <figure><img src="../.gitbook/assets/report-list-view-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **정렬**
+![](../.gitbook/assets/icon-square-1.svg) **並べ替え**
 
-* 최신순·오래된순으로 목록을 정렬합니다.
+* 最新順・古い順にリストの並べ替えができます。
 
-![](../.gitbook/assets/icon-square-2.svg) **날짜 선택**
+![](../.gitbook/assets/icon-square-2.svg) **日付の選択**
 
-* 주간 달력에서 원하는 날짜를 선택하면 해당 날짜의 작업 기록을 확인할 수 있습니다.
-* 상단의 년/월 또는 달력 아이콘을 탭하면 년/월을 변경할 수 있습니다.
+* 週間カレンダーでご希望の日付を選択すると、その日の作業記録が確認できます。
+* 上部の年月表示やカレンダーアイコンをタップすると、年月を変更できます。
 
 <figure><img src="../.gitbook/assets/report-list-calendar-picker-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-3.svg) **필드 정보**
+![](../.gitbook/assets/icon-square-3.svg) **圃場情報**
 
-* 작업이 이루어진 필드 이름을 표시합니다.
+* 作業が行われた圃場の名前が表示されます。
 
-![](../.gitbook/assets/icon-square-4.svg) **작업 주소**
+![](../.gitbook/assets/icon-square-4.svg) **作業場所の住所**
 
-* 작업이 이루어진 필지의 주소를 표시합니다.
+* 作業が行われた圃場の住所が表示されます。
 
-![](../.gitbook/assets/icon-square-5.svg) **작업 정보**
+![](../.gitbook/assets/icon-square-5.svg) **作業情報**
 
-* 작업 이름, 시작·종료 시각, 순수 작업시간, 작업 면적을 표시합니다.
+* 作業名、開始および終了時刻、実作業時間、作業面積が表示されます。
 
-![](../.gitbook/assets/icon-square-6.svg) **작업 상태 태그**
+![](../.gitbook/assets/icon-square-6.svg) **作業状況に関するタグ**
 
-* 해당 작업의 주요 상태를 태그로 표시합니다. 경로 유형(자동경로), 작업 시간대(오전·오후작업), 기온·습도·풍속 상태 등이 표시됩니다.
+* 作業の状況がタグで表示されます。経路のタイプ（自動経路）や作業時間帯（午前・午後作業）、気温・湿度・風速などが表示されます。
 
 ***
 
-### 상세 화면
+### 詳細画面
 
-목록에서 카드를 누르면 해당 작업의 상세 정보를 확인할 수 있습니다.
+リスト上のカードをクリックすると、該当する作業の詳細情報が確認できます。
 
 <figure><img src="../.gitbook/assets/report-detail-view-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **작업 시간**
+![](../.gitbook/assets/icon-square-1.svg) **作業時刻**
 
-* 작업 시작·종료 시각입니다.
+* 作業の開始および終了時刻が表示されます。
 
-![](../.gitbook/assets/icon-square-2.svg) **작업 지도**
+![](../.gitbook/assets/icon-square-2.svg) **作業地の地図**
 
-* 작업 경로와 작업 완료 구간을 지도 위에 시각화하여 보여줍니다.
-* 경로는 주행 방식에 따라 색상으로 구분됩니다.
-* 지도 상단에는 작업 필지의 주소와 필드 이름이 표시됩니다.
-* 자동경로로 작업한 경우 지도 좌측 상단에 자동경로 태그가 표시됩니다.
+* 作業経路および作業完了区間を地図上から確認できます。
+* 経路は走行方法に応じて色で区分されます。
+* 地図の上部には、圃場の住所および圃場名が表示されます。
+* 自動経路で作業した際には、地図の左上部に自動経路のタグが表示されます。
 
 {% hint style="info" %}
-* **자동**: 자율주행으로 작업한 구간
-* **수동**: 수동으로 작업한 구간
-* **RTK 불안정 구간**: RTK 신호가 불안정했던 구간
+- **自動：** 自動操舵で作業した区間
+- **手動：** 手動運転で作業した区間
+- **RTK不安定区間：** RTKの信号が不安定だった区間
 {% endhint %}
 
 {% hint style="info" %}
-크게보기 버튼을 탭하면 지도를 전체 화면으로 확인할 수 있습니다.
+「拡大する」をタップすると、地図を全体画面に拡大して表示できます。
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-3.svg) **작업 면적**
+![](../.gitbook/assets/icon-square-3.svg) **作業面積**
 
-* 자율주행으로 완료된 총 작업 면적입니다.
+* 自動操舵で作業完了した総面積を表します。
 
-![](../.gitbook/assets/icon-square-4.svg) **주행 거리**
+![](../.gitbook/assets/icon-square-4.svg) **走行距離**
 
-* 자동 및 수동 주행을 합산한 총 주행 거리입니다.
+* 自動および手動で走行した距離の合計です。
 
-![](../.gitbook/assets/icon-square-5.svg) **작업 시간 정보**
+![](../.gitbook/assets/icon-square-5.svg) **作業時間に関する情報**
 
-* 순수 작업시간은 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
-* 총 체류시간은 작업 시작부터 종료까지 필드 내에 머문 전체 시간으로, 대기·이동 시간이 포함됩니다.
-* 작업이 이루어진 시간대(오전작업 / 오후작업)가 함께 표시됩니다.
+* 実作業時間は、自動操舵または手動運転で実際作業した時間の合計を表します。
+* 滞在時間は、作業開始から終了まで圃場内にいた時間の合計として、待機・移動時間も含まれます。
+* 作業が行われた時間帯（午前作業/午後作業）が併せて表示されます。
 
-![](../.gitbook/assets/icon-square-6.svg) **메모**
+![](../.gitbook/assets/icon-square-6.svg) **メモ**
 
-* 작업 시 입력한 메모를 확인합니다.
+* 作業時に入力したメモが確認できます。
 
-![](../.gitbook/assets/icon-square-7.svg) **장비 정보**
+![](../.gitbook/assets/icon-square-7.svg) **機器に関する情報**
 
-* 해당 작업에 사용된 차량 및 작업기 정보입니다.
+* この作業で使用した車両および作業機の情報です。
 
-![](../.gitbook/assets/icon-square-8.svg) **날씨 정보**
+![](../.gitbook/assets/icon-square-8.svg) **天候情報**
 
-* 작업 당시의 기온, 습도, 풍속입니다. 고온·고습·강풍 등 작업 환경 상태가 함께 표시됩니다.
+* 作業当時の気温、湿度、風速が表示されます。高温・多湿・強風などの作業当時の環境状況も併せて表示されます。
+

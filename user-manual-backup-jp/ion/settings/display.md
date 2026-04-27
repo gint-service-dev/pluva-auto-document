@@ -3,21 +3,22 @@ metaLinks:
   alternates:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/display
 ---
-# 화면 설정
 
-주행 화면의 밝기와 음량, 카메라 표시를 설정합니다.
+# 画面設定
 
-### 진입 방법
+走行画面の明るさや音量、カメラ表示の設定を行います。
+
+### アクセス方法
 
 {% stepper %}
 {% step %}
-앱 하단 내비게이션에서 설정 아이콘을 누릅니다.
+アプリ下部の設定アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/screen-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 화면 설정을 누릅니다.
+左側のメニューから「画面設定」をタップします。
 
 <figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -25,43 +26,43 @@ metaLinks:
 
 ***
 
-### 화면 설정 화면
+### 画面設定のご案内
 
 <figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
+![](../../.gitbook/assets/icon-square-1.svg) **画面の明るさ**
 
-* 슬라이더를 드래그하여 화면 밝기를 조절합니다.
+* スライダーを左右にドラッグすることで、画面の明るさを調整できます。
 
-![](../../.gitbook/assets/icon-square-2.svg) **음량**
+![](../../.gitbook/assets/icon-square-2.svg) **音量**
 
-* 슬라이더를 드래그하여 음량을 조절합니다.
+* スライダーを左右にドラッグすることで、音量を調整できます。
 
-![](../../.gitbook/assets/icon-square-3.svg) **카메라**
+![](../../.gitbook/assets/icon-square-3.svg) **カメラ**
 
-* 주행 화면에 카메라 영상 표시 여부를 설정합니다.
+* 走行画面上のカメラ動画の表示有無に関する設定を行います。
 
 ***
 
-### 주행 설정 화면
+### 走行設定のご案内
 
 <figure><img src="../../.gitbook/assets/screen-layout-2.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **지도 설정**
+![](../../.gitbook/assets/icon-square-1.svg) **地図設定**
 
-* 주행 화면에 표시할 지도 요소를 설정합니다.
-  * 필드 경계: 작업 필드의 경계선 표시 여부
-  * 작업 경로: 이미 주행한 경로 표시 여부
-  * 헤드랜드: 헤드랜드 영역 표시 여부
+* 走行画面に表示する地図の内容を設定します。
+  * 圃場の境界：圃場の境界線の表示有無
+  * 作業経路：走行済みの経路の表示有無
+  * 枕地：枕地エリアの表示有無
 
 <figure><img src="../../.gitbook/assets/screen-layout-3.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-2.svg) **주행라인 설정**
+![](../../.gitbook/assets/icon-square-2.svg) **走行ライン設定**
 
-* 주행 기준선의 표시 방식을 설정합니다. 원하는 옵션을 선택합니다.
+* 走行の基準ラインの表示方法を設定します。ご希望のオプションを選択してください。
 
 <figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-3.svg) **차량 아이콘 설정**
+![](../../.gitbook/assets/icon-square-3.svg) **車両アイコンの設定**
 
-* 주행 화면에 표시되는 차량 아이콘 모양을 선택합니다.
+* 走行画面に表示される車両アイコンの形を選択できます。

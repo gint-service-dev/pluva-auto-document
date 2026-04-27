@@ -4,23 +4,23 @@ metaLinks:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/system
 ---
 
-# 시스템 설정
+# システム設定
 
-앱의 시간대, 언어, 단위 등 기본 환경을 설정합니다.
+アプリのタイムゾーンや言語、単位などの基本的な環境設定を行います。
 
 ***
 
-### 진입 방법
+### アクセス方法
 
 {% stepper %}
 {% step %}
-앱 하단 내비게이션에서 설정 아이콘을 누릅니다.
+アプリ下部の設定アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/system-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 시스템 설정을 누릅니다.
+左側のメニューからシステム設定をタップします。
 
 <figure><img src="../../.gitbook/assets/system-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -28,66 +28,66 @@ metaLinks:
 
 ***
 
-### 단위 설정 화면
+### 単位設定画面のご案内
 
-면적, 거리, 속도의 표시 단위를 선택합니다.
+面積や距離、速度などの表示単位を選択します。
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **면적**
+![](../../.gitbook/assets/icon-square-1.svg) **面積**
 
-* 선택 가능 단위: m² 제곱미터 / mu 무 / ha 헥타르
+* 選択可能な単位： m² 平方メートル / mu 畝 / ha ヘクタール
 
-![](../../.gitbook/assets/icon-square-2.svg) **거리**
+![](../../.gitbook/assets/icon-square-2.svg) **距離**
 
-* 선택 가능 단위: m 미터 / km 킬로미터
+* 選択可能な単位：m メートル / km キロメートル
 
-![](../../.gitbook/assets/icon-square-3.svg) **속도**
+![](../../.gitbook/assets/icon-square-3.svg) **速度**
 
-* 선택 가능 단위: m/s 분속 / km/h 시속
+* 選択可能な単位： m/s 分速 / km/h 時速
 
 ***
 
-### 언어 설정
+### 言語設定
 
-앱 표시 언어를 변경합니다.
+アプリの表示言語を変更します。
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-2.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **언어**
+![](../../.gitbook/assets/icon-square-1.svg) **言語**
 
-* 한국어 / English / Bahasa Indonesia / 日本語 / 中文(繁體) 중에서 선택합니다.
+* 韓国語 / English / Bahasa Indonesia / 日本語 / 中文（繁體）から選択します。
 
 ***
 
-### 시간대 설정
+### タイムゾーンの設定
 
-현재 위치에 맞는 시간대를 설정합니다.
+現在地に合わせたタイムゾーンを設定します。
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-3.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **자동으로 설정**
+![](../../.gitbook/assets/icon-square-1.svg) **自動で設定**
 
-* **자동으로 설정** 토글을 켜면 기기의 위치를 기반으로 시간대가 자동 설정됩니다.
+* **「自動で設定」**&#x3092;有効にすると、タイムゾーンは機器の位置を基盤として自動で設定されます。
 
 {% hint style="info" %}
-**자동으로 설정** 토글을 끄면 날짜와 시간을 직접 설정할 수 있습니다.
+**自動で設定**を無効にすると、日付と時間を直接設定できます。
 
 <img src="../../.gitbook/assets/system-screen-time-manual.png" alt="" data-size="original">
 
-날짜 영역을 누르면 달력에서 원하는 날짜를 직접 선택할 수 있습니다.
+日付エリアをタップすると、カレンダーからご希望の日付を直接選択できます。
 
 <img src="../../.gitbook/assets/system-screen-time-manual-setting-date.png" alt="" data-size="original">
 
-시간 영역을 누르면 스크롤을 통해 원하는 시간을 직접 설정할 수 있습니다.
+時間エリアをタップすると、スクロールでご希望の時間を直接選択できます。
 
 <img src="../../.gitbook/assets/system-screen-time-manual-setting-time.png" alt="" data-size="original">
 {% endhint %}
 
-![](../../.gitbook/assets/icon-square-2.svg) **시간대**
+![](../../.gitbook/assets/icon-square-2.svg) **タイムゾーン**
 
-* 현재 설정된 시간대가 표시됩니다.
+* 現在設定されたタイムゾーンが表示されます。
 
-![](../../.gitbook/assets/icon-square-3.svg) **24시간제**
+![](../../.gitbook/assets/icon-square-3.svg) **24時間表示**
 
-* 시간을 24시간 형식으로 표시합니다. 토글을 끄면 12시간(오전/오후) 형식으로 변경됩니다.
+* 24時間で時間表示されます。トグルを無効にすると、12時間表示（午前/午後）に変更されます。

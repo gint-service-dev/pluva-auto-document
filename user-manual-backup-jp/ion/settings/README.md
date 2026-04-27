@@ -3,9 +3,10 @@ metaLinks:
   alternates:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings
 ---
-# 기타 설정
 
-화면 밝기·음량, 주행 화면 표시 옵션, 시간대·언어·단위 등 앱 기본 환경과 계정 정보를 설정합니다.
+# その他の設定
+
+画面の明るさや音量、走行画面の表示オプション、タイムゾーン・言語・単位など、アプリの基本環境やアカウント情報を設定します。
 
 {% content-ref url="system.md" %}
 [system.md](system.md)
