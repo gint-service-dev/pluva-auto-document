@@ -79,7 +79,12 @@
   * [네트워크 설정 진입 및 화면 설명](usage/network-settings/enter-network.md)
   * [위치 보정 설정](usage/network-settings/rtk-setting.md)
   * [네트워크 설정](usage/network-settings/network-setting.md)
+* [작업 리포트](usage/report.md)
 * [엔터테인먼트](usage/entertainment.md)
+* [기타 설정](usage/settings/README.md)
+  * [시스템 설정](usage/settings/system.md)
+  * [화면 설정](usage/settings/display.md)
+  * [내 정보](usage/settings/my-info.md)
 
 ## 기타 <a href="#others" id="others"></a>
 
