@@ -183,3 +183,39 @@ RTK 블루투스 연결의 \[선택]을 누릅니다.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+***
+
+#### UHF (베이스 스테이션) 연결
+
+UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다. 최대 2\~3km 범위 내에서 사용할 수 있으며, 네트워크 없이도 동작합니다.
+
+{% hint style="warning" %}
+동일한 작업 구역 내에서는 하나의 기준(네트워크 RTK 또는 특정 베이스 스테이션)만을 선택하여 운용해야 합니다. 혼용할 경우 위치 오차가 발생할 수 있습니다.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+자동으로 베이스 스테이션 신호를 탐색합니다. 잠시 기다려주세요.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+연결이 완료되면 \[확인]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/basestation-connection-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+연결에 실패할 경우 아래 사항을 확인한 후 \[다시 시도]를 누릅니다.
+
+<img src="../../.gitbook/assets/basestation-connection-failure.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+{% endstepper %}
