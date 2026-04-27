@@ -17,22 +17,22 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/3srvTBakWIhqzDD4BV3T/
+    - https://app.gitbook.com/s/BOM0TFj6U9PhJd6dDTa9/
 ---
 
-# pluva ion User Manual
+# Fukuoka Kyushu Kubota pluva ion Service Manual
 
-<figure><img src=".gitbook/assets/Ion-package-image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**참고**\
-자율주행 키트 모델에 따라 제공되는 제품 매뉴얼의 종류 및 내용은 일부 다를 수 있습니다. 제품 매뉴얼의 내용 중 일부 장치 및 소프트웨어는 제조사 정책에 따라 변경될 수 있으며 버전이 다를 수 있습니다.
-{% endhint %}
+<details>
 
-{% hint style="danger" %}
-**주의**\
-사용 전 반드시 이 제품 메뉴얼을 읽고 자율주행 키트를 안전하고 올바르게 사용하세요.
-{% endhint %}
+<summary>메뉴얼 활용 방법</summary>
+
+* 이 매뉴얼의 각 절차는 완료에 필요한 모든 단계를 포함하고 있습니다.
+* 일부 단계에서 다른 절차를 참조하는 경우, 해당 절차로 이동하여 진행합니다.
+* 이미 완료한 단계는 건너뛰고 다음 단계로 진행하면 됩니다.
+
+</details>
 
 ### 영상 가이드 <a href="#guide" id="guide"></a>
 
@@ -46,92 +46,26 @@ metaLinks:
 
 ### 목차
 
-플루바 아이온의 장치 구성, 초기 설정, 주행 기능, 관리 기능, 고객지원 정보를 제공합니다.
-
 <details>
 
-<summary><a href="ion/user-manual-info.md">사용자 메뉴얼 정보</a></summary>
+<summary>개통/설치</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>사용자 메뉴얼 기본 정보</td><td><a href="ion/user-manual-info.md">user-manual-info.md</a></td></tr><tr><td>고지사항 및 안전가이드</td><td><a href="/broken/pages/Sjzm5X0JNymkkikqASjO">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>개통/설치 단계 설명</td><td><a href="order-installation/order-installation-steps.md">order-installation-steps.md</a></td></tr><tr><td>제품 개통</td><td><a href="order-installation/product-registration.md">product-registration.md</a></td></tr><tr><td>제품 설치</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation">https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation</a></td></tr><tr><td>퀵셋업</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup">https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/quick-setup</a></td></tr><tr><td>설치 완료 확인</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/installation-completed">https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/installation-completed</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="ion/overview/">개요</a></summary>
+<summary>사용법</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>플루바 아이온 소개</td><td><a href="/broken/pages/PeFefyuWBLnYcWnunFJ7">Broken link</a></td></tr><tr><td>전동 스티어링 휠</td><td><a href="ion/overview/electric-steering-wheel.md">electric-steering-wheel.md</a></td></tr><tr><td>GNSS 수신기</td><td><a href="/broken/pages/lWdZgI2P4YIODQ7uazsl">Broken link</a></td></tr><tr><td>태블릿</td><td><a href="ion/overview/tablet.md">tablet.md</a></td></tr><tr><td>스위치</td><td><a href="ion/overview/switch.md">switch.md</a></td></tr><tr><td>카메라</td><td><a href="ion/overview/camera.md">camera.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/initial-setup/">초기 설정법</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>초기 설정법</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/initial-setup">https://fkk-pluva-servicemanual.pluva.io/ion/kr/initial-setup</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/driving">https://fkk-pluva-servicemanual.pluva.io/ion/kr/driving</a></td></tr><tr><td>턴 모드</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/uturn-mode">https://fkk-pluva-servicemanual.pluva.io/ion/kr/uturn-mode</a></td></tr><tr><td>주행 편의 기능</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/driving-convenience-function">https://fkk-pluva-servicemanual.pluva.io/ion/kr/driving-convenience-function</a></td></tr><tr><td>내 농장 관리 (MY Farm)</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/my-farm">https://fkk-pluva-servicemanual.pluva.io/ion/kr/my-farm</a></td></tr><tr><td>차량 관리</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/vehicle-settings">https://fkk-pluva-servicemanual.pluva.io/ion/kr/vehicle-settings</a></td></tr><tr><td>작업기 관리</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/workstation-management">https://fkk-pluva-servicemanual.pluva.io/ion/kr/workstation-management</a></td></tr><tr><td>네트워크 설정</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/network-settings">https://fkk-pluva-servicemanual.pluva.io/ion/kr/network-settings</a></td></tr><tr><td>엔터테인먼트</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/entertainment">https://fkk-pluva-servicemanual.pluva.io/ion/kr/entertainment</a></td></tr></tbody></table>
 
 </details>
 
 <details>
 
-<summary><a href="ion/driving/">주행 모드 (경로플래닝)</a></summary>
+<summary>기타</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/uturn-mode/">턴 모드</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>턴 설정 방법</td><td><a href="ion/uturn-mode/uturn-mode-setting.md">uturn-mode-setting.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/driving-convenience-function/">주행 편의 기능</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving-convenience-function/equal-interval.md">equal-interval.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/my-farm/">내 농장 관리 (MY Farm)</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="ion/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>농장 소유자 관리</td><td><a href="ion/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>필드 등록</td><td><a href="ion/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>필드 정보 수정/삭제</td><td><a href="ion/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>헤드랜드 등록</td><td><a href="ion/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>헤드랜드 정보 관리</td><td><a href="ion/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/vehicle-settings/">차량 관리</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="ion/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="ion/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정</td><td><a href="ion/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="ion/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="ion/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/workstation-management/">작업기 관리</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업기 목록 진입 및 화면 설명</td><td><a href="ion/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>작업기 추가</td><td><a href="ion/workstation-management/add-worker.md">add-worker.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/network-settings/">네트워크 설정</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>네트워크 설정 진입 및 화면 설명</td><td><a href="ion/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>위치 보정 설정</td><td><a href="ion/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>네트워크 설정</td><td><a href="ion/network-settings/network-setting.md">network-setting.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/consumer-info/">고객 지원</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="ion/consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>원격 지원</td><td><a href="ion/consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>정비</td><td><a href="ion/consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="ion/consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/initial-setup">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/initial-setup</a></td></tr><tr><td>어드민 로그인</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/admin-login">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/admin-login</a></td></tr><tr><td>계정 관리</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/account-management">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/account-management</a></td></tr><tr><td>제품 관리</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/product-management">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/product-management</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/operator-management">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/operator-management</a></td></tr><tr><td>원격 지원</td><td><a href="https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/monitorning">https://fkk-pluva-servicemanual.pluva.io/ion/kr/others/monitorning</a></td></tr></tbody></table>
 
 </details>
