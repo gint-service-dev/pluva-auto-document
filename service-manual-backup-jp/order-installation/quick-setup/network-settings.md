@@ -82,79 +82,79 @@ USIM 카드 삽입 후 통신 시작까지 수 분이 걸리는 경우가 있습
 
 ***
 
-#### 셀룰러(LTE) 연결 불가 시 단계별 대응
+#### セルラー（LTE）へ接続不可時の対応フロー
 
-셀룰러(LTE) 연결이 되지 않을 경우 아래 절차에 따라 순서대로 점검합니다.
+セルラー（LTE）に接続できない場合には、下記のフローに従って確認してください。
 
 {% hint style="warning" %}
-**증상**
+状況
 
-* <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">셀룰러(LTE) 아이콘이 표시되지 않음
-* 셀룰러(LTE) 연결이 반복적으로 끊김
+* <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">セルラー（LTE）アイコンが表示されない場合
+* セルラー（LTE）接続が頻繁に途切れる場合
 {% endhint %}
 
 {% stepper %}
 {% step %}
-**초기 연결 대기**
+**接続待機**
 
-전원 ON 후 최대 **10분**까지 대기합니다. 셀룰러(LTE) 망 등록 및 APN 인증에 시간이 소요될 수 있습니다.
+電源を入れてから最大**10分間**待機してください。ネットワーク登録及びAPN認証に時間がかかる場合があります。
 
 {% hint style="info" %}
-10분 후에도 연결되지 않으면 **APN 수동 연결**을 진행합니다.
+10分経っても繋がらない場合は、**APNの手動接続**を行ってください。
 
-APN 이름 입력 — 사용 중인 유심 통신사에 따라 아래 APN 이름을 입력합니다.
+APN名の入力：ご使用のSimカードの通信事業者に合ったAPN名を入力します。
 
 <img src="../../.gitbook/assets/quick-setup-cellular-direct.png" alt="" data-size="original">
 
-* APN 이름 입력: ppsim.jp 를 입력합니다.
+* APN名の入力：ppsim.jp を入力します。
 
-이름, 비밀번호 등 선택 항목을 입력한 뒤 \[확인]을 탭하면 수동으로 연결할 수 있습니다.
+名前、パスワードなど任意の項目を入力した後、\[確認]をタップすると手動接続できます。
 {% endhint %}
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">셀룰러(LTE) 아이콘 표시 및 서버/RTK 연결 정상 동작
+> **接続済み：** <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">セルラー（LTE）アイコンの表示およびサーバー/RTKが正常接続した状態
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">신호 없음 표시, 2단계 진행
+> **接続失敗：** <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">信号なしの表示。ステップ2を進める。
 {% endstep %}
 
 {% step %}
-**전원 재부팅**
+**電源の再起動**
 
-장비 전원을 OFF한 후 약 10초 뒤 다시 ON합니다. 재부팅 후 최대 **5\~10분** 대기합니다.
+機器の電源を切ってから約10秒後に再び電源を入れます。再起動後、最大**5～10分間**待ちます。
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">셀룰러(LTE) 연결 아이콘 표시
+> **接続済み：** <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">セルラー（LET）接続アイコンの表示
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">신호 없음 표시, 3단계 진행
+> **接続失敗：** <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">信号なしの表示。ステップ3を進める。
 {% endstep %}
 
 {% step %}
-**USIM 정상 여부 확인 및 재장착**
+**Simカードが正常認識されているかを確認し、再度差し込む**
 
-1.  **USIM 정상 여부 확인**
+1.  **Simカードの正常性確認**
 
-    태블릿에서 USIM을 꺼내 휴대폰에 삽입한 후 데이터 통신(웹 접속) 가능 여부를 확인합니다.
+    タブレットからSimカードを取り出し、スマートフォンに差し込んでからデータ通信（インターネット接続）できるかを確認します。
 
 {% hint style="warning" %}
-**연결 실패시** 휴대폰에서도 연결 안 됨 통신사 문의 또는 USIM 교체하세요.
+**接続失敗時：**&#x30B9;マートフォンでも接続できない場合は、通信事業者へお問い合わせするか、Simカードを交換してください。
 {% endhint %}
 
-2. **태블릿 재장착 후 확인**\
-   태블릿에 USIM을 재삽입하고 전원 재부팅 후 최대 **30분\~1시간** 대기합니다. 네트워크 재등록 및 IP 할당에 시간이 소요될 수 있습니다.
+2. **タブレットに再度差し込んでから確認する**\
+   タブレットにSimカードを再度差し込み、電源を再起動してから最大**30分～1時間**待ちます。ネットワークへの再登録やIP割り当てに時間がかかる場合があります。
 
-> **정상 연결**: <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">셀룰러(LTE) 연결 정상 표시
+> **接続済み：** <img src="../../.gitbook/assets/quick-setup-cellular_LTE.svg" alt="" data-size="line">セルラー（LTE）へ接続済み
 >
-> **연결 실패**: <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">신호 없음 표시, 4단계 진행
+> **接続失敗：** <img src="../../.gitbook/assets/quick-setup-cellular-bad.svg" alt="" data-size="line">信号なし表示。ステップ4を進める。
 {% endstep %}
 
 {% step %}
-**본사 문의**
+**本社への取り合わせ**
 
-1\~3단계를 모두 진행했음에도 연결되지 않을 경우 아래 정보를 확보하여 본사에 문의합니다.
+1～3ステップまで全て進めたにもかかわらず接続できない場合は、以下の情報を確認のうえ、本社までお問い合わせください。
 
-* ION Tablet 번호
-* 증상 발생 시점 및 증상 내용
-* 현재 설치 위치 (지역)
-* 셀룰러(LTE) 아이콘 상태 (없음 / 약함 / 반복 끊김)
-* 수행한 조치 단계 (1\~3단계 진행 여부)
+* Pluva iONのタブレット番号
+* 接続できない状況が発生し始めた時間およびその内容
+* 取り付け場所（地域）
+* セルラー（LTE）アイコンのステータス（なし/弱い/繰り返し途切れる）
+* 対応フロー（1～3ステップを進めたかどうか）
 {% endstep %}
 {% endstepper %}
 
