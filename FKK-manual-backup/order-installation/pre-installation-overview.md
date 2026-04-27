@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# 설치 전 준비 가이드
+# 取り付け前の確認事項
 
-현장 방문 전 필요한 고객 계정 준비와 현장 준비 사항을 안내합니다.
+現場に訪問する前にお客様アカウントを含め事前に確認すべき事項があります。その内容についてご案内します。
 
 {% content-ref url="pre-installation-guide.md" %}
 [pre-installation-guide.md](pre-installation-guide.md)
