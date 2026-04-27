@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/preparing-components
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/De1T5eJZWNrq0VZoStCz
 ---
 
 # 構成品のご用意

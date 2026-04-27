@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving/route-planning-settings
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/urT0ERaTVtmmB5jOWQ3H
 ---
 
 # 経路のプランニングの設定方法
@@ -35,23 +34,17 @@ AB直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 A+直進
 
 * A点を基準に設定した角度の直線経路を生成して走行します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward (1).png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 格子走行
 
 * 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
 
 <div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="126"><figcaption></figcaption></figure></div>
-
-
 
 自動経路（pluva AI）
 

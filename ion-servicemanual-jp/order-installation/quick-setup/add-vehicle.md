@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/add-vehicle
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/1UG61CYqsMi6iaZc7xrR
 ---
 
 # 車両の追加
@@ -77,17 +76,17 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-tractor-dimensions.png" alt="" width="284"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
+![](../../.gitbook/assets/icon-square-1.svg) ホイールベース
 
 * トラクターの前輪軸から後輪軸までの距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-3.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸 - ヒッチ
+![](../../.gitbook/assets/icon-square-2.svg) 後輪軸 - ヒッチ
 
 * トラクターの後輪軸からヒッチまでの水平距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 地面 - トップリンク
+![](../../.gitbook/assets/icon-square-3.svg) 地面 - トップリンク
 
 * 地面からトラクターのトップリンクまでの垂直距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-6.png)
@@ -96,21 +95,21 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions.png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
+![](../../.gitbook/assets/icon-square-1.svg) ホイールベース
 
 * 田植え機の前輪軸から後輪軸までの距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-1.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸 - 車両の端
+![](../../.gitbook/assets/icon-square-2.svg) 後輪軸 - 車両の端
 
 * 田植え機の後輪軸から車両の端までの水平距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-2.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 田植え機の幅
+![](../../.gitbook/assets/icon-square-3.svg) 田植え機の幅
 
 * 田植え機の幅を表し、タイヤの幅も含みます。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 間隔偏差
+![](../../.gitbook/assets/icon-square-4.svg) 間隔偏差
 
 * 往復作業時に走行間隔が一定でない場合、その誤差を補正するための設定値です。（走行間隔の誤差の絶対値を4で割った値を入力してください。）

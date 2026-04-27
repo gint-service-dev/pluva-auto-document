@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/gnss-connect
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/qWBYBiSP5o4a0wiNGKRH
 ---
 
 # GNSS受信機の接続確認

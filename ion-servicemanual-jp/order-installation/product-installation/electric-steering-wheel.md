@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/electric-steering-wheel
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/FtEYBOMV2B1p8aDhKCJp
 ---
 
 # 電動ステアリングホイール

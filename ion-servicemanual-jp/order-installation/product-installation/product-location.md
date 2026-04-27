@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/product-location
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/00pbN7ggzclWXtiFoTb6
 ---
 
 # 構成品の取り付け位置
@@ -37,7 +36,7 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**\[エクスパンションキット（拡張キット）]** \
+**\[エクスパンションキット（拡張キット）]**\
 タブレットを除いた、経済的な拡張型パッケージです。\
 GNSS受信機、電動ステアリングホイール、カメラが含まれます。注文前にPLUVA iONのタブレットを保有していることをご確認ください。
 {% endhint %}

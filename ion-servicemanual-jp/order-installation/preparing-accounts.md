@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/preparing-accounts
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/iH61kpitDJDNgP2yvzCs
 ---
 
 # お客様アカウントのご用意

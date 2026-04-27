@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/others/initial-setup
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/wElnmPNuByb8EPbmuWuc
 ---
 
 # お客様のお困りごとへの対応策

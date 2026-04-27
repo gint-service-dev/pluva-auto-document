@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/camera
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/uoOvymWMAtCepU4tT8PT
 ---
 
 # カメラ

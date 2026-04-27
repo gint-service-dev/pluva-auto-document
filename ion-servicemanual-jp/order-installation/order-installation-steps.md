@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/order-installation-steps
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/544EXOhLaHvnBxpwnP6F
 ---
 
 # 注文および取り付けプロセスのご案内

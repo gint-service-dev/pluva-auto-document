@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/language-settings
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/gZ9unvyc40Y86VaIN8zK
 ---
 
 # 言語設定

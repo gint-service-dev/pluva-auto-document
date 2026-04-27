@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/harness
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/Pwdy5P4hmRHK61KZEkLo
 ---
 
 # ハーネス

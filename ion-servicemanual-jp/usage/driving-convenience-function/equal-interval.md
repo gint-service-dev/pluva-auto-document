@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function/equal-interval
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/qwCgZ4ASftChwZOnJrpw
 ---
 
 # 等間隔に関する便利な機能
@@ -49,7 +48,7 @@ AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" d
 
 <figure><img src="../../.gitbook/assets/feature-details (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **等間隔オン/オフ**
+![](../../.gitbook/assets/icon-square-1.svg) **等間隔オン/オフ**
 
 * 生成した等間隔をオン、またはオフにします。
   * 自動操舵中には使用できません。手動走行でのみ使用できます。
@@ -60,7 +59,7 @@ AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" d
 
       <figure><img src="../../.gitbook/assets/turn-off-equal-intervals-screen.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 現在地に移動
+![](../../.gitbook/assets/icon-square-2.svg) 現在地に移動
 
 * 生成されたAB経路を車両の現在地に移動できます。\
   移動した位置を基基準に、間隔ラインが再設定されます。
@@ -72,7 +71,7 @@ AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" d
 
       <figure><img src="../../.gitbook/assets/pulling-after (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 等間隔の移動
+![](../../.gitbook/assets/icon-square-3.svg) 等間隔の移動
 
 * 入力した数値分だけAB経路が平行移動します。
   *   等間隔の移動前\
@@ -84,7 +83,7 @@ AB経路を設定した後 <img src="../../.gitbook/assets/ic_line.svg" alt="" d
 
       <figure><img src="../../.gitbook/assets/after-moving-equidistant (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 90度回転
+![](../../.gitbook/assets/icon-square-4.svg) 90度回転
 
 * 車両のある場所から生成した走行経路を垂直方向（90度）に回転します。
   * 自動操舵中には使用できません。手動走行でのみ使用できます。

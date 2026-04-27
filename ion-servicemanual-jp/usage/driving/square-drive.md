@@ -18,7 +18,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving/square-drive
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/xKs8UwAet0SEckKYIkQT
 ---
 
 # 사각주행

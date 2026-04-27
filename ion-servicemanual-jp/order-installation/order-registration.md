@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/order-registration
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/b7TQmxzUUyJEC0Nu6dCG
 ---
 
 # 注文登録

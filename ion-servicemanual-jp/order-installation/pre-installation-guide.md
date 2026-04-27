@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/pre-installation-guide
+      https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/pre-installation-overview/pre-installation-guide
 ---
 
 # 取り付け前の準備

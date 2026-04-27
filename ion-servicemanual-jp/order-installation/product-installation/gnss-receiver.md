@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/gnss-receiver
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/Gg19FcQ6ZB4pg5WczLbm
 ---
 
 # GNSS受信機

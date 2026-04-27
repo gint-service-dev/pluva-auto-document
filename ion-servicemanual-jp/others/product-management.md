@@ -34,7 +34,7 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/product-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) **ステータス**
+![](../.gitbook/assets/icon-square-1.svg) **ステータス**
 
 * 区分：開通、未開通
 
@@ -44,13 +44,13 @@ metaLinks:
 ステータスは直接変更できません。取り付け完了時に自動で反映されます。
 {% endhint %}
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) **用途**
+![](../.gitbook/assets/icon-square-2.svg) **用途**
 
 * 区分：販売、サービス、テスト
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) **担当部署**
+![](../.gitbook/assets/icon-square-3.svg) **担当部署**
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) **製造日**
+![](../.gitbook/assets/icon-square-4.svg) **製造日**
 
 ![](../.gitbook/assets/icon-square-5.svg) **タブレットのシリアル番号**
 
@@ -82,7 +82,7 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt="" width="288"><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) **ステータス**
+![](../.gitbook/assets/icon-square-1.svg) **ステータス**
 
 * 区分：開通、未開通
 
@@ -92,13 +92,13 @@ metaLinks:
 ステータスは直接変更できません。取り付け完了時に自動で反映されます。
 {% endhint %}
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) **用途**
+![](../.gitbook/assets/icon-square-2.svg) **用途**
 
 * 区分：販売、サービス、テスト
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) **タブレットのシリアル番号**
+![](../.gitbook/assets/icon-square-3.svg) **タブレットのシリアル番号**
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) **担当部署**
+![](../.gitbook/assets/icon-square-4.svg) **担当部署**
 
 ![](../.gitbook/assets/icon-square-5.svg) **製造日**
 

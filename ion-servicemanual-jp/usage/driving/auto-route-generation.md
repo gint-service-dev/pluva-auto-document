@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving/auto-route-generation
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/k9niWFg939Qnm4PFJDIZ
 ---
 
 # 自動経路（Pluva AI）

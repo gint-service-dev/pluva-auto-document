@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/switch
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/GIDm3bkuSS0s1dnIYX6y
 ---
 
 # ワンタッチスイッチ

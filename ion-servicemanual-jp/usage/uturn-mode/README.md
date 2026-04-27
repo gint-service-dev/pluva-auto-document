@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/uturn-mode
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/SFK19RwbvFaOJ7NR7ZKA
 ---
 
 # ターンモード
@@ -31,4 +31,3 @@ metaLinks:
 {% content-ref url="kturn.md" %}
 [kturn.md](kturn.md)
 {% endcontent-ref %}
-

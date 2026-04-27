@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/managing-headland-information
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/TzRC7pEgBWJB6eHP8Pw2
 ---
 
 # 枕地情報の削除

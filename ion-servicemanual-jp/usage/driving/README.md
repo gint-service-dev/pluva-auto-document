@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/A3HCPMgNqbv66WJA6J2d
 ---
 
 # 走行モード(経路のプランニング)

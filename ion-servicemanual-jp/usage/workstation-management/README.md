@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/workstation-management
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/6VSAdLgc85L7avPLyvcd
 ---
 
 # 作業機の管理

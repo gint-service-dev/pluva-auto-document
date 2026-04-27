@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/farm-owner-management
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/kQIwTWN99Dm2n8DOMRRw
 ---
 
 # 農場主の管理

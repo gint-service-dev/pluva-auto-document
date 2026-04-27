@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/KzDBbZPNxyZQTrWMHCkf
 ---
 
 # 製品の取り付け

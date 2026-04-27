@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/rtk-setting
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/FcZOyMQulWzXBVql8mLt
 ---
 
 # 位置補正の設定

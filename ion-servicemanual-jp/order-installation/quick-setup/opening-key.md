@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/opening-key
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/2QtRP8W2gP5bAHjBXU5g
 ---
 
 # 開通キーの入力

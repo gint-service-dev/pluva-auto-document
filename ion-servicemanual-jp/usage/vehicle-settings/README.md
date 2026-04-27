@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/pcTLwdgyIACqa2II1xAu
 ---
 
 # 車両管理

@@ -40,11 +40,11 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) アカウント名
+![](../.gitbook/assets/icon-square-1.svg) アカウント名
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) 所属部署および作成日
+![](../.gitbook/assets/icon-square-2.svg) 所属部署および作成日
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) アカウント情報
+![](../.gitbook/assets/icon-square-3.svg) アカウント情報
 
 * 該当するアカウントに登録されている、携帯電話番号とメールアドレスが表示されます。
 
@@ -52,7 +52,7 @@ metaLinks:
 **ご参照：**&#x643A;帯電話番号とメールアドレスの右側にあるコピーアイコンをクリックすると、クリップボードにコピーされます。
 {% endhint %}
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) メモ
+![](../.gitbook/assets/icon-square-4.svg) メモ
 
 * **⋮ ボタン**をクリックし、内容を修正及び削除できます。
 * **作成者名**と**作成日時**が併せて表示されます。
@@ -76,11 +76,11 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/account-management-detail-mobile-1.png" alt="" width="287"><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) アカウント名
+![](../.gitbook/assets/icon-square-1.svg) アカウント名
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) 所属部署及び作成日
+![](../.gitbook/assets/icon-square-2.svg) 所属部署及び作成日
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) アカウント情報
+![](../.gitbook/assets/icon-square-3.svg) アカウント情報
 
 * 該当するアカウントに登録済みの携帯電話番号とメールアドレスが表示されます。
 
@@ -88,7 +88,7 @@ metaLinks:
 **ご参照：**&#x643A;帯電話番号とメールアドレスの右側にあるコピーアイコンをクリックすると、クリップボードにコピーされます。
 {% endhint %}
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) メモ
+![](../.gitbook/assets/icon-square-4.svg) メモ
 
 * **⋮ ボタン**をクリックし、内容を修正及び削除できます。
 * **作成者名**と**作成日時**が併せて表示されます。

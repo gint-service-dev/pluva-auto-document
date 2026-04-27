@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/Y8Tpl8edM4BSOzUccAW7
 ---
 
 # 簡単セットアップ

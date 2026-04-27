@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/others/admin-login
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/3Pd5X570IS2y8BjV7WQ1
 ---
 
 # アドミンへのログイン

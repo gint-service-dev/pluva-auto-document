@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/gnss-receiver-setting
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/F2KJVJAv6ccIZ0UGW2FN
 ---
 
 # GNSS受信機の設定
@@ -57,14 +56,14 @@ GNSS受信機の設定を押すと、アクセスできます。
 
 <div align="left"><figure><img src="../../.gitbook/assets/gnss-receiver-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **縦方向の位置**
+![](../../.gitbook/assets/icon-square-1.svg) **縦方向の位置**
 
 * フロントアクスルから受信機までの前後距離を意味します。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **横方向の位置**
+![](../../.gitbook/assets/icon-square-2.svg) **横方向の位置**
 
 * 車両の中心線から受信機までの左右の距離を意味します。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **取り付け高さ**
+![](../../.gitbook/assets/icon-square-3.svg) **取り付け高さ**
 
 * 地面から受信機までの高さを意味します。

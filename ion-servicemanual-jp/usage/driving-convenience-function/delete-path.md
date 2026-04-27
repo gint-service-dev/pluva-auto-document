@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function/delete-path
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/AeCpk4dVgsFQ18Xg612Y
 ---
 
 # 経路のリセット及び削除

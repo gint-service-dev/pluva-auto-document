@@ -17,11 +17,10 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-registration
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/6gUEVw4hcAFUeP8ccR4h
 ---
 
-# 取り付けチケットから製品開通
+# 取り付けチケットでの製品開通
 
 取り付けチケットに製品を登録し、開通キーを発行します。取り付けをスムーズに進めるため、予め開通手続きを進めることを推奨します。
 
@@ -58,7 +57,7 @@ metaLinks:
 
 #### シリアル番号の登録（梱包番号）
 
-製品登録は、製品に付着してあるQRコード（シリアル番号、または梱包番号）をスキャンして進めます。&#x20;
+製品登録は、製品に付着してあるQRコード（シリアル番号、または梱包番号）をスキャンして進めます。
 
 * 梱包番号（外箱のQRコード）を登録すると、構成品の**一括登録**ができます。
 

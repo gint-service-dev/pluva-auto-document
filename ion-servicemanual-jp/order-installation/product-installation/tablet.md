@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/product-installation/tablet
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/h7Ysuws2LKtEN7k7kCpt
 ---
 
 # タブレット

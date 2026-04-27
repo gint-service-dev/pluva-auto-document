@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/ota
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/MoOiyvhcLjRiPO0OEjzx
 ---
 
 # ソフトウェアアップデート（OTA）
@@ -29,6 +28,10 @@ metaLinks:
 
 {% hint style="info" %}
 最新のアップデートが必要な場合のみ、ソフトウェア設定画面が表示されます。
+{% endhint %}
+
+{% hint style="warning" %}
+ソフトウェアアップデート（OTA）を行うと、約**300MB～500MB**のデータ通信量が発生します。お客様のデータ料金プランを予め確認のうえ、データが足りない場合は、Wi-Fiやテザリングを用意してください。
 {% endhint %}
 
 ***

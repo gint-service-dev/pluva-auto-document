@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/vehicle-settings/entering-my-vehicle
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/Sd1zojSFZoS6jive3jxG
 ---
 
 # My車両へのアクセスおよび画面のご案内
@@ -51,20 +50,20 @@ My車両へのアクセスが完了します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/entering-my-vehicle-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **車両補正**
+![](../../.gitbook/assets/icon-square-1.svg) **車両補正**
 
 * 車両が揺れたり曲がったりせず、正確に直進できるようオートステア、ロール・ピッチ・ヨー、慣性センサーなどを補正します。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **車両の制御設定**
+![](../../.gitbook/assets/icon-square-2.svg) **車両の制御設定**
 
 * 作業環境に合わせて走行の特性を調整できます。\
   設定変更すると自動操舵の性能に影響を与えかねません。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **GNSS受信機の設定**
+![](../../.gitbook/assets/icon-square-3.svg) **GNSS受信機の設定**
 
 * 車両に取り付けられたGNSS受信機の位置を入力し、位置精度を最適化できます。（または位置精度を高められます。）
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **車両情報**
+![](../../.gitbook/assets/icon-square-4.svg) **車両情報**
 
 * 取り付けられている車両のタイプ、別名、メーカー、機種を表示します。
 

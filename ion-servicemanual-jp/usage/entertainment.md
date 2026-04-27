@@ -40,14 +40,14 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/entertainment-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) **YouTube動画画面**
+![](../.gitbook/assets/icon-square-1.svg) **YouTube動画画面**
 
 * YouTubeの動画を検索および再生します。再生中にも走行画面はリアルタイムでアップデートされます。
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) **閉じる**
+![](../.gitbook/assets/icon-square-2.svg) **閉じる**
 
 * YouTube画面を閉じます。
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) **拡大する**
+![](../.gitbook/assets/icon-square-3.svg) **拡大する**
 
 * YouTube画面を全体画面に拡大します。

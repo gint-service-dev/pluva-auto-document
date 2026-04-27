@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/managing-field-information
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/5CXbTXZndxqSJsYnBodR
 ---
 
 # 圃場情報の削除

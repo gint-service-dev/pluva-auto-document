@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/driving-convenience-function/save-path
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/J6nkK7cLqRtbxQlvf6re
 ---
 
 # 経路の保存

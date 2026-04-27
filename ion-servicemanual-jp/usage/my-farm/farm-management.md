@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/my-farm/farm-management
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/GiUGI1dpMI3cdBKvQfKx
 ---
 
 # 農場管理

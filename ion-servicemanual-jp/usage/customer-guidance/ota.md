@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/usage/customer-guidance/ota
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/2A6jVSYErxNLx48YtSXv
 ---
 
 # ソフトウェアアップデート（OTA）
@@ -46,19 +46,19 @@ metaLinks:
 
 pluva ionのアップデートは、内容と重要度に応じて以下のようにご案内しております。
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **必須アップデート**
+![](../../.gitbook/assets/icon-square-1.svg) **必須アップデート**
 
 * 安全/安定性に影響を与えかねないため、必ずインストールしなければならないアップデートです。
   * 猶予期間が終了すると直ちにアップデートが実行されます。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **選択アップデート**
+![](../../.gitbook/assets/icon-square-2.svg) **選択アップデート**
 
 * 편利便性向上や内容変更を目的としたアップデートとして、ご希望のタイミングでインストールできます。
   *   インストールしなくても、引き続き現在のバージョンでご利用いただけ
 
       　　ます。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **緊急アップデート**
+![](../../.gitbook/assets/icon-square-3.svg) **緊急アップデート**
 
 * 緊急トラブルを迅速に解決するため、直ちに実行すべきアップデートです。
 

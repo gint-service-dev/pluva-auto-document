@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/installation-completed
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/JdPjQ19W0XdKbSUuAsrO
 ---
 
 # 取り付け完了確認

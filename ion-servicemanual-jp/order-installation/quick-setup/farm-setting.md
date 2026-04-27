@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/YgZGmmCCfllSmVLHO3Uz/order-installation/quick-setup/farm-setting
+    - /broken/spaces/YgZGmmCCfllSmVLHO3Uz/pages/UtKCp1YCY9PN5Q3m9Vtw
 ---
 
 # 圃場の設定
@@ -32,14 +31,18 @@ metaLinks:
 * 現在地をもとに初期設定されます。
 *
 
-    <figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
+```
 
 2. **農場主の登録**
 
 * お客様アカウントをもとに初期設定されます。
 *
 
-    <figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
+```
+<figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
+```
 
 3. **圃場の登録**
 
@@ -359,15 +362,15 @@ My Farmから「枕地」を選択します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/boundary.png" alt="" width="291"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の境界オフセットの表示ライン**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の境界オフセットの表示ライン**
 
 * 赤の実線で表示されます。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **圃場の境界線**
+![](../../.gitbook/assets/icon-square-2.svg) **圃場の境界線**
 
 * 白の実線で表示されます。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **枕地の表示ライン**
+![](../../.gitbook/assets/icon-square-3.svg) **枕地の表示ライン**
 
 * 白の点線で表示されます。
 
@@ -383,20 +386,20 @@ My Farmから「枕地」を選択します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/full-headland-modal (1).png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の選択**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
 * 枕地を適用する圃場を選択します。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **枕地名**
+![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
 * 識別するための枕地名を入力します。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **枕地の長さ**
+![](../../.gitbook/assets/icon-square-3.svg) **枕地の長さ**
 
 * 枕地の幅を数値入力で設定します。
   * ![](../../.gitbook/assets/full-headland-street.png)
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **枕地の数**
+![](../../.gitbook/assets/icon-square-4.svg) **枕地の数**
 
 * 枕地の周回数を設定します。
   * 枕地を1周に設定した場合\
@@ -433,19 +436,19 @@ My Farmから「枕地」を選択します。
 
 <div align="left"><figure><img src="../../.gitbook/assets/partial-headland-madal (1).png" alt="" width="230"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **圃場の選択**
+![](../../.gitbook/assets/icon-square-1.svg) **圃場の選択**
 
 * 枕地を適用する圃場を選択します。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **枕地名**
+![](../../.gitbook/assets/icon-square-2.svg) **枕地名**
 
 * 識別するための枕地名を入力します。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **作業機**
+![](../../.gitbook/assets/icon-square-3.svg) **作業機**
 
 * 作業に使う作業機を選択します。
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **枕地の本数**
+![](../../.gitbook/assets/icon-square-4.svg) **枕地の本数**
 
 * 枕地の本数を設定します。
   * <img src="../../.gitbook/assets/partical-headland-one-ic.svg" alt="" data-size="line"> 番ラインに枕地を1本設定の場合\
