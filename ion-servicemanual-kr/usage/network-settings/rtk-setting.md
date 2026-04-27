@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings/rtk-setting
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/lstJSWDSTbo8ffvKpTv4
 ---
 
 # 위치 보정 설정
@@ -78,6 +77,11 @@ metaLinks:
 
 * 스마트폰의 외부 앱을 통해 보정 신호를 받은 뒤, 블루투스로 연결합니다.\
   외부 앱이 꺼지면 보정 신호가 끊길 수 있습니다.
+
+![](../../.gitbook/assets/icon-square-4.svg) **UHF (베이스 스테이션)**
+
+* 별도의 서버 정보 입력 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다.
+* 네트워크 없이도 사용 가능하며, 최대 2\~3km 범위까지 신호를 수신할 수 있습니다.
 
 ***
 
@@ -190,10 +194,6 @@ RTK 블루투스 연결의 \[선택]을 누릅니다.
 
 UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다. 최대 2\~3km 범위 내에서 사용할 수 있으며, 네트워크 없이도 동작합니다.
 
-{% hint style="warning" %}
-동일한 작업 구역 내에서는 하나의 기준(네트워크 RTK 또는 특정 베이스 스테이션)만을 선택하여 운용해야 합니다. 혼용할 경우 위치 오차가 발생할 수 있습니다.
-{% endhint %}
-
 {% stepper %}
 {% step %}
 위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
@@ -219,3 +219,4 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
