@@ -2,8 +2,7 @@
 hidden: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/path-sharing
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/3FlIhrkmh9Op2wvzIrX0
 ---
 
 # 경로 공유

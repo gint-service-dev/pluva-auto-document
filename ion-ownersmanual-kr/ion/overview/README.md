@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/psLdExmMyXogAY5BJrIg
 ---
 
 # 개요
@@ -47,4 +47,3 @@ metaLinks:
 {% content-ref url="camera.md" %}
 [camera.md](camera.md)
 {% endcontent-ref %}
-

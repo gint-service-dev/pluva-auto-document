@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ZuqLwg8QS7Wf46JEhnPi
 ---
 
 # 차량 관리
@@ -43,4 +43,3 @@ metaLinks:
 {% content-ref url="gnss-receiver-setting.md" %}
 [gnss-receiver-setting.md](gnss-receiver-setting.md)
 {% endcontent-ref %}
-

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/uturn-mode/uturn-mode-setting
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/1Al7u3hGNO6iuC0fCoct
 ---
 
 # 턴 설정 방법

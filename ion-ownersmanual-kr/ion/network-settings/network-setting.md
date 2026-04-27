@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/network-settings/network-setting
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/NpfpbwwMY8778pZ3TmxV
 ---
 
 # 네트워크 설정

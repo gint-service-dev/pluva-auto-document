@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/network-settings/rtk-setting
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/lstJSWDSTbo8ffvKpTv4
 ---
 
 # 위치 보정 설정
@@ -82,7 +81,7 @@ metaLinks:
 ![](../../.gitbook/assets/icon-square-4.svg) **UHF (베이스 스테이션)**
 
 * 별도의 서버 정보 입력 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다.
-* 네트워크 없이도 사용 가능하며, 최대 2~3km 범위까지 신호를 수신할 수 있습니다.
+* 네트워크 없이도 사용 가능하며, 최대 2\~3km 범위까지 신호를 수신할 수 있습니다.
 
 ***
 
@@ -189,35 +188,35 @@ RTK 블루투스 연결의 \[선택]을 누릅니다.
 {% endstep %}
 {% endstepper %}
 
-
 ***
 
 #### UHF (베이스 스테이션) 연결
 
-UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다. 최대 2~3km 범위 내에서 사용할 수 있으며, 네트워크 없이도 동작합니다.
+UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UHF 무선 신호로 자동 연결하여 보정 신호를 수신하는 방식입니다. 최대 2\~3km 범위 내에서 사용할 수 있으며, 네트워크 없이도 동작합니다.
 
-{%- stepper %}
-{%- step %}
+{% stepper %}
+{% step %}
 위치 보정 화면에서 UHF (베이스 스테이션)을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/basestation-connection-1.png" alt=""><figcaption></figcaption></figure>
-{%- endstep %}
+{% endstep %}
 
-{%- step %}
+{% step %}
 자동으로 베이스 스테이션 신호를 탐색합니다. 잠시 기다려주세요.
 
 <figure><img src="../../.gitbook/assets/basestation-connection-2.png" alt=""><figcaption></figcaption></figure>
-{%- endstep %}
+{% endstep %}
 
-{%- step %}
+{% step %}
 연결이 완료되면 \[확인]을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/basestation-connection-3.png" alt=""><figcaption></figcaption></figure>
 
-{%- hint style="info" %}
+{% hint style="info" %}
 연결에 실패할 경우 아래 사항을 확인한 후 \[다시 시도]를 누릅니다.
 
 <img src="../../.gitbook/assets/basestation-connection-failure.png" alt="" data-size="original">
-{%- endhint %}
-{%- endstep %}
-{%- endstepper %}
+{% endhint %}
+{% endstep %}
+{% endstepper %}
+

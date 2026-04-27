@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/electric-steering-wheel
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/scPRmf2UHNygzfDCY7Iu
 ---
 
 # 전동 스티어링 휠
@@ -27,14 +26,12 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/electric-steering-wheel-description.png" alt=""><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-1.svg) 핸들
 
 ![](../../.gitbook/assets/icon-circle-2.svg) 모터
 
 {% hint style="danger" %}
-**사용상 주의사항**&#x20;
+**사용상 주의사항**
 
 본 스티어링휠은 조향을 위한 부품으로, 모터가 장착된 상태에서 과도한 하중, 충격, 또는 변형을 가할 경우 제품의 파손 및 변형이 발생할 수 있으므로 주의하시기 바랍니다.
 {% endhint %}

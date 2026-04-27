@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/consumer-info/problem-solving
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/X5qDbgfURP0gixpoV7Eq
 ---
 
 # 문제해결 안내
@@ -37,8 +36,6 @@ metaLinks:
 
 * 시스템을 재부팅한 후, 신호 간섭이 없는 개활지(하늘이 트인 곳)로 장비를 이동하여 수신 상태를 재확인해 주세요.
 
-
-
 #### 앱/설정
 
 **Q: OTA, S/W 업데이트가 진행되지 않습니다.**
@@ -49,8 +46,6 @@ metaLinks:
 
 * 태블릿 절전 버튼'을 길게 눌러 시스템을 완전히 종료한 후, 재실행하여 주세요.
 
-
-
 #### 자율주행
 
 **Q: 자율주행 버튼에 불이 들어오지 않거나 자율주행이 자동으로 해지됩니다.**
@@ -58,8 +53,6 @@ metaLinks:
 * 자율주행 시스템이 정상 작동하기 위한 최소 진입 조건을 확인해 주십시오.\
   아래 범위를 벗어날 경우 안전을 위해 기능이 활성화되지 않거나 자동으로 해제될 수 있습니다. 
   * \[속도: 0 km/h 이상 \~ 20 km/h 이하 | 진입 각도: 기준선에서 25도 이하]
-
-
 
 #### 작업 품질
 
@@ -75,8 +68,6 @@ metaLinks:
 * 작업기의 수평상태가 맞는지 확인하세요.
 * 하단 메뉴 [\[작업기\] - \[작업기 선택\]](../workstation-management/worker-entry.md#undefined-1) 후 세부 정보를 조정하세요.
 * 작업기 세부정보에서 [\[작업기 편차 계산\]](../workstation-management/add-worker.md#undefined-1)을 클릭하여 설정값을 조정하세요.
-
-
 
 #### Q\&A
 

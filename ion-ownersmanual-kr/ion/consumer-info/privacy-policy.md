@@ -17,16 +17,13 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/consumer-info/privacy-policy
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/WIoY3CCBpBhanBnekj0s
 ---
 
 # 개인정보 처리 방침
 
-플루바 아이온은 서비스 제공을 위해 필요한 범위에서 개인정보를 처리하며, 관련 법령과 내부 기준에 따라 안전하게 관리합니다.&#x20;
+플루바 아이온은 서비스 제공을 위해 필요한 범위에서 개인정보를 처리하며, 관련 법령과 내부 기준에 따라 안전하게 관리합니다.
 
 자세한 내용은 아래 링크에서 개인정보 처리방침 전문을 확인하세요.
-
-
 
 * [**개인정보 처리방침 확인하기 >**](https://gint.pluva.kr/policies/ko/privacy)

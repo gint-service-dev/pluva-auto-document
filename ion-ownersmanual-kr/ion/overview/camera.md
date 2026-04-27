@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/camera
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/jpIZFcUWMNVwczUSzGlP
 ---
 
 # 카메라
@@ -25,8 +25,6 @@ metaLinks:
 플루바 아이온에는 주변 환경을 모니터링하는 카메라 구성품이 포함됩니다.
 
 <figure><img src="../../.gitbook/assets/camera-description.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 트랙터 뒤쪽 상부에 카메라를 설치하며, 후방 작업을 모니터링합니다.
 
@@ -39,4 +37,3 @@ metaLinks:
 차량 터치스크린에서 하단 메뉴에서 카메라 아이콘을 터치하여 카메라를 켤 수 있습니다.
 
 자세한 내용은 [카메라뷰 켜기](../driving-convenience-function/adjusting-driving-screen.md#camera-view)을(를) 참조하세요.
-

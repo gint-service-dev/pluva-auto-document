@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings/autostere-calibration
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/eyul4IidoQLFETNGpOd2
 ---
 
 # 오토스티어 보정
@@ -103,8 +102,6 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 2. **직진 조향 보정**
 
@@ -196,8 +193,6 @@ metaLinks:
 {% endstep %}
 {% endstepper %}
 
-
-
 2. **직진 조향 보정**
 
 {% stepper %}
@@ -247,8 +242,6 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/leeangi-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
 
 3. **조향 각도 보정**
 
@@ -314,8 +307,6 @@ metaLinks:
   * 직진 조향 보정
 * **2회차 (배속턴 ON 상태)**
   * 직진 조향 보정
-
-
 
 {% stepper %}
 {% step %}

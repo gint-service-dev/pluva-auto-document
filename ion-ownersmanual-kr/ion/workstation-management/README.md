@@ -17,12 +17,10 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/workstation-management
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/gUAAWggjvUOkTgU5ZiJY
 ---
 
 # 작업기 관리
-
-
 
 작업기 관리는 작업에 사용하는 작업기를 추가하고, 장착 상태 및 작업기 정보를 확인하는 메뉴입니다.
 

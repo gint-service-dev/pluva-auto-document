@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/consumer-info/specification-information
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ZYkNBXf2Czkgp032PJf0
 ---
 
 # 제원 정보

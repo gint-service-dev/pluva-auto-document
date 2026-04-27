@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving/auto-route-generation
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/l3Dz43CGw2vLUKVgwhPl
 ---
 
 # 자동 경로 (플루바 AI)
@@ -28,8 +27,6 @@ metaLinks:
 * 사용자의 필드/차량 조건을 바탕으로 최적의 작업 경로를 자동 생성하는 기능입니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/automatic-path.png" alt="" width="200"><figcaption></figcaption></figure></div>
-
-
 
 {% stepper %}
 {% step %}

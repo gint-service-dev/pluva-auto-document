@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/initial-setup/ota
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ts8JHILNFE1wyzk0Wc2I
 ---
 
 # 소프트웨어 업데이트(OTA)

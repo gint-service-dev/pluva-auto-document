@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/equal-interval
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/h1qBDwRp0gzUpwZ99QMA
 ---
 
 # 등간격 편의 기능

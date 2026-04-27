@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings/gnss-receiver-setting
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/V3QVI0d2ThsaY9cHcTiZ
 ---
 
 # GNSS 수신기 설정

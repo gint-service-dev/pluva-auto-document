@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/switch
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/y9S1JIw5wSWooyFebAuU
 ---
 
 # 스위치(옵션품)
@@ -37,16 +37,12 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-state.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-2.svg) 즐겨찾기
 
 * 기능
   * 즐겨찾기 기능
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-multifunction.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-3.svg) 취소 or 이전
 
@@ -58,8 +54,6 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-back.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-4.svg) 엔터
 
 * 상태
@@ -67,8 +61,6 @@ metaLinks:
   * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-ok.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-5.svg) 좌측(◀)
 
@@ -80,8 +72,6 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-left.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-6.svg) 우측(▶)
 
 * 기능
@@ -91,8 +81,6 @@ metaLinks:
   * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../../.gitbook/assets/switch-button-right.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-7.svg) 자율주행 ON/OFF
 

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/my-farm/farm-owner-management
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/U4UunQ2hPu54lHLQrf2h
 ---
 
 # 농장 소유자 관리

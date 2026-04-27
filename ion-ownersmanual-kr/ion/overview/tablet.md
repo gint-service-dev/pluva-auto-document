@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/tablet
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/JktgjzwXNjPEajyHsla4
 ---
 
 # 태블릿
@@ -43,15 +43,11 @@ metaLinks:
 반드시 ‘태블릿 전원 버튼’을 길게 눌러 시스템을 완전히 종료한 후, 메인 전원 스위치를 OFF하여 주세요.
 {% endhint %}
 
-
-
 ![](../../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
 
 * 태블릿의 전원을 끄거나 켭니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
@@ -59,15 +55,11 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-right-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-4.svg) 좌측(◀)
 
 * 설정 화면: 선택 항목을 왼쪽으로 이동합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-left-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-5.svg) 선택 / 자율주행 버튼
 
@@ -76,23 +68,17 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-self-driving-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-6.svg) 취소/이전
 
 * 이전 화면으로 이동하거나 진행 중 동작을 취소합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-back-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-
-
 ![](../../.gitbook/assets/icon-circle-7.svg) 즐겨찾기
 
 * 고객이 자주 사용하는 기능을 즐겨찾기로 설정하고, 버튼을 누르면 해당 기능으로 이동합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-multifunction-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 ![](../../.gitbook/assets/icon-circle-8.svg) 메인 커넥터
 

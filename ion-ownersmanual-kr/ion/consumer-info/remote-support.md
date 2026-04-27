@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/consumer-info/remote-support
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/8d1ACXWPTFlKsnrHJdII
 ---
 
 # 원격 지원
@@ -52,7 +51,7 @@ metaLinks:
 
 ***
 
-#### 원격 지원 페이지 진입&#x20;
+#### 원격 지원 페이지 진입
 
 {% stepper %}
 {% step %}
@@ -124,4 +123,3 @@ metaLinks:
 {% endhint %}
 {% endstep %}
 {% endstepper %}
-

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/overview/pluva-ion-introduction
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ApfGJXQ7BoVx9WrX5uM0
 ---
 
 # 플루바 아이온 소개

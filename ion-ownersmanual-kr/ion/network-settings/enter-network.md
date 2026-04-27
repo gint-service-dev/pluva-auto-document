@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/network-settings/enter-network
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/7Y1KdKsuYP8e2FRf3IJP
 ---
 
 # 네트워크 설정 진입 및 화면 설명

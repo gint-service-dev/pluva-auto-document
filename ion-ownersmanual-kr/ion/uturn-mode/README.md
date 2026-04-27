@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/uturn-mode
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/j8a0RRVRiclGFnUtRBDO
 ---
 
 # 턴 모드
@@ -31,4 +31,3 @@ metaLinks:
 {% content-ref url="kturn.md" %}
 [kturn.md](kturn.md)
 {% endcontent-ref %}
-

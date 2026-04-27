@@ -2,8 +2,7 @@
 hidden: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings/inertial-sensor-calibration
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/UI7GvSPeWX64v97YZgpq
 ---
 
 # 관성센서 보정

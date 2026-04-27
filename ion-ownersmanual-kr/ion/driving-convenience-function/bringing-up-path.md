@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/bringing-up-path
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/fYBfxvvYTITdYl7ONRHb
 ---
 
 # 경로 불러오기

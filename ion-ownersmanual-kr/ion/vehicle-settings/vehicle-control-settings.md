@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/vehicle-settings/vehicle-control-settings
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/Z6MO8ywLEdf5Nn0itJou
 ---
 
 # 차량 제어 설정

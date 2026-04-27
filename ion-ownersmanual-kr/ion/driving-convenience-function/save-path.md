@@ -17,15 +17,12 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving-convenience-function/save-path
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/Plkb2QBCVaxDS4C4za99
 ---
 
 # 경로 저장하기
 
 생성한 주행 경로를 저장해두는 기능입니다. 저장된 경로는 \[경로 불러오기]를 통해 다시 사용합니다.
-
-
 
 {% stepper %}
 {% step %}

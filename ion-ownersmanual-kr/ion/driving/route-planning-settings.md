@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/cB5Egkzinglp2WYUeNhf/ion/driving/route-planning-settings
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/9x3bERDMlXIE8hoWqcxl
 ---
 
 # 경로플래닝 설정 방법
