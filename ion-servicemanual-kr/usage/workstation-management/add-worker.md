@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management/add-worker
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/TNRTBXf7f8V3ykR96Y41
 ---
 
 # 작업기 추가

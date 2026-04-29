@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/lTGdsjFpEevEJHy2bvLo
 ---
 
 # 작업기 관리

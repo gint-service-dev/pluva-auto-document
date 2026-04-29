@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/workstation-management/worker-entry
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/N90cdcJtkVWyDdAXsbSl
 ---
 
 # 작업기 목록 진입 및 화면 설명

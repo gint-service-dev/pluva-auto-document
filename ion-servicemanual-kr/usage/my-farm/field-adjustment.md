@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm/undefined
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/MAUPm8Df6yQGbxekZUcn
 ---
 
 # 필드 조정

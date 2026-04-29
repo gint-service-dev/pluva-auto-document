@@ -17,14 +17,12 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/others/admin-login
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/KFamHl9Kw8CapD64FWSn
 ---
 
 # 어드민 로그인
 
 주문, 개통, 원격 지원 등의 서비스 이용을 위해 어드민 로그인을 진행합니다.
-
-
 
 {% stepper %}
 {% step %}
@@ -44,8 +42,6 @@ metaLinks:
 {% hint style="warning" %}
 발급받은 계정으로 로그인이 되지 않을 경우 (주)긴트에 문의합니다.
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}

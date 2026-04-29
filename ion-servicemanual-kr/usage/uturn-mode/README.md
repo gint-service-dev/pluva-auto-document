@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/uturn-mode
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/sL0Gh5NOZYIGDiwKzuiD
 ---
 
 # 턴 모드

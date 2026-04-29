@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings/enter-network
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/NrWZJVeeD1ejGeIbI73F
 ---
 
 # 네트워크 설정 진입 및 화면 설명

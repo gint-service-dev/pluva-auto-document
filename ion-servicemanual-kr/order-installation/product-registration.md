@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-registration
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/o9p5KQT0f9DFww8FZkzf
 ---
 
 # 설치티켓으로 제품 개통
@@ -186,7 +185,6 @@ metaLinks:
 
 {% hint style="info" %}
 패키징 넘버(시리얼 넘버)가 유효하지 않으면 QR 스캔 화면으로 돌아갑니다.
-
 
 <img src="../.gitbook/assets/invalid-ticket.png" alt="" data-size="original">
 {% endhint %}

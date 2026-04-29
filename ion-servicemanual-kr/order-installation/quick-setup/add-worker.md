@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/add-worker
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/4NMIuJPGUPL4kvfJOCEm
 ---
 
 # 작업기 추가 (선택)

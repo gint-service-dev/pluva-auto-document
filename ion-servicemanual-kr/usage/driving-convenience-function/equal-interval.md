@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/equal-interval
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/7H8mgjmIeFWhg9fdK3o3
 ---
 
 # 등간격 편의 기능

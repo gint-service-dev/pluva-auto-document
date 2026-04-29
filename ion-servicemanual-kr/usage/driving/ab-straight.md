@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/ab-straight
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/Gr5bfaIw7JkqIPeekwFO
 ---
 
 # AB직진

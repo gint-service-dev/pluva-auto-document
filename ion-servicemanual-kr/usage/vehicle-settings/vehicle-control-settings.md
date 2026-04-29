@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/vehicle-control-settings
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/RakCDp734XKd99zh260o
 ---
 
 # 차량 제어 설정

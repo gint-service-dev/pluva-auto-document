@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/rtk-setting
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/LxADZZSJvPhkXFWKhfDz
 ---
 
 # 위치보정 설정
@@ -182,8 +181,6 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 
 {% step %}
 연결이 완료되면 \[확인]을 누릅니다.
-
-
 
 <figure><img src="../../.gitbook/assets/quick-setup-basetation-3.png" alt=""><figcaption></figcaption></figure>
 

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/a-plus-straight
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/QA9kf8KAL0Nn32pJJ0xU
 ---
 
 # A+직진

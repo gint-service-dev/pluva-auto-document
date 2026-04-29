@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm/managing-field-information
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/ZBwZkfF2uoOF7LI3On9v
 ---
 
 # 필드 정보 관리

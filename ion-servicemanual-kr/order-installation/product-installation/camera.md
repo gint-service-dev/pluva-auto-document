@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/camera
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/jpIZFcUWMNVwczUSzGlP
 ---
 
 # 카메라
@@ -47,31 +46,24 @@ metaLinks:
 
 {% columns fullWidth="false" %}
 {% column width="83.33333333333334%" %}
-#### 1. 후방 최적의 시야가 확보될 수 있는 위치에 카메라를 장착합니다.
+**1. 후방 최적의 시야가 확보될 수 있는 위치에 카메라를 장착합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-camera-1.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **2.** 카메라 단자와 하네스 단자를 연결합니다.
+**2. 카메라 단자와 하네스 단자를 연결합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-camera-2.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
 
 {% endcolumn %}
 {% endcolumns %}
-

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/installation-completed
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/9weOrvc9gy3aU4YraAmd
 ---
 
 # 설치 완료 확인

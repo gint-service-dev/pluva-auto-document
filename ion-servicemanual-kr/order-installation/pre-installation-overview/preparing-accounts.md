@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/preparing-accounts
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/CnGTOYLEi05lcPycfKT1
 ---
 
 # 고객 계정 준비

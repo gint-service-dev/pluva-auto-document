@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/adjusting-driving-screen
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/FKjBGA6PYKuN581Ms2EF
 ---
 
 # 주행 화면 조정

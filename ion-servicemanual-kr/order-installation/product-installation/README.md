@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/psLdExmMyXogAY5BJrIg
 ---
 
 # 제품 설치
@@ -56,4 +55,3 @@ metaLinks:
 {% content-ref url="switch.md" %}
 [switch.md](switch.md)
 {% endcontent-ref %}
-

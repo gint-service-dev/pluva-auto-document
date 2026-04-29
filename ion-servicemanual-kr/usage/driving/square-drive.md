@@ -18,7 +18,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving/square-drive
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/0lOw7Y0bo7fp60V2t2vm
 ---
 
 # 사각주행
@@ -28,8 +28,6 @@ metaLinks:
 * A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/square-drive.png" alt="" width="150"><figcaption></figcaption></figure></div>
-
-
 
 {% stepper %}
 {% step %}
@@ -78,4 +76,3 @@ A점을 생성하면 미니맵이 표시됩니다.
 <figure><img src="../../.gitbook/assets/square-drive-explanation-6.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/preparing-quick-setup
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/9x3bERDMlXIE8hoWqcxl
 ---
 
 # 퀵셋업 설명 및 준비
@@ -33,8 +32,6 @@ metaLinks:
 
 퀵셋업은 총 10단계로 이루어져 있습니다.
 
-
-
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
 3. [소프트웨어 업데이트 (OTA)](ota.md)
@@ -47,8 +44,6 @@ metaLinks:
 10. [작업기 추가 (선택)](add-worker.md)
 11. [작업지 설정](farm-setting.md)
 
-
-
 ***
 
 #### 퀵셋업 준비사항
@@ -58,8 +53,6 @@ metaLinks:
 * 플루바 아이온 제품에 사용할 고객 계정이 필요합니다.
 * 제품 등록 전 [회원가입 사이트](https://gint.pluva.kr/)에서 가입을 진행해 주세요.
 * 계정이 없으면 제품과 고객 계정을 연결할 수 없으며, 서비스 이용이 불가합니다.
-
-
 
 **네트워크 환경을 확인하세요.**
 

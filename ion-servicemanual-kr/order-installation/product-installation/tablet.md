@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/tablet
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/JktgjzwXNjPEajyHsla4
 ---
 
 # 태블릿
@@ -47,7 +46,7 @@ metaLinks:
 
 {% columns fullWidth="false" %}
 {% column width="83.33333333333334%" %}
-#### 1. 태블릿 측면 SIM 포트 커버를 정밀 드라이버를 이용하여 제거 합니다.
+**1. 태블릿 측면 SIM 포트 커버를 정밀 드라이버를 이용하여 제거 합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-1.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
@@ -59,11 +58,9 @@ metaLinks:
 
 {% columns fullWidth="false" %}
 {% column width="83.33333333333334%" %}
-#### 2. SIM 카드를 방향에 맞게 결합 후 포트 커버를 결합합니다.
+**2. SIM 카드를 방향에 맞게 결합 후 포트 커버를 결합합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-2.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -73,11 +70,9 @@ metaLinks:
 
 {% columns fullWidth="false" %}
 {% column width="83.33333333333334%" %}
-#### 3. 태블릿 설치 위치를 확인합니다.
+**3. 태블릿 설치 위치를 확인합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-3.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -85,15 +80,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **4.** 동봉된 볼트(M5x10 / 4EA)를 이용하여 고정 볼을 결합합니다.&#x20;
+**4. 동봉된 볼트(M5x10 / 4EA)를 이용하여 고정 볼을 결합합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-4.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -101,15 +92,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **5.** 마운트볼에 태블릿을 결합합니다.
+**5. 마운트볼에 태블릿을 결합합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-5.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -117,15 +104,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **6.** 사용하기 편하게 태블릿을 조정합니다.
+**6. 사용하기 편하게 태블릿을 조정합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-tablet-6.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}

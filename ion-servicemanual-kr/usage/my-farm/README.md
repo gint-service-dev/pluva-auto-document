@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/my-farm
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/rGWYEGGzLMmAXNo06HQt
 ---
 
 # 내 농장 관리
@@ -36,8 +36,8 @@ My Farm은 농장과 필드 정보를 정리해 작업 환경을 관리하는 �
 [field-add.md](field-add.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="field-adjustment.md" %}
+[field-adjustment.md](field-adjustment.md)
 {% endcontent-ref %}
 
 {% content-ref url="managing-field-information.md" %}

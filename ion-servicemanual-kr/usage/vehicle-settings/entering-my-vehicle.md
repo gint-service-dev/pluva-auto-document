@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/entering-my-vehicle
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/1z0gY9eYAhUPKYRQM4wz
 ---
 
 # 내 차량 진입 및 화면 설명

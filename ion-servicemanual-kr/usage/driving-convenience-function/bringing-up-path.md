@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/bringing-up-path
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/v5CPF8nWh1RN0vvDzquD
 ---
 
 # 경로 불러오기

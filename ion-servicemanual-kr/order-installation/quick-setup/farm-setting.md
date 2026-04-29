@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/farm-setting
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/XweEKeoKLzy14WNwvs6I
 ---
 
 # 작업지 설정

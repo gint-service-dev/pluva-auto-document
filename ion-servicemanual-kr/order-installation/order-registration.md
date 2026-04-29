@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/order-registration
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/VWNlce7Me1jPjG6Jeplq
 ---
 
 # 주문 등록
@@ -26,8 +25,6 @@ metaLinks:
 주문의 기본 정보를 작성합니다. 주문 제품, 설치할 차량, 방문 정보를 입력하면 설치티켓이 자동 생성되며, 설치에 필요한 사항들을 미리 확인하고 준비할 수 있습니다.
 
 주문 목록은 [플루바 아이온 어드민 페이지](https://thegint.slack.com/archives/C0ACCKBFZ7H/p1773212243051089)에 로그인 후 접근할 수 있습니다.
-
-
 
 {% stepper %}
 {% step %}
@@ -69,7 +66,7 @@ metaLinks:
 *   Expansion Kit (확장키트)
 
     * GNSS 수신기, 전동 스티어링 휠이 포함됩니다. 태블릿은 포함되지 않습니다.
-    * 한 대의 태블릿을 여러 농기계에서 활용하려는 고객에게 적합한 세트입니다.&#x20;
+    * 한 대의 태블릿을 여러 농기계에서 활용하려는 고객에게 적합한 세트입니다.
     * 확장키트는 태블릿 없이 단독으로 사용할 수 없으므로, 주문 시 고객이 이미 태블릿을 보유 중인지 또는 태블릿 포함 세트와 함께 구매하는지 확인이 필요합니다.
 
     <figure><img src="../.gitbook/assets/Ion-extension-kr.png" alt=""><figcaption></figcaption></figure>
@@ -131,4 +128,3 @@ metaLinks:
 {% endhint %}
 {% endstep %}
 {% endstepper %}
-

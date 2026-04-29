@@ -2,8 +2,7 @@
 hidden: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/path-sharing
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/zqo6GI5Aw5I5Sfan5LJB
 ---
 
 # 경로 공유

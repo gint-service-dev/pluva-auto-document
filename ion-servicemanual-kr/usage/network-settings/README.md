@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/network-settings
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/7OAbRAAQ9SysQjO9G61s
 ---
 
 # 네트워크 설정

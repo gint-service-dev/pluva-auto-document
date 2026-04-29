@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/cAoNCYBQq47ybA1jKE09
 ---
 
 # 주행 모드(경로플래닝)

@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/gnss-receiver
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/lWdZgI2P4YIODQ7uazsl
 ---
 
 # GNSS 수신기
@@ -47,11 +46,9 @@ metaLinks:
 
 {% columns fullWidth="false" %}
 {% column width="83.33333333333334%" %}
-#### 1. 부착 위치 확인 후 이물질을 제거합니다.
+**1. 부착 위치 확인 후 이물질을 제거합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-1.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -59,17 +56,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **2.** 브라켓에 붙어 있는 스티커를 제거합니다.&#x20;
+**2. 브라켓에 붙어 있는 스티커를 제거합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-2.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -77,17 +68,11 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **3.** 트랙터 중앙이나 뒤쪽에 GNSS 수신기를 부착합니다.
+**3. 트랙터 중앙이나 뒤쪽에 GNSS 수신기를 부착합니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-3.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
@@ -95,13 +80,9 @@ metaLinks:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-
-
 {% columns %}
 {% column width="83.33333333333334%" %}
-#### **4.** 육각머리볼트(M8x25)를 조정 후 수평을 확인 후 볼트를 조입니다.&#x20;
+**4. 육각머리볼트(M8x25)를 조정 후 수평을 확인 후 볼트를 조입니다.**
 
 <figure><img src="../../.gitbook/assets/how-install-gnss-4.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
@@ -110,4 +91,3 @@ metaLinks:
 
 {% endcolumn %}
 {% endcolumns %}
-

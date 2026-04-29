@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/Bo1iuJCCNaqFrZ2RVzQc
 ---
 
 # 주행 편의 기능

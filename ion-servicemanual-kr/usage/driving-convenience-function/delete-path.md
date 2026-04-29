@@ -17,15 +17,12 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/driving-convenience-function/delete-path
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/Kv9hhnRVYsuneAuW179h
 ---
 
 # 경로 리셋/삭제
 
 생성한 AB 경로를 삭제하거나, 현재까지 작업한 경로 표시만 지울 수 있습니다.
-
-
 
 {% stepper %}
 {% step %}

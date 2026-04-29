@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/quick-setup/network-settings
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/pKq1PCqWofFMVP6yQfai
 ---
 
 # 네트워크 설정

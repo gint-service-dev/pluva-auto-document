@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/order-installation/product-installation/product-location
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/29VNqnWpMbD1aufkjyaP
 ---
 
 # 제품 설치 위치
@@ -37,7 +36,7 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/installation-location-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**\[Expansion Kit]**\
+**\[Expansion Kit]**\
 태블릿을 제외한 경제적인 확장형 제품입니다.\
 GNSS 수신기, 전동 스티어링 휠, 카메라를 포함합니다. 주문 전, 플루바 아이온 태블릿을 보유하고 있는지 확인이 필요합니다.
 {% endhint %}

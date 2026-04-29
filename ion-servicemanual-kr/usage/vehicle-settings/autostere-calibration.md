@@ -17,8 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/vehicle-settings/autostere-calibration
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/xXfK8Fl0CJbp8kOuy7X8
 ---
 
 # 오토스티어 보정

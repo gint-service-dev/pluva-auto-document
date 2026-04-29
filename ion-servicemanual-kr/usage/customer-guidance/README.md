@@ -17,7 +17,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/256Umh24fJVf6zNkZpSa/usage/customer-guidance
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/UoVBMoHI8rsAhBC4ybYW
 ---
 
 # 초기 설정법
