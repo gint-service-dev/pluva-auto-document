@@ -93,7 +93,5 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/worker-deviation-calculation (1).png" alt=""><figcaption></figcaption></figure>
 
-```
 * S1：一本目と二本目の間の距離
 * S2：二本目と三本目の間の距離
-```
