@@ -94,4 +94,4 @@ metaLinks:
     <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
 
     * S1: 첫 번째 라인과 두 번째 사이의 거리 
-    * S2: 두 번째 라인과 세 번째 사이의 거리<br>
+    * S2: 두 번째 라인과 세 번째 사이의 거리
