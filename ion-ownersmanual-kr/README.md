@@ -134,6 +134,23 @@ metaLinks: {}
 
 </details>
 
+
+<details>
+
+<summary><a href="ion/report.md">작업 리포트</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업 리포트</td><td><a href="ion/report.md">report.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="ion/settings/">기타 설정</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>시스템 설정</td><td><a href="ion/settings/system.md">system.md</a></td></tr><tr><td>기기 설정</td><td><a href="ion/settings/device-settings.md">device-settings.md</a></td></tr><tr><td>내 정보</td><td><a href="ion/settings/my-info.md">my-info.md</a></td></tr></tbody></table>
+
+</details>
+
 <details>
 
 <summary><a href="ion/consumer-info/">고객 지원</a></summary>
