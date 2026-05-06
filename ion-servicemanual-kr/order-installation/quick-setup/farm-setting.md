@@ -29,20 +29,14 @@ metaLinks:
 1. **농장 등록**
 
 * 현재 위치를 기준으로 기본 생성됩니다.
-*
 
-```
 <figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
-```
 
 2. **농장 소유자 등록**
 
 * 고객 계정을 기준으로 기본 생성됩니다.
-*
 
-```
 <figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
-```
 
 3. **필드 등록**
 
