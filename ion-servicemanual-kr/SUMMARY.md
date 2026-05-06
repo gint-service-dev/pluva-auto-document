@@ -82,8 +82,8 @@
 * [작업 리포트](usage/report.md)
 * [엔터테인먼트](usage/entertainment.md)
 * [기타 설정](usage/settings/README.md)
-  * [화면 설정](usage/settings/display.md)
   * [시스템 설정](usage/settings/system.md)
+  * [기기 설정](usage/settings/display.md)
   * [내 정보](usage/settings/my-info.md)
 
 ## 기타 <a href="#others" id="others"></a>
