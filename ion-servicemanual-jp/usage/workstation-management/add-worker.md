@@ -90,11 +90,8 @@ metaLinks:
 
 * 3列を走行してライン間隔の値を入力すると、作業機の偏差が自動で計算されます。
 * 画像で示された方向に沿って3本のラインを走行し、走行ライン間の距離を測定して入力してください。<br>
-*
 
-```
 <figure><img src="../../.gitbook/assets/worker-deviation-calculation (1).png" alt=""><figcaption></figcaption></figure>
-```
 
 ```
 * S1：一本目と二本目の間の距離
