@@ -189,11 +189,8 @@ metaLinks:
 
 ![](../.gitbook/assets/icon-square-4.svg) **リモートガイドボタン**：リモートサポート時の注意事項および基本的な案内内容を確認できます。
 
-*
 
-```
 <figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
-```
 
 ![](../.gitbook/assets/icon-square-5.svg) 「**リモートサポートを終了する」ボタン**：現在、接続中のリモートサポート画面を終了します。
 
