@@ -83,7 +83,7 @@
 * [エンターテインメント](usage/entertainment.md)
 * [その他の設定](usage/settings/README.md)
   * [システム設定](usage/settings/system.md)
-  * [機器の設定](usage/settings/display.md)
+  * [機器の設定](usage/settings/device-settings.md)
   * [マイページ](usage/settings/my-info.md)
 
 ## その他 <a href="#others" id="others"></a>
