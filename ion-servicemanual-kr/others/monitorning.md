@@ -190,11 +190,8 @@ metaLinks:
 
 ![](../.gitbook/assets/icon-square-4.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
-*
 
-```
 <figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
-```
 
 ![](../.gitbook/assets/icon-square-5.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
 
