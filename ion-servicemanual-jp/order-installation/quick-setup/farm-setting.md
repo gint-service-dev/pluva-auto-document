@@ -29,20 +29,14 @@ metaLinks:
 1. **農場の登録**
 
 * 現在地をもとに初期設定されます。
-*
 
-```
 <figure><img src="../../.gitbook/assets/my-farm-default.png" alt=""><figcaption></figcaption></figure>
-```
 
 2. **農場主の登録**
 
 * お客様アカウントをもとに初期設定されます。
-*
 
-```
 <figure><img src="../../.gitbook/assets/my-farm-owner-default.png" alt=""><figcaption></figcaption></figure>
-```
 
 3. **圃場の登録**
 
