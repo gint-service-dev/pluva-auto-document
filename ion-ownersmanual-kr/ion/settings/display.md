@@ -1,4 +1,4 @@
-# 화면 설정
+# 기기 설정
 
 주행 화면의 밝기와 음량, 카메라 표시를 설정합니다.
 
@@ -14,7 +14,7 @@
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 화면 설정을 누릅니다.
+좌측 메뉴에서 기기 설정을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
