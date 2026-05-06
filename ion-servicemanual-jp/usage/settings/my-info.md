@@ -40,19 +40,11 @@ metaLinks:
 
 * プライバシーポリシーをタップすると、個人情報の収集及び利用に関する方針を確認できます。
 
-![](../../.gitbook/assets/icon-square-3.svg) **初期化**
-
-* アプリデータを初期化します。
-
-{% hint style="warning" %}
-**ご注意：**&#x521D;期化時には、保存された作業設定及びデータが削除されます。初期化する前に、保存しておきたいデータを必ずご確認ください。
-{% endhint %}
-
-![](../../.gitbook/assets/icon-square-4.svg) **ログアウト**
+![](../../.gitbook/assets/icon-square-3.svg) **ログアウト**
 
 * 現在のアカウントからログアウトされます。
 
-![](../../.gitbook/assets/icon-square-5.svg) **退会**
+![](../../.gitbook/assets/icon-square-4.svg) **退会**
 
 * サービスアカウントを完全に削除します。
 

@@ -4,7 +4,7 @@ metaLinks:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/display
 ---
 
-# 画面設定
+# 機器の設定
 
 走行画面の明るさや音量、カメラ表示の設定を行います。
 
@@ -18,7 +18,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-左側のメニューから「画面設定」をタップします。
+左側のメニューから「機器の設定」をタップします。
 
 <figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

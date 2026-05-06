@@ -82,8 +82,8 @@
 * [作業日誌](usage/report.md)
 * [エンターテインメント](usage/entertainment.md)
 * [その他の設定](usage/settings/README.md)
-  * [画面設定](usage/settings/display.md)
   * [システム設定](usage/settings/system.md)
+  * [機器の設定](usage/settings/display.md)
   * [マイページ](usage/settings/my-info.md)
 
 ## その他 <a href="#others" id="others"></a>
