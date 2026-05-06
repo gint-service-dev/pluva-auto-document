@@ -128,18 +128,17 @@ metaLinks: {}
 
 <details>
 
-<summary><a href="ion/entertainment.md">엔터테인먼트</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>엔터테인먼트</td><td><a href="ion/entertainment.md">entertainment.md</a></td></tr></tbody></table>
-
-</details>
-
-
-<details>
-
 <summary><a href="ion/report.md">작업 리포트</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업 리포트</td><td><a href="ion/report.md">report.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="ion/entertainment.md">엔터테인먼트</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>엔터테인먼트</td><td><a href="ion/entertainment.md">entertainment.md</a></td></tr></tbody></table>
 
 </details>
 
