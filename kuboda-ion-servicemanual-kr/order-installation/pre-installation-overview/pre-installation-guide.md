@@ -18,7 +18,7 @@ layout:
 metaLinks:
   alternates:
     - >-
-      https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/pre-installation-guide
+      https://app.gitbook.com/s/HCwHYcTtOkjeZoSlrD77/order-installation/pre-installation-overview/pre-installation-guide
 ---
 
 # 설치 전 준비 사항
@@ -118,6 +118,7 @@ metaLinks:
 
 <summary>사전 확인</summary>
 
+* [ ] 담당자 확인: 교육 수료증 소지 여부 확인
 * [ ] 위치 정보: 설치 주소 및 구글 맵 위치 핀 공유
 * [ ] 기종 호환성 최종 확인:
   * 트랙터/이앙기의 정확한 모델명 확인 (풀 크롤러 기종은 설치 불가)
@@ -137,6 +138,7 @@ metaLinks:
 
 <summary>지참 물품</summary>
 
+* [ ] 교육 수료증
 * [ ] 제품 (PLUVA iON KIT / EXPANSION KIT)
 * [ ] 스플라인 / 브래킷 / U볼트
 * [ ] 원터치 스위치
