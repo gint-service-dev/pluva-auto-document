@@ -36,19 +36,11 @@
 
 * 개인정보처리방침 항목을 누르면 개인정보 수집 및 이용에 관한 방침을 확인할 수 있습니다.
 
-![](../../.gitbook/assets/icon-square-3.svg) **초기화**
-
-* 앱 데이터를 초기 상태로 되돌립니다.
-
-{% hint style="warning" %}
-**주의**: 초기화 시 저장된 작업 설정 및 데이터가 삭제될 수 있습니다. 진행 전 반드시 필요한 데이터를 확인하세요.
-{% endhint %}
-
-![](../../.gitbook/assets/icon-square-4.svg) **로그아웃**
+![](../../.gitbook/assets/icon-square-3.svg) **로그아웃**
 
 * 현재 계정에서 로그아웃합니다.
 
-![](../../.gitbook/assets/icon-square-5.svg) **회원탈퇴**
+![](../../.gitbook/assets/icon-square-4.svg) **회원탈퇴**
 
 * 서비스 계정을 영구적으로 삭제합니다.
 
