@@ -134,6 +134,23 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 </details>
 
+
+<details>
+
+<summary><a href="ion/report.md">作業日誌</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>作業日誌</td><td><a href="ion/report.md">report.md</a></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary><a href="ion/settings/">その他の設定</a></summary>
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>システム設定</td><td><a href="ion/settings/system.md">system.md</a></td></tr><tr><td>機器の設定</td><td><a href="ion/settings/device-settings.md">device-settings.md</a></td></tr><tr><td>マイページ</td><td><a href="ion/settings/my-info.md">my-info.md</a></td></tr></tbody></table>
+
+</details>
+
 <details>
 
 <summary><a href="ion/consumer-info/">お客様サポート</a></summary>
