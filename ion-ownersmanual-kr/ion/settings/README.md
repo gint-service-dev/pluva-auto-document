@@ -6,11 +6,10 @@
 [system.md](system.md)
 {% endcontent-ref %}
 
-{% content-ref url="display.md" %}
-[display.md](display.md)
+{% content-ref url="device-settings.md" %}
+[device-settings.md](device-settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="my-info.md" %}
 [my-info.md](my-info.md)
 {% endcontent-ref %}
-
