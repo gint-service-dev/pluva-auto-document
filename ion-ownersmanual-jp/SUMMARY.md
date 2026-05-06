@@ -57,7 +57,7 @@
 * [エンターテインメント](ion/entertainment.md)
 * [その他の設定](ion/settings/README.md)
   * [システム設定](ion/settings/system.md)
-  * [機器の設定](ion/settings/display.md)
+  * [機器の設定](ion/settings/device-settings.md)
   * [マイページ](ion/settings/my-info.md)
 * [カスタマーサポート](ion/consumer-info/README.md)
   * [トラブルシューティング](ion/consumer-info/problem-solving.md)
