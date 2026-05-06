@@ -77,4 +77,4 @@ metaLinks:
     <figure><img src="../../.gitbook/assets/worker-deviation-calculation (1).png" alt=""><figcaption></figcaption></figure>
 
     * S1：1本目と2本目のライン間の距離 
-    * S2：2本目と3本目のライン間の距離<br>
+    * S2：2本目と3本目のライン間の距離
