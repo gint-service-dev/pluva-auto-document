@@ -35,12 +35,12 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 상태 구분
 
-1. 파란색 (점등)
-   1. 정상
-   2. ![](../../.gitbook/assets/gnss-receiver-left-blue.png)
-2. 노란색 점멸
-   1. 오류 발생
-   2. ![](../../.gitbook/assets/gnss-receiver-left-yellow.png)
+* 파란색 (점등)
+   * 정상
+   * ![](../../.gitbook/assets/gnss-receiver-left-blue.png)
+* 노란색 점멸
+   * 오류 발생
+   * ![](../../.gitbook/assets/gnss-receiver-left-yellow.png)
 3. 중앙 LED
    1. GNSS 보정 정보 수신 여부
 
@@ -48,15 +48,15 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 상태 구분
 
-1. 파란색 (점등)
-   1. 정상
-   2. ![](../../.gitbook/assets/gnss-receiver-middle-blue.png)
-2. 파란색 점멸
-   1. 오류 발생
-   2. ![](../../.gitbook/assets/gnss-receiver-middle-blinking.png)
-3. OFF
-   1. 60초 이상 미수신 (또는 수신된적 없음)
-   2. ![](../../.gitbook/assets/gnss-receiver-right-off.png)
+* 파란색 (점등)
+   * 정상
+   * ![](../../.gitbook/assets/gnss-receiver-middle-blue.png)
+* 파란색 점멸
+   * 오류 발생
+   * ![](../../.gitbook/assets/gnss-receiver-middle-blinking.png)
+* OFF
+   * 60초 이상 미수신 (또는 수신된적 없음)
+   * ![](../../.gitbook/assets/gnss-receiver-right-off.png)
 4. 우측 LED
    1. GNSS RTK 상태
 
@@ -64,14 +64,14 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
 
 상태 구분
 
-1. 파란색 (점등)
-   1. RTK 우수
-   2. ![](../../.gitbook/assets/gnss-receiver-right-blue.png)
-2. 파란색 점멸
-   1. RTK 보통
-   2. ![](../../.gitbook/assets/gnss-receiver-right-blinking.png)
-3. OFF
-   1. 그 밖의 상태
-   2. ![](../../.gitbook/assets/gnss-receiver-right-off.png)
+* 파란색 (점등)
+   * RTK 우수
+   * ![](../../.gitbook/assets/gnss-receiver-right-blue.png)
+* 파란색 점멸
+   * RTK 보통
+   * ![](../../.gitbook/assets/gnss-receiver-right-blinking.png)
+* OFF
+   * 그 밖의 상태
+   * ![](../../.gitbook/assets/gnss-receiver-right-off.png)
 
 ![](../../.gitbook/assets/icon-circle-2.svg) QR코드: 제품 등록시 사용되는 QR 코드입니다.
