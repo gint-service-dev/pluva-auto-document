@@ -141,9 +141,6 @@ metaLinks:
 즐겨찾기 저장이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/bookmark-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% endstepper %}
 
 {% hint style="info" %}
 즐겨찾기 버튼을 누르면 즐겨찾기에 저장된 경로들만 모아 볼 수 있다.
@@ -156,3 +153,6 @@ metaLinks:
 
 <img src="../../.gitbook/assets/delete-favorite.png" alt="" data-size="original">
 {% endhint %}
+{% endstep %}
+
+{% endstepper %}
