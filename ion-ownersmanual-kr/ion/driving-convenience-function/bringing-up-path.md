@@ -143,27 +143,4 @@ metaLinks:
 <figure><img src="../../.gitbook/assets/bookmark-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
-{% step %}
-모달의 \[삭제] 버튼을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/delete-name-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-저장된 경로가 삭제됩니다.
-
-<figure><img src="../../.gitbook/assets/delete-name-4.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-즐겨찾기 버튼을 누르면 즐겨찾기에 저장된 경로들만 모아 볼 수 있다.
-
-<img src="../../.gitbook/assets/favorite-button.png" alt="" data-size="original">
-{% endhint %}
-
-{% hint style="info" %}
-즐겨찾기 삭제는 즐겨찾기 아이콘을 다시 누르면 바로 삭제됩니다.
-
-<img src="../../.gitbook/assets/delete-favorite.png" alt="" data-size="original">
-{% endhint %}
-{% endstep %}
 {% endstepper %}
