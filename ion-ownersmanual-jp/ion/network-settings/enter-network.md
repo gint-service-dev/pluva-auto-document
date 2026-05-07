@@ -69,9 +69,8 @@ metaLinks:
 
 * GNSSは、GPS（米国）、GLONASS（ロシア）、BDS（中国）、Galileo（ヨーロッパ）、QZSS（日本）など、複数の国の衛星システムから受信した衛星信号を統合して使用するものです。 複数の国の衛星信号を同時に受信すると、接続可能な衛星の数が増えるため、位置の正確度や信号の安定性が向上されます。
 * 現在の環境で最適な衛星をシステムから自動で選択されます。 信号のステータスが良好でない場合は、案内文に従って対応してください。
-*
 
-    <figure><img src="../../.gitbook/assets/bad-network-condition.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bad-network-condition.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-2.svg) **位置補正**
 
