@@ -233,7 +233,7 @@ metaLinks:
 {% step %}
 引き続き時速1km以下で走行します。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 補正に必要な面積が確保できない場合や、走行不可の場合は緊急停止を押してください。
@@ -243,7 +243,7 @@ metaLinks:
 {% step %}
 補正が完了すると、\[ステアリング角度補正の開始]ボタンが有効になります。ボタンを押して次の補正を進めてください。
 
-<figure><img src="../../.gitbook/assets/tractor-straight-steering-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
