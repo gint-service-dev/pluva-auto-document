@@ -57,7 +57,8 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/electric-steering-wheel.png" alt=""><figcaption></figcaption></figure>
 
-농기계의 기존 핸들을 탈착한 뒤 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다.\
+농기계의 기존 핸들을 탈착한 뒤 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다.
+
 자세한 내용은 [전동 스티어링 휠](electric-steering-wheel.md)을 참조해주세요.
 {% endcolumn %}
 
@@ -66,8 +67,9 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/gnss-receiver.png" alt=""><figcaption></figcaption></figure>
 
-고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 측정합니다.\
- 자세한 사양 및 기능 설명은 [GNSS 수신기](gnss-receiver.md) 항목을 참조하십시오.
+고정밀 위치정보(RTK) 기술을 활용하여 농기계의 실시간 위치를 정밀하게 측정합니다.
+
+자세한 사양 및 기능 설명은 [GNSS 수신기](gnss-receiver.md) 항목을 참조하십시오.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -89,7 +91,8 @@ metaLinks:
 
 작업자가 조작하기 편리한 위치에 설치하여, 자율주행 시스템의 시작/정지 등 주요 기능을 간편하게 제어할 수 있습니다.
 
-옵션품은 별도 구매가 필요합니다.\
+옵션품은 별도 구매가 필요합니다.
+
 자세한 내용은 [스위치](switch.md)를 참조해주세요.
 {% endcolumn %}
 {% endcolumns %}
