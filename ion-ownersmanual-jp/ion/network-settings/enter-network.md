@@ -65,7 +65,7 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/enter-network-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-2.svg) **衛星信号**
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **衛星信号**
 
 * GNSSは、GPS（米国）、GLONASS（ロシア）、BDS（中国）、Galileo（ヨーロッパ）、QZSS（日本）など、複数の国の衛星システムから受信した衛星信号を統合して使用するものです。 複数の国の衛星信号を同時に受信すると、接続可能な衛星の数が増えるため、位置の正確度や信号の安定性が向上されます。
 * 現在の環境で最適な衛星をシステムから自動で選択されます。 信号のステータスが良好でない場合は、案内文に従って対応してください。
@@ -73,12 +73,12 @@ metaLinks:
 
     <figure><img src="../../.gitbook/assets/bad-network-condition.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](../../.gitbook/assets/icon-square-3.svg) **位置補正**
+&#x20;![](../../.gitbook/assets/icon-square-2.svg) **位置補正**
 
 * RTKの手動接続/RTKのBluetoothなど、補正方法や接続方法を設定します。\
   詳細については、[位置補正の設定](rtk-setting.md)をご参照ください。
 
-&#x20;![](../../.gitbook/assets/icon-square-4.svg) **ネットワーク**
+&#x20;![](../../.gitbook/assets/icon-square-3.svg) **ネットワーク**
 
 * タブレットのセルラー（LTE）およびWi-Fi接続の状態を設定します。\
   詳細については、[ネットワーク設定](./)をご参照ください。
