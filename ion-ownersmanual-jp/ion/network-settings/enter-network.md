@@ -65,10 +65,6 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/enter-network-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
-&#x20;![](../../.gitbook/assets/icon-square-1.svg) **GNSS受信機の設定**
-
-* 接続されたGNSS受信機を確認し、必要に応じて他の受信機に変更することができます。
-
 &#x20;![](../../.gitbook/assets/icon-square-2.svg) **衛星信号**
 
 * GNSSは、GPS（米国）、GLONASS（ロシア）、BDS（中国）、Galileo（ヨーロッパ）、QZSS（日本）など、複数の国の衛星システムから受信した衛星信号を統合して使用するものです。 複数の国の衛星信号を同時に受信すると、接続可能な衛星の数が増えるため、位置の正確度や信号の安定性が向上されます。
