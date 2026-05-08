@@ -4,9 +4,9 @@ metaLinks:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/my-info
 ---
 
-# マイページ
+# My情報
 
-マイページでは、ログインされたアカウントのプロフィール情報が確認でき、プライバシーポリシーの閲覧、アカウントに関する設定ができます。
+My情報では、ログインされたアカウントのプロフィール情報が確認でき、プライバシーポリシーの閲覧、アカウントに関する設定ができます。
 
 ### アクセス方法
 
@@ -18,7 +18,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-左側のメニューからマイページをタップします。
+左側のメニューからMy情報をタップします。
 
 <figure><img src="../../.gitbook/assets/my-info-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
