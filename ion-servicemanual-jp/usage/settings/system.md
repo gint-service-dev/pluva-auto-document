@@ -56,7 +56,7 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-1.svg) **言語**
 
-* 韓国語 / English / Bahasa Indonesia / 日本語 / 中文（繁體）から選択します。
+* 韓国語 / English / 日本語 から選択します。
 
 ***
 
