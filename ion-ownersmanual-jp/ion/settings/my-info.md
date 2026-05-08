@@ -1,4 +1,5 @@
 ---
+hidden: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/my-info
