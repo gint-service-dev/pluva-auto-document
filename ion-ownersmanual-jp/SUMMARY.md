@@ -53,7 +53,7 @@
   * [ネットワーク設定へのアクセスおよび画面のご案内](ion/network-settings/enter-network.md)
   * [位置補正の設定](ion/network-settings/rtk-setting.md)
   * [ネットワーク設定](ion/network-settings/network-setting.md)
-* [作業日誌](ion/report.md)
+* [作業レポート](ion/report.md)
 * [エンターテインメント](ion/entertainment.md)
 * [その他の設定](ion/settings/README.md)
   * [システム設定](ion/settings/system.md)
