@@ -58,7 +58,7 @@
 * [その他の設定](ion/settings/README.md)
   * [システム設定](ion/settings/system.md)
   * [機器の設定](ion/settings/device-settings.md)
-  * [マイページ](ion/settings/my-info.md)
+  * [My情報](ion/settings/my-info.md)
 * [カスタマーサポート](ion/consumer-info/README.md)
   * [トラブルシューティング](ion/consumer-info/problem-solving.md)
   * [リモートサポート](ion/consumer-info/remote-support.md)
