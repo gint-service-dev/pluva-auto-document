@@ -79,7 +79,7 @@
   * [ネットワーク設定へのアクセスおよび画面のご案内](usage/network-settings/enter-network.md)
   * [位置補正の設定](usage/network-settings/rtk-setting.md)
   * [ネットワーク設定](usage/network-settings/network-setting.md)
-* [作業日誌](usage/report.md)
+* [作業レポート](usage/report.md)
 * [エンターテインメント](usage/entertainment.md)
 * [その他の設定](usage/settings/README.md)
   * [システム設定](usage/settings/system.md)
