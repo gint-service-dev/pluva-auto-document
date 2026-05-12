@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/gUAAWggjvUOkTgU5ZiJY
 ---
 
 # 작업기 관리

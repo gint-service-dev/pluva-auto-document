@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/1yoy90Ee4M2uWDoEaqmM
 ---
 
 # 필드 등록

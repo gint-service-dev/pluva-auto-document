@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ts8JHILNFE1wyzk0Wc2I
 ---
 
 # 소프트웨어 업데이트(OTA)

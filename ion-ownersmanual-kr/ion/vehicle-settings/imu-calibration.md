@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/Hig1n2PnzIKMTBFF7zyL
 ---
 
 # 롤/피치/요 보정(IMU)

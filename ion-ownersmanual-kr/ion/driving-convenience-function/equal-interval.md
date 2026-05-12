@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/h1qBDwRp0gzUpwZ99QMA
 ---
 
 # 등간격 편의 기능

@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/9x3bERDMlXIE8hoWqcxl
 ---
 
 # 경로플래닝 설정 방법

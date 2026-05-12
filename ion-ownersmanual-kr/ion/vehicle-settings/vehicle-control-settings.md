@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/Z6MO8ywLEdf5Nn0itJou
 ---
 
 # 차량 제어 설정

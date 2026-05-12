@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/l3Dz43CGw2vLUKVgwhPl
 ---
 
 # 자동 경로 (플루바 AI)

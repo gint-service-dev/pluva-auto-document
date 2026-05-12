@@ -15,6 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/88cVnKMVUX16JSNk7xaU
 ---
 
 # 주행 화면 조정
