@@ -15,10 +15,9 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks: {}
 ---
 
-# pluva ion User's Manual
+# pluva ion User Manual!
 
 <figure><img src=".gitbook/assets/Ion-package-image (2).png" alt=""><figcaption></figcaption></figure>
 

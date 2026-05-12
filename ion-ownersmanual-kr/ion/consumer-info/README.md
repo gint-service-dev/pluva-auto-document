@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/TnXev0rosFm3P2TrCpzH
 ---
 
 # 고객지원

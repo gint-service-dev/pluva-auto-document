@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/U4UunQ2hPu54lHLQrf2h
 ---
 
 # 농장 소유자 관리

@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/p2m6K6mwaVmdHqQi98Qv
 ---
 
 # 주행 편의 기능

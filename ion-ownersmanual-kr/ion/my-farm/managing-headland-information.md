@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/HiIn0C08FPPrxUwyHyRb
 ---
 
 # 헤드랜드 정보 관리

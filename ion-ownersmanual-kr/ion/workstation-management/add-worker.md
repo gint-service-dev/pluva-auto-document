@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/TYTPKr5BGNY2QTv2Ox8l
 ---
 
 # 작업기 추가

@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/settings/system
 ---
 
 # 시스템 설정

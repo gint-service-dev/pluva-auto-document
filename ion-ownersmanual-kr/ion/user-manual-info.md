@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/bGBUJA5L4X4C4rqR2w9p
 ---
 
 # 사용자 메뉴얼 정보

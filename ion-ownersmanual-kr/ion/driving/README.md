@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/5l4f11JPsTaBWcobAyoo
 ---
 
 # 주행모드(경로플래닝)

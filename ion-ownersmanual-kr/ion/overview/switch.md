@@ -15,9 +15,6 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/y9S1JIw5wSWooyFebAuU
 ---
 
 # 스위치(옵션품)
