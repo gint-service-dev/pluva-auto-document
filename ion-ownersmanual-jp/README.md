@@ -18,16 +18,11 @@ layout:
 metaLinks: {}
 ---
 
-# pluva ion User Manual\~!
+# pluva ion User Manual
 
 
 
 <figure><img src=".gitbook/assets/Ion-package-image.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-**ご参考**\
-自動操舵キットのモデルによって、提供される製品マニュアルの種類や内容は一部異なる場合があります。マニュアル内容の一部の装置及びソフトウェアは、メーカーのポリシーによって変更される可能性があり、バージョンが異なる場合があります。
-{% endhint %}
 
 {% hint style="info" %}
 **ご参考**\
