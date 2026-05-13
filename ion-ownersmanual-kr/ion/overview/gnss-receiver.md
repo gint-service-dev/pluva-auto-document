@@ -57,7 +57,7 @@ GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의
   * ![](../../.gitbook/assets/gnss-receiver-middle-blinking.png)
 * OFF
   * 60초 이상 미수신 (또는 수신된적 없음)
-  * ![](../../.gitbook/assets/gnss-receiver-right-off.png)
+  * ![](../../.gitbook/assets/gnss-receiver-middle-off.png)
 
 3. 우측 LED
    1. GNSS RTK 상태
