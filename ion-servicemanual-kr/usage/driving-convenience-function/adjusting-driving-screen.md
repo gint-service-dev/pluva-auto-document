@@ -57,12 +57,6 @@ metaLinks:
 <img src="../../.gitbook/assets/ic_camera.svg" alt="" data-size="original"> 카메라 아이콘을 눌러 카메라 뷰 창을 띄웁니다.
 
 <figure><img src="../../.gitbook/assets/turn-on-camera-view.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-여러 카메라를 장착한 경우 카메라 변경 기능을 사용해 원하는 카메라 뷰를 선택할 수 있습니다.
-
-<img src="../../.gitbook/assets/selective-camera.png" alt="" data-size="original">
-{% endhint %}
 {% endstep %}
 {% endstepper %}
 
@@ -73,12 +67,6 @@ metaLinks:
 ![](../../.gitbook/assets/icon-square-1.svg) **카메라 번호**
 
 * 현재 노출되는 화면의 카메라 번호를 표기합니다.
-
-![](../../.gitbook/assets/icon-square-2.svg) **크게보기**
-
-*   카메라 화면을 주행화면의 전체화면으로 키울 수 있습니다. 닫기를 누르면 카메라 창이 닫힙니다.<br>
-
-    <figure><img src="../../.gitbook/assets/look-at-it-big.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-3.svg) **카메라 선택**
 
