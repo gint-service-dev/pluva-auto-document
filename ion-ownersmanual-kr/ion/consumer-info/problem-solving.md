@@ -69,7 +69,7 @@ metaLinks:
 * 하단 메뉴 [\[작업기\] - \[작업기 선택\]](../workstation-management/worker-entry.md#undefined-1) 후 세부 정보를 조정하세요.
 * 작업기 세부정보에서 [\[작업기 편차 계산\]](../workstation-management/add-worker.md#undefined-1)을 클릭하여 설정값을 조정하세요.
 
-#### Q\&A
+#### FAQ
 
 **Q: 어떤 기종(트랙터 / 이앙기)에 장착할 수 있나요?**
 
