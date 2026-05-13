@@ -62,7 +62,7 @@ metaLinks:
 
 #### 카메라뷰 화면 설명
 
-<figure><img src="../../.gitbook/assets/camera-view-description.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turn-on-camera-view-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **카메라 번호**
 
