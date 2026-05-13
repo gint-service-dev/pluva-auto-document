@@ -57,7 +57,7 @@ AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg
 
 {% stepper %}
 {% step %}
-AB 직진 모드에서、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
+AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
