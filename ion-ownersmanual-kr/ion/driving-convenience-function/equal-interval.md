@@ -77,14 +77,14 @@ AB 경로를 설정한 이후에 <img src="../../.gitbook/assets/ic_line.svg" al
 * 입력한 수치만큼 AB 경로가 평행 이동합니다.
   *   **등간격 이동 전**
 
-      <figure><img src="../../.gitbook/assets/before-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
-
       * 원하는 등간격 이동 수치를 입력하고 \[확인]을 누릅니다.
+
+      <figure><img src="../../.gitbook/assets/before-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
   *   **등간격 이동 후**
 
-      <figure><img src="../../.gitbook/assets/after-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
-
       * 등간격 이동이 완료됩니다.
+
+      <figure><img src="../../.gitbook/assets/after-moving-equidistant.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-4.svg) **90도 회전**
 
