@@ -139,7 +139,7 @@ Bluetoothが接続されます。
 {% step %}
 接続が完了したら\[確認]をタップしてください。
 
-<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rtk-bluetooth-connection-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 接続に失敗した場合は、確認事項をチェックしてから\[再接続]を押してください。
