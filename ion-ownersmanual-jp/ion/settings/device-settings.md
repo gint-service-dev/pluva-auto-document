@@ -1,12 +1,14 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/display
+    - /broken/spaces/4rNrDNCqOFVCh006UOXy/pages/9wl3x7qWCHuatTAzscCE
 ---
 
-# 画面設定
+# 機器の設定
 
 走行画面の明るさや音量、カメラ表示の設定を行います。
+
+
 
 ### アクセス方法
 
