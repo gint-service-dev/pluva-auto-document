@@ -29,3 +29,7 @@ layout:
 [preparing-accounts.md](preparing-accounts.md)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/report" %}
+[작업 리포트](https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/report)
+{% endcontent-ref %}
+
