@@ -1,0 +1,79 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/AR3tO2jayUfdg9Tal36y
+---
+
+# GNSS 수신기
+
+GNSS 수신기는 RTK 기반 고정밀 위치정보를 이용하여 농기계의 위치를 정밀하게 파악합니다.보정 데이터를 통해 위치 보정이 이루어지며, 관련 설정은 사용 환경에 따라 달라질 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/gnss-receiver-description (1).png" alt=""><figcaption></figcaption></figure>
+
+![](<../../../.gitbook/assets/icon-circle-1 (1).svg>) 상태 표시 LED
+
+1. 좌측 LED
+   1. 전원 및 시스템의 H/W 이상 여부
+
+<div align="left"><figure><img src="../../../.gitbook/assets/gnss-receiver-left (1).png" alt="gnss" width="375"><figcaption></figcaption></figure></div>
+
+상태 구분
+
+* 파란색 (점등)
+  * 정상
+  * ![](<../../../.gitbook/assets/gnss-receiver-left-blue (1).png>)
+* 노란색 점멸
+  * 오류 발생
+  * ![](<../../../.gitbook/assets/gnss-receiver-left-yellow (1).png>)
+
+2. 중앙 LED
+   1. GNSS 보정 정보 수신 여부
+
+<div align="left"><figure><img src="../../../.gitbook/assets/gnss-receiver-middle (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+상태 구분
+
+* 파란색 (점등)
+  * 정상
+  * ![](<../../../.gitbook/assets/gnss-receiver-middle-blue (1).png>)
+* 파란색 점멸
+  * 오류 발생
+  * ![](<../../../.gitbook/assets/gnss-receiver-middle-blinking (1).png>)
+* OFF
+  * 60초 이상 미수신 (또는 수신된적 없음)
+  * ![](<../../../.gitbook/assets/gnss-receiver-middle-off (1).png>)
+
+3. 우측 LED
+   1. GNSS RTK 상태
+
+<div align="left"><figure><img src="../../../.gitbook/assets/gnss-receiver-right (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+상태 구분
+
+* 파란색 (점등)
+  * RTK 우수
+  * ![](<../../../.gitbook/assets/gnss-receiver-right-blue (1).png>)
+* 파란색 점멸
+  * RTK 보통
+  * ![](<../../../.gitbook/assets/gnss-receiver-right-blinking (1).png>)
+* OFF
+  * 그 밖의 상태
+  * ![](<../../../.gitbook/assets/gnss-receiver-right-off (1).png>)
+
+![](<../../../.gitbook/assets/icon-circle-2 (1).svg>) QR코드: 제품 등록시 사용되는 QR 코드입니다.

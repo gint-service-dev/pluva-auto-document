@@ -1,0 +1,111 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/FKjBGA6PYKuN581Ms2EF
+---
+
+# 주행 화면 조정
+
+***
+
+#### 화면 비율 조정 기능
+
+실시간 작업 상태와 주행화면의 비율을 적절히 조절하여 원하는 작업 화면을 만들 수 있는 기능입니다.
+
+{% stepper %}
+{% step %}
+<img src="../../../.gitbook/assets/adjusting-icon (3).svg" alt="" data-size="line"> 화면 비율 조정 아이콘을 조정을 원하는 방향으로 움직이면 화면 비율 조정이 진행됩니다.
+
+<figure><img src="../../../.gitbook/assets/screen-ratio-adjustment-1 (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+*   **1:2 분할**
+
+    <figure><img src="../../../.gitbook/assets/1-2-split (2).png" alt=""><figcaption></figcaption></figure>
+*   **2:1 분할**
+
+    <figure><img src="../../../.gitbook/assets/2-1-split (3).png" alt=""><figcaption></figcaption></figure>
+*   **전체 화면**
+
+    <figure><img src="../../../.gitbook/assets/wide (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+#### 카메라뷰 켜기
+
+작업기 상태를 실시간으로 모니터링하는 카메라 뷰입니다. 후방 작업기를 확인하여 안전하고 정확한 작업을 지원합니다.
+
+{% stepper %}
+{% step %}
+<img src="../../../.gitbook/assets/ic_camera (3).svg" alt="" data-size="original"> 카메라 아이콘을 눌러 카메라 뷰 창을 띄웁니다.
+
+<figure><img src="../../../.gitbook/assets/turn-on-camera-view (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+#### 카메라뷰 화면 설명
+
+<figure><img src="../../../.gitbook/assets/turn-on-camera-view-1 (1).png" alt=""><figcaption></figcaption></figure>
+
+![](<../../../.gitbook/assets/icon-square-1 (3).svg>) **카메라 번호**
+
+* 현재 노출되는 화면의 카메라 번호를 표기합니다.
+
+***
+
+#### 전체 경로 보기
+
+전체 경로를 볼 수 있도록 화면 스케일을 조정할 수 있습니다.
+
+{% stepper %}
+{% step %}
+<img src="../../../.gitbook/assets/btn_full-view (3).svg" alt="" data-size="original"> 필드 전체 보기 아이콘을 누릅니다.
+
+<figure><img src="../../../.gitbook/assets/view-full-path-1 (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+필드 전체 보기 전환이 완료됩니다.
+
+<figure><img src="../../../.gitbook/assets/view-full-path-2 (3).png" alt=""><figcaption></figcaption></figure>
+
+작업 영역을 크게 보고싶다면 ![](<../../../.gitbook/assets/btn_small-view (3).svg>) 작업영역 확대 버튼을 누릅니다.
+{% endstep %}
+{% endstepper %}
+
+***
+
+#### 미니맵 설정
+
+필드 전체가 보이는 미니맵을 띄워 작업 영역 확대 모드와 함께 볼 수 있습니다.
+
+{% stepper %}
+{% step %}
+<img src="../../../.gitbook/assets/drive-function-button (3).svg" alt="" data-size="original"> 작업 옵션 버튼을 누릅니다.
+
+<figure><img src="../../../.gitbook/assets/mini-map-1 (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+미니맵 버튼을 누르면 화면에 미니맵이 노출됩니다.
+
+<figure><img src="../../../.gitbook/assets/mini-map-2 (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}

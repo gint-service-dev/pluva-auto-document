@@ -1,0 +1,78 @@
+---
+hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/0lOw7Y0bo7fp60V2t2vm
+---
+
+# 사각주행
+
+사각주행
+
+* A-B 라인 기준으로 90도 직각 방향의 자율주행 경로를 생성하여 사각형 패턴으로 주행합니다.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/square-drive (2).png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+{% stepper %}
+{% step %}
+![](<../../../.gitbook/assets/a-button (3).svg>)버튼을 눌러 A 지점을 생성합니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-1 (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+10m 이상 직진 주행한 뒤, 원하는 지점에서 ![](<../../../.gitbook/assets/b-button (3).svg>)버튼을 눌러 B 지점을 생성합니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-2 (2).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+A점을 생성하면 미니맵이 표시됩니다.
+
+<img src="../../../.gitbook/assets/minimap (2).png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+생성한 점은 \[수정]을 눌러 조정할 수 있습니다.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+![](<../../../.gitbook/assets/c-button (2).svg>)버튼을 눌러 C 지점을 생성합니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-3 (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+![](<../../../.gitbook/assets/d-button (2).svg>)버튼을 눌러 D 지점을 생성합니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-4 (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+사각 주행 라인이 생성되면 시작점과 시작 방향을 선택한 후 \[확인]을 누릅니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-5 (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+시작점으로 이동한 뒤![](<../../../.gitbook/assets/drive-button (3).svg>)\[자율주행 시작] 버튼을 누릅니다.
+
+<figure><img src="../../../.gitbook/assets/square-drive-explanation-6 (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
