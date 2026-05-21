@@ -8,7 +8,6 @@
 * [주문 등록](order-installation/order-registration.md)
 * [설치 전 준비 가이드](order-installation/pre-installation-overview/README.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide.md)
-  * [Page 1](order-installation/pre-installation-overview/page-1.md)
   * [고객 계정 준비](order-installation/pre-installation-overview/preparing-accounts.md)
 * [설치티켓으로 제품 개통](order-installation/product-registration.md)
 * [제품 설치](order-installation/product-installation/README.md)
