@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 설치 전 준비 사항

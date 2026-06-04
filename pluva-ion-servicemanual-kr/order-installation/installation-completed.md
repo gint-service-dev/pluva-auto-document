@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr-jp
+    primary: true
 ---
 
 # 설치 완료 확인

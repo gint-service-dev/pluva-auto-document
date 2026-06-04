@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr-jp
+    primary: true
 ---
 
 # 퀵셋업 설명 및 준비
