@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 전동 스티어링 휠

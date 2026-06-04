@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 플루바 아이온 소개

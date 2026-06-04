@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: kr
+    primary: true
+---
+
 # 엔터테인먼트
 
 엔터테인먼트에서는 YouTube를 시청할 수 있습니다. 주행 화면 우측에 YouTube 플레이어가 표시됩니다.

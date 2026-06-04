@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 개인정보 처리 방침
@@ -26,4 +29,3 @@ layout:
 자세한 내용은 아래 링크에서 개인정보 처리방침 전문을 확인하세요.
 
 * [**개인정보 처리방침 확인하기 >**](https://gint.pluva.kr/policies/ko/privacy)
-

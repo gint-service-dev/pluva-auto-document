@@ -4,3 +4,6 @@
 - tag: jp-fkk
   label: JP, FKK
   color: yellow
+- tag: kr
+  label: KR
+  color: violet
