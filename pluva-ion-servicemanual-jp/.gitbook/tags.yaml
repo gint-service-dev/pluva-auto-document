@@ -4,3 +4,6 @@
 - tag: none-fkk
   label: None-FKK
   color: red
+- tag: jp
+  label: JP
+  color: green

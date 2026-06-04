@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: jp
+    primary: true
 ---
 
 # 簡単セットアップのご案内および準備

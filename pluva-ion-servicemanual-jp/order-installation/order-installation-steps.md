@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 tags:
-  - tag: none-fkk
+  - tag: jp
     primary: true
 ---
 
