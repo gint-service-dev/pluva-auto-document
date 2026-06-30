@@ -33,7 +33,7 @@ layout:
 {% endstep %}
 
 {% step %}
-계정 발급이 완료되면 [어드민 페이지](https://thegint.slack.com/archives/C0ACCKBFZ7H/p1773212243051089)에 접속합니다.\
+계정 발급이 완료되면 [어드민 페이지](https://gint-admin.pluva.kr/)에 접속합니다.\
 전달받은 이메일과 비밀번호를 입력한 후 \[로그인] 버튼을 누릅니다.
 
 <figure><img src="../.gitbook/assets/admin-login-1.png" alt="" width="348"><figcaption></figcaption></figure>
