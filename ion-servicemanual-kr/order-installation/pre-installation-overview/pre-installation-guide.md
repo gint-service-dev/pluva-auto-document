@@ -45,8 +45,37 @@ metaLinks:
 
 **필요 사진**
 
-* **정면**: 핸들 조작부 전체 구성 확인
-* **측면**: 핸들 축 각도 및 주변 공간 확인
+<details>
+
+<summary>핸들: 핸들 조작부 전체 구성 확인</summary>
+
+<figure><img src="../../../.gitbook/assets/handle-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/handle-2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/handle-3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/handle-4.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>측면: 핸들 축 각도 및 주변 공간 확인</summary>
+
+<figure><img src="../../../.gitbook/assets/side.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>기타: 외 참고 이미지</summary>
+
+<figure><img src="../../../.gitbook/assets/etc-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/etc-2.png" alt=""><figcaption></figcaption></figure>
+
+</details>
 
 {% hint style="warning" %}
 **설치 불가 기종**
