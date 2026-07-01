@@ -36,6 +36,8 @@
 
 #### PC 환경
 
+<figure><img src="../../.gitbook/assets/work-history-route-analysis.png" alt=""><figcaption></figcaption></figure>
+
 ![](../../.gitbook/assets/icon-square-1.svg) **작업 시작 일시**
 
 * 선택한 작업의 시작 날짜·시각이 표시됩니다.
