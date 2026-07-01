@@ -83,7 +83,7 @@
 
 * \[작업 정보]를 누르면 좌측 작업 정보 패널을 열고 닫습니다.
 
-<figure><img src="../../.gitbook/assets/work-history-work-info.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-work-info.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-11.svg) **방향**
 
@@ -97,7 +97,7 @@
 
 * 지도에 표시된 경로 색상의 의미를 확인합니다.
 
-<figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt="" width="144"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-14.svg) **재생 속도**
 
