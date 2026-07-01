@@ -16,7 +16,7 @@
 {% step %}
 계정 상세에서 작업 탭을 선택후 원하는 작업을 선택해 작업 이력 상세에 진입합니다.
 
-<figure><img src="../../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-menu-open-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
