@@ -44,7 +44,7 @@ metaLinks:
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-#### 올바른 종료 순서
+**올바른 종료 순서**
 
 1. 태블릿을 끌 때는 끄는 순서가 중요합니다. 메인 전원 스위치로 곧바로 꺼 버리면, 작업한 내용이 미처 저장되지 못해 간혹 문제가 생길 수 있습니다.
 2. 태블릿 화면이 완전히 꺼질 때까지 잠시 기다립니다.
