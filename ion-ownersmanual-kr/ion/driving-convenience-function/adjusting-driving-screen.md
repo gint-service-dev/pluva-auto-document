@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/88cVnKMVUX16JSNk7xaU
@@ -62,7 +64,7 @@ metaLinks:
 
 #### 카메라뷰 화면 설명
 
-<figure><img src="../../.gitbook/assets/turn-on-camera-view-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/turn-on-camera-view.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **카메라 번호**
 

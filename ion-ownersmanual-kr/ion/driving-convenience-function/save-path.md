@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/Plkb2QBCVaxDS4C4za99
@@ -23,6 +25,10 @@ metaLinks:
 # 경로 저장하기
 
 생성한 주행 경로를 저장해두는 기능입니다. 저장된 경로는 \[경로 불러오기]를 통해 다시 사용합니다.
+
+{% hint style="info" %}
+저장하지 않은 경로는 작업을 종료하면 사라집니다. 다시 사용할 경로는 작업 종료 전에 꼭 저장하세요.
+{% endhint %}
 
 {% stepper %}
 {% step %}

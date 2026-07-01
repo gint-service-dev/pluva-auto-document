@@ -15,9 +15,11 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/settings/system
+    - system.md
 ---
 
 # 시스템 설정
@@ -52,7 +54,7 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-1.svg) **면적**
 
-* 선택 가능 단위: m² 제곱미터 / mu 무 / ha 헥타르
+* 선택 가능 단위: m² 제곱미터 / 反 반 / a 아르 / ha 헥타르
 
 ![](../../.gitbook/assets/icon-square-2.svg) **거리**
 
@@ -61,6 +63,14 @@ metaLinks:
 ![](../../.gitbook/assets/icon-square-3.svg) **속도**
 
 * 선택 가능 단위: m/s 분속 / km/h 시속
+
+![](../../.gitbook/assets/icon-square-4.svg) **작업 단위**
+
+* 선택 가능 단위: m 미터 / cm 센티미터
+
+{% hint style="info" %}
+작업 단위는 작업폭, 등간격, 오프셋 설정에 적용됩니다.
+{% endhint %}
 
 ***
 

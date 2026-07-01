@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/TYTPKr5BGNY2QTv2Ox8l
@@ -64,23 +66,34 @@ metaLinks:
 
 #### 작업기 추가 항목 설명
 
-<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen-1.png" alt="" width="208"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **작업기 타입**
 
 * 작업기 타입을 선택합니다.
 
+{% hint style="info" %}
+#### 작업기 타입 직접 입력
+
+작업기 타입 목록에 원하는 작업기가 없으면 직접 입력할 수 있습니다. 직접 입력한 작업기 명칭은 검토를 거쳐 정식 명칭으로 변경될 수 있습니다.
+
+<img src="../../.gitbook/assets/add-worker-type-1.png" alt="" data-size="original">
+{% endhint %}
+
 ![](../../.gitbook/assets/icon-square-2.svg) **작업기 너비**
 
 * 작업기 너비를 입력합니다.
+* ![](../../.gitbook/assets/add-worker-dimensions-1.png)
 
 ![](../../.gitbook/assets/icon-square-3.svg) **고랑폭**
 
 * 고랑폭을 입력합니다.
+* ![](../../.gitbook/assets/add-worker-dimensions-2.png)
 
 ![](../../.gitbook/assets/icon-square-4.svg) **링크-작업기 거리**
 
 * 링크와 작업기 간의 거리를 입력합니다.
+* ![](../../.gitbook/assets/add-worker-dimensions-3.png)
 
 ![](../../.gitbook/assets/icon-square-5.svg) **작업기 편차**
 

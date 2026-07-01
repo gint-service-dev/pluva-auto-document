@@ -15,12 +15,18 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/l3Dz43CGw2vLUKVgwhPl
 ---
 
 # 자동 경로 (플루바 AI)
+
+자동 경로는 등록된 필드와 차량, 작업기 정보를 바탕으로 작업 경로를 자동으로 만들어 주는 기능입니다. 경로를 일일이 그리지 않아도, 헤드랜드부터 안쪽 작업 라인과 턴 경로까지 한 번에 계산해 효율적인 경로를 추천합니다.
+
+
 
 자동 경로(플루바 AI)
 
