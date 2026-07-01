@@ -26,9 +26,9 @@
 
 {% hint style="info" %}
 각 작업의 \[경로 보기]를 누르면 해당 경로를 미리 볼 수 있습니다.
-{% endhint %}
 
 <figure><img src="../../.gitbook/assets/work-history-route-preview.png" alt=""><figcaption></figcaption></figure>
+{% endhint %}
 
 ***
 
