@@ -29,3 +29,11 @@ metaLinks:
 {% content-ref url="../ota.md" %}
 [ota.md](../ota.md)
 {% endcontent-ref %}
+
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
+{% endcontent-ref %}
+
+{% content-ref url="undefined-1.md" %}
+[undefined-1.md](undefined-1.md)
+{% endcontent-ref %}
