@@ -61,7 +61,7 @@ tags:
 
 농기계의 기존 핸들을 탈착한 뒤 스티어링 위치에 장착하는 전동 모터 방식 조향 장치입니다.
 
-자세한 내용은 [전동 스티어링 휠](electric-steering-wheel.md)을 참조해주세요.
+자세한 내용은 [전동 스티어링 휠](electric-steering-wheel-01.md)을 참조해주세요.
 {% endcolumn %}
 
 {% column %}
