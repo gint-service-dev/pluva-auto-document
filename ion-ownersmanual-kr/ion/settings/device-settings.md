@@ -79,9 +79,6 @@
 
 <figure><img src="../../.gitbook/assets/screen-layout-5.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-일반 지도는 한국에서만 표시됩니다.
-{% endhint %}
 
 ***
 
