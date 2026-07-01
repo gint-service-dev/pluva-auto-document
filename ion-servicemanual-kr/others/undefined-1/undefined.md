@@ -83,18 +83,22 @@
 
 * \[작업 정보]를 누르면 좌측 작업 정보 패널을 열고 닫습니다.
 
-&#x20;**방향**
+<figure><img src="../../.gitbook/assets/work-history-work-info.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/icon-square-11.svg) **방향**
 
 * 지도의 북쪽 방향을 표시합니다.
 
-&#x20;**현재 위치**
+![](../../.gitbook/assets/icon-square-12.svg) **현재 위치**
 
 * 지도를 작업 위치로 이동(중심 정렬)합니다.
 
-&#x20;**경로 범례**
+![](../../.gitbook/assets/icon-square-13.svg) **경로 범례**
 
 * 지도에 표시된 경로 색상의 의미를 확인합니다.
 
-&#x20;**재생 속도**
+<figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/icon-square-14.svg) **재생 속도**
 
 * 재생 배속(예: 1x)을 선택합니다.
