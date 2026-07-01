@@ -32,37 +32,81 @@
 
 #### PC 환경
 
-![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
+![](../../.gitbook/assets/icon-square-1.svg) **작업 시작 일시**
 
-![](../../.gitbook/assets/icon-square-2.svg) 주소 및 로드뷰
+* 선택한 작업의 시작 날짜·시각이 표시됩니다.
 
-![](../../.gitbook/assets/icon-square-3.svg) 경로표시설정
+![](../../.gitbook/assets/icon-square-2.svg) **위치 / 로드뷰**
 
-* 해당 계정에 등록된 휴대폰 번호와 이메일 주소가 표시됩니다.
+* 작업 위치(주소)가 표시됩니다. \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인합니다.
+
+![](../../.gitbook/assets/icon-square-3.svg) **경로 표시 설정**
+
+* \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다. \[조건 필터]와 \[이벤트] 두 가지로 나뉩니다.
+
+<figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt=""><figcaption></figcaption></figure>
+
+  * **조건 필터**: 설정한 조건에 맞는 구간만 지도·타임라인에서 강조해 찾습니다. 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다. 조건 항목은 다음과 같습니다.
+    * RTK 품질 (Fixed / Fixed 외)
+    * 작업 모드 (AB직진 / A+직진 / 격자주행 / 자동경로 / 메모리주행)
+    * 속도 (이상 / 이하 / 범위)
+    * 주행 방향 (전진 / 후진 / 미정의)
+    * 주행 상태 (직진 / 시계방향 / 반시계방향 / 미분류)
+  * **이벤트**: 지도 위에 표시할 이벤트를 켜고 끕니다. 주행(시작·정지), 에러(발생·복구) 등을 선택할 수 있으며, \[이벤트 표시] 토글로 한 번에 켜고 끄거나 \[초기화]할 수 있습니다.
 
 {% hint style="info" %}
-**참고**: 휴대폰 번호와 이메일 주소 항목 옆의 복사 버튼을 누르면 클립보드에 바로 복사됩니다.
+\[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
 {% endhint %}
 
-![](../../.gitbook/assets/icon-square-4.svg) 메모
+<figure><img src="../../.gitbook/assets/work-history-event-off.png" alt=""><figcaption></figcaption></figure>
 
-* **⋮ 버튼**을 눌러 내용을 수정하거나 삭제할 수 있습니다.
-* **작성자 이름**과 **작성 일시**가 함께 표시됩니다.
+![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
 
-![](../../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
+* 재생 시점을 기준으로 RTK 품질, 속도, 좌표, GPS 이벤트, 헤딩, 주행 상태 등 작업에 필요한 상세 수치를 표시합니다.
 
-* 계정 상세 화면 하단에서 **제품**, **장비**, **작업**, **설치** 탭을 선택하여 각 이력을 조회합니다.\
-  목록 조회만 가능하며, 직접 추가·수정은 지원하지 않습니다.
-  * 제품 탭: 고객이 보유한 제품 정보를 확인합니다.
-    * **등록 제품**: 고객 명의로 등록된 제품 목록과 총 수량이 표시됩니다.
-    * **구성품**: 등록된 구성품 목록과 총 수량이 표시됩니다.
-  * 장비 탭: 고객이 보유한 장비 정보를 확인합니다.
-    * **차량**: 등록된 차량 목록과 총 수량이 표시됩니다.
-    * **작업기**: 등록된 작업기 목록과 총 수량이 표시됩니다.
-  * 작업 탭: 고객의 작업 관련 이력을 확인합니다.
-    * **필드**: 등록된 필드 목록과 총 수량이 표시됩니다.
-  * 설치 탭: 고객의 설치 이력을 확인합니다.
-    * **설치 이력**: 완료된 설치 작업 목록과 총 건수가 표시됩니다.
+<figure><img src="../../.gitbook/assets/work-history-realtime-data.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/icon-square-5.svg) **시작 지점(S)**
+
+* 지도에서 작업이 시작된 지점입니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) **종료 지점(E)**
+
+* 지도에서 작업이 종료된 지점입니다.
+
+![](../../.gitbook/assets/icon-square-7.svg) **재생 / 일시정지**
+
+* \[▶]를 누르면 작업을 시간 순서대로 재생하고, 다시 누르면 일시정지합니다.
+
+![](../../.gitbook/assets/icon-square-8.svg) **재생 타임라인**
+
+* 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
+
+![](../../.gitbook/assets/icon-square-9.svg) **지도 보기 전환**
+
+* \[경로] / \[RTK 품질] 보기를 전환합니다. RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 대략적인 상황 파악을 위해 히트맵으로 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/work-history-rtk-heatmap.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/icon-square-10.svg) **작업 정보**
+
+* \[작업 정보]를 누르면 좌측 작업 정보 패널을 열고 닫습니다.
+
+![](../../.gitbook/assets/icon-square-11.svg) **방향**
+
+* 지도의 북쪽 방향을 표시합니다.
+
+![](../../.gitbook/assets/icon-square-12.svg) **현재 위치**
+
+* 지도를 작업 위치로 이동(중심 정렬)합니다.
+
+![](../../.gitbook/assets/icon-square-13.svg) **경로 범례**
+
+* 지도에 표시된 경로 색상의 의미를 확인합니다.
+
+![](../../.gitbook/assets/icon-square-14.svg) **재생 속도**
+
+* 재생 배속(예: 1x)을 선택합니다.
 
 #### 모바일 환경
 
