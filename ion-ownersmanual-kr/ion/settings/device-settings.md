@@ -93,6 +93,10 @@
 <figure><img src="../../.gitbook/assets/device-keyboard-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
+유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자(로마지)만 입력할 수 있습니다.
+{% endhint %}
+
+{% hint style="info" %}
 #### 키보드 업데이트가 필요한 경우
 
 키보드 업데이트가 필요하면 화면에 “키보드 업데이트가 필요합니다” 안내와 \[지금 설치] 버튼이 표시됩니다.
