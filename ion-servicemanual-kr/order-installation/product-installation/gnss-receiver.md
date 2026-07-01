@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/256Umh24fJVf6zNkZpSa/pages/lWdZgI2P4YIODQ7uazsl
@@ -91,3 +93,12 @@ metaLinks:
 
 {% endcolumn %}
 {% endcolumns %}
+
+
+
+{% hint style="warning" %}
+GNSS 수신기(리시버)는 차량 단위로 관리됩니다. 수신기를 교체하면 기존 차량과 다른 차량으로 인식되므로,&#x20;
+
+차량추가 및 보정을 반드시 진행합니다. 재설정하지 않으면 자율주행 정밀도가 보장되지 않습니다.
+{% endhint %}
+
