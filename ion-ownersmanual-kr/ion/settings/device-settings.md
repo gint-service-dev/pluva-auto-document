@@ -71,14 +71,13 @@
 
 * 주행 화면에 표시되는 차량 아이콘 모양을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/screen-layout-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-4.svg) **배경 지도 설정**
 
-* 주행 화면의 배경 지도 종류를 선택합니다.&#x20;
+* 주행 화면의 배경 지도 종류를 선택합니다.
 
 <figure><img src="../../.gitbook/assets/screen-layout-5.png" alt=""><figcaption></figcaption></figure>
-
 
 ***
 

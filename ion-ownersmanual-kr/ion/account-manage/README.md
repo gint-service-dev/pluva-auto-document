@@ -24,16 +24,13 @@ metaLinks:
 
 # 사용 계정 관리
 
-제품을 사용하기 전에 확인해야 하는 기본 설정과 사전 안내 사항을 안내합니다.
+제품을 사용하기 위한 계정을 생성하고, 계정 정보를 수정합니다.
 
-{% content-ref url="../ota.md" %}
-[ota.md](../ota.md)
+{% content-ref url="account.md" %}
+[account.md](account.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="edit-member-info.md" %}
+[edit-member-info.md](edit-member-info.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
-{% endcontent-ref %}

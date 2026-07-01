@@ -24,7 +24,7 @@ metaLinks:
 
 # 내 차량 진입 및 화면 설명
 
-내 차량에서는 작업에 사용하는 차량 정보를 확인하고, 보정·치수 등 차량 관련 설정을 할 수 있습니다.&#x20;
+내 차량에서는 작업에 사용하는 차량 정보를 확인하고, 보정·치수 등 차량 관련 설정을 할 수 있습니다.
 
 ***
 
@@ -95,7 +95,7 @@ metaLinks:
 
     <figure><img src="../../.gitbook/assets/my-vehicle-dimension-1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-10 (1).svg>) **오토스티어 보정 (상태)**
+![](../../.gitbook/assets/icon-square-10.svg) **오토스티어 보정 (상태)**
 
 * 보정 완료 여부가 표시되며, 선택하면 보정 화면으로 이동합니다.
 

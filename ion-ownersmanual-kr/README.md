@@ -66,7 +66,7 @@ metaLinks: {}
 
 <details>
 
-<summary><a href="ion/initial-setup/">초기 설정법</a></summary>
+<summary><a href="ion/account-manage/">초기 설정법</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/ota.md">ota.md</a></td></tr></tbody></table>
 

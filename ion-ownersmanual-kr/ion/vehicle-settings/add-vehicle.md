@@ -30,7 +30,7 @@
 * 퀵턴 차량은 퀵턴 특성에 맞춘 보정값이 필요하므로, \[퀵턴 차량] 토글을 반드시 켜고 진행해 주세요.
 * 퀵턴은 트랙터에만 적용되는 옵션입니다. 이앙기에는 퀵턴 옵션이 없습니다.
 
-<figure><img src="../../.gitbook/assets/add-vehicle-quickturn-1.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/add-vehicle-quickturn-1.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
@@ -40,7 +40,7 @@
 
 입력한 제조사는 검토 후 정식 명칭으로 변경될 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/add-vehicle-direct-input-1.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/add-vehicle-direct-input-1.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
@@ -91,7 +91,7 @@
 * 트랙터의 후륜 축 중심에서 히치까지의 수평 거리입니다.
 * ![](../../.gitbook/assets/add-tractor-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 지면-상부링크
+![](../../.gitbook/assets/icon-square-3.svg) 지면-상부링크
 
 * 지면에서부터 트랙터의 상부 링크까지의 수직 거리입니다.
 * ![](../../.gitbook/assets/add-tractor-dimensions-6.png)
@@ -110,12 +110,11 @@
 * 이앙기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 이앙기 폭
+![](../../.gitbook/assets/icon-square-3.svg) 이앙기 폭
 
 * 이앙기의 폭을 의미하며 타이어 너비를 포함합니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 간격 편차
+![](../../.gitbook/assets/icon-square-4.svg) 간격 편차
 
 * 양방향 작업 주행 시 간격이 일정하지 않을 때 보정하기 위한 수치값입니다. (간격 편차의 절대값을 4로 나눈 수치를 입력)
-
