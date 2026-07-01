@@ -32,92 +32,73 @@
 
 <figure><img src="../.gitbook/assets/product-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **상태**
+![](../.gitbook/assets/icon-square-1.svg) 고객 정보
 
-* 구분: 개통, 미개통
+* 상단에 고객명과 휴대폰 번호가 표시됩니다.
+* 고객명을 클릭하면 해당 고객의 계정 상세로 이동합니다.
 
-{% hint style="info" %}
-설치 티켓을 통해 해당 제품이 개통 처리됐는지 여부를 나타냅니다.
+![](../.gitbook/assets/icon-square-2.svg) 설치티켓 버튼
 
-상태는 직접 변경할 수 없으며, 설치 티켓 완료 시 자동으로 반영됩니다.
-{% endhint %}
+* 버튼을 누르면 이 설치 결과와 연결된 설치 티켓으로 이동합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) **용도**
+![](../.gitbook/assets/icon-square-3.svg) 설치 완료일
 
-* 구분: 판매용, 서비스용, 테스트용
+* 설치가 완료된 일시가 표시됩니다.
 
-![](../.gitbook/assets/icon-square-3.svg) **담당 조직**
+![](../.gitbook/assets/icon-square-4.svg) 품목
 
-![](../.gitbook/assets/icon-square-4.svg) **제조일**
+* 설치된 제품이 표시됩니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **태블릿 시리얼 번호**
+![](../.gitbook/assets/icon-square-5.svg) 시리얼 번호
 
-![](../.gitbook/assets/icon-square-6.svg) **현재 소프트웨어 버전**
+* 태블릿 시리얼 번호가 표시됩니다. Expansion Kit의 경우 현재 연결된 태블릿 시리얼 번호가 표시됩니다.
 
-* 제품에 설치된 버전
+![](../.gitbook/assets/icon-square-6.svg) 담당 정보
 
-![](../.gitbook/assets/icon-square-7.svg) **다음 소프트웨어 버전**
+* 담당 조직과 설치 담당자가 표시됩니다.
 
-* 업데이트 예약된 버전 (업데이트 예약이 없는 경우 표시되지 않음)
+![](../.gitbook/assets/icon-square-7.svg) 차량 정보
 
-![](../.gitbook/assets/icon-square-8.svg) **메모**
+* 설치 차량의 타입, 제조사, 모델이 표시됩니다. (예: 트랙터 · JOHN DEERE B2320)
+* 항목을 펼치면 차량 치수와 설치 당시 보정 여부·보정값을 확인합니다.
 
-* 마지막 작성자의 이름이 노출됩니다. 메모는 삭제, 수정할 수 있으며, 작성하지 않은 경우 작성 버튼이 표시됩니다.
+![](../.gitbook/assets/icon-square-8.svg) 현장 기록
 
-![](../.gitbook/assets/icon-square-9.svg) **개통 정보**
+* 설치 결과에 대한 현장 기록을 탭별로 작성·확인합니다. 각 탭에서 기록하는 내용은 다음과 같습니다.
+  * **설치** : 설치 현장 사진과 환경을 기록합니다.
+  * **교육** : 교육 내용과 고객의 이해도를 기록합니다.
+  * **이슈 발생** : 발생한 문제와 추후 조치 필요 사항을 기록합니다.
+  * **고객 피드백** : 고객의 반응·만족도와 의견을 기록합니다.
+  * **담당자 피드백** : 담당자의 성능 평가와 개선 의견을 기록합니다.
+  * **기타** : 그 외 사항을 기록합니다.
 
-* 개통 소유자 정보, 개통일, 유심 정보가 노출됩니다.
+#### 현장 기록 작성 방법
 
-{% hint style="info" %}
-개통일은 설치 티켓이 완료 처리된 날짜와 동일합니다.
-{% endhint %}
+{% stepper %}
+{% step %}
+기록할 탭을 선택하고 \[작성]을 누릅니다.
 
-![](../.gitbook/assets/icon-square-10.svg) **업데이트 이력**
 
-* 소프트웨어 업데이트가 진행된 일시와 버전 정보를 확인할 수 있습니다.
+{% endstep %}
 
-#### 모바일 환경
+{% step %}
+작성 모달에서 내용을 입력하고 사진·영상을 첨부합니다.
 
-<figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt="" width="288"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **상태**
 
-* 구분: 개통, 미개통
+* 사진 지원 형식: JPG, PNG, HEIC, WEBP
+* 영상 지원 형식: MP4, MOV
+{% endstep %}
 
-{% hint style="info" %}
-설치 티켓을 통해 해당 제품이 개통 처리됐는지 여부를 나타냅니다.
+{% step %}
+\[추가]를 누르면 기록 작성이 완료됩니다.
 
-상태는 직접 변경할 수 없으며, 설치 티켓 완료 시 자동으로 반영됩니다.
-{% endhint %}
 
-![](../.gitbook/assets/icon-square-2.svg) **용도**
-
-* 구분: 판매용, 서비스용, 테스트용
-
-![](../.gitbook/assets/icon-square-3.svg) **태블릿 시리얼 번호**
-
-![](../.gitbook/assets/icon-square-4.svg) **담당 조직**
-
-![](../.gitbook/assets/icon-square-5.svg) **제조일**
-
-![](../.gitbook/assets/icon-square-6.svg) **현재 소프트웨어 버전**
-
-![](../.gitbook/assets/icon-square-7.svg) **다음 소프트웨어 버전**
-
-* 현재 설치된 버전이 최신 버전이 아닐 경우, 업데이트될 다음 버전이 표시됩니다.
-
-![](../.gitbook/assets/icon-square-8.svg) **메모**
-
-* 마지막 작성자의 이름이 노출됩니다. 메모는 삭제, 수정할 수 있으며, 작성하지 않은 경우 작성 버튼이 표시됩니다.
-
-![](../.gitbook/assets/icon-square-9.svg) **개통 정보**
-
-* 개통 소유자 정보, 개통일, 유심 정보가 노출됩니다.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
-개통일은 설치 티켓이 완료 처리된 날짜와 동일합니다.
+현장 기록은 설치 결과가 생성된 후 입력·업로드할 수 있으며, 작성·업로드한 사람과 일시가 함께 기록됩니다.&#x20;
+
+설치 담당자가 아니어도 입력할 수 있고, 작성자 본인만 수정할 수 있습니다.
 {% endhint %}
-
-![](../.gitbook/assets/icon-square-10.svg) **업데이트 이력**
-
-* 소프트웨어 업데이트가 진행된 일시와 버전 정보를 확인할 수 있습니다.

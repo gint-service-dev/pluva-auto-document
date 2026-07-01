@@ -94,7 +94,6 @@
 * [계정 관리](others/undefined-1/README.md)
   * [계정 목록 진입 및 설명](others/undefined-1/account-management.md)
   * [작업 이력](others/undefined-1/undefined.md)
-  * [장비 정보 조회](others/undefined-1/undefined-1.md)
 * [제품 관리](others/product-management.md)
 * [원격 지원](others/monitorning.md)
 * [오퍼레이터 관리](others/undefined-2/README.md)

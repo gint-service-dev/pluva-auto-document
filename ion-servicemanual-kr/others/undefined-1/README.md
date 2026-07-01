@@ -6,7 +6,10 @@
 [account-management.md](account-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../undefined-2/operator-management-1.md" %}
-[operator-management-1.md](../undefined-2/operator-management-1.md)
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
 {% endcontent-ref %}
 
+{% content-ref url="/broken/pages/9uyGJv6SFvfxiYo6GdU7" %}
+[Broken link](/broken/pages/9uyGJv6SFvfxiYo6GdU7)
+{% endcontent-ref %}
