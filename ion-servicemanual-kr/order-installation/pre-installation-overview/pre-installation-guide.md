@@ -98,16 +98,16 @@ metaLinks:
 
 <summary>순정 GNSS 수신기가 없는 경우</summary>
 
-<figure><img src="../../.gitbook/assets/cabin-mount-1.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/cabin-mount-2.jpg" alt=""><figcaption></figcaption></figure>
-
 * 캐빈 루프(트랙터 지붕, 상부 판넬)에 장착합니다.
 * 횡방향: 최대한 가운데에 위치시킵니다.
 * 종방향: 아래 우선순위로 장착합니다.
   1. 후면부 (후륙 바퀴에 가까운 곳)
   2. 중앙부 (Top 면의 중심)
   3. 앞면부 (스티어링 휠 근처 상부)
+
+<figure><img src="../../.gitbook/assets/cabin-mount-1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/cabin-mount-2.jpg" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -124,9 +124,9 @@ metaLinks:
 
 <summary>ROPS 트랙터 (캐빈이 없는 경우)</summary>
 
-<figure><img src="../../.gitbook/assets/rops-mount-1.jpg" alt=""><figcaption></figcaption></figure>
-
 * 본네트의 평평한 곳에 장착합니다.
+
+<figure><img src="../../.gitbook/assets/rops-mount-1.jpg" alt=""><figcaption></figcaption></figure>
 
 </details>
 
