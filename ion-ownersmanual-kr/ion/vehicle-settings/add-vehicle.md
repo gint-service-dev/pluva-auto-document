@@ -10,19 +10,19 @@
 {% step %}
 내 차량 화면에서 우측 하단의 ![](../../.gitbook/assets/add-button.svg) 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/entering-my-vehicle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량 타입을 선택하고 \[선택 완료]를 누릅니다.
 
-<figure><img src="../../.gitbook/assets/entering-my-vehicle-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량 정보를 입력후 차량 추가를 누릅니다.
 
-
+<figure><img src="../../.gitbook/assets/add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 #### 퀵턴 차량 토글
@@ -30,7 +30,7 @@
 * 퀵턴 차량은 퀵턴 특성에 맞춘 보정값이 필요하므로, \[퀵턴 차량] 토글을 반드시 켜고 진행해 주세요.
 * 퀵턴은 트랙터에만 적용되는 옵션입니다. 이앙기에는 퀵턴 옵션이 없습니다.
 
-<img src="/broken/files/j55L4nFTLS7oKffAAU4V" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/add-vehicle-quickturn-1.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 {% hint style="info" %}
@@ -39,23 +39,27 @@
 원하는 제조사 혹은 모델이 없을 시 직접 입력을 눌러 항목을 추가합니다.
 
 입력한 제조사는 검토 후 정식 명칭으로 변경될 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/add-vehicle-direct-input-1.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 {% endstep %}
 
 {% step %}
 차량 치수를 입력한 뒤 \[확인]을 누릅니다.
 
-
+<figure><img src="../../.gitbook/assets/add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량이 추가되면 GNSS 수신기 연동이 완료됩니다. \[다음 단계로]를 누릅니다.
 
-
+<figure><img src="../../.gitbook/assets/add-vehicle-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 차량 보정을 진행하고 나면 차량 추가가 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/add-vehicle-6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 보정이 완료되지 않으면 자율주행이 제한될 수 있습니다. 보정을 마친 뒤 주행하는 것을 권장합니다.
