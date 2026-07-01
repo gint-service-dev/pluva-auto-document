@@ -6,11 +6,10 @@
 [operator-management.md](operator-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="operator-management-1.md" %}
-[operator-management-1.md](operator-management-1.md)
+{% content-ref url="/broken/pages/tJduWiOu3HeOJ6KtBKSA" %}
+[Broken link](/broken/pages/tJduWiOu3HeOJ6KtBKSA)
 {% endcontent-ref %}
 
-{% content-ref url="operator-management-2.md" %}
-[operator-management-2.md](operator-management-2.md)
+{% content-ref url="/broken/pages/c3ovXuKKEb2PccnG9Vol" %}
+[Broken link](/broken/pages/c3ovXuKKEb2PccnG9Vol)
 {% endcontent-ref %}
-
