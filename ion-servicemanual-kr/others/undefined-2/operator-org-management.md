@@ -12,7 +12,7 @@
 
 {% stepper %}
 {% step %}
-좌측 메뉴에서 오퍼레이터 관리를 선택합니다.
+좌측 메뉴에서 오퍼레이터 조직 목록을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/operator-org-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,9 +20,7 @@
 {% endstep %}
 
 {% step %}
-하위 메뉴에서 오퍼레이터 조직 관리를 선택하면 조직 목록 화면으로 이동합니다.
-
-<figure><img src="../../.gitbook/assets/operator-org-menu-select.png" alt=""><figcaption></figcaption></figure>
+원하는 오퍼레이터 조직을 선택해 상세에 진입합니다.
 {% endstep %}
 {% endstepper %}
 
