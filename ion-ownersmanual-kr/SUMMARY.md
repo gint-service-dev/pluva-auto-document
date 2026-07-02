@@ -13,7 +13,7 @@
   * [스위치(옵션품)](ion/overview/switch.md)
   * [카메라](ion/overview/camera.md)
 * [초기 설정](ion/account-manage/README.md)
-  * [계정 생성](ion/account-manage/account.md)
+  * [계정 생성 및 관리](ion/account-manage/account.md)
   * [소프트웨어 업데이트(OTA)](ion/ota.md)
 * [주행모드(경로플래닝)](ion/driving/README.md)
   * [경로플래닝 설정 방법](ion/driving/route-planning-settings.md)
