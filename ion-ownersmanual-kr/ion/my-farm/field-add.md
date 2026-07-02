@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/1yoy90Ee4M2uWDoEaqmM
@@ -202,26 +204,23 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% endhint %}
 
 {% hint style="warning" %}
-꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
+**차량으로 필드 등록 유의 사항**
+
+* 점은 최대 6개 설정할 수 있습니다.
+* 꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
+{% endhint %}
+
+{% hint style="info" %}
+원하는 위치에서 진입로, 진출로 설정 버튼을 눌러 진입출로를 설정할 수 있습니다.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고 진입로, 진출로 설정 버튼을 눌러 설정합니다.
-
-<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
-{% endhint %}
-
-{% hint style="info" %}
-점은 최대 6개 설정할 수 있습니다.
-{% endhint %}
+경계 완료 버튼을 누릅니다.
 {% endstep %}
 
 {% step %}
-각 점과 진출로 설정이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
+경계 등록이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
