@@ -14,7 +14,7 @@
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 시스템 설정을 누르면 시스템 설정에 진입합니다.
+왼쪽 메뉴에서 \[시스템 설정]을 누르면 시스템 설정 화면으로 들어갑니다.
 
 <figure><img src="../../.gitbook/assets/system-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
