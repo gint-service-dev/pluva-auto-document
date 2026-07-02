@@ -49,7 +49,7 @@
 {% endstep %}
 
 {% step %}
-모든 필수 항목을 입력하면 \[조직 생성] 버튼이 활성화됩니다. 버튼을 눌러 조직 생성을 완료합니다.
+조직 생성을 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/operator-org-create-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
