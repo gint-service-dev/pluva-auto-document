@@ -54,7 +54,7 @@
 {% endstep %}
 
 {% step %}
-모든 필수 항목을 입력하면 \[등록] 버튼이 활성화됩니다. 버튼을 눌러 등록을 완료합니다.
+조직 생성을 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/cert-operator-create-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
