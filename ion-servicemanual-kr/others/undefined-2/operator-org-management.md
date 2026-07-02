@@ -14,7 +14,9 @@
 {% step %}
 좌측 메뉴에서 오퍼레이터 관리를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/operator-org-menu-open.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/operator-org-menu-open-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/operator-org-menu-open-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -111,6 +113,8 @@
 
 {% hint style="info" %}
 비활성 상태 조직에선 비활성화 옵션 대신 활성화 옵션만 표시됩니다. 해당 항목을 누르면 조직이 활성화됩니다.
+
+<img src="../../.gitbook/assets/operator-org-activate.png" alt="" data-size="original">
 {% endhint %}
 
 ***
