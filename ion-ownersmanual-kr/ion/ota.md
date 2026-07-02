@@ -122,10 +122,3 @@ metaLinks:
 4. 새 버전이 있으면 업데이트를 진행합니다. 진행 중과 완료 상태가 화면에 표시되고, 완료되면 재시작 안내가 나타납니다.\\
 {% endhint %}
 
-{% hint style="info" %}
-#### 변경 내용 확인 방법
-
-이번 업데이트로 무엇이 달라졌는지 릴리즈노트에서 확인할 수 있습니다. 추가된 기능과 개선·수정 내용을 항목별로 볼 수 있습니다.
-
-<img src="../.gitbook/assets/ota-release-note-1.png" alt="" data-size="original">
-{% endhint %}
