@@ -28,6 +28,10 @@ metaLinks:
 [entering-my-vehicle.md](entering-my-vehicle.md)
 {% endcontent-ref %}
 
+{% content-ref url="add-vehicle.md" %}
+[add-vehicle.md](add-vehicle.md)
+{% endcontent-ref %}
+
 {% content-ref url="autostere-calibration.md" %}
 [autostere-calibration.md](autostere-calibration.md)
 {% endcontent-ref %}
