@@ -12,7 +12,7 @@
 
 {% stepper %}
 {% step %}
-좌측 메뉴에서 오퍼레이터 관리를 선택합니다.
+좌측 메뉴에서 인증 오퍼레이터 목록을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/cert-operator-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,9 +20,7 @@
 {% endstep %}
 
 {% step %}
-하위 메뉴에서 인증 오퍼레이터 관리를 선택하면 목록 화면으로 이동합니다.
-
-<figure><img src="../../.gitbook/assets/cert-operator-menu-select.png" alt=""><figcaption></figcaption></figure>
+원하는 인증 오퍼레이터를 선택해 상세에 진입합니다.
 {% endstep %}
 {% endstepper %}
 
