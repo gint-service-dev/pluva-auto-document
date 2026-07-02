@@ -99,3 +99,4 @@
 * [오퍼레이터 관리](others/undefined-2/README.md)
   * [오퍼레이터 계정 관리](others/undefined-2/operator-management.md)
   * [오퍼레이터 조직 관리](others/undefined-2/operator-org-management.md)
+  * [인증 오퍼레이터 관리](others/undefined-2/cert-operator-management.md)
