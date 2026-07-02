@@ -14,7 +14,7 @@
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 기기 설정을 누릅니다.
+왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
 <figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
