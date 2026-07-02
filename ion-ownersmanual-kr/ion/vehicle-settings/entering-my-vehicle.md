@@ -77,9 +77,9 @@ metaLinks:
 
 {% hint style="info" %}
 \[내 차량 ›]을 누르면 이전에 등록한 차량 목록이 표시됩니다.
+{% endhint %}
 
 <img src="../../.gitbook/assets/my-vehicle-list-1.png" alt="" data-size="original">
-{% endhint %}
 
 ![](../../.gitbook/assets/icon-square-7.svg) **차량 정보**
 
