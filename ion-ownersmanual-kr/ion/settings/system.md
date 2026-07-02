@@ -38,7 +38,7 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-좌측 메뉴에서 시스템 설정을 누릅니다.
+좌측 메뉴에서 시스템 설정을 누르면 시스템 설정에 진입합니다.
 
 <figure><img src="../../.gitbook/assets/system-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -82,7 +82,7 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-1.svg) **언어**
 
-* 한국어 / English / Bahasa Indonesia / 日本語 / 中文(繁體) 중에서 선택합니다.
+* 한국어 / English / 日本語 중에서 선택합니다.
 
 ***
 
