@@ -217,6 +217,8 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 {% step %}
 경계 완료 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
