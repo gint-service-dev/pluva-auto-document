@@ -38,7 +38,6 @@
 {% step %}
 모든 필수 항목을 입력하고 계정 생성 버튼을 누릅니다.
 
-* **기본 정보** : 이름\* / 사번\* / 이메일 / 휴대폰 번호 / 역할 / 소속 조직 / 태그
 
 <figure><img src="../../.gitbook/assets/cert-operator-create-2.png" alt=""><figcaption></figcaption></figure>
 
