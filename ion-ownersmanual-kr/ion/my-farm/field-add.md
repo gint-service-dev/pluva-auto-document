@@ -81,8 +81,6 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
 <figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
