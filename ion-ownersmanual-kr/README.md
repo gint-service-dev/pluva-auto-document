@@ -66,9 +66,9 @@ metaLinks: {}
 
 <details>
 
-<summary><a href="ion/account-manage/">초기 설정법</a></summary>
+<summary><a href="ion/account-manage/">초기 설정</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/ota.md">ota.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>계정 생성</td><td><a href="ion/account-manage/account.md">account.md</a></td></tr><tr><td>계정 정보 수정</td><td><a href="ion/account-manage/edit-member-info.md">edit-member-info.md</a></td></tr><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/ota.md">ota.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -76,7 +76,7 @@ metaLinks: {}
 
 <summary><a href="ion/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>격자주행</td><td><a href="ion/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="ion/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="ion/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="ion/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>AB 커브</td><td><a href="ion/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>사각주행</td><td><a href="ion/driving/square-drive.md">square-drive.md</a></td></tr><tr><td>격자주행</td><td><a href="ion/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="ion/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -92,7 +92,7 @@ metaLinks: {}
 
 <summary><a href="ion/driving-convenience-function/">주행 편의 기능</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving-convenience-function/equal-interval.md">equal-interval.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로 저장하기</td><td><a href="ion/driving-convenience-function/save-path.md">save-path.md</a></td></tr><tr><td>경로 불러오기</td><td><a href="ion/driving-convenience-function/bringing-up-path.md">bringing-up-path.md</a></td></tr><tr><td>경로 공유</td><td><a href="ion/driving-convenience-function/path-sharing.md">path-sharing.md</a></td></tr><tr><td>경로 리셋/삭제</td><td><a href="ion/driving-convenience-function/delete-path.md">delete-path.md</a></td></tr><tr><td>등간격 편의 기능</td><td><a href="ion/driving-convenience-function/equal-interval.md">equal-interval.md</a></td></tr><tr><td>주행 화면 조정</td><td><a href="ion/driving-convenience-function/adjusting-driving-screen.md">adjusting-driving-screen.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -100,7 +100,7 @@ metaLinks: {}
 
 <summary><a href="ion/my-farm/">내 농장 관리 (MY Farm)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="ion/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>농장 소유자 관리</td><td><a href="ion/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>필드 등록</td><td><a href="ion/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>필드 정보 수정/삭제</td><td><a href="ion/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>헤드랜드 등록</td><td><a href="ion/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>헤드랜드 정보 관리</td><td><a href="ion/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="ion/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>농장 소유자 관리</td><td><a href="ion/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>필드 등록</td><td><a href="ion/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>필드 조정</td><td><a href="ion/my-farm/field-adjustment.md">field-adjustment.md</a></td></tr><tr><td>필드 정보 관리</td><td><a href="ion/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>헤드랜드 등록</td><td><a href="ion/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>헤드랜드 정보 관리</td><td><a href="ion/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -108,7 +108,7 @@ metaLinks: {}
 
 <summary><a href="ion/vehicle-settings/">차량 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="ion/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="ion/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정</td><td><a href="ion/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="ion/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="ion/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="ion/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>내 차량 추가</td><td><a href="ion/vehicle-settings/add-vehicle.md">add-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="ion/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정(IMU)</td><td><a href="ion/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>관성센서 보정</td><td><a href="ion/vehicle-settings/inertial-sensor-calibration.md">inertial-sensor-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="ion/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="ion/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -116,7 +116,7 @@ metaLinks: {}
 
 <summary><a href="ion/workstation-management/">작업기 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업기 목록 진입 및 화면 설명</td><td><a href="ion/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>작업기 추가</td><td><a href="ion/workstation-management/add-worker.md">add-worker.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업기 목록 진입 및 화면 설명</td><td><a href="ion/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>작업기 추가</td><td><a href="ion/workstation-management/add-worker.md">add-worker.md</a></td></tr><tr><td>작업기 정보 관리</td><td><a href="ion/workstation-management/managing-worker-information.md">managing-worker-information.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -148,7 +148,7 @@ metaLinks: {}
 
 <summary><a href="ion/settings/">기타 설정</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>시스템 설정</td><td><a href="ion/settings/system.md">system.md</a></td></tr><tr><td>기기 설정</td><td><a href="ion/settings/device-settings.md">device-settings.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>시스템 설정</td><td><a href="ion/settings/system.md">system.md</a></td></tr><tr><td>기기 설정</td><td><a href="ion/settings/device-settings.md">device-settings.md</a></td></tr><tr><td>내 정보</td><td><a href="ion/settings/my-info.md">my-info.md</a></td></tr></tbody></table>
 
 </details>
 
