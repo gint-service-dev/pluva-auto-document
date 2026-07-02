@@ -252,13 +252,13 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 설정한 점을 초기화합니다.
 
-![](../../.gitbook/assets/icon-square-4.svg) **나가기**
-
-* 등록을 중단하고 이전 화면으로 돌아갑니다.
-
-![](../../.gitbook/assets/icon-square-5.svg) **필드 등록**
+![](../../.gitbook/assets/icon-square-4.svg) **필드 등록**
 
 * 모든 점 설정 완료 후 필지 등록을 진행합니다.
+
+![](../../.gitbook/assets/icon-square-5.svg) **나가기**
+
+* 등록을 중단하고 이전 화면으로 돌아갑니다.
 
 ![](../../.gitbook/assets/icon-square-6.svg) **수정(예: D점 수정)**
 
