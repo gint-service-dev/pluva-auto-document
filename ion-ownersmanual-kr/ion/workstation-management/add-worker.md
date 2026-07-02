@@ -38,12 +38,6 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-작업기 목록에 진입이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/add Worker-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
 ![](../../.gitbook/assets/add-button.svg) 작업기 추가 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/add-worker-3.png" alt=""><figcaption></figcaption></figure>
