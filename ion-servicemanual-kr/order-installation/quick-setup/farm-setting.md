@@ -225,18 +225,19 @@ metaLinks:
 설정 직후 해당 점의 수정 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
 {% endhint %}
 
-{% hint style="warning" %}
-꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
-{% endhint %}
 {% endstep %}
 
 {% step %}
-D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고 진입로, 진출로 설정 버튼을 눌러 설정합니다.
+원하는 위치에서 진입로, 진출로 설정 버튼을 눌러 진입출로를 설정할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
+{% endhint %}
+
+{% hint style="warning" %}
+꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
 {% endhint %}
 
 {% hint style="info" %}
