@@ -15,12 +15,12 @@
 좌측 메뉴에서 오퍼레이터 조직 목록을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/operator-org-menu-open-1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/operator-org-menu-open-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 오퍼레이터 조직을 선택해 상세에 진입합니다.
+
+<figure><img src="../../.gitbook/assets/operator-org-menu-open-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
