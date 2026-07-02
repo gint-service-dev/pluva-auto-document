@@ -80,7 +80,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -197,8 +197,6 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 설정 직후 해당 점의 수정 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
 {% endhint %}
@@ -208,12 +206,12 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 점은 최대 6개 설정할 수 있습니다.
 * 꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
-
-<figure><img src="../../.gitbook/assets/entry-exit-path-1.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 {% hint style="info" %}
 원하는 위치에서 진입로, 진출로 설정 버튼을 눌러 진입출로를 설정할 수 있습니다.
+
+<img src="../../.gitbook/assets/entry-exit-path-1.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
