@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/psfU8QKJyLNerdA8z35d/ion/my-farm/field-add
@@ -245,7 +247,9 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 
 * 해당 꼭지점을 현재 차량 위치로 설정합니다.
 
-### 차량에서 필드 등록 모달 설명
+
+
+#### 차량에서 필드 등록 모달 설명
 
 <div align="left"><figure><img src="../../.gitbook/assets/field-add-vehicle-register-modal-1.png" alt="" width="350"><figcaption></figcaption></figure></div>
 
