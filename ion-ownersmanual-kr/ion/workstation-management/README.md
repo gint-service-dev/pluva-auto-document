@@ -31,3 +31,7 @@ metaLinks:
 {% content-ref url="add-worker.md" %}
 [add-worker.md](add-worker.md)
 {% endcontent-ref %}
+
+{% content-ref url="managing-worker-information.md" %}
+[managing-worker-information.md](managing-worker-information.md)
+{% endcontent-ref %}
