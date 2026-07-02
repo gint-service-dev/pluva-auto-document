@@ -97,7 +97,7 @@
 {% endstep %}
 
 {% step %}
-확인 팝업에서 \[확인] 버튼을 누릅니다.
+\[확인] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/operator-org-deactivate-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
