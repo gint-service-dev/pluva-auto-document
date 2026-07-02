@@ -31,9 +31,6 @@ slug: initial-setup
 [account.md](account.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-member-info.md" %}
-[edit-member-info.md](edit-member-info.md)
-{% endcontent-ref %}
 
 {% content-ref url="../ota.md" %}
 [../ota.md](../ota.md)
