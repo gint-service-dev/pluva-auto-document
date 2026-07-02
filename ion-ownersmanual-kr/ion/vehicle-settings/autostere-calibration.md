@@ -85,25 +85,25 @@ metaLinks:
 {% step %}
 안내에 따라 핸들을 왼쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 오른쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 안내에 따라 핸들을 이용하여 바퀴를 중앙에 위치시키고 차량을 멈추고 \[확인] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 핸들 범위 보정 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tractor-handle-range-5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
