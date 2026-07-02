@@ -30,7 +30,7 @@
 
 {% stepper %}
 {% step %}
-목록 화면 오른쪽 위의 \[등록] 버튼을 누릅니다.
+목록 화면 오른쪽 위의 \[계정 생성] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/cert-operator-create-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
