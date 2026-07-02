@@ -46,41 +46,6 @@
 
 ***
 
-### 주행 설정 화면
-
-주행 화면에 표시되는 지도와 주행 정보를 설정합니다.
-
-<figure><img src="../../.gitbook/assets/screen-layout-2.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-1.svg) **지도 설정**
-
-* 주행 화면에 표시할 지도 요소를 설정합니다.
-  * 필드 경계: 작업 필드의 경계선 표시 여부
-  * 작업 경로: 이미 주행한 경로 표시 여부
-  * 헤드랜드: 헤드랜드 영역 표시 여부
-
-<figure><img src="../../.gitbook/assets/screen-layout-3.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-2.svg) **주행라인 설정**
-
-* 주행 기준선의 표시 방식을 설정합니다. 원하는 옵션을 선택합니다.
-
-<figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-3.svg) **차량 아이콘 설정**
-
-* 주행 화면에 표시되는 차량 아이콘 모양을 선택합니다.
-
-<figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-4.svg) **배경 지도 설정**
-
-* 주행 화면의 배경 지도 종류를 선택합니다.
-
-<figure><img src="../../.gitbook/assets/screen-layout-5.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ### 키보드 설정 (일본 전용)
 
 키보드 입력 방식을 선택합니다.
