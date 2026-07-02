@@ -129,26 +129,98 @@
 
 <figure><img src="../../.gitbook/assets/cert-operator-detail-pc.png" alt=""><figcaption></figcaption></figure>
 
-1. **상태** : 활성 / 비활성 상태가 표시됩니다.
-2. **이름** : 인증 오퍼레이터 이름이 표시됩니다.
-3. **더보기 버튼** : 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
-4. **역할** : 부여된 역할이 표시됩니다. (예: 매니저)
-5. **생성일** : 생성 일시가 표시됩니다.
-6. **사번** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-7. **이메일** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-8. **휴대폰 번호** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-9. **소속 조직** : 조직명과 태그가 표시됩니다. 조직명을 클릭하면 해당 조직의 상세 화면으로 이동합니다.
+![](../../.gitbook/assets/icon-square-1.svg) 상태
+
+* 활성 / 비활성 상태가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-2.svg) 이름
+
+* 인증 오퍼레이터 이름이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-3.svg) 더보기 버튼
+
+{% hint style="info" %}
+버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-4.svg) 역할
+
+* 부여된 역할이 표시됩니다. (예: 매니저)
+
+![](../../.gitbook/assets/icon-square-5.svg) 생성일
+
+* 생성 일시가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) 사번
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-7.svg) 이메일
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
+
+{% hint style="info" %}
+조직명과 태그가 표시됩니다. 조직명을 클릭하면 해당 조직의 상세 화면으로 이동합니다.
+{% endhint %}
 
 #### 모바일 환경
 
 <figure><img src="../../.gitbook/assets/cert-operator-detail-mobile.png" alt=""><figcaption></figcaption></figure>
 
-1. **상태** : 활성 / 비활성 상태가 표시됩니다.
-2. **이름** : 인증 오퍼레이터 이름이 표시됩니다.
-3. **더보기 버튼** : 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
-4. **역할** : 부여된 역할이 표시됩니다. (예: 매니저)
-5. **생성일** : 생성 일시가 표시됩니다.
-6. **사번** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-7. **이메일** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-8. **휴대폰 번호** : 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
-9. **소속 조직** : 조직명과 태그가 표시됩니다. 조직명을 클릭하면 해당 조직의 상세 화면으로 이동합니다.
+![](../../.gitbook/assets/icon-square-1.svg) 상태
+
+* 활성 / 비활성 상태가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-2.svg) 이름
+
+* 인증 오퍼레이터 이름이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-3.svg) 더보기 버튼
+
+{% hint style="info" %}
+버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-4.svg) 역할
+
+* 부여된 역할이 표시됩니다. (예: 매니저)
+
+![](../../.gitbook/assets/icon-square-5.svg) 생성일
+
+* 생성 일시가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) 사번
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-7.svg) 이메일
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
+
+{% hint style="info" %}
+옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
+
+{% hint style="info" %}
+조직명과 태그가 표시됩니다. 조직명을 클릭하면 해당 조직의 상세 화면으로 이동합니다.
+{% endhint %}
