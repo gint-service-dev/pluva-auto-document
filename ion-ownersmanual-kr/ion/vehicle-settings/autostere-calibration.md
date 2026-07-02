@@ -157,6 +157,96 @@ metaLinks:
 
 ***
 
+#### 트랙터 오토스티어 보정
+
+1. **핸들 범위 보정**
+
+{% stepper %}
+{% step %}
+\[전체 한번에 진행] 버튼을 누르면 오토스티어 보정이 시작됩니다.
+
+<figure><img src="../../.gitbook/assets/tractor-handle-range-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+각 단계 시작 버튼을 누르면 해당 단계 보정만 진행할 수 있습니다.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+안내에 따라 핸들을 왼쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tractor-handle-range-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+안내에 따라 핸들을 오른쪽으로 끝까지 돌린 후 차량을 멈추고 \[확인] 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tractor-handle-range-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+안내에 따라 핸들을 이용하여 바퀴를 중앙에 위치시키고 차량을 멈추고 \[확인] 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tractor-handle-range-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+핸들 범위 보정 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/tractor-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+2. **직진 조향 보정**
+
+{% stepper %}
+{% step %}
+직진 조향 보정에 필요한 설명을 읽은 후 \[확인]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-1-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+안내에 따라 \[2km 시속]으로 주행하고 \[자동 보정 시작] 버튼을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+트랙터 제한 속도는 2km로 초과 시 버튼이 활성화 되지않습니다.
+{% endhint %}
+
+{% hint style="info" %}
+트랙터 정지 시 직진 조향 보정의 처음부터 다시 시작합니다.
+{% endhint %}
+
+{% hint style="info" %}
+직진 조향 보정 중에는 핸들이 자동으로 움직입니다. 자동 조작 중에는 핸들을 강제로 조작하지 마세요.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+지속해서 2km 이하로 주행합니다.
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+보정 시 필요 면적이 확보되지않거나 주행이 불가능할 경우 긴급 정지를 누릅니다.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+보정 과정이 끝나면 \[확인] 버튼이 활성화됩니다. 버튼을 눌러 보정을 완료하세요.
+
+<figure><img src="../../.gitbook/assets/tractor-straight-steering-4.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
 #### 이앙기 오토스티어 보정
 
 1. **핸들 범위 보정**
