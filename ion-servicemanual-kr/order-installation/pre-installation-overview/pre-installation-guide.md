@@ -65,6 +65,8 @@ metaLinks:
 
 <figure><img src="../../.gitbook/assets/side.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/etc-2.png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -72,8 +74,6 @@ metaLinks:
 <summary>기타: 외 참고 이미지</summary>
 
 <figure><img src="../../.gitbook/assets/etc-1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/etc-2.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
