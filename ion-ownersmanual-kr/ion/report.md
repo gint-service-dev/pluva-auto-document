@@ -123,15 +123,4 @@
 
 * 작업에 사용한 작업기와 작업폭입니다.
 
-![](../.gitbook/assets/icon-square-9.svg) **작업 기온 / 습도**
-
-* 작업 당시의 기온과 습도 상태입니다.
-
-![](../.gitbook/assets/icon-square-10.svg) **풍속**
-
-* 작업 당시의 풍속입니다.
-
-![](../.gitbook/assets/icon-square-11.svg) **작업 시간대**
-
-* 작업이 이루어진 시간대입니다.
 
