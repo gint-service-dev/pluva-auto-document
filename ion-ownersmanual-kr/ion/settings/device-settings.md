@@ -92,7 +92,7 @@
 <figure><img src="../../.gitbook/assets/device-keyboard-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자(로마지)만 입력할 수 있습니다.
+유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자만 입력할 수 있습니다.
 {% endhint %}
 
 {% hint style="info" %}
