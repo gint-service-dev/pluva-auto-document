@@ -45,16 +45,16 @@ metaLinks:
 경로 불러오기를 누릅니다.
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+불러오기 목록에는 현재 선택한 주행 모드에 해당하는 경로만 표시됩니다.
+{% endhint %}
 {% endstep %}
 
 {% step %}
 원하는 경로를 선택하고 \[불러오기]를 누릅니다.
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-불러오기 목록에는 현재 선택한 주행 모드에 해당하는 경로만 표시됩니다.
-{% endhint %}
 {% endstep %}
 
 {% step %}
