@@ -71,7 +71,7 @@ metaLinks:
 {% step %}
 **업데이트 안내 확인**
 
-* 업데이트 허용시 업데이트가 진행됩니다.
+* \[지금 업데이트] 버튼을 누르면 업데이트가 진행됩니다.
 
 <figure><img src="../.gitbook/assets/ota-update-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
