@@ -73,7 +73,7 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-6.svg) **내 차량**
 
-* 배속턴 차량의 배속턴 설정 ON/OFF 상태를 표시합니다. 배속턴 차량이 아닌 경우에는 표시되지 않습니다.
+* \[내 차량 ›]을 누르면 이전에 등록한 차량 목록이 표시됩니다.
 
 {% hint style="info" %}
 \[내 차량 ›]을 누르면 이전에 등록한 차량 목록이 표시됩니다.
@@ -87,7 +87,7 @@ metaLinks:
 
 ![](../../.gitbook/assets/icon-square-8.svg) **퀵턴 켜기/끄기**
 
-* 퀵턴 사용 여부를 설정합니다.
+* 퀵턴 설정 ON/OFF 상태를 표시합니다. 퀵턴 차량이 아닌 경우에는 표시되지 않습니다.
 
 ![](../../.gitbook/assets/icon-square-9.svg) **차량 치수**
 
