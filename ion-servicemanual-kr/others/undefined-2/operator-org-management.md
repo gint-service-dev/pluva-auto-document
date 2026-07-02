@@ -123,26 +123,82 @@
 
 <figure><img src="../../.gitbook/assets/operator-org-detail-pc.png" alt=""><figcaption></figcaption></figure>
 
-1. **상태** : 조직의 활성 / 비활성 상태가 표시됩니다.
-2. **조직명** : 조직 이름이 표시됩니다.
-3. **더보기 버튼** : 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
-4. **조직 코드** : 조직 코드가 표시됩니다.
-5. **생성일** : 조직 생성 일시가 표시됩니다.
-6. **상위 조직** : 상위 조직이 표시됩니다.
-7. **담당 서비스** : 조직이 담당하는 서비스가 표시됩니다. (예: pluva ion, pluva auto)
-8. **태그** : 조직 관련 정보를 태그로 표시합니다.
-9. **부가 정보** : 주소와 메모가 표시됩니다.
+![](../../.gitbook/assets/icon-square-1.svg) 상태
+
+* 조직의 활성 / 비활성 상태가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-2.svg) 조직명
+
+* 조직 이름이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-3.svg) 더보기 버튼
+
+{% hint style="info" %}
+버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-4.svg) 조직 코드
+
+* 조직 코드가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-5.svg) 생성일
+
+* 조직 생성 일시가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) 상위 조직
+
+* 상위 조직이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-7.svg) 담당 서비스
+
+* 조직이 담당하는 서비스가 표시됩니다. (예: pluva ion, pluva auto)
+
+![](../../.gitbook/assets/icon-square-8.svg) 태그
+
+* 조직 관련 정보를 태그로 표시합니다.
+
+![](../../.gitbook/assets/icon-square-9.svg) 부가 정보
+
+* 주소와 메모가 표시됩니다.
 
 #### 모바일 환경
 
 <figure><img src="../../.gitbook/assets/operator-org-detail-mobile.png" alt=""><figcaption></figcaption></figure>
 
-1. **상태** : 조직의 활성 / 비활성 상태가 표시됩니다.
-2. **조직명** : 조직 이름이 표시됩니다.
-3. **더보기 버튼** : 버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
-4. **조직 코드** : 조직 코드가 표시됩니다.
-5. **생성일** : 조직 생성 일시가 표시됩니다.
-6. **상위 조직** : 상위 조직이 표시됩니다.
-7. **담당 서비스** : 조직이 담당하는 서비스가 표시됩니다. (예: pluva ion, pluva auto)
-8. **태그** : 조직 관련 정보를 태그로 표시합니다.
-9. **부가 정보** : 주소와 메모가 표시됩니다.
+![](../../.gitbook/assets/icon-square-1.svg) 상태
+
+* 조직의 활성 / 비활성 상태가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-2.svg) 조직명
+
+* 조직 이름이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-3.svg) 더보기 버튼
+
+{% hint style="info" %}
+버튼을 누르면 \[수정], \[비활성화] (또는 \[활성화]) 옵션을 선택할 수 있습니다.
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-4.svg) 조직 코드
+
+* 조직 코드가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-5.svg) 생성일
+
+* 조직 생성 일시가 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) 상위 조직
+
+* 상위 조직이 표시됩니다.
+
+![](../../.gitbook/assets/icon-square-7.svg) 담당 서비스
+
+* 조직이 담당하는 서비스가 표시됩니다. (예: pluva ion, pluva auto)
+
+![](../../.gitbook/assets/icon-square-8.svg) 태그
+
+* 조직 관련 정보를 태그로 표시합니다.
+
+![](../../.gitbook/assets/icon-square-9.svg) 부가 정보
+
+* 주소와 메모가 표시됩니다.
