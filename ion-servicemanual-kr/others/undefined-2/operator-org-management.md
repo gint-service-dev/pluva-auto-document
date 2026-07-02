@@ -38,8 +38,6 @@
 {% step %}
 모든 필수 항목을 입력하고 조직 생성 버튼을 누릅니다.
 
-* **기본 정보** : 조직명 / 조직 코드 / 상위 조직 / 담당 서비스 / 태그
-* **부가 정보** : 주소 / 메모
 
 <figure><img src="../../.gitbook/assets/operator-org-create-2.png" alt=""><figcaption></figcaption></figure>
 
