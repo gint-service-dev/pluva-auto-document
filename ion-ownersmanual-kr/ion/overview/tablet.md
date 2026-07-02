@@ -43,6 +43,13 @@ metaLinks:
 
 <div align="left"><figure><img src="../../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+{% hint style="warning" %}
+메인 전원 스위치로 바로 끄면 작업한 내용이 저장되지 않아 다음과 같은 문제가 생길 수 있습니다. 반드시 올바른 종료 순서를 지켜 주세요.
+
+* 방금 설정한 AB 라인이 저장되지 않습니다.
+* 저장해 둔 경로를 다시 불러올 수 없습니다.
+{% endhint %}
+
 {% hint style="info" %}
 **올바른 종료 순서**
 
@@ -51,13 +58,6 @@ metaLinks:
 1. 태블릿 화면이 완전히 꺼질 때까지 잠시 기다립니다.
 2. 화면이 꺼지고 약 10초가 지난 뒤, 메인 전원 스위치를 OFF합니다.
 3. 화면이 꺼진 뒤에도 시스템이 마무리될 시간이 필요합니다. 약 10초를 기다렸다가 메인 전원 스위치를 내려 주세요.
-{% endhint %}
-
-{% hint style="warning" %}
-메인 전원 스위치로 바로 끄면 작업한 내용이 저장되지 않아 다음과 같은 문제가 생길 수 있습니다. 반드시 올바른 종료 순서를 지켜 주세요.
-
-* 방금 설정한 AB 라인이 저장되지 않습니다.
-* 저장해 둔 경로를 다시 불러올 수 없습니다.
 {% endhint %}
 
 {% hint style="warning" %}
