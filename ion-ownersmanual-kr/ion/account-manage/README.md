@@ -20,6 +20,7 @@ layout:
 metaLinks:
   alternates:
     - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/7X3X46eFmy2IlfSgKTQQ
+slug: initial-setup
 ---
 
 # 사용 계정 관리
