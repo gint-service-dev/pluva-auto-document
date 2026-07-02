@@ -67,9 +67,9 @@ metaLinks:
 
 * 현재 장착된 차량의 타입, 별칭, 브랜드, 모델을 보여줍니다.
 
-![](../../.gitbook/assets/icon-square-5.svg) **배속턴 ON/OFF**
+![](../../.gitbook/assets/icon-square-5.svg) **퀵턴 ON/OFF**
 
-* 배속턴 차량의 배속턴 설정 ON/OFF 상태를 표시합니다. 배속턴 차량이 아닌 경우에는 표시되지 않습니다.
+* 퀵턴 차량의 퀵턴 설정 ON/OFF 상태를 표시합니다. 퀵턴 차량이 아닌 경우에는 표시되지 않습니다.
 
 ![](../../.gitbook/assets/icon-square-6.svg) **차량 치수**
 
