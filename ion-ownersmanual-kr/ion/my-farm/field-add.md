@@ -238,19 +238,33 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1.png" alt=""><figcaption></figcaption></figure>
 
-1. **진입로 수정**: 진입 경로 위치를 현재 차량 위치로 설정합니다.
+![](../../.gitbook/assets/icon-square-1.svg) **진입로 수정**
 
-2. **진출로 수정**: 진출 경로 위치를 현재 차량 위치로 설정합니다.
+* 진입 경로 위치를 현재 차량 위치로 설정합니다.
 
-3. **초기화**: 설정한 점을 초기화합니다.
+![](../../.gitbook/assets/icon-square-2.svg) **진출로 수정**
 
-4. **나가기**: 등록을 중단하고 이전 화면으로 돌아갑니다.
+* 진출 경로 위치를 현재 차량 위치로 설정합니다.
 
-5. **필드 등록**: 모든 점 설정 완료 후 필지 등록을 진행합니다.
+![](../../.gitbook/assets/icon-square-3.svg) **초기화**
 
-6. **수정(예: D점 수정)**: 이미 설정한 꼭지점을 현재 위치로 업데이트합니다.
+* 설정한 점을 초기화합니다.
 
-7. **A / B / C / D / E …**: 해당 꼭지점을 현재 차량 위치로 설정합니다.
+![](../../.gitbook/assets/icon-square-4.svg) **나가기**
+
+* 등록을 중단하고 이전 화면으로 돌아갑니다.
+
+![](../../.gitbook/assets/icon-square-5.svg) **필드 등록**
+
+* 모든 점 설정 완료 후 필지 등록을 진행합니다.
+
+![](../../.gitbook/assets/icon-square-6.svg) **수정(예: D점 수정)**
+
+* 이미 설정한 꼭지점을 현재 위치로 업데이트합니다.
+
+![](../../.gitbook/assets/icon-square-7.svg) **A / B / C / D / E …**
+
+* 해당 꼭지점을 현재 차량 위치로 설정합니다.
 
 ### 차량에서 필드 등록 모달 설명
 
