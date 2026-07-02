@@ -96,7 +96,9 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% endstep %}
 {% endstepper %}
 
-### 지도에서 필드 등록 화면 설명
+
+
+#### 지도에서 필드 등록 화면 설명
 
 <figure><img src="../../.gitbook/assets/field-registration-screen-0.png" alt=""><figcaption></figcaption></figure>
 
@@ -141,7 +143,9 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 경계 등록을 완료합니다. 진출입로를 선택한 후 해당 버튼을 사용할 수 있습니다.
 
-### 지도에서 필드 등록 모달 설명
+
+
+#### 지도에서 필드 등록 모달 설명
 
 <div align="left"><figure><img src="../../.gitbook/assets/register-on-a-map.png" alt="" width="233"><figcaption></figcaption></figure></div>
 
