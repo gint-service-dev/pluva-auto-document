@@ -262,7 +262,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 이미 설정한 꼭지점을 현재 위치로 업데이트합니다.
 
-![](../../.gitbook/assets/icon-square-7.svg) **A / B / C / D / E …**
+![](../../.gitbook/assets/icon-square-7.svg) **A / B / C / D / E / F 점**
 
 * 해당 꼭지점을 현재 차량 위치로 설정합니다.
 
