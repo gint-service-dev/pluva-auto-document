@@ -208,6 +208,8 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 * 점은 최대 6개 설정할 수 있습니다.
 * 꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
+
+<figure><img src="../../.gitbook/assets/entry-exit-path-1.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 {% hint style="info" %}
