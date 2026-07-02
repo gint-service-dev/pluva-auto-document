@@ -155,19 +155,16 @@
 ![](../../.gitbook/assets/icon-square-6.svg) 사번
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-7.svg) 이메일
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
@@ -205,19 +202,16 @@
 ![](../../.gitbook/assets/icon-square-6.svg) 사번
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-7.svg) 이메일
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
 
 {% hint style="info" %}
-옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
