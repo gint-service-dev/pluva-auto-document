@@ -104,7 +104,7 @@
 
 ![](../.gitbook/assets/icon-square-4.svg) **주행 거리**
 
-* 자동 및 수동 주행을 합산한 총 주행 거리입니다.
+* 작업 주행 합산 거리를 표시합니다. 자동·수동 거리도 함께 표시합니다.
 
 ![](../.gitbook/assets/icon-square-5.svg) **작업 시간 정보**
 
