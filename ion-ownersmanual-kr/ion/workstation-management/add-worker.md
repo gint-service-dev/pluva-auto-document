@@ -40,19 +40,19 @@ metaLinks:
 {% step %}
 ![](../../.gitbook/assets/add-button.svg) 작업기 추가 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/add-worker-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업기 타입, 너비 등의 세부 정보를 입력하고 확인을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/add-worker-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업기 추가가 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/add-worker-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
