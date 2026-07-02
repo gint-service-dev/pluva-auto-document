@@ -63,6 +63,8 @@
 
 {% hint style="warning" %}
 보정이 완료되지 않으면 자율주행이 제한될 수 있습니다. 보정을 마친 뒤 주행하는 것을 권장합니다.
+
+<img src="../../.gitbook/assets/add-vehicle-calibration-needed-1.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 {% endstepper %}
