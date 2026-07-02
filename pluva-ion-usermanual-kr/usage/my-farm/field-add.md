@@ -211,12 +211,6 @@ D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고
 <figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-원하는 위치에서 진입로, 진출로 설정 버튼을 눌러 진입출로를 설정할 수 있습니다.
-
-<figure><img src="../../.gitbook/assets/entry-exit-path-1.png" alt=""><figcaption></figcaption></figure>
-{% endhint %}
-
-{% hint style="info" %}
 진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
 {% endhint %}
 
