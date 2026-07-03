@@ -138,6 +138,8 @@
 
 #### 모바일 환경
 
+<figure><img src="../../.gitbook/assets/work-history-route-analysis-mobile.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **참고** 모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다. 조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
 {% endhint %}
