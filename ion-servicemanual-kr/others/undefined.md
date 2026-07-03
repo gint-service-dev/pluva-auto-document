@@ -52,11 +52,10 @@
 {% endstepper %}
 
 {% hint style="info" %}
-현장 기록은 설치 결과가 생성된 후 입력·업로드할 수 있으며, 작성·업로드한 사람과 일시가 함께 기록됩니다.&#x20;
+현장 기록은 설치 결과가 생성된 후 입력·업로드할 수 있으며, 작성·업로드한 사람과 일시가 함께 기록됩니다.
 
 설치 담당자가 아니어도 입력할 수 있고, 작성자 본인만 수정할 수 있습니다.
 {% endhint %}
-
 
 ***
 
@@ -98,7 +97,7 @@
 {% hint style="info" %}
 **참고** 차량 정보 드롭다운을 펼치면 차량 치수와 설치 당시 보정값을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/install-detail-vehicle-expand.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/install-detail-vehicle-expand.png" alt="" data-size="original">
 {% endhint %}
 
 ![](../.gitbook/assets/icon-square-8.svg) **현장 기록**
@@ -113,9 +112,10 @@
 * **기타** : 그 외 사항을 기록합니다.
 
 
+
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/install-detail-mobile.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/install-detail-mobile.png" alt="" width="286"><figcaption></figcaption></figure></div>
 
 ![](../.gitbook/assets/icon-square-1.svg) **고객 정보**
 
@@ -144,7 +144,7 @@
 {% hint style="info" %}
 **참고** 차량 정보 드롭다운을 펼치면 차량 치수와 설치 당시 보정값을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/install-detail-vehicle-expand-mobile.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/install-detail-vehicle-expand-mobile.png" alt="" data-size="original">
 {% endhint %}
 
 ![](../.gitbook/assets/icon-square-7.svg) **설치티켓 버튼**
@@ -154,4 +154,3 @@
 ![](../.gitbook/assets/icon-square-8.svg) **현장 기록**
 
 * 설치 결과에 대한 현장 기록을 탭별로 작성·확인합니다. 작성 방법은 위 PC 환경과 동일합니다.
-
