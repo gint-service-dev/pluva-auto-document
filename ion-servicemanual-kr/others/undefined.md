@@ -82,7 +82,8 @@
 
 ![](../.gitbook/assets/icon-square-5.svg) **시리얼 번호**
 
-* 태블릿 시리얼 번호가 표시됩니다. Expansion Kit의 경우 현재 연결된 태블릿 시리얼 번호가 표시됩니다.
+* 태블릿 시리얼 번호가 표시됩니다.
+* Expansion Kit의 경우 현재 연결된 태블릿 시리얼 번호가 표시됩니다.
 
 ![](../.gitbook/assets/icon-square-6.svg) **담당 정보**
 
@@ -119,7 +120,8 @@
 
 ![](../.gitbook/assets/icon-square-1.svg) **고객 정보**
 
-* 상단에 고객명과 휴대폰 번호가 표시됩니다. 고객명을 클릭하면 해당 고객의 계정 상세로 이동합니다.
+* 상단에 고객명과 휴대폰 번호가 표시됩니다.
+* 고객명을 클릭하면 해당 고객의 계정 상세로 이동합니다.
 
 ![](../.gitbook/assets/icon-square-2.svg) **설치 완료일**
 
@@ -131,7 +133,8 @@
 
 ![](../.gitbook/assets/icon-square-4.svg) **시리얼 번호**
 
-* 태블릿 시리얼 번호가 표시되며, 옆의 복사 버튼을 누르면 클립보드에 복사됩니다.
+* 태블릿 시리얼 번호가 표시됩니다.
+* Expansion Kit의 경우 현재 연결된 태블릿 시리얼 번호가 표시됩니다.
 
 ![](../.gitbook/assets/icon-square-5.svg) **담당 정보**
 

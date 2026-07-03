@@ -47,31 +47,39 @@
 ![](../../.gitbook/assets/icon-square-2.svg) **위치 / 로드뷰**
 
 * 작업 위치가 표시됩니다.
-* \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인합니다.
+* \[로드뷰]를 누르면 해당 위치의 구글 로드뷰를 확인할 수 있습니다.
 
 ![](../../.gitbook/assets/icon-square-3.svg) **경로 표시 설정**
 
 * \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다.
 * \[조건 필터]와 \[이벤트] 두 가지로 나뉩니다.
-* **조건 필터**
-  * 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.&#x20;
-  * 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
-  *
-
-      <div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
-* **이벤트**
-  * 지도 위에 표시할 이벤트를 켜고 끕니다.
-  * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
-  *
-
-      <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-on.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**참고**
+**조건 필터**
 
-\[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
+* 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.&#x20;
+* 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
+*
 
-<img src="../../.gitbook/assets/work-history-event-off.png" alt="" data-size="original">
+    <div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
+{% endhint %}
+
+{% hint style="info" %}
+**이벤트**
+
+* 지도 위에 표시할 이벤트를 켜고 끕니다.
+* 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
+*
+
+    <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-on.png" alt="" width="225"><figcaption></figcaption></figure></div>
+
+
+* \[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
+*
+
+    <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-off.png" alt="" width="225"><figcaption></figcaption></figure></div>
+
+
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
@@ -117,7 +125,7 @@
 
 ![](../../.gitbook/assets/icon-square-12.svg) **방향**
 
-* 지도의 북쪽 방향을 표시합니다.
+* 지도의 방향을 표시합니다.
 
 ![](../../.gitbook/assets/icon-square-13.svg) **현재 위치**
 
@@ -136,7 +144,7 @@
 
 **재생 속도**
 
-* 재생 배속을 선택합니다.
+* 재생 배속(예: 1x)을 선택합니다.
 
 
 
@@ -182,9 +190,9 @@
 모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다.&#x20;
 
 조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
-{% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-work-info-mobile.png" alt="" width="273"><figcaption></figcaption></figure></div>
+<img src="../../.gitbook/assets/work-history-work-info-mobile.png" alt="" data-size="original">
+{% endhint %}
 
 ![](../../.gitbook/assets/icon-square-7.svg) **RTK 품질**
 
