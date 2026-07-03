@@ -23,8 +23,8 @@ layout:
 
 現場に訪問する前にお客様アカウントを含め事前に確認すべき事項があります。その内容についてご案内します。
 
-{% content-ref url="pre-installation-guide.md" %}
-[pre-installation-guide.md](pre-installation-guide.md)
+{% content-ref url="pre-installation-guide-01.md" %}
+[pre-installation-guide-01.md](pre-installation-guide-01.md)
 {% endcontent-ref %}
 
 {% content-ref url="preparing-accounts.md" %}

@@ -12,7 +12,7 @@
 * [제품 개통](order-installation/product-registration-02.md)
 * [설치 전 준비 가이드](order-installation/pre-installation-overview/README.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide.md)
-  * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-1.md)
+  * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-01.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-02.md)
   * [고객 계정 준비](order-installation/pre-installation-overview/preparing-accounts.md)
 * [설치티켓으로 제품 개통](order-installation/product-registration-04.md)

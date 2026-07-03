@@ -36,7 +36,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。アド�
 
 * アドミン上に注文情報を入力すると、ご購入いただいた製品の台数分の取り付けチケットが自動で発行されます。\
   取り付けチケットには、取り付けに必要な情報が含まれており、製品登録から開通、取り付け完了までの全てのプロセスを一元管理できます。
-* 詳細は、[<mark style="color:$primary;">注文登録</mark>](order-registration.md)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">注文登録</mark>](order-registration-01.md)をご参照ください。
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。アド�
 {% endhint %}
 
 * 取り付ける構成品の**シリアル番号と取り付けチケットを紐づけ、製品を開通**します。登録完了後には、製品のアクティベーションに必要な**開通キーが発行**されます。これにより、製品とお客様情報を紐づけた取り付け管理ができます。
-* 詳細は、[<mark style="color:$primary;">製品登録</mark>](product-registration.md)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">製品登録</mark>](product-registration-01.md)をご参照ください。
 {% endstep %}
 
 {% step %}
@@ -96,6 +96,6 @@ pluva ionは、専門的な取り付け工程が必要な製品です。アド�
 **取り付け完了**
 
 * 全ての取り付け及び設定完了後には、取り付けチケットにて\[完了]を選択してください。取り付け完了状態がシステムに反映されます。
-* 詳細は、[<mark style="color:$primary;">取り付け完了確認</mark>](installation-completed.md)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">取り付け完了確認</mark>](installation-completed-01.md)をご参照ください。
 {% endstep %}
 {% endstepper %}

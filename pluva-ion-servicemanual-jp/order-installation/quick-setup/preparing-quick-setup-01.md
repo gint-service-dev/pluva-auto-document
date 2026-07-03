@@ -38,7 +38,7 @@ tags:
 2. [ネットワーク設定](network-settings.md)
 3. [ソフトウェアアップデート（OTA）](ota.md)
 4. [ログイン](login.md)
-5. [開通キーの入力](opening-key.md)
+5. [開通キーの入力](opening-key-01.md)
 6. [GNSS受信機の接続確認](gnss-connect.md)
 7. [位置補正の設定](rtk-setting.md)
 8. [車両の追加](add-vehicle.md)
