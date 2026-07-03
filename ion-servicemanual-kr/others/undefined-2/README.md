@@ -6,10 +6,10 @@
 [operator-management.md](operator-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/tJduWiOu3HeOJ6KtBKSA" %}
-[Broken link](/broken/pages/tJduWiOu3HeOJ6KtBKSA)
+{% content-ref url="operator-org-management.md" %}
+[operator-org-management.md](operator-org-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/c3ovXuKKEb2PccnG9Vol" %}
-[Broken link](/broken/pages/c3ovXuKKEb2PccnG9Vol)
+{% content-ref url="cert-operator-management.md" %}
+[cert-operator-management.md](cert-operator-management.md)
 {% endcontent-ref %}
