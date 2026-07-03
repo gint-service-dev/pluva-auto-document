@@ -14,13 +14,13 @@
 {% step %}
 사이드바에서 \[주문/설치 관리]를 누르고 설치 결과 목록을 누릅니다.
 
-<figure><img src="../.gitbook/assets/product-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/install-result-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 설치 결과 목록 진입이 완료됩니다.
 
-<figure><img src="../.gitbook/assets/product-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/install-result-menu-open-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -30,7 +30,7 @@
 
 #### PC 환경
 
-<figure><img src="../.gitbook/assets/product-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/install-detail-basic-pc.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1.svg) 고객 정보
 
@@ -78,13 +78,13 @@
 {% step %}
 기록할 탭을 선택하고 \[작성]을 누릅니다.
 
-
+<figure><img src="../.gitbook/assets/install-record-write-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작성 모달에서 내용을 입력하고 사진·영상을 첨부합니다.
 
-
+<figure><img src="../.gitbook/assets/install-record-write-2.png" alt=""><figcaption></figcaption></figure>
 
 * 사진 지원 형식: JPG, PNG, HEIC, WEBP
 * 영상 지원 형식: MP4, MOV
@@ -93,7 +93,7 @@
 {% step %}
 \[추가]를 누르면 기록 작성이 완료됩니다.
 
-
+<figure><img src="../.gitbook/assets/install-record-write-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
