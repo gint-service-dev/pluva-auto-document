@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: jp
+    primary: true
 ---
 
 # 取り付け前の準備
