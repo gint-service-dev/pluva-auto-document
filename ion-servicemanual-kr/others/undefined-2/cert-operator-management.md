@@ -38,7 +38,6 @@
 {% step %}
 모든 필수 항목을 입력하고 계정 생성 버튼을 누릅니다.
 
-
 <figure><img src="../../.gitbook/assets/cert-operator-create-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
@@ -154,18 +153,9 @@
 
 ![](../../.gitbook/assets/icon-square-6.svg) 사번
 
-{% hint style="info" %}
-{% endhint %}
-
 ![](../../.gitbook/assets/icon-square-7.svg) 이메일
 
-{% hint style="info" %}
-{% endhint %}
-
 ![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
-
-{% hint style="info" %}
-{% endhint %}
 
 ![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
 
@@ -173,9 +163,11 @@
 조직명과 태그가 표시됩니다. 조직명을 클릭하면 해당 조직의 상세 화면으로 이동합니다.
 {% endhint %}
 
+
+
 #### 모바일 환경
 
-<figure><img src="../../.gitbook/assets/cert-operator-detail-mobile.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/cert-operator-detail-mobile.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 상태
 
@@ -201,18 +193,9 @@
 
 ![](../../.gitbook/assets/icon-square-6.svg) 사번
 
-{% hint style="info" %}
-{% endhint %}
-
 ![](../../.gitbook/assets/icon-square-7.svg) 이메일
 
-{% hint style="info" %}
-{% endhint %}
-
 ![](../../.gitbook/assets/icon-square-8.svg) 휴대폰 번호
-
-{% hint style="info" %}
-{% endhint %}
 
 ![](../../.gitbook/assets/icon-square-9.svg) 소속 조직
 

@@ -38,7 +38,6 @@
 {% step %}
 모든 필수 항목을 입력하고 조직 생성 버튼을 누릅니다.
 
-
 <figure><img src="../../.gitbook/assets/operator-org-create-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
@@ -161,9 +160,11 @@
 
 * 주소와 메모가 표시됩니다.
 
+
+
 #### 모바일 환경
 
-<figure><img src="../../.gitbook/assets/operator-org-detail-mobile.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/operator-org-detail-mobile.png" alt="" width="284"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 상태
 
