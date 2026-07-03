@@ -1,6 +1,6 @@
 # 작업 이력
 
-계정(고객)이 수행한 작업 이력을 조회하고, 작업 경로와 데이터를 지도에서 분석·재생하는 메뉴입니다. 담당자가 현장에 없었더라도 작업 데이터로 상황을 재구성해 고객 문의·클레임의 원인을 파악하는 데 활용합니다.
+고객이 수행한 작업 이력을 조회하고, 작업 경로와 데이터를 지도에서 분석·재생합니다. 작업 데이터로 상황을 재구성해 고객 문의·클레임의 원인을 파악하는 데 활용합니다.
 
 ***
 
@@ -46,27 +46,33 @@
 
 ![](../../.gitbook/assets/icon-square-2.svg) **위치 / 로드뷰**
 
-* 작업 위치(주소)가 표시됩니다. \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인합니다.
+* 작업 위치가 표시됩니다.
+* \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인합니다.
 
 ![](../../.gitbook/assets/icon-square-3.svg) **경로 표시 설정**
 
-* \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다. \[조건 필터]와 \[이벤트] 두 가지로 나뉩니다.
+* \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다.
+* \[조건 필터]와 \[이벤트] 두 가지로 나뉩니다.
+* **조건 필터**
+  * 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.&#x20;
+  * 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
+  *
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
+      <div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
+* **이벤트**
+  * 지도 위에 표시할 이벤트를 켜고 끕니다.
+  * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
+  *
 
-* **조건 필터** : 설정한 조건에 맞는 구간만 지도·타임라인에서 강조해 찾습니다. 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다. 조건 항목은 다음과 같습니다.
-  * RTK 품질 (Fixed / Fixed 외)
-  * 작업 모드 (AB직진 / A+직진 / 격자주행 / 자동경로 / 메모리주행)
-  * 속도 (이상 / 이하 / 범위)
-  * 주행 방향 (전진 / 후진 / 미정의)
-  * 주행 상태 (직진 / 시계방향 / 반시계방향 / 미분류)
-* **이벤트** : 지도 위에 표시할 이벤트를 켜고 끕니다. 주행(시작·정지), 에러(발생·복구) 등을 선택할 수 있으며, \[이벤트 표시] 토글로 한 번에 켜고 끄거나 \[초기화]할 수 있습니다.
+      <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-on.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**참고** \[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
-{% endhint %}
+**참고**
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-event-off.png" alt="" width="225"><figcaption></figcaption></figure></div>
+\[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
+
+<img src="../../.gitbook/assets/work-history-event-off.png" alt="" data-size="original">
+{% endhint %}
 
 ![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
 
