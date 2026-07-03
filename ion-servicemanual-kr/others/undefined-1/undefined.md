@@ -166,7 +166,7 @@
 
 * \[경로 범례]를 누르면 지도에 표시된 경로 색상과 아이콘의 의미를 확인할 수 있습니다. 범례 항목은 표시한 항목만 나타납니다.
 
-<figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-history-route-legend-mobile.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-6.svg) **상세 정보**
 
