@@ -28,7 +28,7 @@
   * [스위치](order-installation/product-installation/switch.md)
 * [퀵셋업](order-installation/quick-setup/README.md)
   * [퀵셋업 설명 및 준비](order-installation/quick-setup/preparing-quick-setup.md)
-  * [Copy of 퀵셋업 설명 및 준비](order-installation/quick-setup/preparing-quick-setup-1.md)
+  * [퀵셋업 설명 및 준비](order-installation/quick-setup/preparing-quick-setup-01.md)
   * [퀵셋업 설명 및 준비](order-installation/quick-setup/preparing-quick-setup-02.md)
   * [언어 설정](order-installation/quick-setup/language-settings.md)
   * [네트워크 설정](order-installation/quick-setup/network-settings.md)
