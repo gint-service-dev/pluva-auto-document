@@ -32,7 +32,7 @@ layout:
 각 보정 항목을 **각 1회** 진행합니다.
 
 1. [GNSS 수신기 위치 설정](vehicle-calibration.md#gnss)
-2. [오토스티어 보정](vehicle-calibration.md#undefined-4)
+2. [오토스티어 보정](vehicle-calibration.md#autosteer)
 
 **퀵턴 차량**
 
@@ -45,7 +45,7 @@ layout:
 {% endhint %}
 
 1. [GNSS 수신기 위치 설정](vehicle-calibration.md#gnss)
-2. [오토스티어 보정](vehicle-calibration.md#undefined-4)
+2. [오토스티어 보정](vehicle-calibration.md#qucikturn)
    * 1회차: 퀵턴 **OFF** 상태에서 보정
    * 2회차: 퀵턴 **ON** 상태에서 보정
 
@@ -133,7 +133,7 @@ GNSS 수신기의 종방향, 횡방향, 설치 높이를 입력하고 \[확인]�
 
 ***
 
-#### 일반 차량 오토스티어 보정
+#### 일반 차량 오토스티어 보정 <a href="#autosteer" id="autosteer"></a>
 
 오토스티어 보정은 설정된 경로를 안정적으로 추종할 수 있도록 조향 범위와 직진 기준값을\
 보정하는 절차입니다. 트랙터는 2단계, 이앙기는 3단계로 진행됩니다.
@@ -152,7 +152,7 @@ GNSS 수신기의 종방향, 횡방향, 설치 높이를 입력하고 \[확인]�
 
 ***
 
-#### 트랙터 오토스티어 보정
+#### 트랙터 오토스티어 보정 <a href="#autosteer-tractor" id="autosteer-tractor"></a>
 
 1. **핸들 범위 보정**
 
@@ -362,7 +362,7 @@ GNSS 수신기의 종방향, 횡방향, 설치 높이를 입력하고 \[확인]�
 
 ***
 
-### 퀵턴 차량 오토스티어 보정
+### 퀵턴 차량 오토스티어 보정 <a href="#qucikturn" id="qucikturn"></a>
 
 퀵턴 차량은 **퀵턴 OFF/ON 두 상태**에서 동일한 보정을 각각 진행합니다.
 

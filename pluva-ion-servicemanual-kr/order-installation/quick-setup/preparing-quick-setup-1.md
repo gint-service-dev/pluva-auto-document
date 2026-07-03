@@ -18,11 +18,11 @@ layout:
   actions:
     visible: true
 tags:
-  - tag: fkk
+  - tag: jp
     primary: true
 ---
 
-# 퀵셋업 설명 및 준비
+# Copy of 퀵셋업 설명 및 준비
 
 #### **퀵셋업은 무엇인가요?**
 
@@ -36,14 +36,15 @@ tags:
 
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
-3. [소프트웨어 업데이트(OTA)](ota.md)
+3. [소프트웨어 업데이트 (OTA)](ota.md)
 4. [로그인](login.md)
-5. [GNSS수신기 연결 확인](gnss-connect.md)
-6. [위치보정 설정](rtk-setting-03.md)
-7. [차량 추가](add-vehicle.md)
-8. [차량 보정](vehicle-calibration.md)
-9. [작업기 추가 (선택)](add-worker.md)
-10. [작업지 설정](farm-setting.md)
+5. [개통키 입력](opening-key.md)
+6. [GNSS수신기 연결 확인](gnss-connect.md)
+7. [위치보정 설정](rtk-setting-03.md)
+8. [차량 추가](add-vehicle.md)
+9. [차량 보정](vehicle-calibration.md)
+10. [작업기 추가 (선택)](add-worker.md)
+11. [작업지 설정](farm-setting.md)
 
 ***
 
