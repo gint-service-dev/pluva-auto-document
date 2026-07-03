@@ -66,43 +66,47 @@
 
 <figure><img src="../.gitbook/assets/install-detail-basic-pc.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) 고객 정보
+![](../.gitbook/assets/icon-square-1.svg) **고객 정보**
 
 * 상단에 고객명과 휴대폰 번호가 표시됩니다.
 * 고객명을 클릭하면 해당 고객의 계정 상세로 이동합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) 설치티켓 버튼
+![](../.gitbook/assets/icon-square-2.svg) **설치티켓 버튼**
 
 * 버튼을 누르면 이 설치 결과와 연결된 설치 티켓으로 이동합니다.
 
-![](../.gitbook/assets/icon-square-3.svg) 설치 완료일
+![](../.gitbook/assets/icon-square-3.svg) **설치 완료일**
 
 * 설치가 완료된 일시가 표시됩니다.
 
-![](../.gitbook/assets/icon-square-4.svg) 품목
+![](../.gitbook/assets/icon-square-4.svg) **품목**
 
 * 설치된 제품이 표시됩니다.
 
-![](../.gitbook/assets/icon-square-5.svg) 시리얼 번호
+![](../.gitbook/assets/icon-square-5.svg) **시리얼 번호**
 
 * 태블릿 시리얼 번호가 표시됩니다. Expansion Kit의 경우 현재 연결된 태블릿 시리얼 번호가 표시됩니다.
 
-![](../.gitbook/assets/icon-square-6.svg) 담당 정보
+![](../.gitbook/assets/icon-square-6.svg) **담당 정보**
 
 * 담당 조직과 설치 담당자가 표시됩니다.
 
-![](../.gitbook/assets/icon-square-7.svg) 차량 정보
+![](../.gitbook/assets/icon-square-7.svg) **차량 정보**
 
 * 설치 차량의 타입, 제조사, 모델이 표시됩니다. (예: 트랙터 · JOHN DEERE B2320)
-* 항목을 펼치면 차량 치수와 설치 당시 보정 여부·보정값을 확인합니다.
 
-![](../.gitbook/assets/icon-square-8.svg) 현장 기록
+{% hint style="info" %}
+**참고** 차량 정보 드롭다운을 펼치면 차량 치수(휠베이스·후륙 축-히치·지면-상부링크)와 설치 당시 보정값(일반 보정·배속 보정)을 확인할 수 있습니다.
+{% endhint %}
 
-* 설치 결과에 대한 현장 기록을 탭별로 작성·확인합니다. 각 탭에서 기록하는 내용은 다음과 같습니다.
-  * **설치** : 설치 현장 사진과 환경을 기록합니다.
-  * **교육** : 교육 내용과 고객의 이해도를 기록합니다.
-  * **이슈 발생** : 발생한 문제와 추후 조치 필요 사항을 기록합니다.
-  * **고객 피드백** : 고객의 반응·만족도와 의견을 기록합니다.
-  * **담당자 피드백** : 담당자의 성능 평가와 개선 의견을 기록합니다.
-  * **기타** : 그 외 사항을 기록합니다.
+![](../.gitbook/assets/icon-square-8.svg) **현장 기록**
+
+설치 결과에 대한 현장 기록을 탭별로 작성·확인합니다. 각 탭에서 기록하는 내용은 다음과 같습니다.
+
+* **설치** : 설치 현장 사진과 환경을 기록합니다.
+* **교육** : 교육 내용과 고객의 이해도를 기록합니다.
+* **이슈 발생** : 발생한 문제와 추후 조치 필요 사항을 기록합니다.
+* **고객 피드백** : 고객의 반응·만족도와 의견을 기록합니다.
+* **담당자 피드백** : 담당자의 성능 평가와 개선 의견을 기록합니다.
+* **기타** : 그 외 사항을 기록합니다.
 
