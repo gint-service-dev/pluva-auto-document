@@ -52,7 +52,7 @@
 
 * \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다. \[조건 필터]와 \[이벤트] 두 가지로 나뉩니다.
 
-<figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 * **조건 필터** : 설정한 조건에 맞는 구간만 지도·타임라인에서 강조해 찾습니다. 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다. 조건 항목은 다음과 같습니다.
   * RTK 품질 (Fixed / Fixed 외)
@@ -66,13 +66,13 @@
 **참고** \[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/work-history-event-off.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-event-off.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
 
 * 재생 시점을 기준으로 RTK 품질, 속도, 좌표, GPS 이벤트, 헤딩, 주행 상태 등 작업에 필요한 상세 수치를 표시합니다.
 
-<figure><img src="../../.gitbook/assets/work-history-realtime-data.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-realtime-data.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-5.svg) **재생 / 일시정지**
 
@@ -84,13 +84,16 @@
 
 ![](../../.gitbook/assets/icon-square-7.svg) **지도 보기 전환**
 
-* \[경로] / \[RTK 품질] 보기를 전환합니다. RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 대략적인 상황 파악을 위해 히트맵으로 표시됩니다.
+* \[경로] / \[RTK 품질] 보기를 전환합니다.&#x20;
+* RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 히트맵으로 표시됩니다.
 
 <figure><img src="../../.gitbook/assets/work-history-rtk-heatmap.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-8.svg) **지도 경로**
 
-* 지도에 해당 작업의 주행 궤적이 표시됩니다. 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다. 각 색상·아이콘의 의미는 \[경로 범례]에서 확인합니다.
+* 지도에 해당 작업의 주행 궤적이 표시됩니다.&#x20;
+* 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.&#x20;
+* 각 색상·아이콘의 의미는 \[경로 범례]에서 확인합니다.
 
 ![](../../.gitbook/assets/icon-square-9.svg) **종료 지점(E)**
 
@@ -102,14 +105,9 @@
 
 ![](../../.gitbook/assets/icon-square-11.svg) **작업 정보**
 
-* \[작업 정보]를 누르면 해당 작업의 요약 정보 패널이 열립니다. 다음 정보를 확인합니다.
-  * 시리얼 번호 / 필드 / PNU
-  * 작업 모드 (AB직진·A+직진·격자주행·자동경로·메모리주행 중 사용한 모드)
-  * 차량 / 작업기 / 작업폭
-  * 작업 시간(시작·종료 시간)과 자동·수동 주행 비율
-  * 평균 속도 / 작업 면적 / 주행 거리 (자동·수동 구분)
+* 해당 작업의 요약 정보를 표시합니다.
 
-<figure><img src="../../.gitbook/assets/work-history-work-info.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-work-info.png" alt="" width="225"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-12.svg) **방향**
 
@@ -117,38 +115,35 @@
 
 ![](../../.gitbook/assets/icon-square-13.svg) **현재 위치**
 
-* 지도를 작업 위치로 이동(중심 정렬)합니다.
+* 지도를 작업 위치로 이동합니다.
 
 ![](../../.gitbook/assets/icon-square-14.svg) **경로 범례**
 
-* \[경로 범례]를 누르면 지도에 표시된 경로 색상과 아이콘의 의미를 확인할 수 있습니다. 범례 항목은 \[경로 표시 설정]에서 켠 항목만 표시됩니다.
+* 지도의 경로 색상과 아이콘 의미를 표시합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-route-legend.png" alt="" width="144"><figcaption></figcaption></figure></div>
 
-* **자동 / 수동** : 자율주행 구간(자동, 초록)과 수동 주행 구간(수동, 노랑)을 색으로 구분해 표시합니다.
-* **AB라인** : 작업 기준선(AB라인)을 표시합니다.
-* **조건 필터** (주황) : 조건 필터를 설정한 경우에만, 조건에 맞는 구간을 표시합니다.
-* **시작 · 정지 · 에러 발생 · 에러 복구** : \[이벤트]에서 설정(표시)한 항목만 지도에 나타납니다. 각각 주행 시작·정지 지점과 에러 발생·복구 지점입니다.
+* **자동 / 수동** : 자율주행 구간과 수동 주행 구간을 색으로 구분해 표시합니다.
+* **AB라인** : 작업 기준선을 표시합니다.
+* **조건 필터** : 조건 필터를 설정한 경우에만, 조건에 맞는 구간을 표시합니다.
+* **시작 · 정지 · 에러 발생 · 에러 복구** : \[이벤트]에서 설정한 항목만 지도에 나타납니다.&#x20;
 
-&#x20;**재생 속도**
+**재생 속도**
 
-* 재생 배속(예: 1x)을 선택합니다.
+* 재생 배속을 선택합니다.
 
 
 
 #### 모바일 환경
 
-<figure><img src="../../.gitbook/assets/work-history-route-analysis-mobile.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-**참고** 모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다. 조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
-{% endhint %}
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-route-analysis-mobile.png" alt="" width="277"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **지도 보기 전환**
 
-* \[경로] / \[RTK 품질] 보기를 전환합니다. RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 대략적인 상황 파악을 위해 히트맵으로 표시됩니다.
+* \[경로] / \[RTK 품질] 보기를 전환합니다.&#x20;
+* RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 히트맵으로 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/work-history-rtk-heatmap-mobile.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-rtk-heatmap-mobile.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **방향**
 
@@ -156,23 +151,34 @@
 
 ![](../../.gitbook/assets/icon-square-3.svg) **현재 위치**
 
-* 지도를 작업 위치로 이동(중심 정렬)합니다.
+* 지도를 작업 위치로 이동합니다.
 
 ![](../../.gitbook/assets/icon-square-4.svg) **지도 경로**
 
-* 지도에 해당 작업의 주행 궤적이 표시됩니다. 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다. 시작 지점(S)·종료 지점(E)과 각 색상·아이콘의 의미는 \[경로 범례]에서 확인합니다.
+* 지도에 해당 작업의 주행 궤적이 표시됩니다.&#x20;
+* 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.&#x20;
+* 각 색상·아이콘의 의미는 \[경로 범례]에서 확인합니다.
 
 ![](../../.gitbook/assets/icon-square-5.svg) **경로 범례**
 
-* \[경로 범례]를 누르면 지도에 표시된 경로 색상과 아이콘의 의미를 확인할 수 있습니다. 범례 항목은 표시한 항목만 나타납니다.
+* 지도의 경로 색상과 아이콘 의미를 표시합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/work-history-route-legend-mobile.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-route-legend-mobile.png" alt="" width="143"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-6.svg) **상세 정보**
 
-* \[상세 정보]를 누르면 해당 작업의 요약 정보 패널이 열립니다. 시리얼 번호/필드/PNU, 작업 모드, 차량/작업기/작업폭, 작업 시간(시작·종료 시간)과 자동·수동 주행 비율, 평균 속도/작업 면적/주행 거리를 확인합니다.
+* 해당 작업의 상세 정보를 표시합니다.
+* 전체 이벤트 표시/숨김을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/work-history-work-info-mobile.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+**참고**&#x20;
+
+모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다.&#x20;
+
+조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
+{% endhint %}
+
+<div align="left"><figure><img src="../../.gitbook/assets/work-history-work-info-mobile.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-7.svg) **RTK 품질**
 
