@@ -146,7 +146,7 @@
 
 * \[경로] / \[RTK 품질] 보기를 전환합니다. RTK 품질 모드에서는 경로 표시를 설정할 수 없으며, 대략적인 상황 파악을 위해 히트맵으로 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/work-history-rtk-heatmap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-history-rtk-heatmap-mobile.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **방향**
 
@@ -170,7 +170,7 @@
 
 * \[상세 정보]를 누르면 해당 작업의 요약 정보 패널이 열립니다. 시리얼 번호/필드/PNU, 작업 모드, 차량/작업기/작업폭, 작업 시간(시작·종료 시간)과 자동·수동 주행 비율, 평균 속도/작업 면적/주행 거리를 확인합니다.
 
-<figure><img src="../../.gitbook/assets/work-history-work-info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/work-history-work-info-mobile.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-7.svg) **RTK 품질**
 
