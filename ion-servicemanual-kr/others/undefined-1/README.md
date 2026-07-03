@@ -10,6 +10,3 @@
 [undefined.md](undefined.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/9uyGJv6SFvfxiYo6GdU7" %}
-[Broken link](/broken/pages/9uyGJv6SFvfxiYo6GdU7)
-{% endcontent-ref %}
