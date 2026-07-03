@@ -72,9 +72,11 @@
 
 * 소프트웨어 업데이트가 진행된 일시와 버전 정보를 확인할 수 있습니다.
 
+
+
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt="" width="288"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/product-management-detail-mobile-1.png" alt="" width="288"><figcaption></figcaption></figure></div>
 
 ![](../.gitbook/assets/icon-square-1.svg) **상태**
 
