@@ -43,8 +43,8 @@ layout:
 [login.md](login.md)
 {% endcontent-ref %}
 
-{% content-ref url="opening-key.md" %}
-[opening-key.md](opening-key.md)
+{% content-ref url="opening-key-04.md" %}
+[opening-key-04.md](opening-key-04.md)
 {% endcontent-ref %}
 
 {% content-ref url="gnss-connect.md" %}

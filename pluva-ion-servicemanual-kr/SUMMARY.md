@@ -6,16 +6,16 @@
 
 ## 설치 <a href="#order-installation" id="order-installation"></a>
 
-* [주문/설치 단계 설명](order-installation/order-installation-steps.md)
+* [주문/설치 단계 설명](order-installation/order-installation-steps-04.md)
 * [개통/설치 단계 설명](order-installation/order-installation-steps-02.md)
-* [주문 등록](order-installation/order-registration.md)
+* [주문 등록](order-installation/order-registration-04.md)
 * [제품 개통](order-installation/product-registration-02.md)
 * [설치 전 준비 가이드](order-installation/pre-installation-overview/README.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-1.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-02.md)
   * [고객 계정 준비](order-installation/pre-installation-overview/preparing-accounts.md)
-* [설치티켓으로 제품 개통](order-installation/product-registration.md)
+* [설치티켓으로 제품 개통](order-installation/product-registration-04.md)
 * [제품 설치](order-installation/product-installation/README.md)
   * [구성품 준비](order-installation/product-installation/preparing-components.md)
   * [구성품 준비](order-installation/product-installation/preparing-components-03.md)
@@ -35,7 +35,7 @@
   * [네트워크 설정](order-installation/quick-setup/network-settings-03.md)
   * [소프트웨어 업데이트(OTA)](order-installation/quick-setup/ota.md)
   * [로그인](order-installation/quick-setup/login.md)
-  * [개통키 입력](order-installation/quick-setup/opening-key.md)
+  * [개통키 입력](order-installation/quick-setup/opening-key-04.md)
   * [GNSS 수신기 연결 확인](order-installation/quick-setup/gnss-connect.md)
   * [위치보정 설정](order-installation/quick-setup/rtk-setting.md)
   * [위치보정 설정](order-installation/quick-setup/rtk-setting-03.md)
@@ -44,7 +44,7 @@
   * [작업기 추가 (선택)](order-installation/quick-setup/add-worker.md)
   * [차량 보정](order-installation/quick-setup/vehicle-calibration.md)
   * [작업지 설정](order-installation/quick-setup/farm-setting.md)
-* [설치 완료 확인](order-installation/installation-completed.md)
+* [설치 완료 확인](order-installation/installation-completed-04.md)
 * [설치 완료 확인](order-installation/installation-completed-02.md)
 
 ## 기타 <a href="#others" id="others"></a>

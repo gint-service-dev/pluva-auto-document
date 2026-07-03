@@ -22,7 +22,7 @@ tags:
     primary: true
 ---
 
-# Copy of 퀵셋업 설명 및 준비
+# 퀵셋업 설명 및 준비
 
 #### **퀵셋업은 무엇인가요?**
 
@@ -38,7 +38,7 @@ tags:
 2. [네트워크 설정](network-settings.md)
 3. [소프트웨어 업데이트 (OTA)](ota.md)
 4. [로그인](login.md)
-5. [개통키 입력](opening-key.md)
+5. [개통키 입력](opening-key-04.md)
 6. [GNSS수신기 연결 확인](gnss-connect.md)
 7. [위치보정 설정](rtk-setting-03.md)
 8. [차량 추가](add-vehicle.md)

@@ -36,7 +36,7 @@ tags:
 
 * 어드민에 주문 정보를 입력하면 고객이 주문한 제품 수만큼 설치티켓이 자동 발행됩니다.\
   설치티켓은 설치에 필요한 정보를 포함하며 제품 등록, 개통, 설치 완료까지 전 과정을 관리하는 단위입니다.
-* 자세한 내용은 [<mark style="color:$primary;">주문 등록</mark>](order-registration.md)를 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">주문 등록</mark>](order-registration-04.md)를 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ tags:
 {% endhint %}
 
 * 설치할 구성품의 **시리얼 번호를 설치티켓에 개통**합니다. 등록이 완료되면 제품 활성화에 필요한 **개통키가 발급**되며, 어떤 제품이 어떤 고객에게 설치되었는지 이력이 기록됩니다.
-* 자세한 내용은 [<mark style="color:$primary;">제품등록</mark>](product-registration.md)을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">제품등록</mark>](product-registration-04.md)을 참고하세요.
 {% endstep %}
 
 {% step %}
@@ -96,6 +96,6 @@ tags:
 **설치 완료**
 
 * 모든 설치 및 설정이 완료되면 설치티켓에서 \[완료]를 눌러 설치 완료 상태를 시스템에 기록합니다.
-* 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](installation-completed.md) 을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](installation-completed-04.md) 을 참고하세요.
 {% endstep %}
 {% endstepper %}
