@@ -115,7 +115,7 @@
 
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/account-management-detail-mobile-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/install-detail-mobile.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/icon-square-1.svg) **고객 정보**
 
@@ -144,7 +144,7 @@
 {% hint style="info" %}
 **참고** 차량 정보 드롭다운을 펼치면 차량 치수와 설치 당시 보정값을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/install-detail-vehicle-expand.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/install-detail-vehicle-expand-mobile.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 ![](../.gitbook/assets/icon-square-7.svg) **설치티켓 버튼**
