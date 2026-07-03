@@ -26,6 +26,40 @@
 
 ***
 
+### 현장 기록 작성 방법
+
+{% stepper %}
+{% step %}
+기록할 탭을 선택하고 \[작성]을 누릅니다.
+
+<figure><img src="../.gitbook/assets/install-record-write-1.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+작성 모달에서 내용을 입력하고 사진·영상을 첨부합니다.
+
+<figure><img src="../.gitbook/assets/install-record-write-2.png" alt=""><figcaption></figcaption></figure>
+
+* 사진 지원 형식: JPG, PNG, HEIC, WEBP
+* 영상 지원 형식: MP4, MOV
+{% endstep %}
+
+{% step %}
+\[추가]를 누르면 기록 작성이 완료됩니다.
+
+<figure><img src="../.gitbook/assets/install-record-write-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+{% hint style="info" %}
+현장 기록은 설치 결과가 생성된 후 입력·업로드할 수 있으며, 작성·업로드한 사람과 일시가 함께 기록됩니다.&#x20;
+
+설치 담당자가 아니어도 입력할 수 있고, 작성자 본인만 수정할 수 있습니다.
+{% endhint %}
+
+
+***
+
 ### 설치 결과 목록 설명
 
 #### PC 환경
@@ -72,35 +106,3 @@
   * **담당자 피드백** : 담당자의 성능 평가와 개선 의견을 기록합니다.
   * **기타** : 그 외 사항을 기록합니다.
 
-***
-
-### 현장 기록 작성 방법
-
-{% stepper %}
-{% step %}
-기록할 탭을 선택하고 \[작성]을 누릅니다.
-
-<figure><img src="../.gitbook/assets/install-record-write-1.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-작성 모달에서 내용을 입력하고 사진·영상을 첨부합니다.
-
-<figure><img src="../.gitbook/assets/install-record-write-2.png" alt=""><figcaption></figcaption></figure>
-
-* 사진 지원 형식: JPG, PNG, HEIC, WEBP
-* 영상 지원 형식: MP4, MOV
-{% endstep %}
-
-{% step %}
-\[추가]를 누르면 기록 작성이 완료됩니다.
-
-<figure><img src="../.gitbook/assets/install-record-write-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
-
-{% hint style="info" %}
-현장 기록은 설치 결과가 생성된 후 입력·업로드할 수 있으며, 작성·업로드한 사람과 일시가 함께 기록됩니다.&#x20;
-
-설치 담당자가 아니어도 입력할 수 있고, 작성자 본인만 수정할 수 있습니다.
-{% endhint %}
