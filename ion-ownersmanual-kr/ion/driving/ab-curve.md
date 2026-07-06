@@ -48,4 +48,6 @@ AB 커브
 
 {% hint style="info" %}
 **참고:** 이앙기는 AB 커브 모드에서 후진할 수 없습니다.
+
+<figure><img src="../../.gitbook/assets/ab-curve-speed-3.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
