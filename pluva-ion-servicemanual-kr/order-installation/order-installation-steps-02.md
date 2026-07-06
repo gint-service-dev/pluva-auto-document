@@ -50,7 +50,7 @@ tags:
 **고객 교육**
 
 * 제품 설치가 완료된 후, 고객이 제품을 안전하게 사용할 수 있도록 **주요 기능과 사용 방법을 안내**합니다.
-* 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://fkk-pluva-servicemanual.pluva.io/ion/kr/initial-setup)을 참고하세요.
+* 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://app.gitbook.com/s/9HnyeIfS3GCTBWJmvOCO/usage)을 참고하세요.
 {% endstep %}
 
 {% step %}
