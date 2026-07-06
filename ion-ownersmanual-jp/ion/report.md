@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/report
+    - /broken/spaces/4rNrDNCqOFVCh006UOXy/pages/CnPOTOY3MQc4NV6zawgQ
 ---
 
 # 作業レポート
@@ -121,4 +121,3 @@ metaLinks:
 ![](../.gitbook/assets/icon-square-8.svg) **天候情報**
 
 * 作業当時の気温、湿度、風速が表示されます。高温・多湿・強風などの作業当時の環境状況も併せて表示されます。
-

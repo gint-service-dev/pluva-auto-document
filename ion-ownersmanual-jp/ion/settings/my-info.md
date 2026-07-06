@@ -2,7 +2,7 @@
 hidden: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/my-info
+    - /broken/spaces/4rNrDNCqOFVCh006UOXy/pages/0xoCQCAoGrTtbOiCUfQX
 ---
 
 # My情報

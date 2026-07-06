@@ -1,7 +1,7 @@
 ---
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/4rNrDNCqOFVCh006UOXy/ion/settings/system
+    - /broken/spaces/4rNrDNCqOFVCh006UOXy/pages/YlMQfDMMRBYJ4h9o2Ed2
 ---
 
 # システム設定
