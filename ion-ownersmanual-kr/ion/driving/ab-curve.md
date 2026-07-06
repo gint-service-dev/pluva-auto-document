@@ -36,10 +36,14 @@ AB 커브
 * 권장 속도를 초과하면 현재 속도가 **빨간색**으로 표시됩니다.
 * 설정 경로를 **30cm 이상** 벗어나면 화면에 경고가 표시됩니다.
 
+<figure><img src="../../.gitbook/assets/ab-curve-speed-1.png" alt=""><figcaption></figcaption></figure>
+
 **자율주행 해제**
 
 * 설정 경로를 **80cm 이상** 벗어나면 **"속도가 빨라 자율주행이 해제되었습니다"** 안내와 함께 자율주행이 해제됩니다.
 * 이 안내를 닫으려면 다시 주행을 시작하거나 다른 모드로 변경해 주세요.
+
+<figure><img src="../../.gitbook/assets/ab-curve-speed-2.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 {% hint style="info" %}
