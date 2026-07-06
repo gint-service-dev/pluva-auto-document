@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ApfGJXQ7BoVx9WrX5uM0
+  actions:
+    visible: true
 ---
 
 # 플루바 아이온 소개

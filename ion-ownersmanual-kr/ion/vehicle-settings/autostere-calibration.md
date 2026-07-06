@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/eyul4IidoQLFETNGpOd2
+  actions:
+    visible: true
 ---
 
 # 오토스티어 보정

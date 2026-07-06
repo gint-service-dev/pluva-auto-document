@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/2ynsDyJgcuvXLkPqsGWu
+  actions:
+    visible: true
 ---
 
 # 헤드랜드 등록

@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/8JcQzCRyCh7pVafvDahH
+  actions:
+    visible: true
 ---
 
 # 정비

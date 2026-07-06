@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/fYBfxvvYTITdYl7ONRHb
+  actions:
+    visible: true
 ---
 
 # 경로 불러오기

@@ -17,9 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/TYTPKr5BGNY2QTv2Ox8l
 ---
 
 # 작업기 추가
@@ -40,7 +37,7 @@ metaLinks:
 {% step %}
 ![](../../.gitbook/assets/add-button.svg) 작업기 추가 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/add-worker-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add-worker-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/scPRmf2UHNygzfDCY7Iu
+  actions:
+    visible: true
 ---
 
 # 전동 스티어링 휠

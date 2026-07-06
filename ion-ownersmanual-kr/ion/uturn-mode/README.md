@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/j8a0RRVRiclGFnUtRBDO
+  actions:
+    visible: true
 ---
 
 # 턴 모드

@@ -17,9 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-metaLinks:
-  alternates:
-    - system.md
 ---
 
 # 시스템 설정
@@ -83,4 +80,3 @@ metaLinks:
 ![](../../.gitbook/assets/icon-square-1.svg) **언어**
 
 * 한국어 / English / 日本語 중에서 선택합니다.
-

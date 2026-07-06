@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/EJqrAAhkH7cVbhZOYikF
+  actions:
+    visible: true
 ---
 
 # 필드 정보 관리

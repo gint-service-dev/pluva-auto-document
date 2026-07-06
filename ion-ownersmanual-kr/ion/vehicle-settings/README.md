@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ZuqLwg8QS7Wf46JEhnPi
+  actions:
+    visible: true
 ---
 
 # 차량 관리

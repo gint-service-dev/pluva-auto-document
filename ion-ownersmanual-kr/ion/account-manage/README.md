@@ -17,13 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/7X3X46eFmy2IlfSgKTQQ
-slug: initial-setup
 ---
 
-# 사용 계정 관리
+# 초기 설정
 
 제품을 사용하기 위한 계정을 생성하고, 계정 정보를 수정합니다.
 
@@ -31,8 +27,6 @@ slug: initial-setup
 [account.md](account.md)
 {% endcontent-ref %}
 
-
-{% content-ref url="../ota.md" %}
-[../ota.md](../ota.md)
+{% content-ref url="ota.md" %}
+[ota.md](ota.md)
 {% endcontent-ref %}
-

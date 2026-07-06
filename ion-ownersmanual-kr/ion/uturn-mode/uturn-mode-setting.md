@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/1Al7u3hGNO6iuC0fCoct
+  actions:
+    visible: true
 ---
 
 # 턴 설정 방법

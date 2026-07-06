@@ -17,7 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-metaLinks: {}
 ---
 
 # pluva ion User Manual
@@ -68,7 +67,7 @@ metaLinks: {}
 
 <summary><a href="ion/account-manage/">초기 설정</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>계정 생성</td><td><a href="ion/account-manage/account.md">account.md</a></td></tr><tr><td>계정 정보 수정</td><td><a href="https://github.com/gint-service-dev/pluva-auto-document/blob/main/ion-ownersmanual-kr/ion/account-manage/edit-member-info.md">https://github.com/gint-service-dev/pluva-auto-document/blob/main/ion-ownersmanual-kr/ion/account-manage/edit-member-info.md</a></td></tr><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/ota.md">ota.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>계정 생성</td><td><a href="ion/account-manage/account.md">account.md</a></td></tr><tr><td>계정 정보 수정</td><td><a href="https://github.com/gint-service-dev/pluva-auto-document/blob/main/ion-ownersmanual-kr/ion/account-manage/edit-member-info.md">https://github.com/gint-service-dev/pluva-auto-document/blob/main/ion-ownersmanual-kr/ion/account-manage/edit-member-info.md</a></td></tr><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="ion/account-manage/ota.md">ota.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -149,14 +148,6 @@ metaLinks: {}
 <summary><a href="ion/settings/">기타 설정</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>시스템 설정</td><td><a href="ion/settings/system.md">system.md</a></td></tr><tr><td>기기 설정</td><td><a href="ion/settings/device-settings.md">device-settings.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary><a href="ion/entertainment.md">엔터테인먼트</a></summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>엔터테인먼트</td><td><a href="ion/entertainment.md">entertainment.md</a></td></tr></tbody></table>
 
 </details>
 

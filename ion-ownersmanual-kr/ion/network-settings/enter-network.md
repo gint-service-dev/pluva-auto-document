@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/7Y1KdKsuYP8e2FRf3IJP
+  actions:
+    visible: true
 ---
 
 # 네트워크 설정 진입 및 화면 설명

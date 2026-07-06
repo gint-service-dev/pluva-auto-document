@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/ZYkNBXf2Czkgp032PJf0
+  actions:
+    visible: true
 ---
 
 # 제원 정보

@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/lstJSWDSTbo8ffvKpTv4
+  actions:
+    visible: true
 ---
 
 # 위치 보정 설정
@@ -219,4 +218,3 @@ UHF 연결은 별도의 서버 정보 없이 베이스 스테이션 장비와 UH
 {% endhint %}
 {% endstep %}
 {% endstepper %}
-

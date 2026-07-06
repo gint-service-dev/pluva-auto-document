@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/WIoY3CCBpBhanBnekj0s
+  actions:
+    visible: true
 ---
 
 # 개인정보 처리 방침

@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/X5qDbgfURP0gixpoV7Eq
+  actions:
+    visible: true
 ---
 
 # 문제해결 안내

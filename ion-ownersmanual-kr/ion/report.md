@@ -24,7 +24,7 @@
 {% hint style="info" %}
 작업 완료 직후에는 완료 화면의 \[작업 기록 보기]를 누르면 바로 진입할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/report-entry-3.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/report-entry-3.png" alt="" data-size="original">
 {% endhint %}
 
 ***
@@ -122,5 +122,3 @@
 ![](../.gitbook/assets/icon-square-8.svg) **작업기**
 
 * 작업에 사용한 작업기와 작업폭입니다.
-
-

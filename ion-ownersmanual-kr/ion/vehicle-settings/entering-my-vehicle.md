@@ -17,9 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/gIXThOhTkSi8WiJjDxF2
 ---
 
 # 내 차량 진입 및 화면 설명

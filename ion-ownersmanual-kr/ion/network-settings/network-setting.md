@@ -15,9 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  alternates:
-    - /broken/spaces/cB5Egkzinglp2WYUeNhf/pages/NpfpbwwMY8778pZ3TmxV
+  actions:
+    visible: true
 ---
 
 # 네트워크 설정
