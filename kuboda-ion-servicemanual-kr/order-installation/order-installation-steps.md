@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - >-
@@ -31,21 +33,21 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-#### 제품 개통
+**제품 개통**
 
 * 설치할 구성품을 선택하고 시리얼 번호를 등록하여 개통을 진행합니다.
 * 자세한 내용은 [<mark style="color:$primary;">제품개통</mark>](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-registration)을 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **설치**
+**설치**
 
 * 차량에 제품를 설치합니다. 기존 핸들을 자율주행용 핸들로 교체하고, 각종 센서 및 장치를 연결하는 작업을 포함합니다.
 * 자세한 내용은 [<mark style="color:$primary;">제품 설치</mark>](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/product-installation)를 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **퀵셋업**
+**퀵셋업**
 
 {% hint style="info" %}
 퀵셋업은 무엇인가요?
@@ -58,23 +60,22 @@ metaLinks:
 {% endstep %}
 
 {% step %}
-#### **시범 운행**
+**시범 운행**
 
 * 설치가 완료된 제품을 시범 운행하여, 설치 상태를 점검하고 **오작동/이상 여부를 확인**합니다. 문제가 발견되면 원인을 확인하고 필요한 조치를 진행합니다.
 {% endstep %}
 
 {% step %}
-#### **고객 교육**
+**고객 교육**
 
 * 제품 설치가 완료된 후, 고객이 제품을 안전하게 사용할 수 있도록 **주요 기능과 사용 방법을 안내**합니다.
 * 해당 내용은 [<mark style="color:$primary;">사용법</mark>](https://fkk-pluva-servicemanual.pluva.io/ion/kr/initial-setup)을 참고하세요.
 {% endstep %}
 
 {% step %}
-#### **설치 완료**
+**설치 완료**
 
 * 모든 설치 및 설정이 완료되면 설치 확인 사항을 점검하고 설치를 종료하세요.
 * 자세한 내용은 [<mark style="color:$primary;">설치 완료 확인</mark>](https://fkk-pluva-servicemanual.pluva.io/ion/kr/order-installation/installation-completed) 을 참고하세요.
 {% endstep %}
 {% endstepper %}
-
