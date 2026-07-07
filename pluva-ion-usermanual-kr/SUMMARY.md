@@ -68,7 +68,7 @@
 * [기타 설정](usage/settings/README.md)
   * [시스템 설정](usage/settings/system.md)
   * [기기 설정](usage/settings/device-settings.md)
-  * [기기 설정](usage/settings/device-settings-1.md)
+  * [기기 설정](usage/settings/device-settings-03.md)
   * [내 정보](usage/settings/my-info.md)
 
 ## 고객 지원 <a href="#consumer-info" id="consumer-info"></a>
