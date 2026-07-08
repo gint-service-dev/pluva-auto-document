@@ -34,6 +34,20 @@ layout:
 
 <div align="left"><figure><img src="../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
+![](../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
+
+* 태블릿의 전원을 끄거나 켭니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**올바른 종료 순서**
+
+1. 태블릿 전면의 절전 버튼을 누릅니다.
+2. 태블릿 화면이 완전히 꺼질 때까지 잠시 기다립니다.
+3. 화면이 꺼지고 약 10초가 지난 뒤, 메인 전원 스위치를 OFF합니다.
+{% endhint %}
+
 {% hint style="warning" %}
 메인 전원 스위치로 바로 끄면 작업한 내용이 저장되지 않아 다음과 같은 문제가 생길 수 있습니다. 반드시 올바른 종료 순서를 지켜 주세요.
 
@@ -41,25 +55,9 @@ layout:
 * 저장해 둔 경로를 다시 불러올 수 없습니다.
 {% endhint %}
 
-{% hint style="info" %}
-**올바른 종료 순서**
-
-태블릿을 끌 때는 끄는 순서가 중요합니다. 메인 전원 스위치로 곧바로 꺼 버리면, 작업한 내용이 미처 저장되지 못해 간혹 문제가 생길 수 있습니다.
-
-1. 태블릿 화면이 완전히 꺼질 때까지 잠시 기다립니다.
-2. 화면이 꺼지고 약 10초가 지난 뒤, 메인 전원 스위치를 OFF합니다.
-3. 화면이 꺼진 뒤에도 시스템이 마무리될 시간이 필요합니다. 약 10초를 기다렸다가 메인 전원 스위치를 내려 주세요.
-{% endhint %}
-
 {% hint style="warning" %}
 태블릿 절전 전원으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우, 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
 {% endhint %}
-
-![](../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
-
-* 태블릿의 전원을 끄거나 켭니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
 ![](../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
