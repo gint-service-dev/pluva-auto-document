@@ -8,24 +8,6 @@
 
 ***
 
-### 진입 방법
-
-{% stepper %}
-{% step %}
-좌측 메뉴에서 오퍼레이터 조직 목록을 선택합니다.
-
-<figure><img src="../../.gitbook/assets/operator-org-menu-open-1.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-원하는 오퍼레이터 조직을 선택해 상세에 진입합니다.
-
-<figure><img src="../../.gitbook/assets/operator-org-menu-open-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
-
-***
-
 ### 오퍼레이터 조직 생성
 
 {% stepper %}
@@ -41,7 +23,7 @@
 <figure><img src="../../.gitbook/assets/operator-org-create-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-상위 조직을 지정하면 조직 계층이 만들어지고, 하위 조직의 조회 범위·권한이 상위 조직을 따릅니다.
+상위 조직을 지정하면 조직 계층이 만들어집니다. 상위 조직은 하위 조직의 데이터를 볼 수 있습니다.
 {% endhint %}
 {% endstep %}
 
