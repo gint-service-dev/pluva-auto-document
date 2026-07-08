@@ -49,19 +49,19 @@ layout:
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **면적**
+![](<../../.gitbook/assets/icon-square-1.svg>) **면적**
 
 * 선택 가능 단위: m² 제곱미터 / 反 반 / a 아르 / ha 헥타르
 
-![](../../.gitbook/assets/icon-square-2.svg) **거리**
+![](<../../.gitbook/assets/icon-square-2.svg>) **거리**
 
 * 선택 가능 단위: m 미터 / km 킬로미터
 
-![](../../.gitbook/assets/icon-square-3.svg) **속도**
+![](<../../.gitbook/assets/icon-square-3.svg>) **속도**
 
 * 선택 가능 단위: m/s 분속 / km/h 시속
 
-![](../../.gitbook/assets/icon-square-4.svg) **작업 단위**
+![](<../../.gitbook/assets/icon-square-4.svg>) **작업 단위**
 
 * 선택 가능 단위: m 미터 / cm 센티미터
 
@@ -77,6 +77,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-2.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **언어**
+![](<../../.gitbook/assets/icon-square-1.svg>) **언어**
 
 * 한국어 / English / 日本語 중에서 선택합니다.
