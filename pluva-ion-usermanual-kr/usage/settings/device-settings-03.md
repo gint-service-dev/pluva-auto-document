@@ -22,7 +22,7 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-settings-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 

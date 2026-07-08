@@ -188,7 +188,7 @@ layout:
 {% step %}
 핸들 범위 보정 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

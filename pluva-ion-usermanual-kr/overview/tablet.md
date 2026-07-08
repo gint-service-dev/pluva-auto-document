@@ -202,13 +202,13 @@ layout:
 
 <div align="left"><figure><img src="../.gitbook/assets/network-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-> <img src="../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line"> : 위성 신호 우수
+> <img src="../.gitbook/assets/status-bar-gps-fixed (1).png" alt="" data-size="line"> : 위성 신호 우수
 >
-> <img src="../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line"> : 위성 신호 보통
+> <img src="../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line"> : 위성 신호 보통
 >
-> <img src="../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line"> : 위성 신호 나쁨
+> <img src="../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line"> : 위성 신호 나쁨
 >
-> <img src="../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line"> : 신호 없음
+> <img src="../.gitbook/assets/status-bar-gps-not-fixed (1).png" alt="" data-size="line"> : 신호 없음
 
 2. 네트워크 통신 상태
 
