@@ -47,7 +47,17 @@ tags:
 
 <details>
 
-<summary>핸들: 핸들 조작부 전체 구성 확인</summary>
+<summary>정면: 전체적인 조작부 구성 확인</summary>
+
+<figure><img src="../../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+</details>
+
+<details>
+
+<summary>핸들: 축의 각도와 공간 확인</summary>
 
 <figure><img src="../../.gitbook/assets/handle-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,24 +66,6 @@ tags:
 <figure><img src="../../.gitbook/assets/handle-3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/handle-4.png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>측면: 핸들 축 각도 및 주변 공간 확인</summary>
-
-<figure><img src="../../.gitbook/assets/side.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/etc-2.png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>기타: 외 참고 이미지</summary>
-
-<figure><img src="../../.gitbook/assets/etc-1.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -104,8 +96,6 @@ tags:
   1. 후면부 (후륜 바퀴에 가까운 곳)
   2. 중앙부 (Top 면의 중심)
   3. 앞면부 (스티어링 휠 근처 상부)
-
-<figure><img src="../../.gitbook/assets/cabin-mount-1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/cabin-mount-2.jpg" alt=""><figcaption></figcaption></figure>
 
