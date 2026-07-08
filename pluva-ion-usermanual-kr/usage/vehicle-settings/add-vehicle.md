@@ -8,7 +8,7 @@
 
 {% stepper %}
 {% step %}
-내 차량 화면에서 우측 하단의 ![](<../../.gitbook/assets/add-button (1).svg>) 버튼을 누릅니다.
+내 차량 화면에서 우측 하단의 ![](../../.gitbook/assets/add-button.svg) 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -83,17 +83,17 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-tractor-dimensions.png" alt="" width="284"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) 휠 베이스
+![](../../.gitbook/assets/icon-square-1.svg) 휠 베이스
 
 * 트랙터의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
 * ![](../../.gitbook/assets/add-tractor-dimensions-3.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 후륜 축-히치
+![](../../.gitbook/assets/icon-square-2.svg) 후륜 축-히치
 
 * 트랙터의 후륜 축 중심에서 히치까지의 수평 거리입니다.
 * ![](../../.gitbook/assets/add-tractor-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 지면-상부링크
+![](../../.gitbook/assets/icon-square-3.svg) 지면-상부링크
 
 * 지면에서부터 트랙터의 상부 링크까지의 수직 거리입니다.
 * ![](../../.gitbook/assets/add-tractor-dimensions-6.png)
@@ -102,21 +102,21 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions.png" alt="" width="278"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) 휠베이스
+![](../../.gitbook/assets/icon-square-1.svg) 휠베이스
 
 * 이앙기의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-1.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 후륜 축-차량 끝
+![](../../.gitbook/assets/icon-square-2.svg) 후륜 축-차량 끝
 
 * 이앙기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 이앙기 폭
+![](../../.gitbook/assets/icon-square-3.svg) 이앙기 폭
 
 * 이앙기의 폭을 의미하며 타이어 너비를 포함합니다.
 * ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 간격 편차
+![](../../.gitbook/assets/icon-square-4.svg) 간격 편차
 
 * 양방향 작업 주행 시 간격이 일정하지 않을 때 보정하기 위한 수치값입니다. (간격 편차의 절대값을 4로 나눈 수치를 입력)
