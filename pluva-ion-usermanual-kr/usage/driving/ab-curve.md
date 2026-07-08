@@ -61,3 +61,13 @@ AB 커브
 
 <img src="../../.gitbook/assets/ab-curve-speed-3.png" alt="" data-size="original">
 {% endhint %}
+
+{% hint style="info" %}
+**AB 커브 진입 시 퀵턴 끄기**
+
+AB 커브는 퀵턴이 꺼진 상태에서만 사용할 수 있습니다. 퀵턴이 켜진 채로 AB 커브 모드에 진입하면 "AB 커브모드 퀵턴 OFF 안내" 창이 표시됩니다.
+
+
+
+<img src="../../.gitbook/assets/ab-curve-speed-quickturn.png" alt="" data-size="original">
+{% endhint %}
