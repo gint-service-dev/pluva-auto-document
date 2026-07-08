@@ -66,19 +66,19 @@
 
 <figure><img src="../../.gitbook/assets/member-info-screen.png" alt="" width="288"><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **기본 정보 관리**
+![](<../../.gitbook/assets/icon-square-1.svg>) **기본 정보 관리**
 
 * 이름, 휴대폰 번호, 이메일을 확인하고 \[변경]으로 수정합니다.
 
-![](../../.gitbook/assets/icon-square-2.svg) 비밀번호
+![](<../../.gitbook/assets/icon-square-2.svg>) 비밀번호
 
 * \[변경]으로 비밀번호를 수정합니다.
 
-![](../../.gitbook/assets/icon-square-3.svg) 로그아웃
+![](<../../.gitbook/assets/icon-square-3.svg>) 로그아웃
 
 * 현재 계정에서 로그아웃합니다.
 
-![](../../.gitbook/assets/icon-square-4.svg) 회원탈퇴
+![](<../../.gitbook/assets/icon-square-4.svg>) 회원탈퇴
 
 * 계정을 탈퇴합니다.
 
