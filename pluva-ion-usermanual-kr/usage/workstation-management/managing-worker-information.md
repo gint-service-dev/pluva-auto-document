@@ -8,7 +8,7 @@
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_worker.svg) \[작업기] 버튼을 누릅니다.
+![](<../../.gitbook/assets/ic_worker (1).svg>) \[작업기] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/managing-worker-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
