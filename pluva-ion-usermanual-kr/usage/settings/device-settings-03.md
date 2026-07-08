@@ -16,7 +16,7 @@ tags:
 {% step %}
 앱 하단 내비게이션에서 설정 아이콘을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/screen-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -34,17 +34,17 @@ tags:
 
 <figure><img src="../../.gitbook/assets/screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **화면 밝기**
+![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
 * 슬라이더를 드래그하여 화면 밝기를 조절합니다.
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **음량**
+![](../../.gitbook/assets/icon-square-2.svg) **음량**
 
 * 슬라이더를 드래그하여 음량을 조절합니다.
   * **예시 듣기**: 설정한 음량을 미리 들어봅니다.
   * **음량 초기화**: 음량을 기본값으로 되돌립니다.
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **카메라**
+![](../../.gitbook/assets/icon-square-3.svg) **카메라**
 
 * 주행 화면에 카메라 영상 표시 여부를 설정합니다.
   * **전체 카메라**: 카메라를 한 번에 켜거나 끕니다.
@@ -63,7 +63,7 @@ tags:
 {% endhint %}
 
 {% hint style="info" %}
-#### 키보드 업데이트가 필요한 경우
+**키보드 업데이트가 필요한 경우**
 
 키보드 업데이트가 필요하면 화면에 “키보드 업데이트가 필요합니다” 안내와 \[지금 설치] 버튼이 표시됩니다.
 
@@ -80,11 +80,11 @@ tags:
 
 <figure><img src="../../.gitbook/assets/device-info-1.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) 기기 일련번호
+![](../../.gitbook/assets/icon-square-1.svg) 기기 일련번호
 
 * 기기의 일련번호가 표시됩니다.
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 데이터 초기화
+![](../../.gitbook/assets/icon-square-2.svg) 데이터 초기화
 
 * 등록된 연결정보를 모두 해제하고 초기 설정 상태로 되돌립니다.
 * 데이터 초기화 시 초기 화면으로 이동하여 퀵셋업을 처음부터 다시합니다.
