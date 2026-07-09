@@ -84,6 +84,8 @@ tags:
 
 설치 위치에 따라 측위 정밀도와 작업 품질이 달라집니다. 방문 전에 고객과 미리 상의합니다.
 
+![](../../.gitbook/assets/1.svg) **GNSS 수신기 위치**
+
 * **캐빈(Cabin) 모델**: 캐빈 위에 장착합니다. 제조사 순정 GNSS 수신기가 이미 있는지 미리 확인합니다.
 
 <details>
@@ -110,18 +112,19 @@ tags:
 
 </details>
 
+* **오픈형(지붕 없음)**: 본네트의 평평한 곳에 장착합니다.
+
 <details>
 
-<summary>ROPS 트랙터 (캐빈이 없는 경우)</summary>
+<summary>설치 사진</summary>
 
-* 본네트의 평평한 곳에 장착합니다.
-
-<figure><img src="../../.gitbook/assets/rops-mount-1.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/rops-mount-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 </details>
 
-* **오픈형(지붕 없음)**: 수신기를 고정할 별도 스테이(거치대)가 있는지 확인합니다.
-* **태블릿**: 운전 중 조작하기 편하고 단단히 고정할 수 있는 위치를 고객과 함께 정합니다.
+![](../../.gitbook/assets/2.svg) **태블릿 위치**
+
+* 운전 중 조작하기 편하고 단단히 고정할 수 있는 위치를 고객과 함께 정합니다.
 {% endstep %}
 
 {% step %}
