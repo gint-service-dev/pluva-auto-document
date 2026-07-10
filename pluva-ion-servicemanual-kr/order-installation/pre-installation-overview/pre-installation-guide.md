@@ -43,27 +43,25 @@ tags:
 
 적합한 부품(스플라인, 브래킷 등)을 사전에 준비하기 위해 아래 사진 자료를 방문 전에 확보합니다.
 
-**필요 사진**
+**핸들 주변 필요 사진**
 
 <details>
 
-<summary>옆면</summary>
+<summary>정면</summary>
 
-<figure><img src="../../.gitbook/assets/side.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/handle-4.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary>핸들</summary>
+<summary>측면</summary>
 
 <figure><img src="../../.gitbook/assets/handle-1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/handle-2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/handle-3.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/handle-4.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
