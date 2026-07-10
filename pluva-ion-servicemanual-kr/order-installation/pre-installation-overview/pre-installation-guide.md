@@ -47,7 +47,7 @@ tags:
 
 <details>
 
-<summary>정면</summary>
+<summary>정면: 전체적인 조작부 구성 확인</summary>
 
 <figure><img src="../../.gitbook/assets/handle-4.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ tags:
 
 <details>
 
-<summary>측면</summary>
+<summary>측면: 핸들 축의 각도와 공간 확인</summary>
 
 <figure><img src="../../.gitbook/assets/handle-1.png" alt=""><figcaption></figcaption></figure>
 
