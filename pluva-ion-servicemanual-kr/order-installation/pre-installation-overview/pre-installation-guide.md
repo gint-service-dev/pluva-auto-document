@@ -47,17 +47,15 @@ tags:
 
 <details>
 
-<summary>정면: 전체적인 조작부 구성 확인</summary>
+<summary>옆면</summary>
 
-<figure><img src="../../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/side.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary>핸들: 축의 각도와 공간 확인</summary>
+<summary>핸들</summary>
 
 <figure><img src="../../.gitbook/assets/handle-1.png" alt=""><figcaption></figcaption></figure>
 
