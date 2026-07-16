@@ -86,7 +86,7 @@ My車両画面の右下にある ![](<../../.gitbook/assets/add-button (1).svg>)
 ![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
 
 * トラクターの前輪の中心から、後輪の中心までの距離です。
-* ![](../../.gitbook/assets/add-tractor-dimensions-3.png)
+* ![](../../.gitbook/assets/add-tractor-dimensions-1.png)
 
 ![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸-ヒッチ
 
