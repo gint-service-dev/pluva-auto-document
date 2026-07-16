@@ -115,7 +115,7 @@ My車両画面の右下にある ![](<../../.gitbook/assets/add-button (1).svg>)
 ![](<../../.gitbook/assets/icon-square-3 (1).svg>) 田植え機の幅
 
 * 田植え機の幅を表し、タイヤの幅も含まれます。
-* ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
+* ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
 ![](<../../.gitbook/assets/icon-square-4 (1).svg>) 間隔偏差
 
