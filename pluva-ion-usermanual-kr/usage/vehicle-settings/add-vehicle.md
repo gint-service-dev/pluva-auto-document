@@ -115,7 +115,7 @@
 ![](<../../.gitbook/assets/icon-square-3 (1).svg>) 이앙기 폭
 
 * 이앙기의 폭을 의미하며 타이어 너비를 포함합니다.
-* ![](../../.gitbook/assets/add-leeangi-dimensions-4.png)
+* ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
 ![](<../../.gitbook/assets/icon-square-4 (1).svg>) 간격 편차
 
