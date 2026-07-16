@@ -110,7 +110,7 @@
 ![](<../../.gitbook/assets/icon-square-2 (1).svg>) 후륜 축-차량 끝
 
 * 이앙기의 후륜 축 중심에서 차량 끝까지의 수평 거리입니다.
-* ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
+* ![](../../.gitbook/assets/add-leeangi-dimensions-2.png)
 
 ![](<../../.gitbook/assets/icon-square-3 (1).svg>) 이앙기 폭
 
