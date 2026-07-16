@@ -44,8 +44,13 @@
 ## その他 <a href="#others" id="others"></a>
 
 * [お客様のお困りごとへの対応策](others/initial-setup.md)
+* [お客様アカウント情報の修正](others/customer-account-edit.md)
 * [アドミンへのログイン](others/admin-login.md)
-* [製品管理](others/product-management.md)
+* [取り付け結果一覧](others/installation-result-list.md)
 * [アカウント管理](others/account-management.md)
-* [管理者アカウントの管理](others/operator-management.md)
+* [製品管理](others/product-management.md)
 * [リモートサポート](others/monitorning.md)
+* [オペレーター管理](others/operator-manage/README.md)
+  * [オペレーターアカウントの管理](others/operator-manage/operator-management.md)
+  * [オペレーター所属管理](others/operator-manage/operator-org-management.md)
+  * [認証済みオペレーター管理](others/operator-manage/cert-operator-management.md)
