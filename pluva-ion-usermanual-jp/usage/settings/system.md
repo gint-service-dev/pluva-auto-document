@@ -1,6 +1,6 @@
 # システム設定
 
-アプリのタイムゾーンや言語、単位などの基本的な環境設定を行います。
+アプリのタイムゾーン、言語、単位などの基本環境の設定を行います。
 
 ***
 
@@ -8,37 +8,45 @@
 
 {% stepper %}
 {% step %}
-アプリ下部の設定アイコンをタップします。
+アプリ下部のメニューから\[設定]アイコンをタップします。
 
-<figure><img src="../../.gitbook/assets/system-settings-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/system-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-左側のメニューからシステム設定をタップします。
+左のメニューから\[システム設定]をタップすると、システムの設定画面へアクセスします。
 
-<figure><img src="../../.gitbook/assets/system-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/system-settings-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-### 単位設定画面のご案内
+### 単位の設定画面
 
-面積や距離、速度などの表示単位を選択します。
+面積、距離、速度の表示単位を選択します。
 
-<figure><img src="../../.gitbook/assets/system-screen-layout-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/system-screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **面積**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **面積**
 
-* 選択可能な単位： m² 平方メートル / mu 畝 / ha ヘクタール
+* 選択可能な単位: m²平方メートル / 反 たん / a アール / ha ヘクタール
 
-![](../../.gitbook/assets/icon-square-2.svg) **距離**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **距離**
 
-* 選択可能な単位：m メートル / km キロメートル
+* 選択可能な単位: m メートル / km キロメートル
 
-![](../../.gitbook/assets/icon-square-3.svg) **速度**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **速度**
 
-* 選択可能な単位： m/s 分速 / km/h 時速
+* 選択可能な単位: m/s 分速 / km/h 時速
+
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **作業単位**
+
+* 選択可能な単位: m メートル / cm センチメートル
+
+{% hint style="info" %}
+作業単位は、作業幅、等間隔、オフセット設定に適用されます。
+{% endhint %}
 
 ***
 
@@ -46,42 +54,8 @@
 
 アプリの表示言語を変更します。
 
-<figure><img src="../../.gitbook/assets/system-screen-layout-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/system-screen-layout-2 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **言語**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **言語**
 
-* 韓国語 / English / 日本語 から選択します。
-
-***
-
-### タイムゾーンの設定
-
-現在地に合わせたタイムゾーンを設定します。
-
-<figure><img src="../../.gitbook/assets/system-screen-layout-3.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-1.svg) **自動で設定**
-
-* **「自動で設定」**&#x3092;有効にすると、タイムゾーンは機器の位置を基盤として自動で設定されます。
-
-{% hint style="info" %}
-**自動で設定**を無効にすると、日付と時間を直接設定できます。
-
-<img src="../../.gitbook/assets/system-screen-time-manual.png" alt="" data-size="original">
-
-日付エリアをタップすると、カレンダーからご希望の日付を直接選択できます。
-
-<img src="../../.gitbook/assets/system-screen-time-manual-setting-date.png" alt="" data-size="original">
-
-時間エリアをタップすると、スクロールでご希望の時間を直接選択できます。
-
-<img src="../../.gitbook/assets/system-screen-time-manual-setting-time.png" alt="" data-size="original">
-{% endhint %}
-
-![](../../.gitbook/assets/icon-square-2.svg) **タイムゾーン**
-
-* 現在設定されたタイムゾーンが表示されます。
-
-![](../../.gitbook/assets/icon-square-3.svg) **24時間表示**
-
-* 24時間で時間表示されます。トグルを無効にすると、12時間表示（午前/午後）に変更されます。
+* 韓国語 / English / 日本語 の中から選択します。

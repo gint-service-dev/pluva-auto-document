@@ -19,11 +19,9 @@ layout:
     visible: true
 ---
 
-# My車両へのアクセスおよび画面のご案内
+# My車両へのアクセス及び画面のご案内
 
-作業に使用する車両を追加、または補正できる管理機能です。\
-現在タブレットが取り付けられている車両の情報が表示されます。\
-車両の変更及び修正は購入先（販売店）にお問い合わせください。
+My車両では、作業に使用する車両の情報を確認し、補正や寸法など、車両に関する設定ができます。
 
 ***
 
@@ -31,49 +29,69 @@ layout:
 
 {% stepper %}
 {% step %}
-![](../../.gitbook/assets/ic_vehicle.svg) \[車両]をタップします。
+![](<../../.gitbook/assets/ic_vehicle (1).svg>) \[車両]アイコンをタップします。
 
-<figure><img src="../../.gitbook/assets/entering-my-vehicle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/entering-my-vehicle-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-My車両へのアクセスが完了します。
+My車両へアクセスできます。
 
-<figure><img src="../../.gitbook/assets/entering-my-vehicle-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/entering-my-vehicle-2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### My車両画面のご案内
+#### My車両の画面に関するご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/entering-my-vehicle-screen.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/entering-my-vehicle-screen (1).png" alt=""><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) **車両補正**
+![](<../../.gitbook/assets/icon-square-1 (1).svg>) **GNSS受信機の設定**
 
-* 車両が揺れたり曲がったりせず、正確に直進できるようオートステア、ロール・ピッチ・ヨー、慣性センサーなどを補正します。
+* 車両に取り付けられたGNSS受信機の位置を入力し、位置精度を最適化します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **車両の制御設定**
+![](<../../.gitbook/assets/icon-square-2 (1).svg>) **ロール・ピッチ・ヨーの測定**
 
-* 作業環境に合わせて走行の特性を調整できます。\
-  設定変更すると自動操舵の性能に影響を与えかねません。
+* 車両の傾き（ロール・ピッチ・ヨー）を測定および補正します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **GNSS受信機の設定**
+![](<../../.gitbook/assets/icon-square-3 (1).svg>) **オートステア補正**
 
-* 車両に取り付けられたGNSS受信機の位置を入力し、位置精度を最適化できます。（または位置精度を高められます。）
+* 車両の蛇行を抑え、真っ直ぐ直進できるようにステアリングを補正します。
 
-![](../../.gitbook/assets/icon-square-4.svg) **車両情報**
+![](<../../.gitbook/assets/icon-square-4 (1).svg>) **車両の制御設定**
 
-* 取り付けられている車両のタイプ、別名、メーカー、機種を表示します。
+* 作業環境に合わせ、走行の特性を調整します。\
+  設定を変更すると、自動操舵の精度が変わる恐れがあります。
 
-![](../../.gitbook/assets/icon-square-5.svg) **倍速ターン ON/OFF**
+![](<../../.gitbook/assets/icon-square-5 (1).svg>) **慣性センサーの初期化**
 
-* 倍速ターン付きの車両の場合、車両の倍速ターンのON/OFF状態を表示します。倍速ターン付きの車両でない場合には表示されません。
+* 慣性センサー（IMU）の値をリセットします。
 
-![](../../.gitbook/assets/icon-square-6.svg) **車両寸法**
+![](<../../.gitbook/assets/icon-square-6 (1).svg>) **My車両**
 
-* 車両の寸法を入力し終わったかどうかが表示されます。タップすると車両の寸法を変更できます。
+* \[My車両 ›]をタップすると、登録済みの車両一覧が表示されます。
 
-![](../../.gitbook/assets/icon-square-7.svg) **車両補正の有無**
+<img src="../../.gitbook/assets/my-vehicle-list-1.png" alt="" data-size="original">
 
-* 車両の補正が終わったかどうかが表示されます。タップすると車両の補正画面にアクセスされます。
+![](<../../.gitbook/assets/icon-square-7 (1).svg>) **車両情報**
+
+* 現在取り付けられている車両のタイプ、別名、メーカー、型式が表示されます。
+
+![](<../../.gitbook/assets/icon-square-8 (1).svg>) **倍速ターンのON/OFF**
+
+* 倍速ターンのON/OFFの設定状況が確認できます。倍速ターン付き車両でない場合は、表示されません。&#x20;
+
+![](<../../.gitbook/assets/icon-square-9 (1).svg>) **車両の寸法**
+
+*   車両の寸法が入力されたかどうかが表示されます。タップすると、車両の寸法を修正できます。<br>
+
+    <figure><img src="../../.gitbook/assets/my-vehicle-dimension-1.png" alt=""><figcaption></figcaption></figure>
+
+![](<../../.gitbook/assets/icon-square-10 (1).svg>) **オートステア補正（ステータス）**
+
+* オートステア補正が完了したかどうかが表示されます。タップすると、補正画面に移動します。
+
+![](../../.gitbook/assets/icon-square-11.svg) **車両の追加（＋）**
+
+* 画面右下の＋ボタンをタップすると、車両の追加ができます。
