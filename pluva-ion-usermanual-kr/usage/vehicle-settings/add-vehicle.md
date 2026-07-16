@@ -86,7 +86,7 @@
 ![](<../../.gitbook/assets/icon-square-1 (1).svg>) 휠 베이스
 
 * 트랙터의 앞바퀴 중심과 뒷바퀴 중심 간의 거리입니다.
-* ![](../../.gitbook/assets/add-tractor-dimensions-3.png)
+* ![](../../.gitbook/assets/add-tractor-dimensions-1.png)
 
 ![](<../../.gitbook/assets/icon-square-2 (1).svg>) 후륜 축-히치
 
