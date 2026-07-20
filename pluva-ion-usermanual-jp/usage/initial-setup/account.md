@@ -66,19 +66,19 @@ pluva ionをご利用いただくには、まず統合会員登録サイトで�
 
 <figure><img src="../../.gitbook/assets/member-info-screen.png" alt="" width="288"><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **基本情報の管理**
+![](../../.gitbook/assets/icon-square-1.svg) **基本情報の管理**
 
 * お名前、携帯電話番号、メールアドレスを確認し\[変更]をタップして修正します。
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) パスワード
+![](../../.gitbook/assets/icon-square-2.svg) パスワード
 
 * \[変更]をタップし、パスワードを修正します。
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) ログアウト
+![](../../.gitbook/assets/icon-square-3.svg) ログアウト
 
 * 現在のアカウントからログアウトします。
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 退会
+![](../../.gitbook/assets/icon-square-4.svg) 退会
 
 * アカウントを削除（退会）します。
 

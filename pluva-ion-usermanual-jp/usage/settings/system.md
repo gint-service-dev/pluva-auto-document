@@ -28,19 +28,19 @@
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **面積**
+![](../../.gitbook/assets/icon-square-1.svg) **面積**
 
 * 選択可能な単位: m²平方メートル / 反 たん / a アール / ha ヘクタール
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) **距離**
+![](../../.gitbook/assets/icon-square-2.svg) **距離**
 
 * 選択可能な単位: m メートル / km キロメートル
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) **速度**
+![](../../.gitbook/assets/icon-square-3.svg) **速度**
 
 * 選択可能な単位: m/s 分速 / km/h 時速
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) **作業単位**
+![](../../.gitbook/assets/icon-square-4.svg) **作業単位**
 
 * 選択可能な単位: m メートル / cm センチメートル
 
@@ -56,6 +56,6 @@
 
 <figure><img src="../../.gitbook/assets/system-screen-layout-2 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) **言語**
+![](../../.gitbook/assets/icon-square-1.svg) **言語**
 
 * 韓国語 / English / 日本語 の中から選択します。

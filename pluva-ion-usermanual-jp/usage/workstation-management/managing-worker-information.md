@@ -8,7 +8,7 @@
 
 {% stepper %}
 {% step %}
-![](<../../.gitbook/assets/ic_worker (1).svg>) \[作業機]アイコンをタップします。
+![](../../.gitbook/assets/ic_worker.svg) \[作業機]アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/managing-worker-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

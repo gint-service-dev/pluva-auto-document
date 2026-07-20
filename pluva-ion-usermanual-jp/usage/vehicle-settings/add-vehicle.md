@@ -8,7 +8,7 @@ My車両の画面から車両を追加し、車両情報や寸法を入力して
 
 {% stepper %}
 {% step %}
-My車両画面の右下にある ![](<../../.gitbook/assets/add-button (1).svg>) アイコンをタップします。
+My車両画面の右下にある ![](../../.gitbook/assets/add-button.svg) アイコンをタップします。
 
 <figure><img src="../../.gitbook/assets/add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -83,17 +83,17 @@ My車両画面の右下にある ![](<../../.gitbook/assets/add-button (1).svg>)
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-tractor-dimensions.png" alt="" width="284"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
+![](../../.gitbook/assets/icon-square-1.svg) ホイールベース
 
 * トラクターの前輪の中心から、後輪の中心までの距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-1.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸-ヒッチ
+![](../../.gitbook/assets/icon-square-2.svg) 後輪軸-ヒッチ
 
 * トラクターの後輪軸の中心から、ヒッチまでの水平距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-4.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 地面-トップリンク
+![](../../.gitbook/assets/icon-square-3.svg) 地面-トップリンク
 
 * 地面からトラクターのトップリンクまでの垂直距離です。
 * ![](../../.gitbook/assets/add-tractor-dimensions-6.png)
@@ -102,21 +102,21 @@ My車両画面の右下にある ![](<../../.gitbook/assets/add-button (1).svg>)
 
 <div align="left"><figure><img src="../../.gitbook/assets/add-leeangi-dimensions.png" alt="" width="278"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/icon-square-1 (1).svg>) ホイールベース
+![](../../.gitbook/assets/icon-square-1.svg) ホイールベース
 
 * 田植え機の前輪の中心から、後輪の中心までの距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-1.png)
 
-![](<../../.gitbook/assets/icon-square-2 (1).svg>) 後輪軸-車両の端
+![](../../.gitbook/assets/icon-square-2.svg) 後輪軸-車両の端
 
 * 田植え機の後輪軸の中心から、車両の端までの水平距離です。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-2.png)
 
-![](<../../.gitbook/assets/icon-square-3 (1).svg>) 田植え機の幅
+![](../../.gitbook/assets/icon-square-3.svg) 田植え機の幅
 
 * 田植え機の幅を表し、タイヤの幅も含まれます。
 * ![](../../.gitbook/assets/add-leeangi-dimensions-3.png)
 
-![](<../../.gitbook/assets/icon-square-4 (1).svg>) 間隔偏差
+![](../../.gitbook/assets/icon-square-4.svg) 間隔偏差
 
 * 往復作業時に走行間隔が一定にならない場合、補正するための設定値です。（間隔偏差の絶対値を4で割った数値を入力します）

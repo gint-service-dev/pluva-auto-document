@@ -9,7 +9,7 @@
 
 {% stepper %}
 {% step %}
-ホーム画面から ![](<../.gitbook/assets/ic_menu (1).svg>) アイコンをタップします。
+ホーム画面から ![](../.gitbook/assets/ic_menu.svg) アイコンをタップします。
 
 <figure><img src="../.gitbook/assets/report-menu-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -35,38 +35,38 @@
 
 <figure><img src="../.gitbook/assets/report-list-view-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) **並べ替え**
+![](../.gitbook/assets/icon-square-1.svg) **並べ替え**
 
 * 新しい順・古い順に一覧を並べ替えられます。
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) **日付の選択**
+![](../.gitbook/assets/icon-square-2.svg) **日付の選択**
 
 * 週表示カレンダーからご希望の日付を選択すると、その日の作業記録が確認できます。
 * 上部の「年/月」またはカレンダーのアイコンをタップすると、表示する「年/月」を変更できます。
 
 <figure><img src="../.gitbook/assets/report-list-calendar-picker-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) **作業時刻**
+![](../.gitbook/assets/icon-square-3.svg) **作業時刻**
 
 * 作業の開始・終了時刻を表します。
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) **自動経路の表示**
+![](../.gitbook/assets/icon-square-4.svg) **自動経路の表示**
 
 * 自動経路で作業が行われた作業履歴にタグされ、自動経路を表示します。
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) **車両**
+![](../.gitbook/assets/icon-square-5.svg) **車両**
 
 * 作業に使用された車両を表します。
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) **作業機**
+![](../.gitbook/assets/icon-square-6.svg) **作業機**
 
 * 作業に使用された作業機を表します。
 
-![](<../.gitbook/assets/icon-square-7 (1).svg>) **作業時間**
+![](../.gitbook/assets/icon-square-7.svg) **作業時間**
 
 * 作業にかかった実際の時間が表示されます。
 
-![](<../.gitbook/assets/icon-square-8 (1).svg>) **作業面積**
+![](../.gitbook/assets/icon-square-8.svg) **作業面積**
 
 * 作業した面積が表示されます。
 
@@ -78,11 +78,11 @@
 
 <figure><img src="../.gitbook/assets/report-detail-view-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/icon-square-1 (1).svg>) **作業時刻**
+![](../.gitbook/assets/icon-square-1.svg) **作業時刻**
 
 * 作業の開始・終了時刻を表します。
 
-![](<../.gitbook/assets/icon-square-2 (1).svg>) **作業した場所の地図**
+![](../.gitbook/assets/icon-square-2.svg) **作業した場所の地図**
 
 * 作業経路と作業完了エリアが地図上から表示されます。
 * 地図の上部には、作業した圃場の住所および圃場名が表示されます。
@@ -98,27 +98,27 @@
 「拡大する」をタップすると、地図を全画面表示で確認できます。
 {% endhint %}
 
-![](<../.gitbook/assets/icon-square-3 (1).svg>) **作業面積**
+![](../.gitbook/assets/icon-square-3.svg) **作業面積**
 
 * 自動操舵で作業完了した、総面積を表します。
 
-![](<../.gitbook/assets/icon-square-4 (1).svg>) **走行距離**
+![](../.gitbook/assets/icon-square-4.svg) **走行距離**
 
 * 作業時に走行した総距離が表示されます。自動操舵と手動走行距離も併せて表示されます。
 
-![](<../.gitbook/assets/icon-square-5 (1).svg>) **作業時間に関する情報**
+![](../.gitbook/assets/icon-square-5.svg) **作業時間に関する情報**
 
 * 作業時間とは、自動操舵、または手動走行で実際作業した総時間のことです。
 * 作業が行われた時間帯（午前作業/午後作業）が併せて表示されます。
 
-![](<../.gitbook/assets/icon-square-6 (1).svg>) **メモ**
+![](../.gitbook/assets/icon-square-6.svg) **メモ**
 
 * 作業時に入力したメモが確認できます。
 
-![](<../.gitbook/assets/icon-square-7 (1).svg>) **車両**
+![](../.gitbook/assets/icon-square-7.svg) **車両**
 
 * 作業に使用した車両情報です。
 
-![](<../.gitbook/assets/icon-square-8 (1).svg>) **作業機**
+![](../.gitbook/assets/icon-square-8.svg) **作業機**
 
 * 作業に使用した作業機、および作業幅が表示されます。
