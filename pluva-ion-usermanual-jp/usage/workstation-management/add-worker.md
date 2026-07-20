@@ -78,23 +78,23 @@ layout:
 
 作業機のタイプ一覧にご使用の作業機がない場合、直接入力し設定できます。入力された作業機名は、後日、名称変更する場合があります。
 
-<img src="/broken/files/wwDppdNRatHW2YWBVbdV" alt="" data-size="original">
+<img src="../../.gitbook/assets/add-worker-type-1.png" alt="" data-size="original">
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-3.svg) 作業機の幅
 
 * 作業機の幅を入力します。
-* ![](/broken/files/GOH83FFQc3QWpyhfXtIo)
+* ![](../../.gitbook/assets/add-worker-dimensions-1.png)
 
 ![](../../.gitbook/assets/icon-square-4.svg) 畝間
 
 * 畝間を入力します。
-* ![](/broken/files/GOH83FFQc3QWpyhfXtIo)
+* ![](../../.gitbook/assets/add-worker-dimensions-2.png)
 
 ![](../../.gitbook/assets/icon-square-5.svg) リンク -作業機の距離
 
 * リンクと作業機の間の距離を入力します。
-* ![](/broken/files/aztXxBZuA9fG3Sctjv6o)
+* ![](../../.gitbook/assets/add-worker-dimensions-3.png)
 
 ![](../../.gitbook/assets/icon-square-6.svg) 作業機の偏差
 
@@ -105,7 +105,7 @@ layout:
 * 3列を走行してライン間隔の値を入力すると、作業機の偏差が自動で計算されます。
 *   画像で示された方向に沿って3本のラインを走行し、走行ライン間の距離を測定して入力してください。<br>
 
-    <figure><img src="/broken/files/zmxxALuuOX6wwFPlOXI3" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
 
     * S1：一本目と二本目の間の距離
     * S2：二本目と三本目の間の距離
