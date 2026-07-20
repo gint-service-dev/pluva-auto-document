@@ -153,7 +153,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <details>
 
-<summary><a href="/broken/pages/O5agYGniJRrWMpGJdhFE">お客様サポート</a></summary>
+<summary><a href="consumer-info/problem-solving.md">お客様サポート</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>トラブルシューティング</td><td><a href="consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>リモートサポート</td><td><a href="consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>整備</td><td><a href="consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>個人情報処理方針</td><td><a href="consumer-info/privacy-policy.md">privacy-policy.md</a></td></tr><tr><td>仕様情報</td><td><a href="consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
