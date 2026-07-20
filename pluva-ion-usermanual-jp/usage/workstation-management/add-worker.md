@@ -63,7 +63,7 @@ layout:
 
 #### 作業機の追加項目のご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen-1.png" alt="" width="208"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 別名
 
