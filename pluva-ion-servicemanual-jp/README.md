@@ -60,7 +60,7 @@ tags:
 
 <details>
 
-<summary><a href="/broken/pages/CZ7k13TkeHAaSXsqGfTO">使い方</a></summary>
+<summary><a href="https://usermanual.pluva.io/ion/jp">使い方</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>初期設定方法</td><td><a href="https://usermanual.pluva.io/ion/jp/initial-setup">Broken link</a></td></tr><tr><td>走行モード(経路のプランニング)</td><td><a href="https://usermanual.pluva.io/ion/jp/driving">Broken link</a></td></tr><tr><td>ターンモード</td><td><a href="https://usermanual.pluva.io/ion/jp/uturn-mode">Broken link</a></td></tr><tr><td>走行の利便性を向上するための機能</td><td><a href="https://usermanual.pluva.io/ion/jp/driving-convenience-function">Broken link</a></td></tr><tr><td>My農場管理</td><td><a href="https://usermanual.pluva.io/ion/jp/my-farm">Broken link</a></td></tr><tr><td>車両管理</td><td><a href="https://usermanual.pluva.io/ion/jp/vehicle-settings">Broken link</a></td></tr><tr><td>作業機の管理</td><td><a href="https://usermanual.pluva.io/ion/jp/workstation-management">Broken link</a></td></tr><tr><td>ネットワーク設定</td><td><a href="order-installation/quick-setup/network-settings.md">network-settings.md</a></td></tr><tr><td>作業レポート</td><td><a href="https://usermanual.pluva.io/ion/jp/report">Broken link</a></td></tr><tr><td>エンターテインメント</td><td><a href="https://usermanual.pluva.io/ion/jp/entertainment">Broken link</a></td></tr><tr><td>その他の設定</td><td><a href="https://usermanual.pluva.io/ion/jp/settings">Broken link</a></td></tr></tbody></table>
 
