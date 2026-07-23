@@ -1,8 +1,10 @@
 # 플루바 로보틱스 온라인 매뉴얼
 
+<figure><img src=".gitbook/assets/260325_PLUVA-robotics_ (1).png" alt=""><figcaption></figcaption></figure>
+
 #### 플루바 로보틱스를 이용해 주셔서 감사합니다.
 
 온라인 사용 설명서는 현재 준비 중입니다.\
 이용 중 궁금하신 사항은 고객센터로 문의해 주세요.
 
-<a href="tel:1566-5663" class="button primary">1566-5663</a>
+<a href="tel:1566-5663" class="button secondary">1566-5663</a>
