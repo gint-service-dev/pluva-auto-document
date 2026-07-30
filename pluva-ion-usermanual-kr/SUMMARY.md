@@ -13,7 +13,6 @@
   * [태블릿](overview/tablet.md)
   * [스위치(옵션품)](overview/switch.md)
   * [카메라](overview/camera.md)
-  * [테테테테스트](overview/undefined.md)
 
 ## 사용법 <a href="#usage" id="usage"></a>
 
