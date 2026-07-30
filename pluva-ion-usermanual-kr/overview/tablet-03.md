@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 tags:
-  - tag: kr
+  - tag: jp-fkk
     primary: true
 ---
 
@@ -36,6 +36,14 @@ tags:
 * 전동 스티어링 휠, GNSS 수신기, 태블릿 등 연결된 모든 장치의 전원 및 암전류를 한 번에 끄거나 켭니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**태블릿 전원 켜기·끄기**\
+태블릿을 안정적으로 사용하시려면 아래 절차에 따라 전원을 켜고 끄시기 바랍니다.<br>
+
+-전원을 켤 때: 메인 전원 스위치를 “ON(I)”으로 설정합니다.\
+-전원을 끌 때: 태블릿의 슬립 버튼을 3\~5초간 길게 눌러 화면이 꺼졌는지 확인한 뒤 메인 전원 스위치를 “오프(O)”로 전환합니다.
+{% endhint %}
 
 {% hint style="warning" %}
 태블릿 절전 버튼으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
@@ -160,7 +168,7 @@ tags:
 ![](../.gitbook/assets/icon-circle-15.svg) 시스템 상태
 
 * 화면 최상단에 표시되며, 작업에 필요한 핵심 시스템 정보를 실시간으로 제공합니다.\
-  자세한 내용은 [시스템 상태 아이콘](tablet.md#system-icon)을 참고해주세요.
+  자세한 내용은 [시스템 상태 아이콘](tablet-03.md#system-icon)을 참고해주세요.
 
 ![](../.gitbook/assets/icon-circle-16.svg) 나침판
 

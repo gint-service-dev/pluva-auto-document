@@ -77,6 +77,8 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
+<figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
@@ -107,19 +109,19 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 ### 지도에서 필드 등록 화면 설명
 
-<figure><img src="../../.gitbook/assets/field-registration-screen-0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-registration-screen-0.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **주소 검색으로 필드 선택**
 
 * 주소 검색으로 필드를 선택합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-1 (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **직접 그리기**
 
 * 필드 영역을 직접 점을 찍어 생성합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-2 (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/field-registration-screen-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-3.svg) **지도에서 선택**
 
@@ -192,32 +194,33 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 설정 직후 해당 점의 수정 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
 {% endhint %}
 
 {% hint style="warning" %}
-**차량으로 필드 등록 유의 사항**
+꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
+{% endhint %}
+{% endstep %}
 
-* 최대 20개 설정할 수 있습니다.
-* 꼭지점은 순서대로 설정해야 합니다. 임의의 순서로 설정하면 경계가 올바르게 생성되지 않습니다.
+{% step %}
+D점 이상 설정이 완료되면 차량을 진입출로 위치로 이동하고 진입로, 진출로 설정 버튼을 눌러 설정합니다.
+
+<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+진출로는 작업 완료 후 차량이 빠져나가는 경로입니다. 나중에 수정할 수 있습니다.
 {% endhint %}
 
 {% hint style="info" %}
-원하는 위치에서 진입로, 진출로 설정 버튼을 눌러 진입출로를 설정할 수 있습니다.
-
-<img src="../../.gitbook/assets/entry-exit-path-1.png" alt="" data-size="original">
+최대 20개 설정할 수 있습니다.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-경계 완료 버튼을 누릅니다.
-
-<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-경계 등록이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
+각 점과 진출로 설정이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -233,31 +236,27 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **진입로 수정**
+![](../../.gitbook/assets/icon-square-1.svg) **미니맵**
 
-* 진입 경로 위치를 현재 차량 위치로 설정합니다.
+* 등록 중인 필드 전체 범위를 미니맵으로 표시합니다.
 
-![](../../.gitbook/assets/icon-square-2.svg) **진출로 수정**
+![](../../.gitbook/assets/icon-square-2.svg) **진출로 설정**
 
 * 진출 경로 위치를 현재 차량 위치로 설정합니다.
 
-![](../../.gitbook/assets/icon-square-3.svg) **초기화**
+![](../../.gitbook/assets/icon-square-3.svg) **필드 등록**
 
-* 설정한 점을 초기화합니다.
+* 모든 점 설정 완료 후 필지 등록 진행합니다.
 
-![](../../.gitbook/assets/icon-square-4.svg) **필드 등록**
-
-* 모든 점 설정 완료 후 필지 등록을 진행합니다.
-
-![](../../.gitbook/assets/icon-square-5.svg) **나가기**
+![](../../.gitbook/assets/icon-square-4.svg) **나가기**
 
 * 등록을 중단하고 이전 화면으로 돌아갑니다.
 
-![](../../.gitbook/assets/icon-square-6.svg) **수정**
+![](../../.gitbook/assets/icon-square-5.svg) **수정**
 
 * 이미 설정한 꼭지점을 현재 위치로 업데이트합니다.
 
-![](../../.gitbook/assets/icon-square-7.svg) **A / B / C / D / E / F 점**
+![](../../.gitbook/assets/icon-square-6.svg) **A / B / C / D**
 
 * 해당 꼭지점을 현재 차량 위치로 설정합니다.
 
