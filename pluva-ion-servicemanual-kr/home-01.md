@@ -50,8 +50,6 @@ tags:
 
 ### 목차
 
-제품 주문·설치 절차부터 제품 사용법, 어드민·오퍼레이터 관리까지 대리점 운영에 필요한 정보를 제공합니다.
-
 <details>
 
 <summary>설치</summary>
@@ -64,7 +62,7 @@ tags:
 
 <summary>사용법</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>초기 설정법</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/initial-setup">Broken link</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/driving">Broken link</a></td></tr><tr><td>턴 모드</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/uturn-mode">Broken link</a></td></tr><tr><td>주행 편의 기능</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/driving-convenience-function">Broken link</a></td></tr><tr><td>내 농장 관리</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/my-farm">Broken link</a></td></tr><tr><td>차량 관리</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/vehicle-settings">Broken link</a></td></tr><tr><td>작업기 관리</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/workstation-management">Broken link</a></td></tr><tr><td>네트워크 설정</td><td><a href="order-installation/quick-setup/network-settings.md">network-settings.md</a></td></tr><tr><td>작업 리포트</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/report">Broken link</a></td></tr><tr><td>엔터테인먼트</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/entertainment">Broken link</a></td></tr><tr><td>기타 설정</td><td><a href="https://usermanual.pluva.io/ion/japan/kr/usage/settings">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>사용 전 고객 안내 사항</td><td><a href="/broken/pages/UoVBMoHI8rsAhBC4ybYW">Broken link</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="/broken/pages/cAoNCYBQq47ybA1jKE09">Broken link</a></td></tr><tr><td>턴 모드</td><td><a href="/broken/pages/sL0Gh5NOZYIGDiwKzuiD">Broken link</a></td></tr><tr><td>주행 편의 기능</td><td><a href="/broken/pages/Bo1iuJCCNaqFrZ2RVzQc">Broken link</a></td></tr><tr><td>내 농장 관리</td><td><a href="/broken/pages/rGWYEGGzLMmAXNo06HQt">Broken link</a></td></tr><tr><td>차량 관리</td><td><a href="/broken/pages/Zg58evrLNCKMhXanVS7B">Broken link</a></td></tr><tr><td>작업기 관리</td><td><a href="/broken/pages/lTGdsjFpEevEJHy2bvLo">Broken link</a></td></tr><tr><td>네트워크 설정</td><td><a href="order-installation/quick-setup/network-settings.md">network-settings.md</a></td></tr><tr><td>작업 리포트</td><td><a href="/broken/pages/Qvbp2drIJ2A1TNie7aF4">Broken link</a></td></tr><tr><td>엔터테인먼트</td><td><a href="/broken/pages/AKIsltHrTG89d81xdeg6">Broken link</a></td></tr><tr><td>기타 설정</td><td><a href="/broken/pages/J3rELA30xpU4kJoRnZyH">Broken link</a></td></tr></tbody></table>
 
 </details>
 
@@ -72,6 +70,6 @@ tags:
 
 <summary>기타</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-manage/account-management.md">account-management.md</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-manage/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-management.md">account-management.md</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
 </details>
