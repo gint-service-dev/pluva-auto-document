@@ -45,7 +45,3 @@
 ![](../.gitbook/assets/icon-square-3.svg) **拡大する**
 
 * YouTube画面を全体画面に拡大します。
-
-{% hint style="info" %}
-Youtube検索時にはKana入力はできず、Romajiのみ入力できます。
-{% endhint %}

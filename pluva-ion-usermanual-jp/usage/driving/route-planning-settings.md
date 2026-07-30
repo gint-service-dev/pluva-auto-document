@@ -39,12 +39,6 @@ A+直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
-ABカーブ
-
-* A点からスタートし、ご希望のカーブ形状を描きながらB地点まで走行すると、その曲線を基準に自動操舵の経路が生成されます。
-
-<div align="left"><figure><img src="../../.gitbook/assets/ab-curve.png" alt="" width="200"><figcaption></figcaption></figure></div>
-
 格子走行
 
 * 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
