@@ -58,9 +58,46 @@ tags:
 {% step %}
 **GNSS 수신기 및 태블릿 설치 위치 협의**
 
-설치 위치에 따라 측위 정밀도와 작업 편의성이 달라집니다. 방문 전에 고객과 미리 상의합니다.
+설치 위치에 따라 측위 정밀도와 작업 품질이 달라집니다. 방문 전에 고객과 미리 상의합니다.
 
 * **캐빈(Cabin) 모델**: 캐빈 위에 장착합니다. 제조사 순정 GNSS 수신기가 이미 있는지 미리 확인합니다.
+
+<details>
+
+<summary>순정 GNSS 수신기가 없는 경우</summary>
+
+* 캐빈 루프(트랙터 지붕, 상부 판넬)에 장착합니다.
+* 횡방향(좌우·가로): 최대한 가운데에 위치시킵니다.
+* 종방향(앞뒤·세로): 아래 우선순위로 장착합니다.
+  1. 후면부 (후륜 바퀴에 가까운 곳)
+  2. 중앙부 (Top 면의 중심)
+  3. 앞면부 (스티어링 휠 근처 상부)
+
+<figure><img src="../../.gitbook/assets/cabin-mount-1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/cabin-mount-2.jpg" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>순정 GNSS 수신기가 있는 경우</summary>
+
+* 캐빈 루프 장착·횡방향 조건은 위와 동일합니다.
+* 종방향은 순정 수신기가 차지하지 않은 위치(후면부 또는 중앙부)에 장착합니다.
+
+</details>
+
+<details>
+
+<summary>ROPS 트랙터 (캐빈이 없는 경우)</summary>
+
+* 본네트의 평평한 곳에 장착합니다.
+
+<figure><img src="../../.gitbook/assets/rops-mount-1.jpg" alt=""><figcaption></figcaption></figure>
+
+</details>
+
 * **오픈형(지붕 없음)**: 수신기를 고정할 별도 스테이(거치대)가 있는지 확인합니다.
 * **태블릿**: 운전 중 조작하기 편하고 단단히 고정할 수 있는 위치를 고객과 함께 정합니다.
 {% endstep %}
@@ -72,7 +109,25 @@ tags:
 
 * **클락션(경적)**: 스위치 이식 또는 배선 작업 시 타공이 필요할 수 있습니다.
 * **이앙기 핸들 커버**: U볼트 브래킷 장착을 위해 타공이 필요할 수 있습니다.
-* **이앙기 GNSS 거치대**: 이앙기에 설치할 때는 수신기 전용 거치대가 반드시 필요합니다. 고객이 방문 전에 미리 준비해야 하며, 거치대가 없으면 당일 수신기 설치가 어렵습니다.
+* **이앙기 GNSS 거치대**: 이앙기는 GNSS 수신기를 장착할 거치대가 필요합니다. 이 거치대는 설치 담당자가 방문하기 전에 고객이 미리 준비해야 하며, 준비되어 있지 않으면 방문 당일 수신기를 설치할 수 없습니다. 따라서 방문 전에 거치대 준비를 고객에게 미리 안내합니다.
+
+<details>
+
+<summary>장착 불가 예시 (거치대가 없는 모델)</summary>
+
+<figure><img src="../../.gitbook/assets/rice-mount-fail.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/rice-mount-fail-2.jpg" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>장착 가능 예시</summary>
+
+<figure><img src="../../.gitbook/assets/rice-mount-ok.jpg" alt=""><figcaption></figcaption></figure>
+
+</details>
 {% endstep %}
 
 {% step %}

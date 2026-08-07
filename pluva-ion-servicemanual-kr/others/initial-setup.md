@@ -25,7 +25,7 @@ layout:
 
 ***
 
-### 전원 및 하드웨어 (Hardware & Power)
+### 전원 및 하드웨어 (Hardware & Power) <a href="#hardware-power" id="hardware-power"></a>
 
 <details>
 
@@ -282,7 +282,7 @@ layout:
 
 </details>
 
-#### GNSS 및 네트워크 (GNSS & Network)
+#### GNSS 및 네트워크 (GNSS & Network) <a href="#gnss-network" id="gnss-network"></a>
 
 <details>
 
@@ -399,7 +399,7 @@ layout:
 
 **그래도 안 된다면**
 
-위 항목을 모두 확인했는데도 여러 작업일 동안 반복되는 경우, GNSS 리시버 하드웨어 이상일 수 있습니다. 리시버를 점검합니다. ([3️⃣ GNSS 리시버 LED가 켜지지 않아요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-6) 참고)
+위 항목을 모두 확인했는데도 여러 작업일 동안 반복되는 경우, GNSS 리시버 하드웨어 이상일 수 있습니다. 리시버를 점검합니다. ([3️⃣ GNSS 리시버 LED가 켜지지 않아요](initial-setup.md#hardware-power) 참고)
 
 </details>
 
@@ -505,7 +505,7 @@ layout:
 **1단계. 위치보정 상태 확인**
 
 * 위치보정이 **연결됨** 상태인지 확인합니다.
-  * 연결안됨이면 → [3️⃣ 위치보정이 연결안됨으로 표시되면서 정밀도가 떨어져요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-25) 항목을 먼저 해결합니다.
+  * 연결안됨이면 → [3️⃣ 위치보정이 연결안됨으로 표시되면서 정밀도가 떨어져요](initial-setup.md#gnss-network) 항목을 먼저 해결합니다.
   * 연결됨이어도 신호약함 상태이면 수십 cm\~1m 오차가 발생할 수 있습니다. 신호양호 상태가 될 때까지 대기합니다.
 
 **2단계. 주행 검증**
@@ -574,7 +574,7 @@ layout:
 
 **그래도 안 된다면**
 
-재시도를 반복해도 보정이 완료되지 않으면 핸들 모터 또는 하네스 이상일 수 있습니다. 하드웨어를 점검해주세요. ([8️⃣ 자율주행 중 핸들 조향이 안돼요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-14) 참고)
+재시도를 반복해도 보정이 완료되지 않으면 핸들 모터 또는 하네스 이상일 수 있습니다. 하드웨어를 점검해주세요. ([8️⃣ 자율주행 중 핸들 조향이 안돼요](initial-setup.md#hardware-power) 참고)
 
 </details>
 

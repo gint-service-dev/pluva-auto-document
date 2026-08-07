@@ -1,4 +1,4 @@
-# 계정 관리
+# 계정 목록 진입 및 설명
 
 고객 계정의 기본 정보와 보유 제품·장비·설치 이력을 조회합니다.
 
@@ -14,13 +14,13 @@
 {% step %}
 좌측 메뉴에서 **계정 관리**를 선택합니다.
 
-<figure><img src="../.gitbook/assets/account-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 계정 항목을 선택하면 계정 상세 진입이 완료됩니다.
 
-<figure><img src="../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,13 +32,13 @@
 
 #### PC 환경
 
-<figure><img src="../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) 계정 이름
+![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
-![](../.gitbook/assets/icon-square-2.svg) 소속 대리점 및 생성일
+![](../../.gitbook/assets/icon-square-2.svg) 소속 대리점 및 생성일
 
-![](../.gitbook/assets/icon-square-3.svg) 계정 정보
+![](../../.gitbook/assets/icon-square-3.svg) 계정 정보
 
 * 해당 계정에 등록된 휴대폰 번호와 이메일 주소가 표시됩니다.
 
@@ -46,12 +46,12 @@
 **참고**: 휴대폰 번호와 이메일 주소 항목 옆의 복사 버튼을 누르면 클립보드에 바로 복사됩니다.
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) 메모
+![](../../.gitbook/assets/icon-square-4.svg) 메모
 
 * **⋮ 버튼**을 눌러 내용을 수정하거나 삭제할 수 있습니다.
 * **작성자 이름**과 **작성 일시**가 함께 표시됩니다.
 
-![](../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
+![](../../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
 
 * 계정 상세 화면 하단에서 **제품**, **장비**, **작업**, **설치** 탭을 선택하여 각 이력을 조회합니다.\
   목록 조회만 가능하며, 직접 추가·수정은 지원하지 않습니다.
@@ -68,13 +68,13 @@
 
 #### 모바일 환경
 
-<figure><img src="../.gitbook/assets/account-management-detail-mobile-1.png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-detail-mobile-1.png" alt="" width="287"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) 계정 이름
+![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
-![](../.gitbook/assets/icon-square-2.svg) 소속 대리점 및 생성일
+![](../../.gitbook/assets/icon-square-2.svg) 소속 대리점 및 생성일
 
-![](../.gitbook/assets/icon-square-3.svg) 계정 정보
+![](../../.gitbook/assets/icon-square-3.svg) 계정 정보
 
 * 해당 계정에 등록된 휴대폰 번호와 이메일 주소가 표시됩니다.
 
@@ -82,12 +82,12 @@
 **참고**: 휴대폰 번호와 이메일 주소 항목 옆의 복사 버튼을 누르면 클립보드에 바로 복사됩니다.
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) 메모
+![](../../.gitbook/assets/icon-square-4.svg) 메모
 
 * **⋮ 버튼**을 눌러 내용을 수정하거나 삭제할 수 있습니다.
 * **작성자 이름**과 **작성 일시**가 함께 표시됩니다.
 
-![](../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
+![](../../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
 
 * 계정 상세 화면 하단에서 **제품**, **장비**, **작업**, **설치** 탭을 선택하여 각 이력을 조회합니다.\
   목록 조회만 가능하며, 직접 추가·수정은 지원하지 않습니다.
