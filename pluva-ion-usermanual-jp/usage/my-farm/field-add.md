@@ -177,53 +177,54 @@ My Farmの農場管理の\[圃場]タブをクリックすると圃場の管理�
 
 ### 車両から登録
 
-直接車両を運転し、圃場の境界を走行しながらポイントを設定する方法です。地図に表示されない圃場や境界が不明確な場合に適してます。
+手動運転し、圃場の境界を走行しながらポイントをマッピングする方法です。地図上に表示されない圃場や、境界が分かりづらい場合に有効です。
 
 {% stepper %}
 {% step %}
-圃場の登録オプションから「車両から登録」を選択し、\[確認]をタップします。
+圃場の登録方法を選択する際に、「車両から登録」をタップし\[確認]を押します。
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-「車両から登録」画面にアクセスできます。車両を圃場の各ポイントへ移動させ、ボタンを押してポイントを登録します。
+車両から登録画面にアクセスできます。車両を圃場の各ポイントへ移動させ、マッピングします。
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-設定直後に、該当するポイントの修正ボタンが表示されます。位置が不正確な場合は、修正ボタンを押して再設定してください。
+設定直後、該当するポイントの修正ボタンが表示されます。位置を修正したい場合は、修正ボタンをタップして再設定します。
 {% endhint %}
 
 {% hint style="warning" %}
-各ポイントは順番通りに設定してください。任意に順番を変えて設定すると、境界が正しく生成されません。
-{% endhint %}
-{% endstep %}
+**車両から圃場登録時のご注意**
 
-{% step %}
-Dポイント以上の設定が完了すると、車両を進入・退出口に移動させ、進入口と退出口の設定ボタンを押して登録します。
-
-<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-退出口は、作業完了後に出ていく経路です。設定後にも修正できます。
+* 最大20ポイントまで設定できます。
+* ポイントは順番に設定してください。順不同で設定すると境界線が正しく生成されません。
 {% endhint %}
 
 {% hint style="info" %}
-ポイントは最大6地点まで設定できます。
+ご希望の位置でボタンをタップし、進入口・退出口を設定できます。
+
+<img src="../../.gitbook/assets/entry-exit-path-1.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
-各ポイントと退出口の設定が完了したら、「圃場の登録」ボタンが表示されます。**圃場の登録**をタップします。
+「境界の生成完了」をタップします。
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-圃場に関する情報入力画面から、圃場名、農場、作物などを入力します。入力後に**登録**をタップすると圃場の登録が完了します。
+境界の登録が完了すると、圃場登録のボタンが有効になります。「**圃場登録」**&#x3092;押して下さい。
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/field-add-vehicle-4 (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+圃場情報の入力画面から、圃場名、農場、作物などを入力します。**「登録」**&#x3092;タップすると圃場の登録が完了します。
+
+<figure><img src="../../.gitbook/assets/field-add-vehicle-5 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -231,27 +232,31 @@ Dポイント以上の設定が完了すると、車両を進入・退出口に�
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-screen-buttons-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **ミニ地図**
+![](../../.gitbook/assets/icon-square-1.svg) **進入口の修正**
 
-* 現在登録中の圃場全体がミニ地図で表示されます。
+* 進入口を車両の現在地に設定します。
 
-![](../../.gitbook/assets/icon-square-2.svg) **退出口の設定**
+![](../../.gitbook/assets/icon-square-2.svg) **退出口の修正**
 
 * 退出口を車両の現在地に設定します。
 
-![](../../.gitbook/assets/icon-square-3.svg) **圃場の登録**
+![](../../.gitbook/assets/icon-square-3.svg) **初期化**
+
+* 設定したポイントを初期化します。
+
+![](../../.gitbook/assets/icon-square-4.svg) **圃場の登録**
 
 * 全てのポイントを設定し終わったら、圃場を登録します。
 
-![](../../.gitbook/assets/icon-square-4.svg) **終了する**
+![](../../.gitbook/assets/icon-square-5.svg) **終了する**
 
 * 登録を中断し、前の画面に戻ります。
 
-![](../../.gitbook/assets/icon-square-5.svg) **修正**
+![](../../.gitbook/assets/icon-square-6.svg) **修正**
 
 * 既に設定したポイントを現在地に変更します。
 
-![](../../.gitbook/assets/icon-square-6.svg) **A / B / C / D**
+![](../../.gitbook/assets/icon-square-7.svg) **A / B / C / D / E / F**&#x20;
 
 * 該当するポイントを車両の現在地に設定します。
 
