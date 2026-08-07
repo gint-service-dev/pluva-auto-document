@@ -17,9 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-tags:
-  - tag: kr
-    primary: true
 ---
 
 # 태블릿
@@ -37,19 +34,30 @@ tags:
 
 <div align="left"><figure><img src="../.gitbook/assets/tablet-main-power-switch.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-{% hint style="warning" %}
-태블릿 절전 버튼으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
-{% endhint %}
-
-{% hint style="warning" %}
-반드시 ‘태블릿 전원 버튼’을 길게 눌러 시스템을 완전히 종료한 후, 메인 전원 스위치를 OFF하여 주세요.
-{% endhint %}
-
 ![](../.gitbook/assets/icon-circle-2.svg) 태블릿 절전 버튼
 
 * 태블릿의 전원을 끄거나 켭니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/tablet-power-button.png" alt="" width="150"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**올바른 종료 순서**
+
+1. 태블릿 전면의 절전 버튼을 누릅니다.
+2. 태블릿 화면이 완전히 꺼질 때까지 잠시 기다립니다.
+3. 화면이 꺼지고 약 10초가 지난 뒤, 메인 전원 스위치를 OFF합니다.
+{% endhint %}
+
+{% hint style="warning" %}
+메인 전원 스위치로 바로 끄면 작업한 내용이 저장되지 않아 다음과 같은 문제가 생길 수 있습니다. 반드시 올바른 종료 순서를 지켜 주세요.
+
+* 방금 설정한 AB 라인이 저장되지 않습니다.
+* 저장해 둔 경로를 다시 불러올 수 없습니다.
+{% endhint %}
+
+{% hint style="warning" %}
+태블릿 절전 전원으로 종료한 후에도 암전류가 흐르므로 트랙터 배터리가 방전될 수 있습니다. 장시간 사용하지 않는 경우, 사용 후 반드시 메인 전원 스위치로 전원을 차단합니다.
+{% endhint %}
 
 ![](../.gitbook/assets/icon-circle-3.svg) 우측(▶)
 
@@ -192,13 +200,13 @@ tags:
 
 <div align="left"><figure><img src="../.gitbook/assets/network-communication-status.png" alt="" width="100"><figcaption></figcaption></figure></div>
 
-> <img src="../.gitbook/assets/status-bar-gps-fixed (1).png" alt="" data-size="line"> : 위성 신호 우수
+> <img src="../.gitbook/assets/status-bar-gps-fixed.png" alt="" data-size="line"> : 위성 신호 우수
 >
-> <img src="../.gitbook/assets/status-bar-gps-good-quality (1).png" alt="" data-size="line"> : 위성 신호 보통
+> <img src="../.gitbook/assets/status-bar-gps-good-quality.png" alt="" data-size="line"> : 위성 신호 보통
 >
-> <img src="../.gitbook/assets/status-bar-gps-bad (1).png" alt="" data-size="line"> : 위성 신호 나쁨
+> <img src="../.gitbook/assets/status-bar-gps-bad.png" alt="" data-size="line"> : 위성 신호 나쁨
 >
-> <img src="../.gitbook/assets/status-bar-gps-not-fixed (1).png" alt="" data-size="line"> : 신호 없음
+> <img src="../.gitbook/assets/status-bar-gps-not-fixed.png" alt="" data-size="line"> : 신호 없음
 
 2. 네트워크 통신 상태
 

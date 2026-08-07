@@ -23,6 +23,8 @@
 
 {% hint style="info" %}
 작업 완료 직후에는 완료 화면의 \[작업 기록 보기]를 누르면 바로 진입할 수 있습니다.
+
+<img src="../.gitbook/assets/report-entry-3.png" alt="" data-size="original">
 {% endhint %}
 
 ***
@@ -44,21 +46,29 @@
 
 <figure><img src="../.gitbook/assets/report-list-calendar-picker-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-3.svg) **필드 정보**
+![](../.gitbook/assets/icon-square-3.svg) **작업 시간**
 
-* 작업이 이루어진 필드 이름을 표시합니다.
+* 작업 시작·종료 시각입니다.
 
-![](../.gitbook/assets/icon-square-4.svg) **작업 주소**
+![](../.gitbook/assets/icon-square-4.svg) **자동 경로 표시**
 
-* 작업이 이루어진 필지의 주소를 표시합니다.
+* 자동 경로로 작업된 이력에 태그로 자동 경로를 표시합니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **작업 정보**
+![](../.gitbook/assets/icon-square-5.svg) **차량**
 
-* 작업 이름, 시작·종료 시각, 순수 작업시간, 작업 면적을 표시합니다.
+* 작업에 사용한 차량입니다.
 
-![](../.gitbook/assets/icon-square-6.svg) **작업 상태 태그**
+![](../.gitbook/assets/icon-square-6.svg) **작업기**
 
-* 해당 작업의 주요 상태를 태그로 표시합니다. 경로 유형(자동경로), 작업 시간대(오전·오후작업), 기온·습도·풍속 상태 등이 표시됩니다.
+* 작업에 사용한 작업기입니다.
+
+![](../.gitbook/assets/icon-square-7.svg) **작업 소요시간**
+
+* 실제 작업에 걸린 시간입니다.
+
+![](../.gitbook/assets/icon-square-8.svg) **작업 면적**
+
+* 작업한 면적입니다.
 
 ***
 
@@ -75,7 +85,6 @@
 ![](../.gitbook/assets/icon-square-2.svg) **작업 지도**
 
 * 작업 경로와 작업 완료 구간을 지도 위에 시각화하여 보여줍니다.
-* 경로는 주행 방식에 따라 색상으로 구분됩니다.
 * 지도 상단에는 작업 필지의 주소와 필드 이름이 표시됩니다.
 * 자동경로로 작업한 경우 지도 좌측 상단에 자동경로 태그가 표시됩니다.
 
@@ -95,22 +104,21 @@
 
 ![](../.gitbook/assets/icon-square-4.svg) **주행 거리**
 
-* 자동 및 수동 주행을 합산한 총 주행 거리입니다.
+* 작업 주행 합산 거리를 표시합니다. 자동·수동 거리도 함께 표시합니다.
 
 ![](../.gitbook/assets/icon-square-5.svg) **작업 시간 정보**
 
-* 순수 작업시간은 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
-* 총 체류시간은 작업 시작부터 종료까지 필드 내에 머문 전체 시간으로, 대기·이동 시간이 포함됩니다.
+* 작업시간은 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
 * 작업이 이루어진 시간대(오전작업 / 오후작업)가 함께 표시됩니다.
 
 ![](../.gitbook/assets/icon-square-6.svg) **메모**
 
 * 작업 시 입력한 메모를 확인합니다.
 
-![](../.gitbook/assets/icon-square-7.svg) **장비 정보**
+![](../.gitbook/assets/icon-square-7.svg) **차량**
 
-* 해당 작업에 사용된 차량 및 작업기 정보입니다.
+* 작업에 사용한 차량 정보입니다
 
-![](../.gitbook/assets/icon-square-8.svg) **날씨 정보**
+![](../.gitbook/assets/icon-square-8.svg) **작업기**
 
-* 작업 당시의 기온, 습도, 풍속입니다. 고온·고습·강풍 등 작업 환경 상태가 함께 표시됩니다.
+* 작업에 사용한 작업기와 작업폭입니다.
