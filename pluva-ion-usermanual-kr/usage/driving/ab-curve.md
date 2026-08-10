@@ -16,7 +16,7 @@ AB 커브
 {% endstep %}
 
 {% step %}
-원하는 곡선을 그리며 주행한 뒤 \[B] 버튼을 눌러 B점을 생성합니다.
+원하는 곡선으로 25m이상 그리며 주행한 뒤 \[B] 버튼을 눌러 B점을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/ab-curve-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -28,24 +28,41 @@ AB 커브
 {% endstep %}
 {% endstepper %}
 
-## AB 커브 사용 가이드
+{% hint style="info" %}
+**AB 커브 사용 가이드**
 
-### 💡 사용 팁
+1. **커브 라인 생성시 유의 사항**
 
 * AB 커브 라인을 길게 설정할수록 양쪽으로 생성되는 주행 라인이 많아집니다.
 
-### AB 커브 진입 시 퀵턴 끄기
 
-* AB 커브는 퀵턴이 꺼진 상태에서만 사용할 수 있습니다. 퀵턴이 켜진 채로 AB 커브 모드에 진입하면 "AB 커브모드 퀵턴 OFF 안내" 창이 표시됩니다.
+
+2. **AB 커브 진입 시 퀵턴 끄기**
+
+* AB 커브는 퀵턴이 꺼진 상태에서만 사용할 수 있습니다.&#x20;
+* 퀵턴이 켜진 채로 AB 커브 모드에 진입하면 "AB 커브모드 퀵턴 OFF 안내" 창이 표시됩니다.
 
 <img src="../../.gitbook/assets/ab-curve-speed-quickturn.png" alt="" data-size="original">
 
-### 주행 속도
+
+
+3. **주행 속도**
 
 * 권장 속도는 3km/h 이하입니다.
 
+
+
+4. **이앙기 후진 불가**
+
+* 이앙기는 후진 자율주행을 지원하지 않습니다. 후진하면 자율주행이 자동 해제되며 안내 메시지가 표시됩니다.
+
+<img src="../../.gitbook/assets/ab-curve-speed-3.png" alt="" data-size="original">
+
+
+{% endhint %}
+
 {% hint style="warning" %}
-**경고 표시**
+**AB커브 경고 표시**
 
 * 권장 속도를 초과하면 현재 속도가 **빨간색**으로 표시됩니다.
 * 설정 경로를 **30cm 이상** 벗어나면 화면에 경고가 표시됩니다.
@@ -58,9 +75,3 @@ AB 커브
 
 <img src="../../.gitbook/assets/ab-curve-speed-2.png" alt="" data-size="original">
 {% endhint %}
-
-### 이앙기 후진 불가
-
-* 이앙기는 후진 자율주행을 지원하지 않습니다. 후진하면 자율주행이 자동 해제되며 안내 메시지가 표시됩니다.
-
-<img src="../../.gitbook/assets/ab-curve-speed-3.png" alt="" data-size="original">
