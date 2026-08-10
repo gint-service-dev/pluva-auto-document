@@ -16,7 +16,7 @@ AB 커브
 {% endstep %}
 
 {% step %}
-원하는 곡선으로 25m이상 그리며 주행한 뒤 \[B] 버튼을 눌러 B점을 생성합니다.
+원하는 곡선을 그리며 25m 이상 주행한 뒤 \[B] 버튼을 눌러 B 지점을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/ab-curve-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
