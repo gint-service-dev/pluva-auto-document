@@ -41,7 +41,8 @@ AB 커브
 
 * AB 커브는 <mark style="color:$primary;">퀵턴이 꺼진 상태에서만</mark> 사용할 수 있습니다.
 * 퀵턴이 켜진 채로 AB 커브 모드에 진입하면 "AB 커브모드 퀵턴 OFF 안내" 창이 표시됩니다.
-* <img src="../../.gitbook/assets/ab-curve-speed-quickturn.png" alt="" data-size="original">
+
+<img src="../../.gitbook/assets/ab-curve-speed-quickturn.png" alt="" data-size="original">
 
 #### **3. 주행 속도**
 
@@ -50,7 +51,8 @@ AB 커브
 #### **4. 이앙기 후진 불가**
 
 * 이앙기는 후진 자율주행을 지원하지 않습니다. 후진하면 자율주행이 자동 해제되며 안내 메시지가 표시됩니다.
-* <img src="../../.gitbook/assets/ab-curve-speed-3.png" alt="" data-size="original">
+
+<img src="../../.gitbook/assets/ab-curve-speed-3.png" alt="" data-size="original">
 
 {% hint style="warning" %}
 **AB 커브 속도 초과·경로 이탈 시**
@@ -59,7 +61,8 @@ AB 커브
 
 * 권장 속도를 초과하면 현재 속도가 **빨간색**으로 표시됩니다.
 * 설정 경로를 **30cm 이상** 벗어나면 화면에 경고가 표시됩니다.
-* <img src="../../.gitbook/assets/ab-curve-speed-1.png" alt="" data-size="original">
+
+<img src="../../.gitbook/assets/ab-curve-speed-1.png" alt="" data-size="original">
 
 
 
@@ -67,5 +70,6 @@ AB 커브
 
 * 설정 경로를 **80cm 이상** 벗어나면 자율주행이 자동 해제되며, **"속도가 빨라 자율주행이 해제되었습니다"** 안내가 표시됩니다.
 * 안내를 닫으려면 다시 주행을 시작하거나 다른 모드로 변경합니다.
-* <img src="../../.gitbook/assets/ab-curve-speed-2.png" alt="" data-size="original">
+
+<img src="../../.gitbook/assets/ab-curve-speed-2.png" alt="" data-size="original">
 {% endhint %}
