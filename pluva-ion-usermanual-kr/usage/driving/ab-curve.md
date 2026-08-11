@@ -42,13 +42,13 @@ AB 커브
 {% hint style="info" %}
 커브 라인 곡선율에 따른 주행 라인 생성 예시 이미지
 
-**짧은 커브 · 덜 휘 면:** 커브 라인 주행 라인이 적게 생성됩니다.
-
-<img src="../../.gitbook/assets/ab-curve-guide-1.png" alt="" data-size="original">
-
-**긴 커브 · 더 휘 면:** 커브 주행 라인이 많이 생성됩니다.
+* **긴 커브·더 휜 면: 커브 주행 라인이 많이 생성됩니다**
 
 <img src="../../.gitbook/assets/ab-curve-guide-2.png" alt="" data-size="original">
+
+* **짧은 커브 · 덜 휜 면: 주행 라인이 적게 생성됩니다.**
+
+<img src="../../.gitbook/assets/ab-curve-guide-1.png" alt="" data-size="original">
 
 
 {% endhint %}
