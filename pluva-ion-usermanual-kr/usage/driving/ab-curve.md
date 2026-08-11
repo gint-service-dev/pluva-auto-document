@@ -34,8 +34,34 @@ AB 커브
 
 #### **1. AB 커브 라인 생성시 유의 사항**
 
-* 주행 라인은 AB 커브 라인을 기준으로 일정한 간격을 두고 나란히 생성되며, 커브 라인이 짧을수록 생성되는 주행 라인의 수도 줄어듭니다.
-* <mark style="color:$primary;">따라서 넓은 구역을 한 번에 작업하려면 AB 커브 라인을 되도록 길게 설정하는 것이 좋습니다.</mark>
+* **AB 커브 라인은 되도록 길게 설정하세요.**&#x20;
+  * 주행 라인은 커브 라인을 기준으로 일정한 간격을 두고 나란히 생성되므로, 커브 라인이 길수록 더 많은 주행 라인을 확보하여 넓은 구역을 한 번에 작업할 수 있습니다.
+* **커브 라인은 곡선이 더 크게 휘어진 면을 따라 생성하세요.**
+  * AB 커브 라인은 좌우 어느 면을 기준으로도 생성할 수 있으나, 더 휘어진 면일수록 주행 라인이 더 많이 만들 수 있습니다.<br>
+
+{% columns %}
+{% column %}
+1. **짧은 커브 · 덜 휘 면**
+
+커브 라인 주행 라인이 적게 생성됩니다.
+
+<figure><img src="../../.gitbook/assets/ab-curve-guide-1.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+2. **긴 커브 · 더 휘 면**
+
+커브 주행 라인이 많이 생성됩니다.
+
+<figure><img src="../../.gitbook/assets/ab-curve-guide-2.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+
 
 #### **2. AB 커브 진입 시 퀵턴 끄기**
 
