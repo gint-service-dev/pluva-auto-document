@@ -39,29 +39,19 @@ AB 커브
 * **커브 라인은 곡선이 더 크게 휘어진 면을 따라 생성하세요.**
   * AB 커브 라인은 좌우 어느 면을 기준으로도 생성할 수 있으나, 더 휘어진 면일수록 주행 라인이 더 많이 만들 수 있습니다.
 
-{% columns %}
-{% column %}
-1. **짧은 커브 · 덜 휘 면**
+{% hint style="info" %}
+커브 라인 곡선율에 따른 주행 라인 생성 예시 이미지
 
-커브 라인 주행 라인이 적게 생성됩니다.
+**짧은 커브 · 덜 휘 면:** 커브 라인 주행 라인이 적게 생성됩니다.
 
-<figure><img src="../../.gitbook/assets/ab-curve-guide-1.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/ab-curve-guide-1.png" alt="" data-size="original">
 
+**긴 커브 · 더 휘 면:** 커브 주행 라인이 많이 생성됩니다.
 
-{% endcolumn %}
-
-{% column %}
-2. **긴 커브 · 더 휘 면**
-
-커브 주행 라인이 많이 생성됩니다.
-
-<figure><img src="../../.gitbook/assets/ab-curve-guide-2.png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/ab-curve-guide-2.png" alt="" data-size="original">
 
 
-{% endcolumn %}
-{% endcolumns %}
-
-
+{% endhint %}
 
 #### **2. AB 커브 진입 시 퀵턴 끄기**
 
