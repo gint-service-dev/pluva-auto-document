@@ -67,7 +67,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% step %}
 プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
 
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 次の設定で細かい調整ができます。
@@ -96,6 +96,9 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% step %}
 <img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+
+
