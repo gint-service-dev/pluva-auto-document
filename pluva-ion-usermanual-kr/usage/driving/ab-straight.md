@@ -58,19 +58,11 @@ AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg
 {% step %}
 AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-생성된 필드가 없는 경우, 안내에 따라 필드 등록을 바로 진행할 수 있습니다.
-
-<img src="../../.gitbook/assets/automatic-path-nonefield.png" alt="" data-size="original">
+{% hint style="warning" %}
+필드없이 주행을 선택한 경우, AB라인 자동 생성 버튼은 노출되지않습니다.
 {% endhint %}
-{% endstep %}
-
-{% step %}
-필드 영역이 활성화되며 자동 AB 라인이 생성됩니다.
-
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -74,6 +74,14 @@ AB 커브
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+주행할 필드를 선택 후 \[불러오기]을 누르면 해당 모드가 시작됩니다.
+
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-3.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
@@ -95,10 +103,4 @@ AB 커브
 안내에 따라 **퀵턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
 
 <img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
-{% endhint %}
-
-{% hint style="info" %}
-필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.
-
-<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}
