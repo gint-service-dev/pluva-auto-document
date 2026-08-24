@@ -66,9 +66,9 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 {% endstep %}
 
 {% step %}
-생성이 완료되면 미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 **\[확인]**&#xC744; 누르세요.
+미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 **\[확인]**&#xC744; 누르세요.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 다음 설정으로 세부 조정이 가능합니다.
@@ -97,6 +97,6 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 {% step %}
 <img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
