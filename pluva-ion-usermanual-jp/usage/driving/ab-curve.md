@@ -10,7 +10,7 @@ ABカーブ
 
 {% stepper %}
 {% step %}
-<img src="../../.gitbook/assets/a-button (1).svg" alt="" data-size="original"> をタップし、A点を生成します。
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> をタップし、A点を生成します。
 
 <figure><img src="../../.gitbook/assets/ab-curve-1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -22,7 +22,7 @@ ABカーブ
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive-button (1).svg" alt="" data-size="original">\[自動操舵の開始]をタップし、走行を開始します。
+<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[自動操舵の開始]をタップし、走行を開始します。
 
 <figure><img src="../../.gitbook/assets/ab-curve-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

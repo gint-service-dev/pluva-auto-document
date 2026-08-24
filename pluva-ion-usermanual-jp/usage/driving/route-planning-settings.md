@@ -73,6 +73,12 @@ ABカーブ
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+주행할 필드를 선택 후 \[불러오기]을 누르면 해당 모드가 시작됩니다.
+
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
@@ -94,10 +100,4 @@ ABカーブ
 案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。
 
 <img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
-{% endhint %}
-
-{% hint style="info" %}
-2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。
-
-<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}

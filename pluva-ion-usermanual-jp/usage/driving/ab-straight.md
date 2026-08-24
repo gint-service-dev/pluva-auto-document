@@ -59,23 +59,15 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-生成された圃場がない場合は、ガイドに従ってすぐ圃場を登録できます。
-
-<img src="../../.gitbook/assets/automatic-path-nonefield.png" alt="" data-size="original">
+{% hint style="warning" %}
+필드없이 주행을 선택한 경우, AB라인 자동 생성 버튼은 노출되지않습니다.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-圃場エリアが有効になり自動ABラインが生成されます。
+プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-生成完了後、プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
-
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 次の設定で細かい調整ができます。
@@ -104,6 +96,6 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% step %}
 <img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
