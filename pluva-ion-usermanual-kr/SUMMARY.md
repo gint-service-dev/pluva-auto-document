@@ -23,7 +23,7 @@
   * [경로플래닝 설정 방법](usage/driving/route-planning-settings.md)
   * [AB직진](usage/driving/ab-straight.md)
   * [A+직진](usage/driving/a-plus-straight.md)
-  * [AB 커브](usage/driving/ab-curve.md)
+  * [스마트커브](usage/driving/ab-curve.md)
   * [사각주행](usage/driving/square-drive.md)
   * [격자주행](usage/driving/cross-path.md)
   * [자동 경로 (플루바 AI)](usage/driving/auto-route-generation.md)
