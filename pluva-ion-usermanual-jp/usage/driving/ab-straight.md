@@ -86,9 +86,9 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
   * 変更前
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 変更後
-* AB移動：数値でABラインとバウンダリーの間隔を調整します。
+* AB 이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
 * ![](../../.gitbook/assets/ab-move.png)
-* ABの長さ：数値でABラインの長さを調整します。
+* AB 길이: 수치로 AB라인의 길이를 조절합니다.
 * ![](../../.gitbook/assets/ab-length.png)
 {% endhint %}
 {% endstep %}
@@ -99,6 +99,3 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-
-
-
