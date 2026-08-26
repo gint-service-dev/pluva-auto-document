@@ -95,7 +95,7 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
+<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
 
 <figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
