@@ -76,7 +76,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 * ![](../../.gitbook/assets/my-location-criteria.png)
   * 従来の生成ライン：白
   * 現在地を基準に生成されたライン：青
-* 横走行（縦走行）：進行方向の基準が切り替わります。タップすると縦走行ボタンに切り替わります。
+* 方向の変更：進行方向の基準が切り替わります。タップすると縦走行ボタンに切り替わります。
 * ![縦走行](../../.gitbook/assets/vertical-drive.png)
   * 縦走行
 * ![縦走行](../../.gitbook/assets/horizontal-drive.png)
@@ -86,10 +86,10 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
   * 変更前
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 変更後
-* 等間隔：数値で等間隔を調整します。
-* ![](../../.gitbook/assets/equidistant-interval.png)
-* 枕地：数値で枕地の間隔を調整します。
-* ![](../../.gitbook/assets/headland.png)
+* AB移動：数値でAB移動を調整します。
+* ![](../../.gitbook/assets/ab-move.png)
+* ABの長さ：数値でABの長さを調整します。
+* ![](../../.gitbook/assets/ab-length.png)
 {% endhint %}
 {% endstep %}
 
