@@ -77,7 +77,7 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 * ![](../../.gitbook/assets/my-location-criteria.png)
   * 기존 생성 라인: 하얀색
   * 내 위치 기준 생성 라인: 파란색
-* 가로 주행(세로 주행): 진행 방향 기준을 전환합니다. 클릭 시 세로 주행 버튼으로 전환됩니다.
+* 방향 변경: 진행 방향 기준을 전환합니다. 클릭 시 세로 주행 버튼으로 전환됩니다.
 * ![縦走行](../../.gitbook/assets/vertical-drive.png)
   * 세로주행
 * ![縦走行](../../.gitbook/assets/horizontal-drive.png)
@@ -87,10 +87,10 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
   * 변경 전
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 변경 후
-* 등간격: 수치로 등간격을 조절합니다.
-* ![](../../.gitbook/assets/equidistant-interval.png)
-* 헤드랜드: 수치로 헤드랜드 간격을 조절합니다.
-* ![](../../.gitbook/assets/headland.png)
+* AB이동: 수치로 AB 이동을 조절합니다.
+* ![](../../.gitbook/assets/ab-move.png)
+* AB길이: 수치로 AB 길이를 조절합니다.
+* ![](../../.gitbook/assets/ab-length.png)
 {% endhint %}
 {% endstep %}
 
