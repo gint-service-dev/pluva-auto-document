@@ -58,7 +58,7 @@ AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg
 {% step %}
 AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 필드없이 주행을 선택한 경우, AB라인 자동 생성 버튼은 노출되지않습니다.
@@ -68,7 +68,7 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 {% step %}
 미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 **\[확인]**&#xC744; 누르세요.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 다음 설정으로 세부 조정이 가능합니다.
@@ -88,15 +88,15 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 변경 후
 * AB이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
-* ![](../../.gitbook/assets/ab-move.png)
+* ![](<../../.gitbook/assets/ab-move (1).png>)
 * AB 길이: 수치로 AB라인의 길이를 조절합니다.
-* ![](../../.gitbook/assets/ab-length.png)
+* ![](<../../.gitbook/assets/ab-length (1).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 <img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
