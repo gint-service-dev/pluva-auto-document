@@ -87,9 +87,9 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
   * 변경 전
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 변경 후
-* AB이동: 수치로 AB 이동을 조절합니다.
+* AB이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
 * ![](../../.gitbook/assets/ab-move.png)
-* AB길이: 수치로 AB 길이를 조절합니다.
+* AB 길이: 수치로 AB라인의 길이를 조절합니다.
 * ![](../../.gitbook/assets/ab-length.png)
 {% endhint %}
 {% endstep %}
