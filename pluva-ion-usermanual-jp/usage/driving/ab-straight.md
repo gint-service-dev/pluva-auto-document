@@ -55,7 +55,7 @@ AB直進経路が生成されたら<img src="../../.gitbook/assets/drive-button.
 
 {% stepper %}
 {% step %}
-AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original">**\[ABラインの自動生成ボタン]**&#x3092;押します。
+AB直進モードで、<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[ABラインの自動生成ボタン]**&#x3092;押します。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
