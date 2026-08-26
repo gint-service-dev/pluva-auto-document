@@ -94,7 +94,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
+<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
