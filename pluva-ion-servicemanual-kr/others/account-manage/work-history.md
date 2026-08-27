@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 작업 이력
 
 고객이 수행한 작업 이력을 조회하고, 작업 경로와 데이터를 지도에서 분석·재생합니다. 작업 데이터로 상황을 재구성해 고객 문의·클레임의 원인을 파악하는 데 활용합니다.
@@ -60,7 +64,7 @@
 * 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.
 * 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
+<img src="../../.gitbook/assets/work-history-display-settings.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
@@ -69,11 +73,11 @@
 * 지도 위에 표시할 이벤트를 켜고 끕니다.
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-event-on.png" alt="" width="225"><figcaption></figcaption></figure></div>
+<img src="../../.gitbook/assets/work-history-event-on.png" alt="" data-size="original">
 
 * \[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/work-history-event-off.png" alt="" width="225"><figcaption></figcaption></figure></div>
+<img src="../../.gitbook/assets/work-history-event-off.png" alt="" data-size="original">
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
