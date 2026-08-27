@@ -74,23 +74,23 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 다음 설정으로 세부 조정이 가능합니다.
 
 * 내 위치 기준 생성: 현재 위치를 기준으로 라인을 생성합니다.
-* ![](../../.gitbook/assets/my-location-criteria.png)
+* ![](../../.gitbook/assets/my-location--criteria.png)
   * 기존 생성 라인: 하얀색
   * 내 위치 기준 생성 라인: 파란색
 * 방향 변경: 진행 방향 기준을 전환합니다. 클릭 시 세로 주행 버튼으로 전환됩니다.
-* ![縦走行](../../.gitbook/assets/vertical-drive.png)
+* ![縦走行](../../.gitbook/assets/vertical--drive.png)
   * 세로주행
-* ![縦走行](../../.gitbook/assets/horizontal-drive.png)
+* ![縦走行](../../.gitbook/assets/horizontal--drive.png)
   * 가로주행
 * A/B점 교체: A점과 B점을 서로 바꿉니다.
-* ![](../../.gitbook/assets/before-replace-abpoints.png)
+* ![](../../.gitbook/assets/before--replace-abpoints.png)
   * 변경 전
-* ![](../../.gitbook/assets/after-replace-abpoints.png)
+* ![](../../.gitbook/assets/after--replace-abpoints.png)
   * 변경 후
 * AB이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
-* ![](<../../.gitbook/assets/ab-move (1).png>)
+* ![](../../.gitbook/assets/ab--move.png)
 * AB 길이: 수치로 AB라인의 길이를 조절합니다.
-* ![](<../../.gitbook/assets/ab-length (1).png>)
+* ![](../../.gitbook/assets/ab--length.png)
 {% endhint %}
 {% endstep %}
 
