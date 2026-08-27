@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 차량 제어 설정
