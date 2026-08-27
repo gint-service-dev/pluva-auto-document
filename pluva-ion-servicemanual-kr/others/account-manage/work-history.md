@@ -59,11 +59,8 @@
 
 * 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.
 * 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
-*
 
-```
 <div align="left"><figure><img src="../../.gitbook/assets/work-history-display-settings.png" alt="" width="225"><figcaption></figcaption></figure></div>
-```
 {% endhint %}
 
 {% hint style="info" %}
@@ -71,18 +68,12 @@
 
 * 지도 위에 표시할 이벤트를 켜고 끕니다.
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
-*
 
-```
 <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-on.png" alt="" width="225"><figcaption></figcaption></figure></div>
-```
 
 * \[이벤트 표시]를 OFF하면 설정했던 표시값이 지도에서 사라집니다.
-*
 
-```
 <div align="left"><figure><img src="../../.gitbook/assets/work-history-event-off.png" alt="" width="225"><figcaption></figcaption></figure></div>
-```
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-4.svg) **실시간 데이터**
