@@ -37,15 +37,9 @@ AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-b
 {% endstep %}
 
 {% step %}
-\[저장]버튼을 누릅니다.
+\[저장]버튼을 누릅니다. 저장이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-저장이 완료됩니다.
-
-<figure><img src="../../.gitbook/assets/save-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 저장된 경로는 경로 불러오기를 통해 사용할 수 있습니다.\

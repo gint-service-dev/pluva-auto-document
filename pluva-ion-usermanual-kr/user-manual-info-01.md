@@ -125,7 +125,7 @@ tags:
 \
 태블릿 상단에 위치해있으며, 전동 스티어링 휠, GNSS 수신기,\
 태블릿 등의 모든 장치의 전원을 한 번에 켜거나 끌 수 있습니다.\
-자세한 내용은 [태블릿](overview/tablet-03.md)을 참고해주세요.
+자세한 내용은 [태블릿](overview/tablet.md)을 참고해주세요.
 
 <img src=".gitbook/assets/emergency-tablet.png" alt="" data-size="original">
 {% endhint %}
