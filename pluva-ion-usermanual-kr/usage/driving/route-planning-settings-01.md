@@ -75,7 +75,7 @@ AB커브
 {% step %}
 원하는 주행 모드를 선택한 후 **\[확인]**&#xC744; 누릅니다.
 
-<figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-2-japan-kr.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -94,7 +94,7 @@ AB커브
 {% hint style="info" %}
 현재 선택된 주행 모드는 화면 왼쪽 상단의 주행 정보 영역에서 확인할 수 있습니다.
 
-<img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-driving-japan-kr.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}
