@@ -17,9 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-tags:
-  - tag: kr
-    primary: true
 ---
 
 # 경로플래닝 설정 방법
@@ -43,7 +40,7 @@ A+직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
-스마트커브
+AB 커브
 
 * A점에서 시작해 원하는 곡선을 그리며 B점까지 주행하면, 그 곡선을 기준으로 자율주행 경로가 생성됩니다.
 
@@ -77,14 +74,6 @@ A+직진
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
-
-{% step %}
-주행할 필드를 선택 후 \[불러오기]을 누르면 해당 모드가 시작됩니다.
-
-<figure><img src="../../.gitbook/assets/autoplanning-explanation-3.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
@@ -106,4 +95,10 @@ A+직진
 안내에 따라 **퀵턴을 ON으로 설정**한 뒤 **\[주행 시작]** 을 누르면 주행 모드 진입이 완료됩니다.
 
 <img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
+{% endhint %}
+
+{% hint style="info" %}
+필드가 2개 이상 등록된 경우, 주행 모드 선택 전 필드 선택 화면이 먼저 표시됩니다.
+
+<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}
