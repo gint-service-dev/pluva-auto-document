@@ -75,7 +75,7 @@ ABカーブ
 {% endstep %}
 
 {% step %}
-주행할 필드를 선택 후 \[불러오기]을 누르면 해당 모드가 시작됩니다.
+圃場を選択し\[取り込み]をタップすると、該当する走行モードが開始します。
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

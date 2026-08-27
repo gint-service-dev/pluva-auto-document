@@ -60,7 +60,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-필드없이 주행을 선택한 경우, AB라인 자동 생성 버튼은 노출되지않습니다.
+圃場のない状態で走行を選択した場合は、ABラインの自動生成ボタンが表示されません。
 {% endhint %}
 {% endstep %}
 
@@ -86,9 +86,9 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
   * 変更前
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 変更後
-* AB 이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
+* AB移動：数値を調整し、ABラインと境界線の間隔を変更できます。
 * ![](../../.gitbook/assets/ab-move.png)
-* AB 길이: 수치로 AB라인의 길이를 조절합니다.
+* ABの長さ：数値を調整し、ABラインの長さを変更できます。
 * ![](../../.gitbook/assets/ab-length.png)
 {% endhint %}
 {% endstep %}
