@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 tags:
-  - tag: kr
+  - tag: jp
     primary: true
 ---
 
@@ -43,11 +43,11 @@ A+직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
-스마트커브
+AB커브
 
 * A점에서 시작해 원하는 곡선을 그리며 B점까지 주행하면, 그 곡선을 기준으로 자율주행 경로가 생성됩니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/ab-curve.png" alt="" width="200"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ab-curve-japan-kr.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 격자 주행
 
@@ -75,7 +75,7 @@ A+직진
 {% step %}
 원하는 주행 모드를 선택한 후 **\[확인]**&#xC744; 누릅니다.
 
-<figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-2-japan-kr.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -92,7 +92,7 @@ A+직진
 {% hint style="info" %}
 현재 선택된 주행 모드는 화면 왼쪽 상단의 주행 정보 영역에서 확인할 수 있습니다.
 
-<img src="../../.gitbook/assets/autoplanning-current-driving.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/autoplanning-current-driving-japan-kr.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="info" %}

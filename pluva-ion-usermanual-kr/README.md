@@ -78,7 +78,7 @@ tags:
 
 <summary><a href="usage/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>AB 커브</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (플루바 AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>스마트커브</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (플루바 AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 

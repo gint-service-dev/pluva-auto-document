@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 tags:
-  - tag: kr
+  - tag: jp
     primary: true
 ---
 
@@ -387,5 +387,5 @@ tags:
 * 커브 경로 생성 시 최대 곡률을 제한하여 경로를 보정합니다.
 
 {% hint style="info" %}
-스마트커브 모드에서만 설정할 수 있습니다.
+AB커브 모드에서만 설정할 수 있습니다.
 {% endhint %}
