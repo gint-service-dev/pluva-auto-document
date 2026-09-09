@@ -43,7 +43,7 @@ AB 직진
 {% endstep %}
 
 {% step %}
-10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B 지점을 생성합니다.
+필드 경계 안에서 10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B 지점을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
