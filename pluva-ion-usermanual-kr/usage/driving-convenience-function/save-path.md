@@ -21,11 +21,11 @@ layout:
 
 # 경로 저장하기
 
-생성한 주행 경로를 저장해두는 기능입니다. 저장된 경로는 \[경로 불러오기]를 통해 다시 사용합니다.
+생성한 주행 경로를 저장해두는 기능입니다. AB 직진, 자동 경로 등 생성한 경로를 저장할 수 있으며, 저장된 경로는 \[경로 불러오기]를 통해 다시 사용할 수 있습니다.
 
 {% stepper %}
 {% step %}
-AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
+저장할 주행 경로를 생성한 상태에서 <img src="../../.gitbook/assets/drive-function-button.svg" alt="" data-size="original"> \[작업] 버튼을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -42,7 +42,8 @@ AB라인을 생성한 상태로 <img src="../../.gitbook/assets/drive-function-b
 <figure><img src="../../.gitbook/assets/save-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-저장된 경로는 경로 불러오기를 통해 사용할 수 있습니다.\
+저장이 완료된 경로는 \[경로 불러오기]를 통해 다시 사용할 수 있습니다.\
+저장하지 않은 경로는 작업 종료 후 다시 불러올 수 없습니다\
 자세한 내용은 [경로 불러오기](bringing-up-path.md)를 참고하세요.
 
 <img src="../../.gitbook/assets/save-path-bringing-in.png" alt="" data-size="original">
