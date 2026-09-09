@@ -27,6 +27,14 @@ AB 직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
+{% hint style="warning" %}
+**AB라인 설정 시 유의 사항**
+
+* AB라인의 A점과 B점은 현재 선택한 필드의 경계 안에서 설정해야 합니다.
+* 필드 경계 밖에서 A점이나 B점을 설정하면 경로 오류 안내가 표시되고 AB직진 경로가 정상적으로 생성되지 않습니다.
+* 차량을 필드 경계 안으로 이동한 후 A점과 B점을 다시 설정해 주세요.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 <img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> 버튼을 눌러 A 지점을 생성합니다.
