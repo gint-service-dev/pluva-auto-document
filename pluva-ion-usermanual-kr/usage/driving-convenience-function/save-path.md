@@ -43,7 +43,6 @@ layout:
 
 {% hint style="info" %}
 저장이 완료된 경로는 \[경로 불러오기]를 통해 다시 사용할 수 있습니다.\
-저장하지 않은 경로는 작업 종료 후 다시 불러올 수 없습니다\
 자세한 내용은 [경로 불러오기](bringing-up-path.md)를 참고하세요.
 
 <img src="../../.gitbook/assets/save-path-bringing-in.png" alt="" data-size="original">

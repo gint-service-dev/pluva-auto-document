@@ -46,7 +46,7 @@ layout:
 <figure><img src="../../.gitbook/assets/calling-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-경로 불러오기 목록에는 저장을 완료한 경로 중 현재 선택한 주행 모드에 해당하는 경로만 표시됩니다.
+경로 불러오기 목록에는 현재 선택한 주행 모드에 해당하는 경로만 표시됩니다.
 {% endhint %}
 {% endstep %}
 
