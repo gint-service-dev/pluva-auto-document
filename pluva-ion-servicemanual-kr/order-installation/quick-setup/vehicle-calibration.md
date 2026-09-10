@@ -58,6 +58,53 @@ layout:
 * 보정이 계속 진행되지 않으면 태블릿을 재부팅한 후 전체 차량 보정을 처음부터 다시 진행해 주세요.
 {% endhint %}
 
+**1+1 이전 설치 후 차량 보정 확인**
+
+아이온 장치를 차량사이에서 이전 설치한 경우,\
+차량 정보와 오토스티어 보정 상태를 다음 순서로 확인합니다.
+
+{% hint style="warning" %}
+**차량 이전 설치 후 보정값 확인**
+
+* 화면에서 차량이 정상적으로 전환되었더라도 실제 조향 제어값이 반영되지 않을 수 있습니다.
+* 차량 정보와 오토스티어 보정 상태를 확인하기 전에는 자율주행을 시작하지 마세요.
+* 보정값이 초기화되었거나 정상적으로 반영되지 않았다면 전체 차량 보정을 다시 진행해 주세요.
+{% endhint %}
+
+<details>
+
+<summary>이전 설치 후 차량 보정 확인 방법</summary>
+
+{% stepper %}
+{% step %}
+태블릿을 재부팅합니다.
+{% endstep %}
+
+{% step %}
+\[내 차량]에서현재 연결한 차량 정보가 표시되는지 확인합니다.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[오토스티어 보정] 화면에서 보정 완료 상태와 기존 보정값을 확인합니다.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+보정값이 초기화되었거나 정상적으로 반영되지 않았다면 \[전체 한번에 진행] 눌러 전체 보정을 다시 진행합니다.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+보정 완료 후 조향이 정상적으로 동작하는지 확인합니다.
+{% endstep %}
+{% endstepper %}
+
+</details>
+
 ***
 
 #### 차량 보정 시작하기
