@@ -567,7 +567,7 @@ layout:
 
 **4단계. 보정 재시도**
 
-* 보정을 취소했거나 보정에 실패했다면 오토스티어 보정을 다시 실행합니다.
+* 보정을 취소했거나 보정에 실패했다면 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 다시 실행합니다.
 * 계속 진행되지 않을 경우 태블릿을 재부팅 후 재시도합니다.
 
 ***
