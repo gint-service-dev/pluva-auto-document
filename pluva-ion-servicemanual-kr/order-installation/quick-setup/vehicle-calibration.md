@@ -81,7 +81,7 @@ layout:
 {% endstep %}
 
 {% step %}
-\[내 차량]에서현재 연결한 차량 정보가 표시되는지 확인합니다.
+\[내 차량]에서 현재 연결한 차량 정보가 표시되는지 확인합니다.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
