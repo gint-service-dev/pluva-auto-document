@@ -27,6 +27,13 @@ AB 직진
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
+{% hint style="warning" %}
+**AB라인 설정 시 유의 사항**
+
+* AB라인은 현재 선택한 필드 경계 안에서 설정해야 합니다.
+* 차량을 경계 안으로 이동한 후 A점과 B점을 다시 설정하세요.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 <img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> 버튼을 눌러 A 지점을 생성합니다.
@@ -35,7 +42,7 @@ AB 직진
 {% endstep %}
 
 {% step %}
-10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B 지점을 생성합니다.
+필드 경계 안에서 10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B 지점을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/ab-straight-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
