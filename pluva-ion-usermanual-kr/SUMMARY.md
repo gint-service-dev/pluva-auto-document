@@ -47,6 +47,7 @@
   * [필드 수정](usage/my-farm/field-edit.md)
   * [필드 정보 관리](usage/my-farm/managing-field-information.md)
   * [헤드랜드 등록](usage/my-farm/headland-add.md)
+  * [헤드랜드 수정](usage/my-farm/headland-edit.md)
   * [헤드랜드 정보 관리](usage/my-farm/managing-headland-information.md)
 * [차량 관리](usage/vehicle-settings/README.md)
   * [내 차량 진입 및 화면 설명](usage/vehicle-settings/entering-my-vehicle.md)
