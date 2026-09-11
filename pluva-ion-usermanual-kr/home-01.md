@@ -62,7 +62,7 @@ tags:
 
 <summary><a href="overview/">개요</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>플루바 아이온 소개</td><td><a href="overview/pluva-ion-introduction.md">pluva-ion-introduction.md</a></td></tr><tr><td>전동 스티어링 휠</td><td><a href="overview/electric-steering-wheel.md">electric-steering-wheel.md</a></td></tr><tr><td>GNSS 수신기</td><td><a href="overview/gnss-receiver.md">gnss-receiver.md</a></td></tr><tr><td>태블릿</td><td><a href="overview/tablet-03.md">tablet-03.md</a></td></tr><tr><td>스위치</td><td><a href="overview/switch.md">switch.md</a></td></tr><tr><td>카메라</td><td><a href="overview/camera.md">camera.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>플루바 아이온 소개</td><td><a href="overview/pluva-ion-introduction.md">pluva-ion-introduction.md</a></td></tr><tr><td>전동 스티어링 휠</td><td><a href="overview/electric-steering-wheel.md">electric-steering-wheel.md</a></td></tr><tr><td>GNSS 수신기</td><td><a href="overview/gnss-receiver.md">gnss-receiver.md</a></td></tr><tr><td>태블릿</td><td><a href="overview/tablet.md">tablet.md</a></td></tr><tr><td>스위치</td><td><a href="overview/switch.md">switch.md</a></td></tr><tr><td>카메라</td><td><a href="overview/camera.md">camera.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -70,7 +70,7 @@ tags:
 
 <summary><a href="usage/initial-setup/">초기 설정법</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="usage/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>계정 생성 및 관리</td><td><a href="usage/initial-setup/account.md">account.md</a></td></tr><tr><td>소프트웨어 업데이트(OTA)</td><td><a href="usage/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -78,7 +78,7 @@ tags:
 
 <summary><a href="usage/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (Pluava AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>AB커브</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (플루바 AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -102,7 +102,7 @@ tags:
 
 <summary><a href="usage/my-farm/">내 농장 관리 (MY Farm)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="usage/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>농장 소유자 관리</td><td><a href="usage/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>필드 등록</td><td><a href="usage/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>필드 정보 수정/삭제</td><td><a href="usage/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>헤드랜드 등록</td><td><a href="usage/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>헤드랜드 정보 관리</td><td><a href="usage/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>농장 관리</td><td><a href="usage/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>농장 소유자 관리</td><td><a href="usage/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>필드 등록</td><td><a href="usage/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>필드 조정</td><td><a href="usage/my-farm/field-adjustment.md">field-adjustment.md</a></td></tr><tr><td>필드 정보 관리</td><td><a href="usage/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>헤드랜드 등록</td><td><a href="usage/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>헤드랜드 정보 관리</td><td><a href="usage/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -110,7 +110,7 @@ tags:
 
 <summary><a href="usage/vehicle-settings/">차량 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>내 차량 추가</td><td><a href="usage/vehicle-settings/add-vehicle.md">add-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정(IMU)</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -118,7 +118,7 @@ tags:
 
 <summary><a href="usage/workstation-management/">작업기 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업기 목록 진입 및 화면 설명</td><td><a href="usage/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>작업기 추가</td><td><a href="usage/workstation-management/add-worker.md">add-worker.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>작업기 목록 진입 및 화면 설명</td><td><a href="usage/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>작업기 추가</td><td><a href="usage/workstation-management/add-worker.md">add-worker.md</a></td></tr><tr><td>작업기 정보 관리</td><td><a href="usage/workstation-management/managing-worker-information.md">managing-worker-information.md</a></td></tr></tbody></table>
 
 </details>
 

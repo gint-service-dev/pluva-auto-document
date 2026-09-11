@@ -31,25 +31,25 @@ layout:
 {% step %}
 \[자동 경로 추천] 버튼을 누른다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 pluva AI가 경로를 생성합니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 경로가 생성 완료되면 \[추천된 경로로 주행시작]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 시작점으로 이동한 뒤![](../../.gitbook/assets/drive_ai-button.svg)\[자율주행 시작] 버튼을 누르면 주행이 시작됩니다.
 
-<figure><img src="../../.gitbook/assets/automatic-path-explanation-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

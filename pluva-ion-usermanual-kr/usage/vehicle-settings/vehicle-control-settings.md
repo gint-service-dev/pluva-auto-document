@@ -17,6 +17,9 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - tag: kr
+    primary: true
 ---
 
 # 차량 제어 설정
@@ -384,5 +387,5 @@ layout:
 * 커브 경로 생성 시 최대 곡률을 제한하여 경로를 보정합니다.
 
 {% hint style="info" %}
-AB 커브 모드에서만 설정할 수 있습니다.
+스마트커브 모드에서만 설정할 수 있습니다.
 {% endhint %}

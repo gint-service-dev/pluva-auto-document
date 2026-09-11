@@ -57,7 +57,7 @@ tags:
 {% step %}
 원하는 보정 방식을 선택해 설정합니다.
 
-<figure><img src="../../.gitbook/assets/position-calibration-settings-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/position-calibration-settings-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -65,7 +65,7 @@ tags:
 
 #### 위치 보정 설정 화면 설명
 
-<div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/position-calibration-settings-screen.png" alt=""><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **Smart RTK 연결**
 

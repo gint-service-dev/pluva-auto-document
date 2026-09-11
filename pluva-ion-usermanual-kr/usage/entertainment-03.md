@@ -51,3 +51,7 @@ tags:
 ![](../.gitbook/assets/icon-square-3.svg) **크게 보기 버튼**
 
 * YouTube 플레이어 영역을 지도 영역 전체로 확대합니다.
+
+{% hint style="info" %}
+유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자만 입력할 수 있습니다.
+{% endhint %}
