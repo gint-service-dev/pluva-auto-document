@@ -60,14 +60,6 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-{% hint style="warning" %}
-**오토스티어 보정 재진행 시 유의 사항**
-
-* 보정을 취소하거나 실패한 경우 좌끝/우끝 측정부터 다시 진행해 주세요.
-* 핸들 범위 보정이 완료된 후에 직진 조향 보정을 진행해 주세요.
-* 동일한 문제가 계속되면 태블릿을 재부팅한 뒤 오토스티어 보정을 처음부터 다시 진행해 주세요.
-{% endhint %}
-
 ***
 
 #### 트랙터 오토스티어 보정
@@ -196,7 +188,7 @@ layout:
 {% step %}
 핸들 범위 보정 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/leeangi-handle-range-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/leeangi-handle-range-5 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

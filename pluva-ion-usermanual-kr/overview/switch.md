@@ -84,19 +84,9 @@ layout:
 ![](../.gitbook/assets/icon-circle-7.svg) 자율주행 ON/OFF
 
 * 기능
-  * 자율주행 모드를 진입·해제합니다.
-  * 경로 설정 중에는 A·B 지점도 지정할 수 있습니다.
+  * 자율주행 모드 진입 및 해제
 * 상태
   * 기본 - 미점등
   * 동작 가능 시 초록 점등
 
 <div align="left"><figure><img src="../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**원터치 스위치로 자율주행 시작하기**
-
-1. **경로 점 찍기** : 경로에 필요한 점이 아직 남아 있으면, 원터치 스위치의 \[자율주행 버튼]을 눌러 다음 점을 순서대로 설정합니다.
-   * 예 1) AB직진 : A점 → B점
-   * 예 2) 격자 주행 : A점 → B점 → C점 → D점
-2. **자율주행 켜기 / 끄기** : 해당 모드에 필요한 점이 모두 생성된 뒤부터는 \[자율주행 버튼]이 자율주행을 켜고 끄는(ON/OFF) 기능으로 동작합니다.
-{% endhint %}
