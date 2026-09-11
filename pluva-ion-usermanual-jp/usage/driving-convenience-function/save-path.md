@@ -37,15 +37,9 @@ ABラインを生成した状態で <img src="../../.gitbook/assets/drive-functi
 {% endstep %}
 
 {% step %}
-\[保存]をタップします。
+\[保存]をタップします。保存が完了します。
 
 <figure><img src="../../.gitbook/assets/save-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-保存が完了します。
-
-<figure><img src="../../.gitbook/assets/save-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 保存された経路は経路の取り込み機能を通じてご利用できます。\

@@ -63,38 +63,51 @@ layout:
 
 #### 作業機の追加項目のご案内
 
-<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen.png" alt="" width="208"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/add-worker-screen-1.png" alt="" width="208"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/icon-square-1.svg) 作業機タイプ
+![](../../.gitbook/assets/icon-square-1.svg) 別名
+
+* 作業機を区別するための名前を入力します。（例：作業機1）
+
+![](../../.gitbook/assets/icon-square-2.svg) 作業機タイプ
 
 * 作業機タイプを選択します。
 
-![](../../.gitbook/assets/icon-square-2.svg) 作業機の幅
+{% hint style="info" %}
+**「作業機のタイプ」の直接入力**
+
+作業機のタイプ一覧にご使用の作業機がない場合、直接入力し設定できます。入力された作業機名は、後日、名称変更する場合があります。
+
+<img src="../../.gitbook/assets/add-worker-type-1.png" alt="" data-size="original">
+{% endhint %}
+
+![](../../.gitbook/assets/icon-square-3.svg) 作業機の幅
 
 * 作業機の幅を入力します。
+* ![](../../.gitbook/assets/add-worker-dimensions-1.png)
 
-![](../../.gitbook/assets/icon-square-3.svg) 畝間
+![](../../.gitbook/assets/icon-square-4.svg) 畝間
 
 * 畝間を入力します。
+* ![](../../.gitbook/assets/add-worker-dimensions-2.png)
 
-![](../../.gitbook/assets/icon-square-4.svg) リンク -作業機の距離
+![](../../.gitbook/assets/icon-square-5.svg) リンク -作業機の距離
 
 * リンクと作業機の間の距離を入力します。
+* ![](../../.gitbook/assets/add-worker-dimensions-3.png)
 
-![](../../.gitbook/assets/icon-square-5.svg) 作業機の偏差
+![](../../.gitbook/assets/icon-square-6.svg) 作業機の偏差
 
 * 作業機の偏差を入力します。
 
-![](../../.gitbook/assets/icon-square-6.svg) 作業機偏差の計算
+![](../../.gitbook/assets/icon-square-7.svg) 作業機偏差の計算
 
 * 3列を走行してライン間隔の値を入力すると、作業機の偏差が自動で計算されます。
-* 画像で示された方向に沿って3本のラインを走行し、走行ライン間の距離を測定して入力してください。
-*
+*   画像で示された方向に沿って3本のラインを走行し、走行ライン間の距離を測定して入力してください。<br>
 
     <figure><img src="../../.gitbook/assets/worker-deviation-calculation.png" alt=""><figcaption></figcaption></figure>
 
     * S1：一本目と二本目の間の距離
     * S2：二本目と三本目の間の距離
-    *   画面上部のトグルから、左方向または右方向を選択できます。
-
-        ![](../../.gitbook/assets/toggle-on-off.png)
+    * 画面上部のトグルから、左方向または右方向を選択できます。\
+      ![](<../../.gitbook/assets/toggle-on-off (1).png>)

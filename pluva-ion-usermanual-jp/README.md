@@ -67,7 +67,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/initial-setup/">初期設定方法</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ソフトウェアアップデート（OTA）</td><td><a href="usage/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>アカウントの作成及び管理</td><td><a href="usage/initial-setup/account.md">account.md</a></td></tr><tr><td>ソフトウェアアップデート（OTA）</td><td><a href="usage/initial-setup/ota.md">ota.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -75,7 +75,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/driving/">走行モード(経路のプランニング)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路のプランニングの設定方法</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB直進</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+直進</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>格子走行</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>自動経路（Pluva AI）</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>経路のプランニングの設定方法</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB直進</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+直進</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>ABカーブ</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>格子走行</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>自動経路（Pluva AI）</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -99,7 +99,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/my-farm/">My農場管理</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>農場管理</td><td><a href="usage/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>農場主の管理</td><td><a href="usage/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>圃場の登録</td><td><a href="usage/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>圃場情報の修正/削除</td><td><a href="usage/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>枕地の登録</td><td><a href="usage/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>枕地情報の修正/削除</td><td><a href="usage/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>農場管理</td><td><a href="usage/my-farm/farm-management.md">farm-management.md</a></td></tr><tr><td>農場主の管理</td><td><a href="usage/my-farm/farm-owner-management.md">farm-owner-management.md</a></td></tr><tr><td>圃場の登録</td><td><a href="usage/my-farm/field-add.md">field-add.md</a></td></tr><tr><td>圃場の調整</td><td><a href="usage/my-farm/field-adjustment.md">field-adjustment.md</a></td></tr><tr><td>圃場情報の修正/削除</td><td><a href="usage/my-farm/managing-field-information.md">managing-field-information.md</a></td></tr><tr><td>枕地の登録</td><td><a href="usage/my-farm/headland-add.md">headland-add.md</a></td></tr><tr><td>枕地情報の修正/削除</td><td><a href="usage/my-farm/managing-headland-information.md">managing-headland-information.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -107,7 +107,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/vehicle-settings/">車両管理</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>My車両へのアクセスおよび画面のご案内</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>オートステア補正</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>ロール／ピッチ／ヨー補正</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>車両の制御設定</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS受信機の設定</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>My車両へのアクセスおよび画面のご案内</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>My車両の追加</td><td><a href="usage/vehicle-settings/add-vehicle.md">add-vehicle.md</a></td></tr><tr><td>オートステア補正</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>ロール／ピッチ／ヨー補正</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>車両の制御設定</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS受信機の設定</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -115,7 +115,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/workstation-management/">作業機の管理</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>作業機リストへのアクセス及び画面のご案内</td><td><a href="usage/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>作業機の追加</td><td><a href="usage/workstation-management/add-worker.md">add-worker.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>作業機リストへのアクセス及び画面のご案内</td><td><a href="usage/workstation-management/worker-entry.md">worker-entry.md</a></td></tr><tr><td>作業機の追加</td><td><a href="usage/workstation-management/add-worker.md">add-worker.md</a></td></tr><tr><td>作業機情報の管理</td><td><a href="usage/workstation-management/managing-worker-information.md">managing-worker-information.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -123,7 +123,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <summary><a href="usage/network-settings/">ネットワーク設定</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ネットワーク設定へのアクセスおよび画面のご案内</td><td><a href="usage/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>位置補正の設定</td><td><a href="usage/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>ネットワーク設定</td><td><a href="usage/network-settings/">network-settings</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>ネットワーク設定へのアクセスおよび画面のご案内</td><td><a href="usage/network-settings/enter-network.md">enter-network.md</a></td></tr><tr><td>位置補正の設定</td><td><a href="usage/network-settings/rtk-setting.md">rtk-setting.md</a></td></tr><tr><td>ネットワーク設定</td><td><a href="usage/network-settings/network-setting.md">network-setting.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -153,7 +153,7 @@ pluva ionの装置構成、初期設定、走行機能、管理機能、お客�
 
 <details>
 
-<summary><a href="/broken/pages/O5agYGniJRrWMpGJdhFE">お客様サポート</a></summary>
+<summary><a href="consumer-info/problem-solving.md">お客様サポート</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>トラブルシューティング</td><td><a href="consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>リモートサポート</td><td><a href="consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>整備</td><td><a href="consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>個人情報処理方針</td><td><a href="consumer-info/privacy-policy.md">privacy-policy.md</a></td></tr><tr><td>仕様情報</td><td><a href="consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 

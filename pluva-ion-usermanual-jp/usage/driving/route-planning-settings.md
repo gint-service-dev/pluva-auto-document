@@ -39,6 +39,12 @@ A+直進
 
 <div align="left"><figure><img src="../../.gitbook/assets/a+-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
+ABカーブ
+
+* A点からスタートし、ご希望のカーブ形状を描きながらB地点まで走行すると、その曲線を基準に自動操舵の経路が生成されます。
+
+<div align="left"><figure><img src="../../.gitbook/assets/ab-curve.png" alt="" width="200"><figcaption></figcaption></figure></div>
+
 格子走行
 
 * 境界を設定してから2つの基準辺を選択することで、2方向の格子型経路を自動生成する走行モードです。
@@ -67,6 +73,12 @@ A+直進
 
 <figure><img src="../../.gitbook/assets/autoplanning-explanation-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+圃場を選択し\[取り込み]をタップすると、該当する走行モードが開始します。
+
+<figure><img src="../../.gitbook/assets/autoplanning-explanation-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
@@ -88,10 +100,4 @@ A+直進
 案内に従って**倍速ターンをオンに設定**し、**\[走行開始]**&#x3092;押すと走行モードへのアクセスが完了します。
 
 <img src="../../.gitbook/assets/autoplanning-speedturn-modal.png" alt="" data-size="original">
-{% endhint %}
-
-{% hint style="info" %}
-2つ以上の圃場が登録されている場合には、走行モードを選択する前に、￼圃場の選択画面が表示されます。
-
-<img src="../../.gitbook/assets/autoplanning-two-field.png" alt="" data-size="original">
 {% endhint %}
