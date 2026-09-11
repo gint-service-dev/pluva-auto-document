@@ -25,7 +25,7 @@ layout:
 
 ***
 
-### 전원 및 하드웨어 (Hardware & Power) <a href="#hardware-power" id="hardware-power"></a>
+### 전원 및 하드웨어 (Hardware & Power)
 
 <details>
 
@@ -282,7 +282,7 @@ layout:
 
 </details>
 
-#### GNSS 및 네트워크 (GNSS & Network) <a href="#gnss-network" id="gnss-network"></a>
+#### GNSS 및 네트워크 (GNSS & Network)
 
 <details>
 
@@ -399,7 +399,7 @@ layout:
 
 **그래도 안 된다면**
 
-위 항목을 모두 확인했는데도 여러 작업일 동안 반복되는 경우, GNSS 리시버 하드웨어 이상일 수 있습니다. 리시버를 점검합니다. ([3️⃣ GNSS 리시버 LED가 켜지지 않아요](initial-setup.md#hardware-power) 참고)
+위 항목을 모두 확인했는데도 여러 작업일 동안 반복되는 경우, GNSS 리시버 하드웨어 이상일 수 있습니다. 리시버를 점검합니다. ([3️⃣ GNSS 리시버 LED가 켜지지 않아요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-6) 참고)
 
 </details>
 
@@ -505,7 +505,7 @@ layout:
 **1단계. 위치보정 상태 확인**
 
 * 위치보정이 **연결됨** 상태인지 확인합니다.
-  * 연결안됨이면 → [3️⃣ 위치보정이 연결안됨으로 표시되면서 정밀도가 떨어져요](initial-setup.md#gnss-network) 항목을 먼저 해결합니다.
+  * 연결안됨이면 → [3️⃣ 위치보정이 연결안됨으로 표시되면서 정밀도가 떨어져요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-25) 항목을 먼저 해결합니다.
   * 연결됨이어도 신호약함 상태이면 수십 cm\~1m 오차가 발생할 수 있습니다. 신호양호 상태가 될 때까지 대기합니다.
 
 **2단계. 주행 검증**
@@ -565,16 +565,16 @@ layout:
 * 위성신호가 신호양호 상태인지 확인합니다.
 * 차량 배터리 전압이 정상 범위인지 확인합니다.
 
-**4단계. 보정 재시도**
+**4단계. 재시도**
 
-* 보정을 취소했거나 보정에 실패했다면 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 다시 실행합니다.
-* 계속 진행되지 않을 경우 태블릿을 재부팅 후 재시도합니다.
+* 보정 화면을 나갔다가 다시 진입해 재시도합니다.
+* 위 단계 확인 후에도 되지 않으면 태블릿을 재부팅 후 재시도합니다.
 
 ***
 
 **그래도 안 된다면**
 
-재시도를 반복해도 보정이 완료되지 않으면 핸들 모터 또는 하네스 이상일 수 있습니다. 하드웨어를 점검해주세요. ([8️⃣ 자율주행 중 핸들 조향이 안돼요](initial-setup.md#hardware-power) 참고)
+재시도를 반복해도 보정이 완료되지 않으면 핸들 모터 또는 하네스 이상일 수 있습니다. 하드웨어를 점검해주세요. ([8️⃣ 자율주행 중 핸들 조향이 안돼요](/broken/spaces/256Umh24fJVf6zNkZpSa/pages/NzifUvx5zIDCh6FtuDrB#undefined-14) 참고)
 
 </details>
 
@@ -734,12 +734,6 @@ layout:
 
 * GNSS 수신기가 차량 중앙에 올바르게 설치되어 있는지 확인합니다.
 * GNSS 수신기 설정값(종방향/횡방향/설치 높이)이 실제 설치 위치와 일치하는지 확인합니다.
-
-**5단계. 오토스티어 보정 상태 확인**
-
-* 앞 단계 점검 후에도 차량이 좌우로 흔들리면 오토스티어 보정 완료 여부를 확인합니다.
-* 보정을 취소했거나 완료하지 못했다면 핸들 범위 보정부터 다시 진행합니다.
-* 보정을 완료해도 증상이 계속되면 (주)긴트에 문의 합니다.
 
 </details>
 
