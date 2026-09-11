@@ -91,8 +91,9 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 <img src="../../.gitbook/assets/image (48).png" alt="" data-size="line"> **농장 소유자 추가**
 
 * \[추가]를 눌러 농장 소유자를 추가합니다.
+* 농장 소유자와 메모를 작성한 뒤 \[추가]를 눌러 농장을 추가할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (55).png" alt="" width="375"><figcaption><p>농장 소유자와메모를 작성한 뒤 [추가]를 눌러 농장을 추가할 수 있습니다.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <img src="../../.gitbook/assets/image (49).png" alt="" data-size="line"> **작물 이름**
 
@@ -105,8 +106,9 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 <img src="../../.gitbook/assets/image (51).png" alt="" data-size="line"> **작물 변경**
 
 * 설정된 작물을 변경합니다.
+* 작물과 작물 등록 연도, 파종/정식 시기, 수확 예정 시기를 변경합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption><p>작물과 작물 등록 연도, 파종/정식 시기, 수확 예정 시기를 변경합니다.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <img src="../../.gitbook/assets/image (52).png" alt="" data-size="line"> **메모**
 
