@@ -70,6 +70,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 <img src="../../.gitbook/assets/image (43).png" alt="" data-size="line"> **필드 이름**
 
 * 설정된 필드 이름입니다.
+* 클릭하면 이름변경이 가능합니다.
 
 <img src="../../.gitbook/assets/image (45).png" alt="" data-size="line"> **농장**
 
