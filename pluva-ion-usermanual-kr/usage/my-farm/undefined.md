@@ -51,18 +51,13 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 \[수정]을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-필드 수정 모달이 확인 됩니다.
+필드 수정 모달이 확인 되면, 원하는 정보의 수정을 마친 후 \[수정 완료]를 눌러 수정을 완료합니다.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-원하는 정보의 수정을 마친 후 \[수정 완료]를 눌러 수정을 완료합니다.
-
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
