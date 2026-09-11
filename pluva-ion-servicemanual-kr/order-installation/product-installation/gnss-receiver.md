@@ -97,6 +97,6 @@ layout:
 
 * GNSS 수신기를 교체한 경우에는 신규 차량을 추가해야 합니다.\
   자세한 내용은 [차량 추가](https://servicemanual.pluva.io/ion/korea/kr/order-installation/quick-setup/add-vehicle)를 참고해주세요.
-* 신규 차량의 차량 치수와 GNSS 수신기 위치를 다시 입력한 뒤, 차량 보정(오토캘리브레이션)을 완료해 주세요.\
+* 차량 치수와 GNSS 수신기 위치를 다시 입력한 뒤 차량 보정을 완료해 주세요..\
   자세한 내용은 [차량 보정](https://servicemanual.pluva.io/ion/korea/kr/order-installation/quick-setup/vehicle-calibration)을 참고해주세요.
-* GNSS 수신기는 차량 단위로 연동됩니다. 기존 차량 설정을 그대로 사용하면 차량이 정상적으로 제어되지 않을 수 있습니다.
+* GNSS 수신기는 차량 단위로 연동되므로, 기존 차량 설정을 그대로 사용하면 정상적으로 제어되지 않을 수 있습니다.
