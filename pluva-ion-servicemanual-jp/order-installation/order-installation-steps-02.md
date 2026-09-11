@@ -35,7 +35,7 @@ pluva ionは、専門的な取り付け工程が必要な製品です。**開通
 **製品の開通**
 
 * 取り付けする構成品を選択し、シリアル番号を登録して開通します。
-* 詳細は、[<mark style="color:$primary;">製品の開通</mark>](/broken/pages/o9p5KQT0f9DFww8FZkzf)をご参照ください。
+* 詳細は、[<mark style="color:$primary;">製品の開通</mark>](product-registration-02.md)をご参照ください。
 {% endstep %}
 
 {% step %}
