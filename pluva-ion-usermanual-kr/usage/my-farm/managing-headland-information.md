@@ -55,6 +55,30 @@ My Farm의 헤드랜드 항목을 누릅니다.
 
 ***
 
+#### 헤드랜드 정보 수정
+
+{% stepper %}
+{% step %}
+\[수정] 옵션을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+원하는 정보의 수정을 마친 후 \[수정 완료]를 누릅니다.
+
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+수정이 완료 됩니다.
+
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
 #### 헤드랜드 정보 삭제
 
 {% stepper %}
