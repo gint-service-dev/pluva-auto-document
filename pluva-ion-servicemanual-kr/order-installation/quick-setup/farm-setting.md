@@ -102,8 +102,6 @@ layout:
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
 <figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -217,8 +215,6 @@ layout:
 차량으로 등록 화면에 진입합니다. 차량을 필드의 각 꼭지점으로 이동한 후 버튼을 눌러 점을 설정합니다.
 
 <figure><img src="../../.gitbook/assets/field-add-vehicle-2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/map-registration-3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 설정 직후 해당 점의 수정 버튼이 표시됩니다. 위치가 정확하지 않으면 수정 버튼으로 재설정합니다.
