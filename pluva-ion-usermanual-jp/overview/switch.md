@@ -84,19 +84,9 @@ layout:
 ![](../.gitbook/assets/icon-circle-7.svg) **自動操舵のON/OFF**
 
 * 機能
-  * 自動操舵モードを開始・解除します。
-  * 経路設定中には、A·B点の設定も可能です。
+  * 自動操舵モードの開始及び解除
 * ステータス
   * 基本 - 未点灯
   * 動作可能な場合、緑色に点灯
 
 <div align="left"><figure><img src="../.gitbook/assets/switch-button-self-driving.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**ワンタッチスイッチで自動操舵を開始する**
-
-1. **経路ポイントの登録** : 経路設定に必要な地点が残っている場合、ワンタッチスイッチの\[自動操舵ボタン]を押して、次の地点を順番に設定します。
-   * 例 1) AB直進 : A点 → B点
-   * 例 2) 格子走行 : A点 → B点 → C点 → D点
-2. **自動操舵 ON/OFF** : 該当するモードに必要なポイントがすべて設定されたら、\[自動操舵ボタン]が自動操舵の開始/終了(ON/OFF)機能として作動します。
-{% endhint %}

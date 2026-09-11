@@ -59,15 +59,23 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 
 <figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-圃場のない状態で走行を選択した場合は、ABラインの自動生成ボタンが表示されません。
+{% hint style="info" %}
+生成された圃場がない場合は、ガイドに従ってすぐ圃場を登録できます。
+
+<img src="../../.gitbook/assets/automatic-path-nonefield.png" alt="" data-size="original">
 {% endhint %}
 {% endstep %}
 
 {% step %}
-プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
+圃場エリアが有効になり自動ABラインが生成されます。
 
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+生成完了後、プレビューが表示されます。 必要に応じて設定を調整&#x3057;**\[確認]**&#x3092;タップしてください。
+
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 次の設定で細かい調整ができます。
@@ -76,7 +84,7 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
 * ![](../../.gitbook/assets/my-location-criteria.png)
   * 従来の生成ライン：白
   * 現在地を基準に生成されたライン：青
-* 方向の変更：進行方向の基準が切り替わります。タップすると縦走行ボタンに切り替わります。
+* 横走行（縦走行）：進行方向の基準が切り替わります。タップすると縦走行ボタンに切り替わります。
 * ![縦走行](../../.gitbook/assets/vertical-drive.png)
   * 縦走行
 * ![縦走行](../../.gitbook/assets/horizontal-drive.png)
@@ -86,16 +94,16 @@ AB直進モードで、<img src="../../.gitbook/assets/automatic-path-button.svg
   * 変更前
 * ![](../../.gitbook/assets/after-replace-abpoints.png)
   * 変更後
-* AB移動：数値を調整し、ABラインと境界線の間隔を変更できます。
-* ![](../../.gitbook/assets/ab-move.png)
-* ABの長さ：数値を調整し、ABラインの長さを変更できます。
-* ![](../../.gitbook/assets/ab-length.png)
+* 等間隔：数値で等間隔を調整します。
+* ![](../../.gitbook/assets/equidistant-interval.png)
+* 枕地：数値で枕地の間隔を調整します。
+* ![](../../.gitbook/assets/headland.png)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
+<img src="../../.gitbook/assets/drive_ai-button.svg" alt="" data-size="original">**\[自動操舵]**&#x30DC;タンを押すと、生成された経路に沿って走行が開始されます。
 
-<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation--3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ab-automatic-path-explanation-4.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

@@ -1,88 +1,64 @@
 # 機器の設定
 
-走行画面の明るさや音量、カメラの表示に関する設定を行います。
+走行画面の明るさや音量、カメラ表示の設定を行います。
 
-***
+
 
 ### アクセス方法
 
 {% stepper %}
 {% step %}
-アプリ下部のメニューから\[設定]アイコンをタップします。
+アプリ下部の設定アイコンをタップします。
 
-<figure><img src="../../.gitbook/assets/screen-settings-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-settings-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-左のメニューから\[機器の設定]をタップすると、機器の設定画面へアクセスします。
+左側のメニューから「画面設定」をタップします。
 
-<figure><img src="../../.gitbook/assets/screen-settings-2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-### 画面の設定ページ
+### 画面設定のご案内
 
-画面の明るさや音量、カメラ表示に関する設定を行います。
-
-<figure><img src="../../.gitbook/assets/screen-layout-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **画面の明るさ**
 
-* スライダーを動かし、画面の明るさを調整します。
+* スライダーを左右にドラッグすることで、画面の明るさを調整できます。
 
 ![](../../.gitbook/assets/icon-square-2.svg) **音量**
 
-* スライダーを動かし、音量を調整します。
-  * **テスト再生**: 設定した音量を事前に確認します。
-  * **音量のリセット**: 音量を初期設定に戻します。
+* スライダーを左右にドラッグすることで、音量を調整できます。
 
 ![](../../.gitbook/assets/icon-square-3.svg) **カメラ**
 
-* 走行画面上にカメラ映像を表示するかどうかを設定します。
-  * **全カメラ**: 全てのカメラを一度にON/OFFします。
-  * **ターン時に自動的にON**: ターンする際にカメラ画面が自動的に表示されます。
+* 走行画面上のカメラ動画の表示有無に関する設定を行います。
 
 ***
 
-### キーボード設定
+### 走行設定のご案内
 
-キーボードの入力方法を選択します。
+<figure><img src="../../.gitbook/assets/screen-layout-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/device-keyboard-1.png" alt=""><figcaption></figcaption></figure>
+![](../../.gitbook/assets/icon-square-1.svg) **地図設定**
 
-{% hint style="info" %}
-Youtube検索時にはKana入力はできず、Romajiのみ入力できます。
-{% endhint %}
+* 走行画面に表示する地図の内容を設定します。
+  * 圃場の境界：圃場の境界線の表示有無
+  * 作業経路：走行済みの経路の表示有無
+  * 枕地：枕地エリアの表示有無
 
-{% hint style="info" %}
-**キーボードのアップデートが必要な場合**
+<figure><img src="../../.gitbook/assets/screen-layout-3.png" alt=""><figcaption></figcaption></figure>
 
-キーボードのアップデートが必要な場合は、画面上に「キーボードのアップデートが必要です」という案内とともに「今すぐアップデート」が表示されます。
+![](../../.gitbook/assets/icon-square-2.svg) **走行ライン設定**
 
-<img src="../../.gitbook/assets/device-keyboard-2.png" alt="" data-size="original">
+* 走行の基準ラインの表示方法を設定します。ご希望のオプションを選択してください。
 
-\[今すぐアップデート]を選択すると、アップデートが始まります。
-{% endhint %}
+<figure><img src="../../.gitbook/assets/screen-layout-4.png" alt=""><figcaption></figcaption></figure>
 
-***
+![](../../.gitbook/assets/icon-square-3.svg) **車両アイコンの設定**
 
-### 機器情報
-
-機器の基本情報を確認し、保存された作業データを初期化できます。
-
-<figure><img src="../../.gitbook/assets/device-info-1.png" alt=""><figcaption></figcaption></figure>
-
-![](../../.gitbook/assets/icon-square-1.svg) 機器のシリアル番号
-
-* 機器のシリアル番号が表示されます。
-
-![](../../.gitbook/assets/icon-square-2.svg) データの初期化
-
-* 登録済みの接続情報をすべて解除し、初期設定の状態に戻します。
-* データを初期化すると、初期画面へ移動され、簡単セットアップを最初から再実行する必要があります。
-
-{% hint style="warning" %}
-ご注意: データを初期化すると、全てのデータが完全に消去され復元できません。
-{% endhint %}
+* 走行画面に表示される車両アイコンの形を選択できます。
