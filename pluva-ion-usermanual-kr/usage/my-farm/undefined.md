@@ -103,7 +103,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
 <img src="../../.gitbook/assets/image (51).png" alt="" data-size="line"> **작물 변경**
 
-* 설정된작물을 변경합니다.
+* 설정된 작물을 변경합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption><p>작물과 작물 등록 연도, 파종/정식 시기, 수확 예정 시기를 변경합니다.</p></figcaption></figure></div>
 
