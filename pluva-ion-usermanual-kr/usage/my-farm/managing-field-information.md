@@ -49,7 +49,7 @@ layout:
 
 ***
 
-#### 필드 정보 수정
+#### 필드 정보 수정 <a href="#field-edit" id="field-edit"></a>
 
 {% stepper %}
 {% step %}
@@ -73,7 +73,7 @@ layout:
 
 ***
 
-#### **필드 수정 화면 설명** <a href="#desc" id="desc"></a>
+#### **필드 수정 화면 설명** <a href="#field-edit-desc" id="field-edit-desc"></a>
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
