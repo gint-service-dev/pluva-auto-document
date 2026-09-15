@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 1+1 차량 이전 설치
@@ -50,37 +52,32 @@ layout:
 
 {% stepper %}
 {% step %}
-대상 차량에 제품 이전 설치와 하네스 연결을 완료합니다.
-
-<mark style="color:$danger;">**(이미지 필요)**</mark>\
+대상 차량에 제품 이전 설치와 하네스 연결을 완료합니다.\
 
 {% endstep %}
 
 {% step %}
-태블릿을 재부팅하고, GNSS 수신기를 연결합니다.
-
-<mark style="color:$danger;">**(이미지 필요)**</mark>\
+태블릿을 재부팅하고, GNSS 수신기를 연결합니다.\
 
 {% endstep %}
 
 {% step %}
-새 GNSS 발견 팝업이 표시되면 등록 여부를 확인하고, 이미 등록된 차량이라면 \[현재 차량 유지]를 선택합니다.
+팝업에서 \[확인]를 누릅니다.
 
-<mark style="color:$danger;">**(이미지 필요)**</mark>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+\[차량변경] 에서 전환할 차량을 선택합니다.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-이미 등록된 차량이라면 새 차량을 추가하지 말고 \[현재 차량 유지]를 선택해 주세요.
+**차량 전환 시 유의 사항**
+
+* 등록된 차량은 새로 추가하지 말고 \[내 차량]에서 선택해 주세요.
+* 같은 차량을 중복 등록했다면 중복 차량을 삭제해 주세요.
 {% endhint %}
-
-{% hint style="warning" %}
-\[내 차량]에서 기존 차량을 다시 선택하면 정상적으로 전환되며, 이후부터는 연결한 차량으로 자동 전환됩니다.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-\[내 차량]에서 현재 연결한 차량을 다시 선택합니다.
-
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -97,8 +94,6 @@ layout:
 
 {% step %}
 차량 정보와 보정 상태가 모두 정상인지 확인한 후 자율주행 기능을 사용합니다.
-
-<mark style="color:$danger;">**(이미지 필요)**</mark>
 {% endstep %}
 {% endstepper %}
 
