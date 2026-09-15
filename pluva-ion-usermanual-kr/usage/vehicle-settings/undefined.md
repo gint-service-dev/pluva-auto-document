@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 내 차량 전환
@@ -31,22 +33,22 @@ layout:
 {% endstep %}
 
 {% step %}
-‘GNSS를 새로 발견했습니다. 차량을 추가하시겠습니까?’ 팝업에서\[현재 차량 유지]를 누릅니다.
+확인되는 팝업에서 \[확인]를 누릅니다.
 
-<mark style="color:$danger;">**(이미지 삽입)**</mark>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[내 차량]에서 전환할 차량을 선택합니다.
+\[차량변경] 에서 전환할 차량을 선택합니다.
 
-<mark style="color:$danger;">**(이미지 삽입)**</mark>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 {% hint style="warning" %}
 **차량 전환 시 유의 사항**
 
-* 등록된 차량은 새로 추가하지 말고 \[내 차량]에서 선택해 주세요.
+* 등록된 차량은 새로 추가하지 말고 \[차량 변경]에서 선택해 주세요.
 * 같은 차량을 중복 등록했다면 중복 차량을 삭제해 주세요.
 {% endhint %}
 
