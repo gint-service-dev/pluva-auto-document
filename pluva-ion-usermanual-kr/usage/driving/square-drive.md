@@ -134,6 +134,6 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 {% step %}
 시작점 주변에서 \[자율주행 시작] 버튼이 활성화되면 주행을 시작합니다.
 
-<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
