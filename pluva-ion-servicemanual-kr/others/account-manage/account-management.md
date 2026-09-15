@@ -142,7 +142,7 @@
 
 #### PC 환경
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
