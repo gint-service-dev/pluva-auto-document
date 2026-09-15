@@ -119,9 +119,9 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 {% endstep %}
 
 {% step %}
-시작 방향을 선택한 뒤 \[주행 시작]을 누르고 안내된 시작점으로 이동합니다.
+시작점과시작 방향을 선택한 뒤 \[주행 시작]을 누르고 안내된 시작점으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **시작점과 시작 방향**
