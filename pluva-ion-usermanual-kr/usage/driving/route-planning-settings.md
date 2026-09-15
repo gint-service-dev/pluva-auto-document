@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr
     primary: true
@@ -54,6 +56,12 @@ A+직진
 * 격자 주행은 바운더리를 설정하고 두 개의 기준변을 선택하면, 두 방향의 격자형 경로를 자동으로 생성하는 주행모드입니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/cross-path.png" alt="" width="189"><figcaption></figcaption></figure></div>
+
+사각 주행
+
+* 사각 주행은 사각형 밭의 네 변을 따라 외곽부터 안쪽으로 좁혀가며 작업하는 주행모드입니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (80).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 자동 경로 (pluva AI)
 
