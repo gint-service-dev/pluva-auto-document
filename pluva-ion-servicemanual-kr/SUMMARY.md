@@ -57,7 +57,7 @@
 * [계정 관리](others/account-manage/README.md)
   * [계정 목록 진입 및 설명](others/account-manage/account-management.md)
   * [작업 이력](others/account-manage/work-history.md)
-  * [작업 이력 N](others/account-manage/n.md)
+  * [작업 이력](others/account-manage/work-history-not-use.md)
 * [제품 관리](others/product-management.md)
 * [원격 지원](others/monitorning.md)
 * [오퍼레이터 관리](others/operator-manage/README.md)
