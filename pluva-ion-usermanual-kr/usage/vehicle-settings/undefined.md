@@ -33,7 +33,7 @@ layout:
 {% endstep %}
 
 {% step %}
-확인되는 팝업에서 \[확인]를 누릅니다.
+확인되는 팝업에서 \[확인]을 누릅니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
