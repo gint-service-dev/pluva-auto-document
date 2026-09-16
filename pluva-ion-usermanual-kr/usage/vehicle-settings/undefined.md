@@ -29,7 +29,7 @@ layout:
 
 {% stepper %}
 {% step %}
-변경할차량의 GNSS 수신기를 태블릿에 연결합니다.
+변경할 차량의 GNSS 수신기를 태블릿에 연결합니다.
 {% endstep %}
 
 {% step %}
