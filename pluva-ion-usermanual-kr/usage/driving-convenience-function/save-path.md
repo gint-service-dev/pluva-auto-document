@@ -49,7 +49,7 @@ layout:
 {% endstep %}
 
 {% step %}
-\[저장]을 누릅니다.
+\[저장]을 누릅니다. 저장이 완료됩니다.
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
