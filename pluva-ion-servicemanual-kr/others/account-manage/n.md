@@ -176,6 +176,30 @@ layout:
 
 <img src="../../.gitbook/assets/image (62).png" alt="" data-size="line"> **경로 범례**
 
-* 경로 범례를 누르면 자동, 수동, AB 라인, RTK Fixed 아님 여부를 확인할 수 있습니다.
+* 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="207"><figcaption></figcaption></figure></div>
+
+<img src="../../.gitbook/assets/image (64).png" alt="" data-size="line"> **재생 바 영역**
+
+**상단**
+
+* 재생/일시정지 : \[▶]를 누르면 작업을 시간 순서대로 재생하고, 다시 누르면 일시정지 합니다.
+* 배속 조절 : 1배속으로 설정되어 있으며 2, 4, 8배속으로 조절이 가능합니다.
+
+**하단**
+
+* 재생 타임 라인 : 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
+
+<img src="../../.gitbook/assets/image (65).png" alt="" data-size="line"> **상세 정보**
+
+* 해당 작업의 상세 정보를 표시합니다.
+* 전체 이벤트 표시/숨김을 설정합니다.
+
+{% hint style="info" %}
+**참고**
+
+모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다. 조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
+
+![](<../../.gitbook/assets/image (66).png>)
+{% endhint %}
