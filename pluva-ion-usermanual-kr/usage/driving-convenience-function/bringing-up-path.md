@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 경로 불러오기
@@ -46,7 +48,7 @@ layout:
 <figure><img src="../../.gitbook/assets/calling-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-경로 불러오기 목록에는 현재 선택한 주행 모드에 해당하는 경로만 표시됩니다.
+불러오기 목록에는 현재 주행 모드의 경로만 표시됩니다. 스마트커브 경로가 보이지 않으면 [내 차량](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/entering-my-vehicle)에서 경로를 저장한 차량으로 전환해 주세요.
 {% endhint %}
 {% endstep %}
 
