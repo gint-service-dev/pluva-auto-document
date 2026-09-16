@@ -144,8 +144,38 @@ layout:
 
 <img src="../../.gitbook/assets/image (53).png" alt="" data-size="line"> **경로 범례**
 
-* 경로 범례를  누르면 자동, 수동, AB 라인, RTK Fixed 아님 여부를 확인할 수 있습니다.
+* 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (54).png" alt="" width="207"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="207"><figcaption></figcaption></figure></div>
+
+***
 
 #### 모바일 환경 <a href="#mobile-view" id="mobile-view"></a>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<img src="../../.gitbook/assets/image (58).png" alt="" data-size="line"> **RTK 품질**
+
+* 재생 시점 기준 RTK 측위 품질을 표시합니다.
+
+<img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> **속도**
+
+* 재생 시점 기준 주행 속도를 표시합니다.
+
+<img src="../../.gitbook/assets/image (60).png" alt="" data-size="line"> **현재 위치**
+
+* 지도를 작업 위치로 이동합니다.
+
+<img src="../../.gitbook/assets/image (61).png" alt="" data-size="line"> **지도 및 경로**
+
+* 시작 지점(E) : 지도에서 작업이 시작된 지점입니다.
+* 종료 지점(E) : 지도에서 작업이 종료된 지점입니다.
+* 지도에 해당 작업의 주행 궤적이 표시됩니다.
+* 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.
+* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (62).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
+
+<img src="../../.gitbook/assets/image (62).png" alt="" data-size="line"> **경로 범례**
+
+* 경로 범례를 누르면 자동, 수동, AB 라인, RTK Fixed 아님 여부를 확인할 수 있습니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="207"><figcaption></figcaption></figure></div>
