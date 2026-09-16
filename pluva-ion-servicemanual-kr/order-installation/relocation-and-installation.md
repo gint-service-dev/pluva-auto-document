@@ -62,20 +62,20 @@ layout:
 {% endstep %}
 
 {% step %}
-팝업에서 \[확인]를 누릅니다.
+확인되는 팝업에서 \[확인]를 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-\[차량변경] 에서 전환할 차량을 선택합니다.
+\[차량 변경]에서 변경할 차량을 선택합니다.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**차량 전환 시 유의 사항**
+**차량 변경 시 유의 사항**
 
-* 이미등록된 차량은 새로 추가하지 말고 \[차량 변경]에서 선택해 주세요.
+* 등록된 차량은 새로 추가하지 말고 \[차량 변경]에서 선택해 주세요.
 * 같은 차량을 중복 등록했다면 중복 차량을 삭제해 주세요.
 {% endhint %}
 {% endstep %}
