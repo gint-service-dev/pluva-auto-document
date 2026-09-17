@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 원격 지원
@@ -74,18 +76,30 @@ layout:
 {% step %}
 고객에게 태블릿에서 원격 지원 코드를 발급하도록 안내합니다.
 
-* 태블릿 경로
-  * 좌측 하단 메뉴 버튼 클릭 > 고객 지원 > 원격 지원 > 원격 지원 코드 발급
-* 고객 태블릿의 원격지원 화면
+*   태블릿 경로
 
-<figure><img src="../.gitbook/assets/monitorning-3.png" alt=""><figcaption></figcaption></figure>
+    * 좌측 하단 메뉴 버튼 클릭
+
+    <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+
+    * 고객 지원 > 원격 지원 클릭
+
+    <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+    * 원격 지원 코드발급
+
+    <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+    * 코드발급 완료
+
+    <figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 코드는 발급 시점으로부터 **24시간 동안 유효**합니다.
 {% endhint %}
 
 {% hint style="warning" %}
-고객이 앱에서 \[원격 종료]를 누르면 코드가 즉시 무효화됩니다. 이 경우 코드를 다시 발급받아야 합니다.
+고객이 앱에서 \[원격 종료]를 누르면 코드가 즉시 무효화됩니다. 이 경우 코드를 다시 발급 받아야 합니다.
 {% endhint %}
 {% endstep %}
 
@@ -93,6 +107,36 @@ layout:
 어드민 로그인 후, 원격 지원 목록에서 해당 고객의 **\[원격 접속]** 버튼을 누릅니다.
 
 <figure><img src="../.gitbook/assets/monitorning-4.png" alt=""><figcaption></figcaption></figure>
+
+**원격 접속 상태**
+
+**1. 접속 가능**
+
+* 고객이 원격 지원 코드를 발급한 상태입니다.
+* 코드 발급 시점으로부터 24시간 이내 접속이 가능합니다.
+
+**2. 접속 중**
+
+* 담당자가 고객의 원격 지원 화면에 접속한 상태입니다.
+* 담당자가 접속한 뒤에는 보기 전용 계정까지 최대 5명까지 참여가 가능합니다.
+
+{% hint style="info" %}
+5명의 참여 가능 인원이 모두 접속 중인 상태에서 **\[원격 접속]** 버튼을 누르면 접속 인원 초과 모달이 표시됩니다.
+
+* 5명 이상의 접속은 불가능 합니다.
+* 접속이 필요할 경우 현재 접속 중인 다른 담당자나 보기 전용 참여자에게 원격 지원 종료를 요청하세요.
+
+![](<../.gitbook/assets/image (75).png>)
+{% endhint %}
+
+**3. 접속 불가능**
+
+* 원격 지원 코드가 발급되지 않았거나 만료된 상태입니다.
+* **이 상태에서는 \[원격 접속] 버튼이 비활성화 됩니다.**
+
+{% hint style="info" %}
+원격 접속이 불가능한 상태에서 접속하려면, 고객에게 원격 지원 코드 발급을 요청해야 합니다.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -103,10 +147,13 @@ layout:
 {% hint style="info" %}
 접속이 되지 않는 경우 다음을 확인합니다.
 
-1. **\[원격 접속] 버튼이 비활성화 됨**
+1. **입력한 코드가 틀렸을때**
+   1. 원인: 발급된 코드와 입력한 코드가 다름
+   2. 조치: 고객에게 발급된 코드 번호를 재확인
+2. **\[원격 접속] 버튼이 비활성화 됐을때**
    1. 원인: 코드가 발급되지 않았거나 만료됨
-   2. 조치: 고객에게 코드 재발급 요청<br>
-2. **중복 접속 안내 모달이 표시됨**
+   2. 조치: 고객에게 코드 재발급 요청
+3. **중복 접속 안내 모달이 표시 됐을때**
    1. 원인: 다른 담당자가 이미 원격 연결 중
    2. 조치: 이미 원격 중인 담당자가 지원을 계속하거나, 해당 담당자에게 \[원격 나가기]를 요청
 {% endhint %}
@@ -115,7 +162,7 @@ layout:
 {% step %}
 접속 화면에 원격 가이드 팝업이 표시되면 내용을 확인하고 **\[확인]**&#xC744; 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitorning-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -128,15 +175,15 @@ layout:
 * 주행 시작, 정지 등 차량을 움직이는 조작은 반드시 고객이 직접 하도록 안내합니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/monitorning-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 조치가 완료되면 고객에게 종료를 알린 후 **\[원격 나가기]**&#xB97C; 누릅니다.
 
-<figure><img src="../.gitbook/assets/monitorning-8-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/monitorning-8-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \[원격 나가기]를 눌러도 코드 발급 시점으로부터 24시간 이내에는 재접속이 가능합니다.
@@ -150,77 +197,62 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-#### 원격 접속 상태
-
-1. **접속 가능**
-
-* 고객이 원격 지원 코드를 발급한 상태입니다.
-* **코드 발급 시점으로부터 24시간 이내 접속이 가능**합니다.
-
-2. **접속 중**
-
-* 담당자가 고객의 원격 지원 화면에 접속한 상태입니다.
-* 접속 중에는 다른 담당자가 동시에 접속할 수 없습니다.
-
-{% hint style="info" %}
-다른 담당자가 접속 중 상태에서 **\[원격 접속]** 버튼을 누르면 원격 중복 접속 안내 모달이 표시됩니다.
-
-* 중복 접속은 불가능합니다. 접속이 필요할 경우 현재 접속 중인 담당자에게 원격 지원 나가기를 요청해야 합니다.
-
-<img src="../.gitbook/assets/monitoring-stop-madal.png" alt="" data-size="original">
-{% endhint %}
-
-3. **접속 불가능**
-
-* 원격 지원 코드가 발급되지 않았거나 만료된 상태입니다.
-* 이 상태에서는 **\[원격 접속]** 버튼이 비활성화됩니다.
-
-{% hint style="warning" %}
-원격 접속이 불가능한 상태에서 접속하려면, 고객에게 원격 지원 코드 발급을 요청해야 합니다.
-{% endhint %}
-
 ***
 
 ### 원격 지원 화면 설명
 
 #### PC 환경
 
-<figure><img src="../.gitbook/assets/monitorning-description-pc.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
+<img src="../.gitbook/assets/image (102).png" alt="" data-size="line"> **화면 조작 가능, 보기전용 식별 태그**: 원격 지원을 첫 접속한 담당자는 \[화면 조작 가능] 태그가 표시되며, 화면 조작이 가능합니다. 이후 접속 계정은 \[보기 전용] 태그가 표시되며, 화면 조작은 불가능 합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
+<img src="../.gitbook/assets/image (103).png" alt="" data-size="line"> **고객 정보(이름)**: 현재 지원하고 있는 고객의 이름을 표시합니다.
 
-![](../.gitbook/assets/icon-square-3.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+<img src="../.gitbook/assets/image (104).png" alt="" data-size="line"> **고객 정보(기타)**: 고객의 휴대폰 번호, 기기 시리얼 넘버, 담당 조직을 표시합니다.
 
-![](../.gitbook/assets/icon-square-4.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
+<img src="../.gitbook/assets/image (87).png" alt="" data-size="line"> **원격 진행 화면**: 현재 고객 태블릿 화면을 표시합니다.
 
-<figure><img src="../.gitbook/assets/monitorning-info-modal.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (88).png" alt="" data-size="line"> **데이터 사용량**: 원격 지원 중 고객의 유심 데이터 사용량을 표시합니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
+<img src="../.gitbook/assets/image (91).png" alt="" data-size="line"> **접속 경과**: 원격 지원 시작 후 경과한 시간을 표시합니다.
 
-![](../.gitbook/assets/icon-square-6.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+<img src="../.gitbook/assets/image (92).png" alt="" data-size="line"> **접속 인원**: 원격 지원을 접속하고 있는 인원을 표시합니다.
 
-![](../.gitbook/assets/icon-square-7.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
+<img src="../.gitbook/assets/image (93).png" alt="" data-size="line"> **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/image (95).png" alt="" data-size="line"> **공유 링크 복사 버튼**: 보기 전용 링크를 생성하여 다른 참여자에게 빠르게 화면을 공유할 수 있습니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (96).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<img src="../.gitbook/assets/image (97).png" alt="" data-size="line"> **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
+
+
 
 #### 모바일 환경
 
-<div align="left"><figure><img src="../.gitbook/assets/monitorning-description-mo.png" alt="" width="293"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-![](../.gitbook/assets/icon-square-1.svg) **태블릿 시리얼 넘버**: 원격 지원 중인 태블릿의 시리얼 넘버를 표시합니다.
+<img src="../.gitbook/assets/image (99).png" alt="" data-size="line"> **원격 진행 화면**: 현재 고객 태블릿 화면을 표시합니다.
 
-![](../.gitbook/assets/icon-square-2.svg) **크게 보기 모드 버튼**: 원격 지원 화면을 가로로 전환해 더 크게 볼 수 있습니다.
+<img src="../.gitbook/assets/image (100).png" alt="" data-size="line"> **크게 보기 모드 버튼**: 원격 지원 화면을 가로로 전환해 더 크게 볼 수 있습니다.
 
-<figure><img src="../.gitbook/assets/monitorning-biggermode.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-3.svg) **원격 진행 화면**: 현재 고객 태블릿 화면을 확인할 수 있습니다.
+<img src="../.gitbook/assets/image (101).png" alt="" data-size="line"> **화면 조작 가능, 보기전용 식별 태그**: 원격 지원을 첫 접속한 담당자는 \[화면 조작 가능] 태그가 표시되며, 화면 조작이 가능합니다. 이후 접속 계정은 \[보기 전용] 태그가 표시되며, 화면 조작은 불가능 합니다.
 
-![](../.gitbook/assets/icon-square-4.svg) **경과 시간**: 원격 지원 시작 후 경과한 시간을 표시합니다.
+<img src="../.gitbook/assets/image (105).png" alt="" data-size="line"> **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
 
-![](../.gitbook/assets/icon-square-5.svg) **원격 가이드 버튼**: 원격 지원 시 유의사항과 기본 안내 내용을 확인할 수 있습니다.
+<img src="../.gitbook/assets/image (106).png" alt="" data-size="line"> **고객 정보(이름)**: 현재 지원하고 있는 고객의 이름을 표시합니다.
 
-![](../.gitbook/assets/icon-square-6.svg) **고객 정보**: 원격 지원을 요청한 고객의 이름과 전화번호를 표시합니다.
+<img src="../.gitbook/assets/image (107).png" alt="" data-size="line"> **데이터 사용량**: 원격 지원 중 고객의 유심 데이터 사용량을 표시합니다.
 
-![](../.gitbook/assets/icon-square-7.svg) **접속 시간**: 원격 지원 화면에 접속한 시간을 표시합니다.
+<img src="../.gitbook/assets/image (108).png" alt="" data-size="line"> **접속 경과**: 원격 지원 시작 후 경과한 시간을 표시합니다.
 
-![](../.gitbook/assets/icon-square-8.svg) **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
+<img src="../.gitbook/assets/image (109).png" alt="" data-size="line"> **기타 정보**: 원격 지원을 접속하고 있는 인원과고객의 휴대폰 번호, 기기 시리얼 넘버, 담당 조직을 표시합니다.
+
+<img src="../.gitbook/assets/image (95).png" alt="" data-size="line"> **공유 링크 복사 버튼**: 보기 전용 링크를 생성하여 다른 참여자에게 빠르게 화면을 공유할 수 있습니다.
+
+<img src="../.gitbook/assets/image (97).png" alt="" data-size="line"> **원격 나가기 버튼**: 현재 접속 중인 원격 지원 화면에서 나갑니다.
