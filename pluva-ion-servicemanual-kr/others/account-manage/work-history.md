@@ -50,33 +50,56 @@ layout:
 {% hint style="info" %}
 각 작업의 \[경로 보기]를 누르면 해당 경로를 미리 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (16).png>)
+<img src="../../.gitbook/assets/image (120).png" alt="" data-size="original">
 {% endhint %}
 
 ***
 
 ### 작업 이력 상세 <a href="#detail" id="detail"></a>
 
-작업 항목의 \[경로 보기]를 누르면 해당 작업의 경로와 데이터를 지도에서 확인하고, 시간 순서대로 재생할 수 있습니다.
+작업의 경로와 데이터를 지도에서 확인하고, 시간 순서대로 재생할 수 있습니다.
 
 #### &#x20;PC 환경 <a href="#desktop-view" id="desktop-view"></a>
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **작업 시작 일시**
+<img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> **지도 및 경로**
 
-* 선택한 작업의 시작 날짜·시각이 표시됩니다.
+* 시작 지점(S): 지도에서 작업이 시작된 지점입니다.
+* 종료 지점(E): 지도에서 작업이 종료된 지점입니다.
+* 지도에 해당 작업의 주행 궤적이 표시됩니다.
+* 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.
+* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (49).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
 
-<img src="../../.gitbook/assets/image (23).png" alt="" data-size="line"> **작업지 주소**
+<img src="../../.gitbook/assets/image (23).png" alt="" data-size="line"> **재생 바 영역**
+
+**상단**
+
+* 재생 타임 라인 : 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
+
+**하단**
+
+* 배속 조절 : 1배속으로 설정되어 있으며 2, 4, 8배속으로 조절이 가능합니다.
+* 재생/일시정지 : \[▶]를 누르면 작업을 시간 순서대로 재생하고, 다시 누르면 일시정지 합니다.
+* 시간 건너뛰기 : 10초를 되감거나, 건너뛸 수 있습니다.
+* 자세한 재생바 : 클릭하면 RTK 품질이 낮았던 구간과 오프라인 구간이 화면에 표시됩니다.
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> **작업지 주소**
 
 * 선택한 작업의 주소가 표시됩니다.
 
-<img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> **위치 / 로드뷰**
+<img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **작업 시작 일시**
+
+* 선택한 작업의 시작 날짜·시각이 표시됩니다.
+
+<img src="../../.gitbook/assets/image (121).png" alt="" data-size="line"> **지도 / 로드뷰**
 
 * \[지도보기]를 누르면 해당 위치의 지도를 확인할 수 있습니다.
 * \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인할 수 있습니다.
 
-<img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> **경로 표시 설정**
+<img src="../../.gitbook/assets/image (122).png" alt="" data-size="line"> **경로 표시 설정**
 
 * \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다.
 * \[조건 필터]와 \[표시 설정] 두 가지로 나뉩니다.
@@ -93,46 +116,23 @@ layout:
 {% hint style="info" %}
 **표시 설정**
 
-* 지도 위에 표시할 이벤트를 켜고 끕니다.
+* 지도 위에 표시할 지도를 선택할 수 있습니다.
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
 ![](<../../.gitbook/assets/image (46).png>)
 {% endhint %}
 
-<img src="../../.gitbook/assets/image (33).png" alt="" data-size="line"> **실시간 데이터**
+<img src="../../.gitbook/assets/image (123).png" alt="" data-size="line"> **실시간 데이터**
 
-* 재생 시점을 기준으로 RTK 품질, 속도, 좌표, GPS 이벤트, 헤딩, 주행 상태 등 작업에 필요한 상세 수치를 표시합니다.
+* 재생 시점을 기준으로 RTK 품질, 속도, 좌표, 헤딩, 주행 상태 등 작업에 필요한 상세 수치를 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (44).png" alt="" width="300"><figcaption></figcaption></figure></div>
 
-<img src="../../.gitbook/assets/image (35).png" alt="" data-size="line"> **재생 바 영역**
-
-**상단**
-
-* 재생 타임 라인 : 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
-
-**하단**
-
-* 배속 조절 : 1배속으로 설정되어 있으며 2, 4, 8배속으로 조절이 가능합니다.
-* 재생/일시정지 : \[▶]를 누르면 작업을 시간 순서대로 재생하고, 다시 누르면 일시정지 합니다.
-* 시간 건너뛰기 : 10초를 되감거나, 건너뛸 수 있습니다.
-* 자세한 재생바 : 클릭하면 RTK 품질과 오프라인 구간을 시각적으로확인할 수 있습니다.
-
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
-
-<img src="../../.gitbook/assets/image (40).png" alt="" data-size="line"> **작업 정보**
+<img src="../../.gitbook/assets/image (124).png" alt="" data-size="line"> **작업 정보**
 
 * 해당 작업의 요약 정보를 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure></div>
-
-<img src="../../.gitbook/assets/image (47).png" alt="" data-size="line"> **지도 및 경로**
-
-* 시작 지점(E) : 지도에서 작업이 시작된 지점입니다.
-* 종료 지점(E) : 지도에서 작업이 종료된 지점입니다.
-* 지도에 해당 작업의 주행 궤적이 표시됩니다.
-* 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.
-* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (49).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
 
 <img src="../../.gitbook/assets/image (51).png" alt="" data-size="line"> **현재 위치**
 
@@ -146,41 +146,43 @@ layout:
 
 * 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="207"><figcaption></figcaption></figure></div>
+{% hint style="info" %}
+**경로 범례 설명**
+
+![](<../../.gitbook/assets/image (134).png>)
+
+자동: 자동으로 운용한 구간
+
+수동: 수동으로 운용한 구간
+
+AB라인: A점과 B점을 잇는 작업 방향 기준 구간
+
+RTK Fixed 아님: RTK 품질이 낮았던 구간
+
+시작: 자율 주행을 시작한 지점
+
+정지: 자율 주행을 완료한 지점
+
+에러 발생: 문제가 발생하여자율주행이 해제된 지점
+
+에러 복구: 문제가 해결되어 다시 자율주행을 시작할 수 있는 지점
+{% endhint %}
 
 ***
 
 #### 모바일 환경 <a href="#mobile-view" id="mobile-view"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (126).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<img src="../../.gitbook/assets/image (58).png" alt="" data-size="line"> **RTK 품질**
-
-* 재생 시점 기준 RTK 측위 품질을 표시합니다.
-
-<img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> **속도**
-
-* 재생 시점 기준 주행 속도를 표시합니다.
-
-<img src="../../.gitbook/assets/image (60).png" alt="" data-size="line"> **현재 위치**
-
-* 지도를 작업 위치로 이동합니다.
-
-<img src="../../.gitbook/assets/image (61).png" alt="" data-size="line"> **지도 및 경로**
+<img src="../../.gitbook/assets/image (127).png" alt="" data-size="line"> **지도 및 경로**
 
 * 시작 지점(E) : 지도에서 작업이 시작된 지점입니다.
 * 종료 지점(E) : 지도에서 작업이 종료된 지점입니다.
 * 지도에 해당 작업의 주행 궤적이 표시됩니다.
 * 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.
-* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (62).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
+* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (132).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
 
-<img src="../../.gitbook/assets/image (62).png" alt="" data-size="line"> **경로 범례**
-
-* 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="207"><figcaption></figcaption></figure></div>
-
-<img src="../../.gitbook/assets/image (64).png" alt="" data-size="line"> **재생 바 영역**
+<img src="../../.gitbook/assets/image (128).png" alt="" data-size="line"> **재생 바 영역**
 
 **상단**
 
@@ -190,6 +192,24 @@ layout:
 **하단**
 
 * 재생 타임 라인 : 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
+
+<img src="../../.gitbook/assets/image (129).png" alt="" data-size="line"> **RTK 품질**
+
+* 재생 시점 기준 RTK 측위 품질을 표시합니다.
+
+<img src="../../.gitbook/assets/image (130).png" alt="" data-size="line"> **속도**
+
+* 재생 시점 기준 주행 속도를 표시합니다.
+
+<img src="../../.gitbook/assets/image (131).png" alt="" data-size="line"> **현재 위치**
+
+* 지도를 작업 위치로 이동합니다.
+
+<img src="../../.gitbook/assets/image (132).png" alt="" data-size="line"> **경로 범례**
+
+* 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="207"><figcaption></figcaption></figure></div>
 
 <img src="../../.gitbook/assets/image (65).png" alt="" data-size="line"> **상세 정보**
 
