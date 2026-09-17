@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 필드 정보 관리
@@ -111,7 +113,7 @@ layout:
 
 <img src="../../.gitbook/assets/image (50).png" alt="" data-size="line"> **작물 추가**
 
-* <mark style="color:$danger;">**(작물 등록 모달 확인 후 등록해도 아무것도 반영이 되지 않음)**</mark>
+* 작물을 추가하여 등록합니다.
 
 <img src="../../.gitbook/assets/image (51).png" alt="" data-size="line"> **작물 변경**
 
