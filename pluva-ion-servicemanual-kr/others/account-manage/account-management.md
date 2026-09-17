@@ -26,9 +26,7 @@
 
 ***
 
-### 계정 상세 정보 <a href="#detail" id="detail"></a>
-
-계정 목록에서 고객을 선택하면 해당 계정의 상세 정보 화면으로 이동합니다.
+### 계정 상세 정보 화면 설명 <a href="#detail" id="detail"></a>
 
 #### PC 환경 <a href="#detail-desktop" id="detail-desktop"></a>
 
