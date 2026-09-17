@@ -114,6 +114,14 @@ layout:
 {% endhint %}
 
 {% hint style="info" %}
+**조건 필터 예시**
+
+아래 조건을 모두 충족한 구간만 표시됩니다: **자동주행, 낮은 RTK 품질, AB직진 작업의 직진 주행 구간**.
+
+![](<../../.gitbook/assets/image (136).png>)
+{% endhint %}
+
+{% hint style="info" %}
 **표시 설정**
 
 * 지도 위에 표시할 지도를 선택할 수 있습니다.
