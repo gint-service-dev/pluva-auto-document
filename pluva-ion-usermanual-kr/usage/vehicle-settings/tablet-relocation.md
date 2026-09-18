@@ -46,9 +46,9 @@ layout:
 <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**자율주행 전 차량 치수와 오토스티어 보정 상태를 확인해 주세요.**
+**자율주행 전 차량 전환 및 보정 상태를 확인해 주세요.**
 
-* 차량 치수: ![](<../../.gitbook/assets/image (113).png>) \[차량] 버튼을 눌러 확인하세요.
+* 차량 확인: ![](<../../.gitbook/assets/image (113).png>) \[차량] 버튼을 눌러 확인하세요.
 * 보정 상태: ![](<../../.gitbook/assets/image (114).png>) \[차량] 버튼을 누른 뒤 \[오토스티어 보정]을 눌러 확인하세요.
 {% endhint %}
 {% endstep %}
