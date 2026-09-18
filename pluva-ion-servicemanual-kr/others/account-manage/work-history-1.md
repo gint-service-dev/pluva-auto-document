@@ -203,10 +203,10 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 <summary><strong>표시 설정 설명 보기</strong><br>클릭하면 설명이 열립니다.</summary>
 
-* 지도 위에 표시할 지도를 선택할 수 있습니다.
+* 표시할 지도를 선택할 수 있습니다.
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
