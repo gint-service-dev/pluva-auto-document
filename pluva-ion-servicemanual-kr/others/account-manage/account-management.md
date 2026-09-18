@@ -1,4 +1,4 @@
-# 계정 목록 진입 및 설명
+# 계정 목록 및 상세
 
 고객 계정의 기본 정보와 보유 작업·원격지원·제품·장비·필드·설치 이력을 조회합니다.
 
@@ -12,7 +12,7 @@
 
 {% stepper %}
 {% step %}
-좌측 메뉴에서 **계정 관리**를 선택합니다.
+좌측 메뉴에서 **계정 목록**을 진입한 뒤 원하는 계정을 선택합니다.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -20,7 +20,7 @@
 {% step %}
 원하는 계정 항목을 선택하면 계정 상세 진입이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -37,7 +37,7 @@
 ![](../../.gitbook/assets/icon-square-2.svg) 담당 조직 및 생성일
 
 {% hint style="info" %}
-**참고**: 담당 조직은 제품을 판매·설치하고 고객 정보를 관리하는 대리점입니다.
+**참고**: 담당 조직은 제품을 판매·설치하고 고객의 지속적인 제품 이용을 지원하는 서비스 주체입니다.
 {% endhint %}
 
 ![](../../.gitbook/assets/icon-square-3.svg) 계정 정보
@@ -55,8 +55,7 @@
 
 ![](../../.gitbook/assets/icon-square-5.svg) 계정 상세 정보
 
-* 계정 상세 화면 하단에서 **작업, 제품, 장비, 필드, 설치, 원격 지원** 탭을 선택하여 각 이력을 조회합니다.\
-  목록 조회만 가능하며, 직접 추가·수정은 지원하지 않습니다.
+* 계정 상세 화면 하단에서 **작업, 제품, 장비, 필드, 설치, 원격 지원** 탭을 선택하여 각 이력을 조회합니다. 목록 조회만 가능하며, 직접 추가·수정은 지원하지 않습니다.
   * 작업탭: 고객이 작업한 내역을 확인합니다.
     * 작업 차량, 작업 시간, 작업 경로가 표시되며, 해당 작업의 상세 내용 확인이 가능합니다.
   * 제품 탭: 고객이 보유한 제품 정보를 확인합니다.

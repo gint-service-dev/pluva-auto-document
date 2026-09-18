@@ -21,22 +21,13 @@ layout:
     visible: true
 ---
 
-# 1+1 N
+# 확장 키트 설치
 
-1+1 차량은 두 차량에 각각 추가 키트를 설치하고, 한 대의 태블릿을 번갈아 사용하는 방식입니다. 처음에는 추가 차량을 등록하고 차량 설정과 보정을 완료해야 합니다. 이후에는 태블릿만 옮기면 해당 차량의 설정이 자동으로 적용됩니다.
+처음에는 추가 차량을 등록하고 차량 설정과 보정을 완료해야 합니다. 이후에는 태블릿만 옮기면 해당 차량의 설정이 자동으로 적용됩니다.
 
 ***
 
-### 추가 키트 처음 설치 <a href="#installation" id="installation"></a>
-
-다음 절차는 추가 키트를 차량에 처음 설치할 때만 진행합니다.
-
-{% hint style="warning" %}
-**추가 키트 설치 전 유의 사항**
-
-* 기존 차량의 설치와 GNSS 수신기 업데이트를 먼저 완료해 주세요.
-* 설치가 완료되기 전에는 태블릿을 다른 차량으로 옮기지 마세요
-{% endhint %}
+### 설치 방법 <a href="#installation" id="installation"></a>
 
 {% stepper %}
 {% step %}
@@ -64,7 +55,7 @@ layout:
 {% step %}
 **태블릿 설치**
 
-* 키트를 설치한 차량에 기존태블릿을 설치하고 전원을 연결합니다.
+* 키트를 설치한 차량에 기존 태블릿을 설치하고 전원을 연결합니다.
 * 자세한 내용은 [태블릿 설치](https://servicemanual.pluva.io/ion/korea/kr/order-installation/product-installation/tablet)를 참고하세요.
 {% endstep %}
 
@@ -126,40 +117,5 @@ layout:
 * 차량 정보와치수가 올바른지 확인합니다.
 * GNSS 수신기 위치가 입력되었는지 확인합니다.
 * 오토스티어 보정이 완료 되었는지 확인합니다.
-{% endstep %}
-{% endstepper %}
-
-***
-
-### 설치 후 태블릿 이동 <a href="#tablet-move" id="tablet-move"></a>
-
-두 차량의 추가 키트 설치와 차량 보정을 모두 완료한 후에는 태블릿만 사용할 차량으로 옮겨 연결합니다. GNSS 수신기가 인식되면 해당 차량과 저장된 설정이 자동으로 적용됩니다.
-
-{% stepper %}
-{% step %}
-태블릿을 사용할 차량으로 옮겨 연결합니다.
-
-{% hint style="warning" %}
-**주의**: 태블릿 이동 후 반드시 재부팅을 해주세요.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-차량을 인식할 때 까지 잠시 대기합니다.
-
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-연결이 성공됐다는 안내가 표시되면 \[확인]을 누릅니다.
-
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-**태블릿 이동 후 확인**
-
-* 현재 차량 정보와 \[오토스티어 보정] 상태를 반드시 확인하세요.
-* 차량 정보와 보정 상태가 모두 정상인지 확인한 후에만 자율주행을 시작하세요.
-{% endhint %}
 {% endstep %}
 {% endstepper %}

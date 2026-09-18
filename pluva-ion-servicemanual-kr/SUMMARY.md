@@ -46,8 +46,8 @@
   * [작업지 설정](order-installation/quick-setup/farm-setting.md)
 * [설치 완료 확인](order-installation/installation-completed-04.md)
 * [설치 완료 확인](order-installation/installation-completed-02.md)
-* [1+1 차량 이전 설치](order-installation/relocation-and-installation.md)
-* [1+1 N](order-installation/1+1-n.md)
+* [확장 키트 설치](order-installation/undefined.md)
+* [태블릿 이전](order-installation/undefined-1.md)
 
 ## 기타 <a href="#others" id="others"></a>
 
@@ -56,7 +56,7 @@
 * [고객 계정 정보 수정](others/customer-account-edit.md)
 * [설치 결과 목록](others/installation-result-list.md)
 * [계정 관리](others/account-manage/README.md)
-  * [계정 목록 진입 및 설명](others/account-manage/account-management.md)
+  * [계정 목록 및 상세](others/account-manage/account-management.md)
   * [작업 이력](others/account-manage/work-history.md)
   * [작업 이력](others/account-manage/work-history-not-use.md)
 * [제품 관리](others/product-management.md)
