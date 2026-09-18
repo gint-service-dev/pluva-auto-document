@@ -39,7 +39,7 @@ layout:
 {% step %}
 계정 상세에서 작업 탭을 선택후 원하는 작업을 선택해 작업 이력 상세에 진입합니다
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -101,6 +101,7 @@ layout:
 
 <img src="../../.gitbook/assets/image (122).png" alt="" data-size="line"> **경로 표시 설정**
 
+* 작업 데이터 분석 시 보고자 하는 조건을 세팅하여 확인이 가능합니다.
 * \[경로 표시 설정]에서 지도에 표시할 정보를 조정합니다.
 * \[조건 필터]와 \[표시 설정] 두 가지로 나뉩니다.
 
@@ -116,7 +117,7 @@ layout:
 {% hint style="info" %}
 **조건 필터 예시**
 
-아래 조건을 모두 충족한 구간만 표시됩니다: **자동주행, 낮은 RTK 품질, AB직진 작업의 직진 주행 구간**.
+아래와 같이 선택 시 AB직진 모드로 작업한 구간에서 자율주행 중 RTK 품질이 낮았던 경로만 표시됩니다.
 
 ![](<../../.gitbook/assets/image (136).png>)
 {% endhint %}
@@ -144,7 +145,7 @@ layout:
 
 <img src="../../.gitbook/assets/image (51).png" alt="" data-size="line"> **현재 위치**
 
-* 지도를 작업 위치로 이동합니다.
+* 지도를 현재 차량 위치로 이동합니다.
 
 <img src="../../.gitbook/assets/image (52).png" alt="" data-size="line"> **경로 구분**
 
@@ -171,7 +172,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 정지: 자율 주행을 완료한 지점
 
-에러 발생: 문제가 발생하여자율주행이 해제된 지점
+에러 발생: 문제가 발생하여 자율주행이 해제된 지점
 
 에러 복구: 문제가 해결되어 다시 자율주행을 시작할 수 있는 지점
 {% endhint %}
@@ -216,8 +217,6 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 <img src="../../.gitbook/assets/image (132).png" alt="" data-size="line"> **경로 범례**
 
 * 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (63).png" alt="" width="207"><figcaption></figcaption></figure></div>
 
 <img src="../../.gitbook/assets/image (65).png" alt="" data-size="line"> **상세 정보**
 
