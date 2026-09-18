@@ -57,6 +57,7 @@
   * [차량 제어 설정](usage/vehicle-settings/vehicle-control-settings.md)
   * [차량 제어 설정](usage/vehicle-settings/vehicle-control-settings-01.md)
   * [GNSS 수신기 설정](usage/vehicle-settings/gnss-receiver-setting.md)
+  * [태블릿 이전](usage/vehicle-settings/tablet-relocation.md)
 * [작업기 관리](usage/workstation-management/README.md)
   * [작업기 목록 진입 및 화면 설명](usage/workstation-management/worker-entry.md)
   * [작업기 추가](usage/workstation-management/add-worker.md)
