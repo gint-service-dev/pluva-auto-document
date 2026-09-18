@@ -46,10 +46,10 @@ layout:
 <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**태블릿 이동 후 확인**
+**자율주행 전 차량 치수와 오토스티어 보정 상태를 확인해 주세요.**
 
-* 차량 정보와 보정 상태가 모두 정상인지 확인한 후에만 자율주행을 시작하세요.
-* **(워딩 수정)**
+* 차량 치수: ![](<../../.gitbook/assets/image (113).png>) \[차량] 버튼을 눌러 확인하세요.
+* 보정 상태: ![](<../../.gitbook/assets/image (114).png>) \[차량] 버튼을 누른 뒤 \[오토스티어 보정]을 눌러 확인하세요.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
