@@ -118,7 +118,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 3. **작업 정보**
 
-* 클릭시해당 작업의 요약 정보를 표시합니다.
+* \[작업 정보]를 누르면 해당 작업의 요약 정보를 표시합니다.
 
 <details>
 
@@ -170,7 +170,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 * \[지도보기]를 누르면 해당 위치의 지도를 확인할 수 있습니다.
 * \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인할 수 있습니다.
 
-#### <img src="../../.gitbook/assets/image (192).png" alt="" data-size="line"> **사이드 바 하단 영역**
+#### <img src="../../.gitbook/assets/image (199).png" alt="" data-size="line"> **사이드 바 하단 영역**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (193).png" alt="" width="342"><figcaption></figcaption></figure></div>
 
