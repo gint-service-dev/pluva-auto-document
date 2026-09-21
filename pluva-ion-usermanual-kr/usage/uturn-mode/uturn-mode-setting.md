@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 턴 설정 방법
@@ -193,10 +195,6 @@ AB직진 모드에서만 사용할 수 있으며, 이외의 모드에서는 비�
 ![](../../.gitbook/assets/icon-square-1.svg) K턴
 
 * 각진 직각 형태의 턴입니다. 빠른 방향 전환이 가능하며, 좁은 공간에서 유리합니다.
-
-{% hint style="info" %}
-이앙기는 후진 시 자율주행이 자동으로 해제됩니다.
-{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/kturn.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
