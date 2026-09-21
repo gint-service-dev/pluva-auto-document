@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # AB직진
@@ -32,6 +34,7 @@ AB 직진
 
 * AB라인은 현재 선택한 필드 경계 안에서 설정해야 합니다.
 * 차량을 경계 안으로 이동한 후 A점과 B점을 다시 설정하세요.
+* 새로운 필드 등록이 필요한 경우, [필드 등록](https://usermanual.pluva.io/ion/korea/kr/usage/my-farm/field-add)을 참고하여 등록해주세요.
 {% endhint %}
 
 {% stepper %}
