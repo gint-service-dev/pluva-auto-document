@@ -59,12 +59,12 @@ layout:
 
 
 
-#### <img src="../.gitbook/assets/image (203).png" alt="" data-size="line"> 날짜별 현황 조회
+#### <img src="../.gitbook/assets/image (203).png" alt="" data-size="line"> 날짜별 현황 조회 버튼
 
 <div align="left"><figure><img src="../.gitbook/assets/image (210).png" alt="" width="297"><figcaption></figcaption></figure></div>
 
 * \[다른 날짜 보기]를 눌러 조회하고 싶은 날짜를 선택할 수 있습니다.
-* 해당 날짜의 작업 및 기기 현황을 확인합니다.
+* 날짜를 누르면 해당 날짜를 기준으로 대시보드가 설정됩니다.
 
 {% hint style="info" %}
 날짜를 선택하지 않은 경우 조회 당일 기준으로 데이터가 조회 됩니다.
@@ -76,29 +76,113 @@ layout:
 
 1. **작업 및 기기 현황**
 
-* 작업 기기 수, 작업 면적, 작업 거리, 자율 주행 비율을 확인할 수 있습니다.
+* 작업 기기 수, 작업 면적, 작업 거리, 자율 주행 비율을 표시합니다.
+
+{% hint style="info" %}
+\[다른 날짜 보기]를 눌러 날짜를 변경하면 해당 날짜의 정보가 표시됩니다.
+{% endhint %}
 
 2. **기기 리스트**
 
 * 소유자, 기기 시리얼 넘버, 온라인 상태를 카드 형태로 확인할 수 있습니다.
-* 카드의 기기 시리얼 넘버를 누르면 해당 기기의 작업 이력을 확인할 수 있습니다.
+* 카드의 기기 \[시리얼 넘버]를 누르면 해당 기기의 상세 이력을 표시합니다.
 
 <details>
 
-<summary><strong>기기 작업 이력 미리보기</strong><br>클릭하면 미리보기가 열립니다.</summary>
+<summary><strong>기기 작업 이력 상세 설명 보기</strong><br>클릭하면 상세 설명이 열립니다.</summary>
 
-*
+**기기별 작업 이력 목록 보기**
 
-<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+기기 리스트에서 \[시리얼 넘버]를 누릅니다.
+
+<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+사이드 패널을 통해 해당 날짜의 기기 작업 목록이 표시됩니다.
+
+* 상단에는 기기의 전체 작업 면적과 작업 거리가 확인 됩니다.
+* 하단에는 기기의 작업 시작 시간을 기준으로 카드로 묶어분류 됩니다.
+* 작업 이력 카드의 시간을 누르면 해당 작업의 상세 이력을 확인합니다.
+  * 자세한 내용은 작업 이력(링크)을 참고해주세요.
+* 카드 하단에는 작업별 면적과 거리, 자율주행 비율을 표시 합니다.
 
 <figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+**작업 위치 보기**
+
+{% stepper %}
+{% step %}
+기기 리스트에서 \[위치보기]를 누릅니다.
+
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+해당 작업의 위치로 지도를 확대합니다.
+
+* 선택한 기기의 작업지로 지도가 확대되어 위치를 지도에서 쉽게 확인할 수 있도록 표시합니다.
+* <img src="../.gitbook/assets/image (223).png" alt="" data-size="original"> 를 누르면 보고 있는 기기의 작업지 선택을 취소하여 지도를 되돌립니다.
+
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+
 
 </details>
 
+3. **지도 영역**
 
+* 지도를 원하는 위치로 드래그 할 수 있으며, 마우스 휠이나 손가락을 사용하여 확대/축소가 가능합니다.
+* ![](<../.gitbook/assets/image (227).png>) 누르면 전체보기로 보기 설정을 초기화 합니다.
+* 또한 ![](<../.gitbook/assets/image (228).png>) ![](<../.gitbook/assets/image (229).png>) 버튼을 클릭하여 화면을 확대/축소 합니다.
 
-선택한 날짜의 작업 실적과 기기별 상태 및위치를 확인할 수 있습니다.
+#### <img src="../.gitbook/assets/image (230).png" alt="" data-size="line"> **원격 지원 현황**&#x20;
 
-* **주요 작업 지표:** 작업 기기 수, 작업 면적, 작업 거리, 자율주행 비율
-* **기기 목록:** 소유자, 시리얼 번호, 온라인 상태
-* **기기 위치:** \[위치보기]를 눌러 지도에서 기기 위치와 작업 필드 확인
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+
+1. **현재 접속 가능 기기 수**
+
+* 접속이 가능한 기기 수를 표시합니다.
+
+2. **이번주 원격 지원 수**
+
+* 오늘, 또는 선택한 날짜가 속한 주의 원격 지원 횟수를 표시합니다.
+
+3. **접속 가능한 기기 목록**
+
+* 현재 접속 가능한 기기의 목록을 표시합니다.
+
+#### <img src="../.gitbook/assets/image (232).png" alt="" data-size="line"> **기기 설치 추이 및 OTA 버전 현황**
+
+<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+
+1. **설치 추이**
+
+* ![](<../.gitbook/assets/image (235).png>)을 눌러 기간을 설정할 수 있습니다.
+* 조회 기간 내에 설치된 기기의 갯수를 표시합니다.
+
+{% hint style="info" %}
+- \[날짜별 현황 조회] 버튼으로 날짜를 설정하지 않은 경우, 오늘을 기준으로 과거의 주별, 월별 데이터를 표시합니다.
+- \[날짜별 현황 조회] 버튼으로 날짜를 설정한 경우, 선택한 날짜를 기준으로 과거의 주별, 월별 데이터를 표시합니다.
+{% endhint %}
+
+2. **OTA 버전 현황**
+
+* 현재 조회된 기기들의 OTA 버전을 확인할 수 있습니다.
+
+{% hint style="info" %}
+OTA 버전 현황은 \[날짜별 현황 조회]를 통해 날짜를 설정한 것과 무관하게 모든 기기의 OTA 버전을 표시합니다.
+{% endhint %}
+
+#### <img src="../.gitbook/assets/image (236).png" alt="" data-size="line"> **작업 활성 추이**
+
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+
+* ![](<../.gitbook/assets/image (238).png>) 을 눌러 기간을 설정할 수 있습니다.
+* 작업 기기 수, 작업 면적, 작업 거리, 자율 주행 비율을 시계열로 표시합니다.
