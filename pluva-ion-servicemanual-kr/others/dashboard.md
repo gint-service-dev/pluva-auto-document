@@ -66,9 +66,36 @@ layout:
 * \[다른 날짜 보기]를 눌러 조회하고 싶은 날짜를 선택할 수 있습니다.
 * 해당 날짜의 작업 및 기기 현황을 확인합니다.
 
+{% hint style="info" %}
+날짜를 선택하지 않은 경우 조회 당일 기준으로 데이터가 조회 됩니다.
+{% endhint %}
+
 #### <img src="../.gitbook/assets/image (204).png" alt="" data-size="line"> 작업 및 기기 현황
 
 <figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+
+1. **작업 및 기기 현황**
+
+* 작업 기기 수, 작업 면적, 작업 거리, 자율 주행 비율을 확인할 수 있습니다.
+
+2. **기기 리스트**
+
+* 소유자, 기기 시리얼 넘버, 온라인 상태를 카드 형태로 확인할 수 있습니다.
+* 카드의 기기 시리얼 넘버를 누르면 해당 기기의 작업 이력을 확인할 수 있습니다.
+
+<details>
+
+<summary><strong>기기 작업 이력 미리보기</strong><br>클릭하면 미리보기가 열립니다.</summary>
+
+*
+
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+
 
 선택한 날짜의 작업 실적과 기기별 상태 및위치를 확인할 수 있습니다.
 
