@@ -180,3 +180,38 @@ layout:
 <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 * ![](<../.gitbook/assets/image (238).png>) 을 선택해 작업 기기 수·면적·거리와 자율주행 비율의 변화를 그래프로 확인합니다. 각 항목에는 기간 평균도 표시됩니다.
+
+***
+
+### 모바일환경
+
+<div align="left"><figure><img src="../.gitbook/assets/image (242).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+**모바일 환경 대시보드 이용 참고사항**
+
+모바일 환경에서는 간소화한 데이터만 제공되며, 상세 데이터는 PC에서 확인하실 수 있습니다.
+{% endhint %}
+
+#### <img src="../.gitbook/assets/image (243).png" alt="" data-size="line"> **원격 지원 현황**
+
+<div align="left"><figure><img src="../.gitbook/assets/image (245).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. **현재 접속 가능 기기 수**
+
+* 접속이 가능한 기기 수를 표시합니다.
+
+2. **이번주 원격 지원 수**
+
+* 오늘은 이번 주, 날짜를 선택하면 해당 주의 원격 지원 건수를 표시합니다.
+
+3. **접속 가능한 기기 목록**
+
+* 현재 접속 가능한 기기가 있으면 목록이 표시됩니다.
+
+#### <img src="../.gitbook/assets/image (244).png" alt="" data-size="line"> **작업 및 기기 현황**
+
+<div align="left"><figure><img src="../.gitbook/assets/image (246).png" alt="" width="370"><figcaption></figcaption></figure></div>
+
+* 선택한 날짜에 작업한 기기 수, 작업 면적·거리, 자율주행 비율을 보여줍니다.
+* 각 지표 아래에는 전날 수치가 표시됩니다.
