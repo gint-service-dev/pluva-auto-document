@@ -195,7 +195,7 @@ layout:
 
 #### <img src="../.gitbook/assets/image (243).png" alt="" data-size="line"> **원격 지원 현황**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (245).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (248).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. **현재 접속 가능 기기 수**
 
@@ -213,5 +213,5 @@ layout:
 
 <div align="left"><figure><img src="../.gitbook/assets/image (246).png" alt="" width="370"><figcaption></figcaption></figure></div>
 
-* 선택한 날짜에 작업한 기기 수, 작업 면적·거리, 자율주행 비율을 보여줍니다.
+* 오늘작업한 기기 수, 작업 면적·거리, 자율주행 비율을 보여줍니다.
 * 각 지표 아래에는 전날 수치가 표시됩니다.
