@@ -36,6 +36,8 @@ layout:
 * 추가 차량에 필수 제품을 설치합니다.
 * 자세한 내용은 [제품 설치](https://servicemanual.pluva.io/ion/korea/kr/order-installation/product-installation)를 참고하세요.
 
+<figure><img src="../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **추가 키트 설치 시 체크 사항**
 
@@ -43,7 +45,7 @@ layout:
 
 * 전동 스티어링 휠
 * GNSS 수신기
-* 하네스
+  * 하네스
 
 선택 설치 제품
 
