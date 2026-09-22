@@ -195,7 +195,7 @@ layout:
 
 #### <img src="../.gitbook/assets/image (243).png" alt="" data-size="line"> **원격 지원 현황**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (248).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (249).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. **현재 접속 가능 기기 수**
 
