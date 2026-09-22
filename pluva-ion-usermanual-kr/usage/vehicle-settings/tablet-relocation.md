@@ -47,12 +47,12 @@ layout:
 {% endstep %}
 
 {% step %}
-트랙터에서 작업기 장착 해제 안내가 나타나면 \[작업기 장착]을 누릅니다.
+차량이 변경되면 작업기가 해제됩니다. 안내에 따라 작업기를 장착해주세요.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (117).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-이앙기는 안내 창에서 \[확인]을 누르세요. 작업기 선택 단계는 진행하지 않습니다.
+이앙기 장착중에는 작업기를 선택할 수 없어 이앙기로 차량 변경시 자동으로 해제됩니다.
 
 ![](<../../.gitbook/assets/image (119).png>)
 {% endhint %}
