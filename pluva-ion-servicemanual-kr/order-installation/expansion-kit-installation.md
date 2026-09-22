@@ -59,6 +59,8 @@ layout:
 
 * 키트를 설치한 차량에 기존 태블릿을 설치하고 전원을 연결합니다.
 * 자세한 내용은 [태블릿 설치](https://servicemanual.pluva.io/ion/korea/kr/order-installation/product-installation/tablet)를 참고하세요.
+
+<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
