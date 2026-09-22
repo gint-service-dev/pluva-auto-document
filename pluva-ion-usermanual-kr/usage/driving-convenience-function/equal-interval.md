@@ -35,7 +35,7 @@ layout:
 {% endhint %}
 
 {% hint style="warning" %}
-**v1.4.6 하위 버전은 OTA를 통해 업데이트를 해주세요.**
+**v1.4.6 하위 버전은 최신 버전으로 업데이트를 해주세요.**
 {% endhint %}
 
 ***
