@@ -33,13 +33,13 @@ layout:
 {% step %}
 목록에서 조회할 계정을 선택해 계정 상세로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 계정 상세에서 작업 탭을 선택후 원하는 작업을 선택해 작업 이력 상세에 진입합니다
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -96,7 +96,7 @@ layout:
 
 <summary><strong>경로 범례 설명 보기</strong><br>클릭하면 설명이 열립니다.</summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (262).png" alt="" width="207"><figcaption></figcaption></figure></div>
 
 자동: 자동으로 운용한 구간
 
@@ -105,6 +105,8 @@ layout:
 AB라인: A점과 B점을 잇는 작업 방향 기준 구간
 
 RTK Fixed 아님: RTK 품질이 낮았던 구간
+
+조건 필터 : 설정한 필터가 적용된 구간
 
 시작: 자율 주행을 시작한 지점
 
@@ -191,11 +193,11 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure></div>
 
-**조건 필터 예시**
+**조건 필터 예시 화면**
 
-아래와 같이 선택 시 AB직진 모드로 작업한 구간에서 자율주행 중 RTK 품질이 낮았던 경로만 표시됩니다.
+아래와 같이 선택 시 자율주행 중 RTK 품질 FIXED인 상태에서 직진한 구간만 주황색으로 표시됩니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
