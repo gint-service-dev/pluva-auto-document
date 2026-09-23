@@ -73,16 +73,18 @@ layout:
 {% step %}
 **차량 추가**
 
-*   ![](<../.gitbook/assets/image (145).png>) \[차량] 버튼을 누릅니다.
+*   차량 추가 화면에서차량 타입을 선택하여 \[선택 완료]를 누릅니다.
 
-    <figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
-*   \[내 차량]에서 ![](<../.gitbook/assets/image (144).png>) \[추가] 버튼을 누릅니다.
+    <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+*   차량 정보를 입력 후 \[차량 추가 완료]를 누릅니다.
 
-    <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-*   차량 추가를 진행합니다.
+    <figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+*   차량 치수를 입력 후 \[입력 완료]를 누릅니다.
 
-    <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
-* 자세한 내용은 [차량 추가](https://servicemanual.pluva.io/ion/korea/kr/order-installation/quick-setup/add-vehicle)를 참고하세요.
+    <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+*   차량 추가가 완료됩니다.
+
+    <figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
