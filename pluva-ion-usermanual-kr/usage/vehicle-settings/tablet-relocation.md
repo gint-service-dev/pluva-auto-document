@@ -32,6 +32,8 @@ layout:
 {% stepper %}
 {% step %}
 태블릿을 사용할 차량으로 옮겨 연결합니다.
+
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
