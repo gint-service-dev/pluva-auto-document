@@ -22,17 +22,17 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-### 화면 설정 화면
+### 화면 설정
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -52,11 +52,23 @@ tags:
 
 ***
 
+### 지도 설정
+
+주행시 표시되는 지도 소스를 선택할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+* **일반 지도**: 한국 공공 지도 서비스의 위성 사진 데이터를 사용합니다.
+* **구글 지도**: 구글에서 제공하는 위성 사진 데이터를 사용합니다.
+* **2D 지도**: 위성 사진이 아닌 평면 지도를 사용합니다.
+
+***
+
 ### 기기 정보
 
 기기의 기본 정보를 확인하고 저장된 작업 데이터를 초기화할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/device-info-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 기기 일련번호
 
