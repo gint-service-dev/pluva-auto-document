@@ -23,7 +23,7 @@ layout:
 
 # 확장 키트 설치
 
-처음에는 추가 차량을 등록하고 차량 설정과 보정을 완료해야 합니다. 이후에는 태블릿만 옮기면 해당 차량의 설정이 자동으로 적용됩니다.
+확장 키트를 설치하면 태블릿 한 대로 여러 대의 농기계에서 자율주행을 사용할 수 있습니다. 차량별로 최초 한 번만 등록과 설정·보정을 완료하면, 이후에는 태블릿만 옮겨 장착해도 해당 차량 설정이 자동으로 적용됩니다.
 
 ***
 
@@ -33,20 +33,20 @@ layout:
 {% step %}
 **제품 설치**
 
-* 추가 차량에 필수 제품을 설치합니다.
+* 추가 차량에 필수 확장 키트를 설치합니다.
 * 자세한 내용은 [제품 설치](https://servicemanual.pluva.io/ion/korea/kr/order-installation/product-installation)를 참고하세요.
 
-<figure><img src="../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**추가 키트 설치 시 체크 사항**
+**확장 키트 설치 시 체크 사항**
 
-필수 설치 제품
+필수 구성품
 
 * 전동 스티어링 휠
 * GNSS 수신기 및 하네스
 
-선택 설치 제품
+선택 구성품
 
 * 카메라
 * 스위치
@@ -56,7 +56,7 @@ layout:
 {% step %}
 **태블릿 설치**
 
-* 키트를 설치한 차량에 기존 태블릿을 설치하고 전원을 연결합니다.
+* 확장키트를 설치한 차량에 기존 태블릿을 설치하고 전원을 연결합니다.
 * 자세한 내용은 [태블릿 설치](https://servicemanual.pluva.io/ion/korea/kr/order-installation/product-installation/tablet)를 참고하세요.
 
 <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
@@ -73,7 +73,7 @@ layout:
 {% step %}
 **차량 추가**
 
-*   차량 추가 화면에서차량 타입을 선택하여 \[선택 완료]를 누릅니다.
+*   차량 추가 화면에서 차량 타입을 선택하여 \[선택 완료]를 누릅니다.
 
     <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 *   차량 정보를 입력 후 \[차량 추가 완료]를 누릅니다.
@@ -85,6 +85,7 @@ layout:
 *   차량 추가가 완료됩니다.
 
     <figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+* 자세한 내용은 [내 차량 추가](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/add-vehicle)를 참고하세요.
 {% endstep %}
 
 {% step %}
