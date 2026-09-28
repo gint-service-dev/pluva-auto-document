@@ -37,15 +37,9 @@ layout:
 {% endstep %}
 
 {% step %}
-차량을 인식할 때 까지 잠시 대기합니다.
-
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
 차량 연결 완료 안내가 표시되면 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
