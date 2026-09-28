@@ -1,6 +1,6 @@
 # 계정 목록 및 상세
 
-고객 계정의 기본 정보와 보유 작업·원격지원·제품·장비·필드·설치 이력을 조회합니다.
+계정 목록 및 상세에서는 고객의 기본 정보와 제품 사용 현황을 한 화면에서 확인할 수 있습니다. 고객 문의 대응 시, 여러 화면을 오갈 필요 없이 이 화면에서 필요한 정보를 바로 찾을 수 있습니다
 
 {% hint style="info" %}
 계정 생성, 수정, 삭제는 이 화면에서 제공되지 않습니다. 고객 계정은 통합 회원가입 페이지를 통해 생성되며, 계정 정보 변경이 필요한 경우 고객에게 직접 통합 회원가입 페이지에서 수정하도록 안내해주세요.
@@ -34,7 +34,7 @@
 
 ![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
-![](../../.gitbook/assets/icon-square-2.svg) 담당 조직 및 생성일
+![](../../.gitbook/assets/icon-square-2.svg) 담당 조직 및 계정생성일
 
 {% hint style="info" %}
 **참고**: 담당 조직은 제품을 판매·설치하고 고객의 지속적인 제품 이용을 지원하는 서비스 주체입니다.
@@ -65,20 +65,23 @@
     *   작업기를 클릭하면 작업기의 타입, 너비, 고랑 폭, 작업기 편차를 확인할 수 있습니다.
 
         <figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
-    *   차량 카드에는 차량 치수 또는 보정값 중 가장 심각한 상태가 \[이상값] 또는 \[확인 필요] 배지로 표시됩니다. 차량을 선택하면 문제 항목과 필요한 조치를 확인할 수 있습니다.
-
-        * \[이상값]: 차량 치수 또는 보정값이 유효하지 않은 상태입니다. \[재입력 필요] 또는 \[재보정 필요] 항목을 확인한 뒤, 태블릿에서 치수를 다시 입력하거나 차량 보정을 진행하세요.\
-          \[확인 필요]: 조향 보정값이 일반 범위를 벗어났지만 차량에 따라 사용할 수 있습니다. 현재 보정값으로 자율주행에 문제가 없는지 확인한 뒤, 이상이 없으면 \[확인 필요]를 눌러 \[정상 처리]하세요.
-        * 차량 치수 수정은 [내 차량 진입 및 화면 설명](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/entering-my-vehicle)을 참고하세요.
-        * 보정값 수정은 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 참고하세요.
-
-        <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
   * **필드 탭**: 고객이 등록한 필드 목록과 총 수량을 확인합니다.
     * 농장명, 작물 뱃지, 필드명, 필드 면적을 확인할 수 있습니다.
   * **설치 탭**: 고객의 설치 이력을 확인합니다.
     * 설치한 상세 내역 (설치티켓)을 볼 수 있습니다.
-  * **원격 지원 탭**: 이 고객/기기에 원격 지원을 언제, 몇 번 했는지 확인합니다.
-    * 이번달, 최근 6개월, 최근 1년을 선택하면 기간 내 이력이 기기별로 표시됩니다.
+  * **원격 지원 탭**: 고객에게 원격 지원을 언제, 몇 번 진행했는지 확인할 수 있습니다.
+    * 기간별로 필터링해 볼 수 있어, 문의가 잦은 고객인지나 이전 지원 이력을 참고할 때 도움이 됩니다.
+
+{% hint style="info" %}
+차량 카드에는 치수 또는 보정값을 확인해야 하는 차량이 \[이상값] 또는 \[확인 필요] 로 표시됩니다.
+
+* \[이상값]은 값이 잘못 입력되었거나 보정이 잘못된 상태입니다. 태블릿에서 치수를 다시 입력하거나 보정을 다시 진행하세요.
+* \[확인 필요]는 일반적인 값과 차이가 있지만 차량 모델에 따라 정상으로 처리될 수 있는 상태입니다. 해당 차량의 자율주행을 확인한 뒤, 문제가 없으면 \[확인 필요]를 눌러 \[정상 처리]하세요.
+* 차량 치수 수정은 [내 차량 진입 및 화면 설명](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/entering-my-vehicle)을 참고하세요.
+* 보정값 수정은 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 참고하세요.
+
+![](<../../.gitbook/assets/image (274).png>)
+{% endhint %}
 
 #### 모바일 환경 <a href="#detail-mobile" id="detail-mobile"></a>
 
@@ -86,7 +89,7 @@
 
 ![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
-![](../../.gitbook/assets/icon-square-2.svg) 담당 조직 및 생성일
+![](../../.gitbook/assets/icon-square-2.svg) 담당 조직 및 계정 생성일
 
 {% hint style="info" %}
 **참고**: 담당 조직은 제품을 판매·설치하고 고객 정보를 관리하는 대리점입니다.
@@ -118,16 +121,20 @@
     *   작업기를 클릭하면 작업기의 타입, 너비, 고랑 폭, 작업기 편차를 확인할 수 있습니다.
 
         <div align="left"><figure><img src="../../.gitbook/assets/image (255).png" alt="" width="375"><figcaption></figcaption></figure></div>
-    * 차량 카드에는 차량 치수 또는 보정값 중 가장 심각한 상태가 \[이상값] 또는 \[확인 필요] 배지로 표시됩니다. 차량을 선택하면 문제 항목과 필요한 조치를 확인할 수 있습니다.
-      * \[이상값]: 차량 치수 또는 보정값이 유효하지 않은 상태입니다. \[재입력 필요] 또는 \[재보정 필요] 항목을 확인한 뒤, 태블릿에서 치수를 다시 입력하거나 차량 보정을 진행하세요.\
-        \[확인 필요]: 조향 보정값이 일반 범위를 벗어났지만 차량에 따라 사용할 수 있습니다. 현재 보정값으로 자율주행에 문제가 없는지 확인한 뒤, 이상이 없으면 \[확인 필요]를 눌러 \[정상 처리]하세요.
-      * 차량 치수 수정은 [내 차량 진입 및 화면 설명](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/entering-my-vehicle)을 참고하세요.
-      *   보정값 수정은 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 참고하세요.
-
-          <div align="left"><figure><img src="../../.gitbook/assets/image (256).png" alt="" width="375"><figcaption></figcaption></figure></div>
   * **필드 탭**: 고객이 등록한 필드 목록과 총 수량을 확인합니다.
     * 농장명, 작물 뱃지, 필드명, 필드 면적을 확인할 수 있습니다.
   * **설치 탭**: 고객의 설치 이력을 확인합니다.
     * 클릭하면 설치한 상세 내역 (설치티켓)을 볼 수 있습니다.
   * **원격 지원 탭**: 이 고객/기기에 원격 지원을 언제, 몇 번 했는지 확인합니다.
     * 이번달, 최근 6개월, 최근 1년을 선택하면 기간 내 이력이 기기별로 표시됩니다.
+
+{% hint style="info" %}
+차량 카드에는 치수 또는 보정값을 확인해야 하는 차량이 \[이상값] 또는 \[확인 필요] 로 표시됩니다.
+
+* \[이상값]은 값이 잘못 입력되었거나 보정이 잘못된 상태입니다. 태블릿에서 치수를 다시 입력하거나 보정을 다시 진행하세요.
+* \[확인 필요]는 일반적인 값과 차이가 있지만 차량 모델에 따라 정상으로 처리될 수 있는 상태입니다. 해당 차량의 자율주행을 확인한 뒤, 문제가 없으면 \[확인 필요]를 눌러 \[정상 처리]하세요.
+* 차량 치수 수정은 [내 차량 진입 및 화면 설명](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/entering-my-vehicle)을 참고하세요.
+* 보정값 수정은 [오토스티어 보정](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 참고하세요.
+
+![](<../../.gitbook/assets/image (275).png>)
+{% endhint %}
