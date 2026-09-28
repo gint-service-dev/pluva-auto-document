@@ -63,54 +63,32 @@ layout:
 {% endstep %}
 
 {% step %}
-**태블릿 인식**
-
-태블릿이 GNSS 수신기를 인식하면 \[확인]을 누릅니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (137).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
 **차량 추가**
 
+*   새로운 차량이 연결 되었다는 모달이 확인되면 \[차량 추가]를 눌러주세요.
+
+    <figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 *   차량 추가 화면에서 차량 타입을 선택하여 \[선택 완료]를 누릅니다.
 
-    <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
-*   차량 정보를 입력 후 \[차량 추가 완료]를 누릅니다.
+    <figure><img src="../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
+*   차량 정보를 입력 후 \[차량 추가]를 누릅니다.
 
-    <figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
-*   차량 치수를 입력 후 \[입력 완료]를 누릅니다.
+    <figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+*   차량 치수를 입력 후 \[완료]를 누르면 차량 추가가 완료됩니다.
 
-    <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
-*   차량 추가가 완료됩니다.
-
-    <figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 * 자세한 내용은 [내 차량 추가](https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings/add-vehicle)를 참고하세요.
 {% endstep %}
 
 {% step %}
-**GNSS 수신기 설정**
+**차량 설정 및 보정**
 
-* ![](<../.gitbook/assets/image (145).png>) \[차량] 버튼을 누릅니다.
-*   \[GNSS 수신기 설정]을 누릅니다.
+*   차량 추가가 완료 후 GNSS 수신기 연동 완료 안내에서 \[다음 단계로]를 눌러주세요.
 
-    <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
-*   수신기 설정을 진행합니다.
+    <figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+*   \[전체 한번에 시작하기]를 눌러 설정과 보정을 진행해 주세요.
 
-    <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
-* 자세한 내용은 [GNSS 수신기 설정](https://servicemanual.pluva.io/ion/korea/kr/usage/vehicle-settings/gnss-receiver-setting)을 참고하세요.
-{% endstep %}
-
-{% step %}
-**차량 보정**
-
-* ![](<../.gitbook/assets/image (145).png>) \[차량] 버튼을 누릅니다.
-*   \[오토스티어 보정]을 누릅니다.
-
-    <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
-*   \[전체 한번에 진행]을 누릅니다.
-
-    <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 * 자세한 내용은 [오토스티어 보정](https://servicemanual.pluva.io/ion/korea/kr/usage/vehicle-settings/autostere-calibration)을 참고하세요.
 {% endstep %}
 
