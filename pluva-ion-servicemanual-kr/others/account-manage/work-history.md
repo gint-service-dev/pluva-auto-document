@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 작업 이력 (임시)
+# 작업 이력
 
 고객이 수행한 작업 이력을 조회하고, 작업 경로와 데이터를 지도에서 분석·재생합니다. 작업 데이터로 상황을 재구성해 고객 문의·클레임의 원인을 파악하는 데 활용합니다.
 
@@ -191,8 +191,6 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 * 설정한 조건에 맞는 구간만 지도·타임라인에서 강조합니다.
 * 여러 조건을 조합할 수 있고, 조건 없이 전체 경로를 볼 수도 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure></div>
-
 **조건 필터 예시 화면**
 
 아래와 같이 선택 시 자율주행 중 RTK 품질 FIXED인 상태에서 직진한 구간만 주황색으로 표시됩니다.
@@ -205,7 +203,16 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 <summary><strong>표시 설정 설명 보기</strong><br>클릭하면 설명이 열립니다.</summary>
 
+**지도 종류**
+
 * 표시할 지도를 선택할 수 있습니다.
+
+{% hint style="info" %}
+지도가 표시되지 않으면 지도 옵션을 변경한 후 다시 확인해 주세요.
+{% endhint %}
+
+**이벤트**
+
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure></div>
