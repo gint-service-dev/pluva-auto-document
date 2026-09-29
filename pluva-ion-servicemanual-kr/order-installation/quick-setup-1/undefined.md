@@ -33,13 +33,13 @@ QR 스캔을 통해 제품이 개통 되었는지 확인합니다.
 
 {% stepper %}
 {% step %}
-제품개통을 확인 해주세요.
+사전에 제품 개통이 완료 되었는지 확인 해주세요.
 
 <figure><img src="../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-\[개통 확인] 버튼을 눌러주세요.
+제품 개통 확인 후 \[개통 확인] 버튼을 눌러주세요.
 
 <figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,13 +56,5 @@ QR 스캔을 통해 제품이 개통 되었는지 확인합니다.
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (365).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endhint %}
-
-<details>
-
-<summary><img src="../../.gitbook/assets/image (361).png" alt="" data-size="line"> 오</summary>
-
-
-
-</details>
 {% endstep %}
 {% endstepper %}
