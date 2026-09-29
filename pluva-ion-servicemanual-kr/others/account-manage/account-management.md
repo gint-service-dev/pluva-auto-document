@@ -20,7 +20,7 @@
 {% step %}
 원하는 계정 항목을 선택하면 계정 상세 진입이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
