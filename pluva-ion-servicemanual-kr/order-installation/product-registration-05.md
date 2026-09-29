@@ -254,12 +254,16 @@ tags:
 {% endstep %}
 
 {% step %}
-등록이 완료 됩니다.
+해당 티켓이 설치중으로 등록이 완료 됩니다.
+
+{% hint style="info" %}
+제품 설치 후 태블릿으로 로그인 하면 티켓이 자동완료 처리 됩니다.
+{% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-고객이 로그인하기 전까지는 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
+설치 완료 후 태블릿 로그인 전까지 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
