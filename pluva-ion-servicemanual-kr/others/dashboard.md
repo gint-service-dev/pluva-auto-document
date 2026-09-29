@@ -111,7 +111,7 @@ OTA 버전 현황은 과거 데이터를 제공하지 않아, 오늘 날짜로 �
 * 상단에는 전체 작업 면적과 거리가 표시됩니다.
 * 각 작업의 시작 시간, 작업 면적·거리, 자율주행 비율을 확인할 수 있습니다.
 * 작업 시작 시간을 누르면 상세 이력이 열립니다.
-* 자세한 내용은 작업 이력(링크)을 참고해주세요.
+* 자세한 내용은 [작업 이력](account-manage/work-history-01.md)을 참고해주세요.
 
 <figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

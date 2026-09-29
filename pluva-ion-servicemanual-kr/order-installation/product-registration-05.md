@@ -121,7 +121,7 @@ tags:
 
 ***
 
-#### 설치 티켓 진입 방법
+#### 설치 티켓 목록 진입 방법
 
 {% stepper %}
 {% step %}
@@ -190,7 +190,7 @@ tags:
 {% hint style="info" %}
 카메라 스캔으로 올바른 코드가 입력되지 않을 경우, \[시리얼 번호 직접 입력]을 눌러 직접 입력합니다.
 
-![](<../.gitbook/assets/image (311).png>)
+![](<../.gitbook/assets/image (377).png>)
 {% endhint %}
 {% endstep %}
 
@@ -303,7 +303,7 @@ tags:
 {% hint style="info" %}
 카메라 스캔으로 올바른 코드가 입력되지 않을 경우, \[시리얼 번호 직접 입력]을 눌러 직접 입력합니다.
 
-![](<../.gitbook/assets/image (311).png>)
+![](<../.gitbook/assets/image (378).png>)
 {% endhint %}
 {% endstep %}
 
@@ -342,7 +342,7 @@ tags:
 {% step %}
 등록이 완료 됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (355).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (381).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 고객이 로그인하기 전까지는 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
@@ -382,19 +382,19 @@ tags:
 {% endstep %}
 
 {% step %}
-스위치넘버 QR 코드를 스캔합니다.
+스위치 넘버 QR 코드를 스캔합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (345).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 카메라 스캔으로 올바른 코드가 입력되지 않을 경우, \[시리얼 번호 직접 입력]을 눌러 직접 입력합니다.
 
-![](<../.gitbook/assets/image (311).png>)
+![](<../.gitbook/assets/image (379).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-스위치넘버를 확인한 뒤 \[확인 완료]를 누릅니다.
+스위치 넘버를 확인한 뒤 \[확인 완료]를 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (315).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -402,7 +402,7 @@ tags:
 {% endstep %}
 
 {% step %}
-스캔이 완료되면 \[다음]을 누릅니다.
+스캔이 완료되면 \[다음]을 누 릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (348).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -420,20 +420,26 @@ tags:
 {% endstep %}
 
 {% step %}
+설치 등록 정보를 확인한 뒤 \[등록]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+설치 등록을 확인하는 모달창에서 \[등록 완료]를 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (385).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
 등록이 완료 됩니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-고객이 로그인하기 전까지는 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
-{% endhint %}
 {% endstep %}
 {% endstepper %}
 
 </details>
 
-{% hint style="info" %}
-제품 개통이 완료되면 설치 티켓에 등록된 제품의 시리얼 번호, 구성품 정보를 확인할 수 있습니다.
+***
 
-<img src="../.gitbook/assets/enter-ticketdetail-7.png" alt="" data-size="original">
-{% endhint %}
+#### 이후 단계
+
+[제품 설치](product-installation/)를 완료해 주세요.

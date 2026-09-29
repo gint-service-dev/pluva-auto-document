@@ -26,14 +26,12 @@ tags:
 
 # 설치 완료 확인 - New
 
-설치 및 퀵셋업 작업의 완료 항목을 점검하고, 설치 티켓 상태를 설치 완료로 변경하는 작업입니다.
+설치 및 원스톱 인스톨 작업 완료 항목을 점검하고, 태블릿에서 로그인을 완료하면 설치가 자동으로 완료됩니다.
 
 {% hint style="info" %}
-**모든 설치 작업을 완료한 후 \[확인 완료]를 누릅니다.**
+**완료 확인 시 유심 등록 확인**
 
-* 제품이 정상적으로 장착되었습니다.
-* 필요한 소프트웨어 설정이 모두 완료되었습니다.
-* 고객이 즉시 서비스를 사용할 수 있는 상태입니다.
+완료 확인 과정에서 유심이 등록되었는지 확인해 주세요. 미등록 상태에서는 제품을 사용할 수 없습니다.
 {% endhint %}
 
 ### 플루바 아이온(완제품)의 경우
@@ -42,13 +40,29 @@ tags:
 {% step %}
 설치 티켓 목록에서 설치 완료한 설치 티켓을 누릅니다.
 
-<figure><img src="../.gitbook/assets/installation-completion-1.png" alt="" width="224"><figcaption></figcaption></figure>
+메뉴를 눌러&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (386).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-\[설치 완료 확인]을 누릅니다.
+설치한 제품을 누릅니다.
 
-<figure><img src="../.gitbook/assets/installation-completion-2.png" alt="" width="216"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (387).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**설치 완료 처리 전 유심 정보를 반드시 등록해주세요.**
+
+유심 정보는 유심 카드에 부착된 바코드를 스캔하면 등록할 수 있습니다.
+
+<img src="../.gitbook/assets/installation-completion-5.png" alt="" data-size="original">
+{% endhint %}
+{% endstep %}
+
+{% step %}
+설치한 제품을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (387).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **설치 완료 처리 전 유심 정보를 반드시 등록해주세요.**

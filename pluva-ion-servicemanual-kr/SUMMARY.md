@@ -47,8 +47,6 @@
   * [작업지 설정](order-installation/quick-setup/farm-setting.md)
 * [원스톱 인스톨](order-installation/quick-setup-1/README.md)
   * [원스톱 인스톨 설명 및 준비](order-installation/quick-setup-1/preparing-quick-setup.md)
-  * [원스톱 인스톨 설명 및 준비](order-installation/quick-setup-1/preparing-quick-setup-01.md)
-  * [원스톱 인스톨 설명 및 준비](order-installation/quick-setup-1/preparing-quick-setup-02.md)
   * [언어 설정](order-installation/quick-setup-1/language-settings.md)
   * [네트워크 설정](order-installation/quick-setup-1/network-settings.md)
   * [네트워크 설정](order-installation/quick-setup-1/network-settings-03.md)
