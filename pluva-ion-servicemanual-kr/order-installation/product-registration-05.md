@@ -237,14 +237,14 @@ tags:
     <div align="left"><figure><img src="../.gitbook/assets/image (339).png" alt="" width="375"><figcaption></figcaption></figure></div>
 4.  유심 등록이 완료됩니다.
 
-    <figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+    <div align="left"><figure><img src="../.gitbook/assets/image (341).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endhint %}
 {% endstep %}
 
 {% step %}
 설치 등록 정보를 확인한 뒤 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (329).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (351).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -328,19 +328,9 @@ tags:
 {% endstep %}
 
 {% step %}
-유심을 등록한 뒤 \[다음]을 누릅니다
-
-{% hint style="info" %}
-유심 등록은 선택 사항이며, 추후 등록할 수 있습니다.
-{% endhint %}
-
-<div align="left"><figure><img src="../.gitbook/assets/image (322).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
 설치 등록 정보를 확인한 뒤 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (329).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (353).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -352,7 +342,7 @@ tags:
 {% step %}
 등록이 완료 됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (355).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 고객이 로그인하기 전까지는 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
@@ -373,32 +363,28 @@ tags:
 <div align="left"><figure><img src="../.gitbook/assets/image (308).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-설치 제품 참고 사항
+설치 제품 선택 시 Expension Kit를 선택합니다.
 
-![](<../.gitbook/assets/image (305).png>)
-
-* **플루바 아이온**: 자율 주행 키트 본품 입니다.
-* **Expension Kit**: 자율 주행 확장 키트 입니다.
-* **스위치**: 옵션 품목 입니다.
+![](<../.gitbook/assets/image (342).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-설치 제품을 선택하면 제품 목록이 자동으로 생성됩니다. 확인 후 \[등록 시작]을 누릅니다.
+설치할 제품을 선택하면 제품 목록이 자동으로 생성됩니다. 확인 후 \[등록 시작]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (307).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (343).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-\[패키지로 한번에 개통]을 눌러 주요 제품을 개통합니다.
+\[스위치]를 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (309).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (344).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-패키징 넘버 QR 코드를 스캔합니다.
+스위치넘버 QR 코드를 스캔합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (314).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (345).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 카메라 스캔으로 올바른 코드가 입력되지 않을 경우, \[시리얼 번호 직접 입력]을 눌러 직접 입력합니다.
@@ -408,7 +394,7 @@ tags:
 {% endstep %}
 
 {% step %}
-패키징 넘버를 확인한 뒤 \[확인 완료]를 누릅니다.
+스위치넘버를 확인한 뒤 \[확인 완료]를 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (315).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -416,49 +402,33 @@ tags:
 {% endstep %}
 
 {% step %}
-스캔이 완료되면 \[다음]을 누릅니다
+스캔이 완료되면 \[다음]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (317).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-추가 옵션을 주문할 경우 주요 제품 개통 이후 추가 옵션 개통을 진행해야 개통이 완료됩니다.
-
-![](<../.gitbook/assets/image (319).png>)
-{% endhint %}
+<div align="left"><figure><img src="../.gitbook/assets/image (348).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-유심을 등록한 뒤 \[다음]을 누릅니다
+이후 사용자 계정 선택 화면에서 설치 사용자 이름을 검색합니다.
 
-{% hint style="info" %}
-유심 등록은 선택 사항이며, 추후 등록할 수 있습니다.
-{% endhint %}
-
-<div align="left"><figure><img src="../.gitbook/assets/image (322).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (349).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-설치 등록 정보를 확인한 뒤 \[등록]을 누릅니다.
+설치 사용자 카드를 선택한 뒤 \[다음]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (329).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-설치 등록을 확인하는 모달창에서 \[등록 완료]를 누릅니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (330).png" alt="" width="360"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (350).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 등록이 완료 됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-
+{% hint style="info" %}
+고객이 로그인하기 전까지는 \[설치 취소] 버튼을 통하여 취소가 가능합니다.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
-
-
 
 </details>
 
