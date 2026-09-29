@@ -26,7 +26,7 @@ tags:
 
 # 설치티켓으로 제품 개통 - New
 
-설치티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 개통을 권장합니다.
+설치 티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 개통을 권장합니다.
 
 {% hint style="info" %}
 설치티켓이 무엇인가요?
@@ -257,7 +257,7 @@ tags:
 해당 티켓이 설치중으로 등록이 완료 됩니다.
 
 {% hint style="info" %}
-제품 설치 후 태블릿으로 로그인 하면 티켓이 자동완료 처리 됩니다.
+제품 설치 후 차량 태블릿으로 로그인 하면 티켓이 자동 완료 처리 됩니다.
 {% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -344,7 +344,11 @@ tags:
 {% endstep %}
 
 {% step %}
-등록이 완료 됩니다.
+해당 티켓이 설치중으로 등록이 완료 됩니다.
+
+{% hint style="info" %}
+제품 설치 후 차량 태블릿으로 로그인 하면 티켓이 자동 완료 처리 됩니다.
+{% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (381).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
