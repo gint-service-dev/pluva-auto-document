@@ -39,7 +39,7 @@ layout:
 {% step %}
 별칭, 작업기 타입, 작업기 너비, 고랑폭, 링크-작업기 거리, 작업기 편차를 입력하고 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/add-worker-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -57,18 +57,21 @@ layout:
 
 ![](../../.gitbook/assets/icon-square-1.svg) **작업기 너비**
 
-* 작업기 너비를 입력합니다.
-* ![](../../.gitbook/assets/add-worker-dimensions-1.png)
+*   작업기 너비를 입력합니다.
+
+    <div align="left"><figure><img src="../../.gitbook/assets/image (372).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-2.svg) **고랑폭**
 
-* 고랑폭을 입력합니다.
-* ![](../../.gitbook/assets/add-worker-dimensions-2.png)
+*   고랑폭을 입력합니다.
+
+    <div align="left"><figure><img src="../../.gitbook/assets/image (374).png" alt="" width="325"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-3.svg) **작업기 편차**
 
-* 작업기 편차를 입력합니다.
-* ![](../../.gitbook/assets/add-worker-dimensions-3.png)
+*   작업기 편차를 입력합니다.
+
+    <div align="left"><figure><img src="../../.gitbook/assets/image (375).png" alt="" width="409"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-4.svg) **작업기 편차 계산**
 

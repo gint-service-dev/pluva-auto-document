@@ -65,6 +65,7 @@
   * [작업지 설정](order-installation/quick-setup-1/farm-setting.md)
 * [설치 완료 확인](order-installation/installation-completed-04.md)
 * [설치 완료 확인](order-installation/installation-completed-02.md)
+* [설치 완료 확인 - New](order-installation/installation-completed-04-1.md)
 * [확장 키트 설치](order-installation/expansion-kit-installation.md)
 * [태블릿 이전](order-installation/undefined.md)
 

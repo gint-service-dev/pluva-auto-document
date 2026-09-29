@@ -44,7 +44,7 @@ QR 스캔을 통해 제품이 개통 되었는지 확인합니다.
 <figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**제품 개통 실패시 참고 사항**
+**개통 확인 실패시 참고 사항**
 
 1.  &#x20;설치 티켓이 미발급 된 경우: 티켓을 발급하여 등록 완료 후 다시 \[개통 확인] 버튼을 눌러주세요.
 

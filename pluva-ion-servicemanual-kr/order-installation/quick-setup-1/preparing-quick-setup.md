@@ -39,7 +39,7 @@ tags:
 1. [언어 설정](../quick-setup/language-settings.md)
 2. [네트워크 설정](../quick-setup/network-settings.md)
 3. [소프트웨어 업데이트 (OTA)](../quick-setup/ota.md)
-4. 제품QR 스캔
+4. 제품 개통 확인
 5. [로그인](../quick-setup/login.md)
 6. [개통키 입력](../quick-setup/opening-key-04.md)
 7. [GNSS  수신기 연결 확인](../quick-setup/gnss-connect.md)

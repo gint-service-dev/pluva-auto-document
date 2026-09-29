@@ -72,7 +72,7 @@ layout:
 {% endstepper %}
 
 {% hint style="info" %}
-업데이트 실패시 참고 사항
+**업데이트 실패시 참고 사항**
 
 ![](<../../.gitbook/assets/image (370).png>)
 
