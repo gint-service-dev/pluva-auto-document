@@ -41,7 +41,7 @@ layout:
 {% step %}
 \[업데이트] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/Quick setup_OTA-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 와이파이 환경에서 소프트웨어 업데이트를 진행할 것을 권장합니다.
@@ -55,18 +55,29 @@ layout:
 {% step %}
 업데이트가 진행됩니다.
 
-<figure><img src="../../.gitbook/assets/Quick setup_OTA-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-업데이트가 완료되면 \[재부팅] 버튼을 누릅니다.
+업데이트 중에는 자동 재시작 됩니다. 잠시 기다려 주세요.
 
-<figure><img src="../../.gitbook/assets/Quick setup_OTA-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-재부팅 후 태블릿에 다시 접속하여 \[다음 단계로] 버튼을 누르면 소프트웨어 업데이트가 완료됩니다.
+\[다음 단계로] 버튼을 누르면 소프트웨어 업데이트가 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/Quick setup_OTA-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+업데이트 실패시 참고 사항
+
+![](<../../.gitbook/assets/image (370).png>)
+
+네트워크 환경이 불안정한 경우 업데이트가 실패할 수 있습니다. 아래의 방법을 통해 업데이트를 완료 하세요.
+
+1. \[네트워크 설정 보기]를 눌러안정적인 네트워크를 다시 설정해 주세요.
+2. 이후 \[다시 시도]를 눌러 업데이트를 완료 합니다.
+{% endhint %}
