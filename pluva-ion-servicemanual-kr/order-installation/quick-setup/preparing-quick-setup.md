@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr
     primary: true
@@ -33,6 +35,10 @@ tags:
 #### 퀵셋업 단계
 
 퀵셋업은 총 10단계로 이루어져 있습니다.
+
+{% hint style="info" %}
+확장 키트 설치시 6번 GNSS 수신기 연결 확인부터 참고하세요.
+{% endhint %}
 
 1. [언어 설정](language-settings.md)
 2. [네트워크 설정](network-settings.md)
