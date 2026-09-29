@@ -8,7 +8,7 @@
 
 * [주문/설치 단계 설명](order-installation/order-installation-steps-04.md)
 * [개통/설치 단계 설명](order-installation/order-installation-steps-02.md)
-* [주문 등록](order-installation/order-registration-04.md)
+* [주문 등록 - 삭제 예정](order-installation/order-registration-04.md)
 * [제품 개통](order-installation/product-registration-02.md)
 * [설치 전 준비 가이드](order-installation/pre-installation-overview/README.md)
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide.md)
@@ -16,6 +16,7 @@
   * [설치 전 준비 사항](order-installation/pre-installation-overview/pre-installation-guide-02.md)
   * [고객 계정 준비](order-installation/pre-installation-overview/preparing-accounts.md)
 * [설치티켓으로 제품 개통](order-installation/product-registration-04.md)
+* [설치티켓으로 제품 개통 - New](order-installation/product-registration-05.md)
 * [제품 설치](order-installation/product-installation/README.md)
   * [구성품 준비](order-installation/product-installation/preparing-components.md)
   * [구성품 준비](order-installation/product-installation/preparing-components-03.md)
