@@ -51,7 +51,7 @@
   * [네트워크 설정](order-installation/quick-setup-1/network-settings.md)
   * [네트워크 설정](order-installation/quick-setup-1/network-settings-03.md)
   * [소프트웨어 업데이트(OTA)](order-installation/quick-setup-1/ota.md)
-  * [제품 개통 확인 화면이 나타나는 경우](order-installation/quick-setup-1/undefined.md)
+  * [제품 개통 확인 화면이 나타날 때](order-installation/quick-setup-1/undefined.md)
   * [GNSS 수신기 연결 확인](order-installation/quick-setup-1/gnss-connect.md)
   * [위치보정 설정](order-installation/quick-setup-1/rtk-setting.md)
   * [위치보정 설정](order-installation/quick-setup-1/rtk-setting-03.md)
