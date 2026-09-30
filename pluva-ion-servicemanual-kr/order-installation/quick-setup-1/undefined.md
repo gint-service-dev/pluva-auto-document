@@ -56,15 +56,9 @@ layout:
 {% hint style="info" %}
 **개통을 확인할 수 없는 경우**
 
-1.  **설치 티켓이 없거나 취소된 경우**: 새 설치 티켓을 생성하고 제품과 구성품의 시리얼 번호를 등록합니다. 티켓이 \[설치 중]으로 변경되면 다시 \[개통 확인]을 누릅니다.
-
-    <div align="left"><figure><img src="../../.gitbook/assets/image (363).png" alt="" width="375"><figcaption></figcaption></figure></div>
-2.  **설치 티켓의 제품 등록이 완료되지 않은 경우**: 설치 티켓에서 누락된 제품과 구성품의 시리얼 번호를 등록합니다. 등록을 완료하고 티켓이 \[설치 중]인지 확인한 후 다시 \[개통 확인]을 누릅니다.
-
-    <div align="left"><figure><img src="../../.gitbook/assets/image (364).png" alt="" width="375"><figcaption></figcaption></figure></div>
-3.  **기기 정보를 찾을 수 없는 경우:** 설치 티켓에 등록된 태블릿의 시리얼 번호가 올바른지 확인합니다. 문제가 계속되면 대리점에 문의해 주세요.
-
-    <div align="left"><figure><img src="../../.gitbook/assets/image (365).png" alt="" width="375"><figcaption></figcaption></figure></div>
+1. **설치 티켓이 없거나 취소된 경우**: 새 설치 티켓을 생성하고 제품과 구성품의 시리얼 번호를 등록합니다. 티켓이 \[설치 중]으로 변경되면 다시 \[개통 확인]을 누릅니다.
+2. **설치 티켓의 제품 등록이 완료되지 않은 경우**: 설치 티켓에서 누락된 제품과 구성품의 시리얼 번호를 등록합니다. 등록을 완료하고 티켓이 \[설치 중]인지 확인한 후 다시 \[개통 확인]을 누릅니다.
+3. **기기 정보를 찾을 수 없는 경우:** 설치 티켓에 등록된 태블릿의 시리얼 번호가 올바른지 확인합니다. 문제가 계속되면 대리점에 문의해 주세요.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
