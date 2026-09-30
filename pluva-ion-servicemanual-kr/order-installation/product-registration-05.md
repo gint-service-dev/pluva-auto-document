@@ -456,6 +456,145 @@ tags:
 
 ***
 
+#### 제품 개통 방법
+
+기본 키트와 확장 키트는 같은 방법으로 등록합니다. 설치할 제품과 옵션을 선택한 후 패키지 또는 구성품을 등록해 주세요.
+
+{% stepper %}
+{% step %}
+담당 조직과 설치할 제품을 선택합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (390).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+등록할 옵션을 선택한 후 \[등록 시작]을 누릅니다.
+
+<figure><img src="../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**스위치도 함께 설치하는 경우 참고 사항**
+
+기본 키트 또는 확장 키트와 함께 선택하여 개통해 주세요.
+{% endhint %}
+
+{% hint style="info" %}
+**만약 스위치 등록을 잊었다면**
+
+설치 등록을 통해 스위치를 추가로 개통해 주세요.
+
+![](<../.gitbook/assets/image (400).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+확인 후 \[등록 시작]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (398).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+\[패키지로 한번에 개통]을 눌러 주요 제품을 개통합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+패키지 QR 코드를 카메라로 스캔합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (401).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**카메라 스캔으로 올바른 코드가 입력되지 않을 경우**
+
+\[패키지번호 직접 입력]을 눌러 직접 입력합니다.
+
+![](<../.gitbook/assets/image (402).png>)
+{% endhint %}
+
+{% hint style="info" %}
+**구성품을 개별 등록하는 경우**
+
+필요한 경우 각 구성품의 시리얼 번호를 입력해 개별 등록할 수도 있습니다.
+
+![](<../.gitbook/assets/image (403).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+패키지 번호를 확인한 뒤 \[확인 완료]를 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (415).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+스캔이 완료되면 \[다음]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (405).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+추가 옵션을 주문할 경우 주요 제품 개통 이후 추가 옵션 개통을 진행해야 개통이 완료됩니다.
+
+![](<../.gitbook/assets/image (406).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+유심 등록 단계에서 \[등록] 버튼을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+\[직접 입력] 하거나 \[촬영하기]를 통해 유심 바코드를 등록합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (408).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+유심 번호를 확인하고 \[확인 완료]를 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (409).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+유심 등록 완료를 확인 후, \[다음]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (411).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+개통할제품의 시리얼이 제짐없이 등록 되었는지 확인후 \[등록]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+확인 창에서 \[등록 완료]를 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (413).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+설치 티켓이 \[설치 중] 상태로 변경되며 제품 등록이 완료됩니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (416).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**설치 티켓 완료 시점**
+
+* **기본 키트**: 태블릿에서 고객 계정 로그인을 완료하면 티켓이 자동으로 완료됩니다.
+* **확장 키트**: 등록한 장비가 기존 차량에 연결되면 티켓이 자동으로 완료됩니다. 반영까지 최대 10분 정도 걸릴 수 있습니다.
+{% endhint %}
+
+{% hint style="info" %}
+티켓이 완료되기 전에는 설치 등록을 취소할 수 있습니다.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
+
+***
+
 #### 이후 단계
 
 [제품 설치](product-installation/)를 완료해 주세요.
