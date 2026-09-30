@@ -26,40 +26,48 @@ tags:
 
 # 설치티켓으로 제품 개통 - New
 
-설치 티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 개통을 권장합니다.
+설치 티켓에 제품과 구성품을 등록해 설치를 시작합니다. 퀵셋업 전에 등록을 완료해 주세요.
 
 {% hint style="info" %}
-설치티켓이 무엇인가요?
+**설치 티켓이 무엇인가요?**
 
-주문한 상품별로 **설치 상태를 체크할 수 있는 관리 티켓**입니다.
+설치할 제품과 구성품을 등록하고 설치 진행 상태를 관리하는 티켓입니다.
 {% endhint %}
 
 ***
 
-#### 주문 제품별 개통 구성품
+#### 주문 제품별 개통 구성품 <a href="#product-information" id="product-information"></a>
 
-각 주문 제품에 따라 아래 구성품을 준비합니다.
+설치할 제품에 맞는 구성품을 준비해 주세요.
 
-1. **플루바 아이온**
+**1. 플루바 아이온**
 
-* 모든 주요 구성품을 등록합니다.
-  * 태블릿
-  * GNSS 수신기
-  * 전동 스티어링 휠
+모든 주요 구성품을 등록합니다.
 
-2. **플루바 아이온 Expansion Kit (확장키트)**
+* 태블릿
+* GNSS 수신기
+* 전동 스티어링 휠
 
-* 태블릿을 제외한 구성품들을 등록합니다.
-  * GNSS 수신기
-  * 전동 스티어링 휠
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3. **추가 옵션**
+**2. 플루바 아이온 Expansion Kit (확장키트)**
+
+태블릿을 제외한 구성품들을 등록합니다.
+
+* GNSS 수신기
+* 전동 스티어링 휠
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**3. 추가 옵션**
 
 * 스위치
 
+<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ***
 
-#### 시리얼 넘버 등록 (패키징 넘버)
+#### 시리얼 넘버 등록 (패키징 넘버) <a href="#serial-number-information" id="serial-number-information"></a>
 
 제품 등록은 제품에 부착된 QR 코드(시리얼 넘버 혹은 패키징 넘버)를 스캔해 진행합니다.
 
@@ -67,7 +75,7 @@ tags:
 
 #### QR 코드 위치 안내
 
-#### 패캐지 시리얼 넘버
+#### 패키지 시리얼 넘버
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -145,7 +153,7 @@ tags:
 
 ***
 
-#### 제품 개통 방법
+#### 제품 개통 방법 <a href="#how-to-activate" id="how-to-activate"></a>
 
 제품 개통 방법은 아래의 세가지 방법을 확인할 수 있습니다.
 
