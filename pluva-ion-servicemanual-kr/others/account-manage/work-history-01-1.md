@@ -217,7 +217,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
