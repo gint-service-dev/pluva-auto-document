@@ -245,12 +245,14 @@ tags:
 
 <summary><strong>유심을 나중에 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
 
+제품 등록 시 유심을 등록하지 않았다면, 해당 설치 티켓에서 등록할 수 있습니다.
+
 {% stepper %}
 {% step %}
-설치 티켓 목록에 접속하여 유심을 등록할 설치 티켓을 선택합니다.
+어드민의 설치 관리 → 설치 티켓 목록에서 해당 제품의 설치 티켓을 선택합니다.
 
 {% hint style="info" %}
-티켓 상태가 \[설치 중]이거나 \[완료] 상태에서도 유심 정보를 재등록할 수 있습니다.
+유심을 아직 등록하지 않았다면, 설치 티켓이 \[설치 중] 또는 \[완료] 상태여도 등록할 수 있습니다.
 {% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -263,15 +265,19 @@ tags:
 {% endstep %}
 
 {% step %}
-설치 정보에서 등록된 제품을 눌러 카드를 열어주세요.
+설치 정보에서 제품명을 눌러 구성품 정보를 펼칩니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-유심 번호 \[등록] 버튼을 눌러 유심 번호를 등록합니다.
+유심 정보의 유심 번호 옆 \[등록]을 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+유심 번호를 직접 입력하거나 바코드를 촬영해 등록합니다. 등록 후 유심 번호가 표시되는지 확인합니다.
 {% endstep %}
 {% endstepper %}
 
