@@ -22,7 +22,7 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/screen-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,9 +32,9 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/screen-layout-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
+&#x20;![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
 * 슬라이더를 드래그하여 화면 밝기를 조절합니다.
 
@@ -56,7 +56,7 @@ tags:
 
 키보드 입력 방식을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/device-keyboard-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자만 입력할 수 있습니다.
@@ -67,7 +67,7 @@ tags:
 
 키보드 업데이트가 필요하면 화면에 “키보드 업데이트가 필요합니다” 안내와 \[지금 설치] 버튼이 표시됩니다.
 
-<img src="../../.gitbook/assets/device-keyboard-2.png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (141).png>)
 
 \[지금 설치]를 누르면 업데이트가 진행됩니다.
 {% endhint %}
@@ -78,7 +78,7 @@ tags:
 
 기기의 기본 정보를 확인하고 저장된 작업 데이터를 초기화할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/device-info-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 기기 일련번호
 
