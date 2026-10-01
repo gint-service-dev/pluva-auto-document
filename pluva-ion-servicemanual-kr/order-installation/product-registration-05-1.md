@@ -20,7 +20,7 @@ layout:
   anchors:
     visible: true
 tags:
-  - tag: kr
+  - tag: jp
     primary: true
 ---
 

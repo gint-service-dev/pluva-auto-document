@@ -20,7 +20,8 @@ layout:
   anchors:
     visible: true
 tags:
-  - jp-fkk
+  - tag: jp
+    primary: true
 ---
 
 # 퀵셋업 설명 및 준비
