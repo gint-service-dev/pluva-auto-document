@@ -238,7 +238,7 @@ tags:
 유심 등록 단계에서 \[등록] 버튼을 누릅니다.
 
 {% hint style="info" %}
-유심은 나중에 등록이 가능합니다. 하단의 상세 설명을 열어 방법을확인하세요.
+유심은 나중에 등록이 가능합니다. 하단의 상세 설명을 열어 방법을 확인하세요.
 {% endhint %}
 
 <details>
@@ -247,21 +247,31 @@ tags:
 
 {% stepper %}
 {% step %}
-어드민 페이지 접속 후, \[설치 티켓 목록] 페이지에 접속합니다.
+설치 티켓 목록에 접속하여 유심을 등록할 설치 티켓을 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+티켓 상태가 \[설치 중]이거나 \[완료] 상태에서도 유심 정보를 재등록할 수 있습니다.
+{% endhint %}
+
+<div align="left"><figure><img src="../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**설치 티켓 목록에 접속 방법**
+
+![](<../.gitbook/assets/image (421).png>)
+{% endhint %}
 {% endstep %}
 
 {% step %}
-유심을 등록할 설치 티켓을 선택합니다.
+설치 정보에서 등록된 제품을 눌러 카드를 열어주세요.
 
-
+<div align="left"><figure><img src="../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
+유심 번호 \[등록] 버튼을 눌러 유심 번호를 등록합니다.
 
-
-
+<div align="left"><figure><img src="../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
