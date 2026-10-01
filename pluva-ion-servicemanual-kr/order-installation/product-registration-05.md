@@ -258,7 +258,7 @@ tags:
 <div align="left"><figure><img src="../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**설치 티켓 목록에 접속 방법**
+**설치 티켓 목록 접속 방법**
 
 ![](<../.gitbook/assets/image (421).png>)
 {% endhint %}
