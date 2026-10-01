@@ -20,7 +20,8 @@ layout:
   anchors:
     visible: true
 tags:
-  - jp
+  - tag: jp
+    primary: true
 ---
 
 # 작업 이력
@@ -205,19 +206,11 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 <summary><strong>표시 설정 설명 보기</strong><br>클릭하면 설명이 열립니다.</summary>
 
-**지도 종류**
-
-* 표시할 지도를 선택할 수 있습니다.
-
-{% hint style="info" %}
-지도가 표시되지 않으면 지도 옵션을 변경한 후 다시 확인해 주세요.
-{% endhint %}
-
 **이벤트**
 
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

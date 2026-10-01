@@ -20,7 +20,8 @@ layout:
   anchors:
     visible: true
 tags:
-  - kr
+  - tag: kr
+    primary: true
 ---
 
 # 작업 이력
