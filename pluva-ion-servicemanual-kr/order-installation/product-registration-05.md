@@ -502,6 +502,13 @@ tags:
 <div align="left"><figure><img src="../.gitbook/assets/image (401).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
+**바코드 촬영 시 참고 사항**
+
+* 바코드를 화면 가득 확대해 주세요.
+* 초점을 선명하게 맞춰주세요.
+{% endhint %}
+
+{% hint style="info" %}
 **QR 코드가 인식되지 않는 경우**
 
 \[패키지 번호 직접 입력]을 눌러 패키지 번호를 입력해 주세요.
@@ -534,7 +541,7 @@ tags:
 유심 등록 단계에서 \[등록] 버튼을 누릅니다.
 
 {% hint style="info" %}
-유심은 추후 등록이 가능합니다. 추후 등록 방법은 하단의 상세 설명을 열어 확인하세요.
+유심은 나중에 등록이 가능합니다. 하단의 상세 설명을 열어 방법을확인하세요.
 {% endhint %}
 
 <details>
@@ -572,6 +579,21 @@ tags:
 \[직접 입력] 하거나 \[촬영하기]를 통해 유심 바코드를 등록합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (408).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**바코드 촬영 시 참고 사항**
+
+* 바코드를 화면 가득 확대해 주세요.
+* 초점을 선명하게 맞춰주세요.
+{% endhint %}
+
+{% hint style="info" %}
+**바코드가 인식되지 않는 경우**
+
+\[직접 입력]을 눌러 유심번호를 입력해 주세요.
+
+![](<../.gitbook/assets/image (427).png>)
+{% endhint %}
 {% endstep %}
 
 {% step %}
