@@ -238,52 +238,8 @@ tags:
 유심 등록 단계에서 \[등록] 버튼을 누릅니다.
 
 {% hint style="info" %}
-유심은 나중에 등록이 가능합니다. 하단의 상세 설명을 열어 방법을 확인하세요.
+자세한 방법은 [유심을 나중에 등록하는 방법](product-registration-05.md#id)을 참고해 주세요.
 {% endhint %}
-
-<details>
-
-<summary><strong>유심을 나중에 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
-
-제품 등록 시 유심을 등록하지 않았다면, 해당 설치 티켓에서 등록할 수 있습니다.
-
-{% stepper %}
-{% step %}
-어드민의 설치 관리 → 설치 티켓 목록에서 해당 제품의 설치 티켓을 선택합니다.
-
-{% hint style="info" %}
-유심을 아직 등록하지 않았다면, 설치 티켓이 \[설치 중] 또는 \[완료] 상태여도 등록할 수 있습니다.
-{% endhint %}
-
-<div align="left"><figure><img src="../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**설치 티켓 목록에 접속 방법**
-
-![](<../.gitbook/assets/image (421).png>)
-{% endhint %}
-{% endstep %}
-
-{% step %}
-설치 정보에서 제품명을 눌러 구성품 정보를 펼칩니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-유심 정보의 유심 번호 옆 \[등록]을 누릅니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-유심 번호를 직접 입력하거나 바코드를 촬영해 등록합니다. 등록 후 유심 번호가 표시되는지 확인합니다.
-{% endstep %}
-{% endstepper %}
-
-</details>
-
-***
 
 <div align="left"><figure><img src="../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -359,6 +315,46 @@ tags:
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+<details>
+
+<summary><strong>유심을 나중에 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
+
+{% stepper %}
+{% step %}
+어드민의 설치 관리 → 설치 티켓 목록에서 해당 제품의 설치 티켓을 선택합니다.
+
+{% hint style="info" %}
+유심을 아직 등록하지 않았다면, 설치 티켓이 \[설치 중] 또는 \[완료] 상태여도 등록할 수 있습니다.
+{% endhint %}
+
+<div align="left"><figure><img src="../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**설치 티켓 목록에 접속 방법**
+
+![](<../.gitbook/assets/image (421).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+설치 정보에서 제품명을 눌러 구성품 정보를 펼칩니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+유심 정보의 유심 번호 옆 \[등록]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+유심 번호를 직접 입력하거나 바코드를 촬영해 등록합니다. 등록 후 유심 번호가 표시되는지 확인합니다.
+{% endstep %}
+{% endstepper %}
+
+</details>
 
 ***
 
