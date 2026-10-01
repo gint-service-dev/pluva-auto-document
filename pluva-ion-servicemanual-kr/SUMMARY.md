@@ -64,7 +64,6 @@
   * [작업지 설정](order-installation/quick-setup-1/farm-setting.md)
 * [설치 완료 확인 - 삭제 예정](order-installation/installation-completed-04.md)
 * [설치 완료 확인 - 삭제 예정](order-installation/installation-completed-02.md)
-* [설치 완료 확인 - New](order-installation/installation-completed-04-1.md)
 * [확장 키트 설치](order-installation/expansion-kit-installation.md)
 * [태블릿 이전](order-installation/undefined.md)
 
@@ -78,6 +77,7 @@
 * [계정 관리](others/account-manage/README.md)
   * [계정 목록 및 상세](others/account-manage/account-management.md)
   * [작업 이력](others/account-manage/work-history-01.md)
+  * [작업 이력](others/account-manage/work-history-01-1.md)
   * [작업 이력](others/account-manage/work-history-not-use.md)
 * [제품 관리](others/product-management.md)
 * [원격 지원](others/monitorning.md)

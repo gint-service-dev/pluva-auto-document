@@ -20,7 +20,7 @@ layout:
   anchors:
     visible: true
 tags:
-  - kr
+  - jp
 ---
 
 # 작업 이력
