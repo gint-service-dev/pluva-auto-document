@@ -308,7 +308,7 @@ tags:
 {% step %}
 등록할 제품과 구성품의 시리얼 번호가 빠짐없이 등록되었는지 확인한 후 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (436).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **등록 정보를 수정해야 하는 경우**
@@ -316,7 +316,7 @@ tags:
 * 잘못 등록된 항목의 \[재등록]을 눌러 시리얼 번호나 유심 정보를 다시 등록합니다
 * 이전 단계의 정보를 다시 확인하려면 화면 아래의 \[이전]을 누릅니다.
 
-![](<../.gitbook/assets/image (425).png>)
+![](<../.gitbook/assets/image (434).png>)
 {% endhint %}
 {% endstep %}
 
@@ -329,7 +329,7 @@ tags:
 {% step %}
 설치 티켓이 \[설치 중] 상태로 변경되며 제품 등록이 완료됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (416).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (435).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **설치 티켓 완료 시점**

@@ -235,80 +235,9 @@ tags:
 {% endstep %}
 
 {% step %}
-유심 등록 단계에서 \[등록] 버튼을 누릅니다.
-
-{% hint style="info" %}
-유심은 나중에 등록이 가능합니다. 하단의 상세 설명을 열어 방법을확인하세요.
-{% endhint %}
-
-<details>
-
-<summary><strong>유심을 나중에 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
-
-{% stepper %}
-{% step %}
-어드민 페이지 접속 후, \[설치 티켓 목록] 페이지에 접속합니다.
-
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-유심을 등록할 설치 티켓을 선택합니다.
-
-
-{% endstep %}
-
-{% step %}
-
-
-
-{% endstep %}
-{% endstepper %}
-
-</details>
-
-***
-
-<div align="left"><figure><img src="../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-\[직접 입력] 하거나 \[촬영하기]를 통해 유심 바코드를 등록합니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (408).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**바코드 촬영 시 참고 사항**
-
-* 바코드를 화면 가득 확대해 주세요.
-* 초점을 선명하게 맞춰주세요.
-{% endhint %}
-
-{% hint style="info" %}
-**바코드가 인식되지 않는 경우**
-
-\[직접 입력]을 눌러 유심번호를 입력해 주세요.
-
-![](<../.gitbook/assets/image (427).png>)
-{% endhint %}
-{% endstep %}
-
-{% step %}
-유심 번호를 확인하고 \[확인 완료]를 누릅니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (409).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
-유심 등록 완료를 확인 후, \[다음]을 누릅니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (411).png" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
-
-{% step %}
 등록할 제품과 구성품의 시리얼 번호가 빠짐없이 등록되었는지 확인한 후 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (430).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **등록 정보를 수정해야 하는 경우**
@@ -316,7 +245,7 @@ tags:
 * 잘못 등록된 항목의 \[재등록]을 눌러 시리얼 번호나 유심 정보를 다시 등록합니다
 * 이전 단계의 정보를 다시 확인하려면 화면 아래의 \[이전]을 누릅니다.
 
-![](<../.gitbook/assets/image (425).png>)
+![](<../.gitbook/assets/image (437).png>)
 {% endhint %}
 {% endstep %}
 
@@ -329,7 +258,7 @@ tags:
 {% step %}
 설치 티켓이 \[설치 중] 상태로 변경되며 제품 등록이 완료됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (416).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (439).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **설치 티켓 완료 시점**
