@@ -191,6 +191,14 @@ tags:
 \[패키지로 한번에 개통]을 눌러 주요 제품을 개통합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**구성품을 개별 등록하는 경우**
+
+등록할 구성품을 선택한 후 QR 코드를 스캔하거나 시리얼 번호를 직접 입력해 주세요.
+
+![](<../.gitbook/assets/image (403).png>)
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -211,14 +219,6 @@ tags:
 \[패키지 번호 직접 입력]을 눌러 패키지 번호를 입력해 주세요.
 
 ![](<../.gitbook/assets/image (402).png>)
-{% endhint %}
-
-{% hint style="info" %}
-**구성품을 개별 등록하는 경우**
-
-등록할 구성품을 선택한 후 QR 코드를 스캔하거나 시리얼 번호를 직접 입력해 주세요.
-
-![](<../.gitbook/assets/image (403).png>)
 {% endhint %}
 {% endstep %}
 

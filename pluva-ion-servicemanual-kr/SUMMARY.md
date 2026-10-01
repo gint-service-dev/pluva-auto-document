@@ -47,6 +47,7 @@
   * [작업지 설정](order-installation/quick-setup/farm-setting.md)
 * [퀵셋업 - New](order-installation/quick-setup-1/README.md)
   * [퀵셋업 설명 및 준비](order-installation/quick-setup-1/preparing-quick-setup.md)
+  * [퀵셋업 설명 및 준비](order-installation/quick-setup-1/preparing-quick-setup-1.md)
   * [언어 설정](order-installation/quick-setup-1/language-settings.md)
   * [네트워크 설정](order-installation/quick-setup-1/network-settings.md)
   * [네트워크 설정](order-installation/quick-setup-1/network-settings-03.md)
