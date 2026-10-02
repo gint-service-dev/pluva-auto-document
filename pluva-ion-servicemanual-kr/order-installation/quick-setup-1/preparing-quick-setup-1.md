@@ -39,7 +39,7 @@ tags:
 1. [언어 설정](../quick-setup/language-settings.md)
 2. [네트워크 설정](../quick-setup/network-settings.md)
 3. [소프트웨어 업데이트 (OTA)](../quick-setup/ota.md)
-4. [제품 개통 확인](undefined.md)
+4. [제품 개통 확인](product-activation-screen.md)
 5. [GNSS  수신기 연결 확인](../quick-setup/gnss-connect.md)
 6. [위치보정 설정](../quick-setup/rtk-setting.md)
 7. [차량 추가](../quick-setup/add-vehicle.md)
