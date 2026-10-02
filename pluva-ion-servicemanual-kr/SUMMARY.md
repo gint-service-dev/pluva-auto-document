@@ -63,6 +63,7 @@
   * [작업기 추가 (선택)](order-installation/quick-setup-1/add-worker.md)
   * [로그인](order-installation/quick-setup-1/login.md)
   * [작업지 설정](order-installation/quick-setup-1/farm-setting.md)
+* [현장 기록 작성](order-installation/undefined.md)
 * [설치 완료 확인 - 삭제 예정](order-installation/installation-completed-04.md)
 * [설치 완료 확인 - 삭제 예정](order-installation/installation-completed-02.md)
 * [확장 키트 설치](order-installation/expansion-kit-installation.md)
