@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -17,12 +18,14 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr-jp
     primary: true
 ---
 
-# 설치 완료 확인
+# 설치 완료 확인 - 삭제 예정
 
 설치 및 퀵셋업 작업의 완료 항목을 점검하고, 설치 티켓 상태를 설치 완료로 변경하는 작업입니다.
 

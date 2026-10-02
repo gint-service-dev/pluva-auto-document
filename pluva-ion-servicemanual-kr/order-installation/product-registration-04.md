@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -17,12 +18,14 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr-jp
     primary: true
 ---
 
-# 설치티켓으로 제품 개통
+# 설치티켓으로 제품 개통 - 삭제 예정
 
 설치티켓에 제품을 등록하여 개통키를 발급합니다. 원활한 설치를 위해 설치 전 개통을 권장합니다.
 
