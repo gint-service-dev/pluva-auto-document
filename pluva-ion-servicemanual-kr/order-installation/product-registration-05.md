@@ -42,8 +42,6 @@ tags:
 
 **1. 플루바 아이온**
 
-모든 주요 구성품을 등록합니다.
-
 * 태블릿
 * GNSS 수신기
 * 전동 스티어링 휠
@@ -51,8 +49,6 @@ tags:
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **2. 플루바 아이온 Expansion Kit (확장키트)**
-
-태블릿을 제외한 구성품들을 등록합니다.
 
 * GNSS 수신기
 * 전동 스티어링 휠
@@ -175,7 +171,7 @@ tags:
 *   스위치를 함께 설치하는 경우 제품을 선택할 때 스위치도 함께 선택해 주세요.
 
     <figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
-*   스위치를 선택하지 못했다면 새 설치 등록을 시작해 \[스위치]를 선택하고 별도로 등록해 주세요.
+*   스위치 추가를 잊고 설치 등록을 완료했다면 새 설치 등록을 시작해 \[스위치]를 선택하고 별도로 등록해 주세요.
 
     <figure><img src="../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
@@ -209,7 +205,7 @@ tags:
 {% hint style="info" %}
 **바코드 촬영 시 참고 사항**
 
-* 바코드를 화면 가득 확대해 주세요.
+* QR코드를 화면 가득 확대해 주세요.
 * 초점을 선명하게 맞춰주세요.
 {% endhint %}
 
@@ -231,7 +227,7 @@ tags:
 {% step %}
 스캔이 완료되면 \[다음]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (405).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -301,26 +297,26 @@ tags:
 
 \[직접 입력]을 눌러 유심번호를 입력해 주세요.
 
-![](<../.gitbook/assets/image (427).png>)
+![](<../.gitbook/assets/image (445).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 유심 번호를 확인하고 \[확인 완료]를 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (409).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (446).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 유심 등록 완료를 확인 후, \[다음]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (411).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (447).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 등록할 제품과 구성품의 시리얼 번호가 빠짐없이 등록되었는지 확인한 후 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (436).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (448).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **등록 정보를 수정해야 하는 경우**
@@ -347,7 +343,7 @@ tags:
 **설치 티켓 완료 시점**
 
 * **기본 키트**: 태블릿에서 고객 계정 로그인을 완료하면 티켓이 자동으로 완료됩니다.
-* **확장 키트**: 등록한 장비가 기존 차량에 연결되면 티켓이 자동으로 완료됩니다. 반영까지 최대 10분이 걸릴 수 있습니다.
+* **확장 키트**: 등록한 장비가 추가 차량에 연결되면 티켓이 자동으로 완료됩니다.
 {% endhint %}
 
 {% hint style="info" %}
