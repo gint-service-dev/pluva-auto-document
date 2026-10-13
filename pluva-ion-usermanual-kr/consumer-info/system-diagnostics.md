@@ -74,7 +74,7 @@ layout:
 {% hint style="info" %}
 **진단 상태 안내**
 
-<table><thead><tr><th width="121.27996826171875">상태</th><th width="229.47479248046875">설명</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (177).png" alt=""></td><td>정상적으로 작동하고 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (178).png" alt=""></td><td>상태를 확인하고 주의해야 합니다.</td></tr><tr><td><img src="../.gitbook/assets/image (179).png" alt=""></td><td>오류가 발생했거나 기능이 제한될 수 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (180).png" alt=""></td><td>심각한 오류가 발생했거나 작업할 수 없는 상태입니다.</td></tr><tr><td><img src="../.gitbook/assets/image (181).png" alt=""></td><td>연결 문제 등으로 해당 항목의 상태를 확인할 수 없습니다.</td></tr></tbody></table>
+<table><thead><tr><th width="121.27996826171875">상태</th><th width="229.47479248046875">설명</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (182).png" alt=""></td><td>정상적으로 작동하고 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (183).png" alt=""></td><td>상태를 확인하고 주의해야 합니다.</td></tr><tr><td><img src="../.gitbook/assets/image (184).png" alt=""></td><td>오류가 발생했거나 기능이 제한될 수 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (185).png" alt=""></td><td>심각한 오류가 발생했거나 작업할 수 없는 상태입니다.</td></tr><tr><td><img src="../.gitbook/assets/image (186).png" alt=""></td><td>연결 문제 등으로 해당 항목의 상태를 확인할 수 없습니다.</td></tr></tbody></table>
 
 * 문제가 해결되면 상태가 자동으로 \[정상]으로 바뀝니다.
 * 일부 항목에는 최근 복구 시간도 표시됩니다.
