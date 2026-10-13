@@ -78,6 +78,7 @@
 
 ## 고객 지원 <a href="#consumer-info" id="consumer-info"></a>
 
+* [시스템 진단](consumer-info/undefined.md)
 * [문제해결 안내](consumer-info/problem-solving.md)
 * [원격 지원](consumer-info/remote-support.md)
 * [정비](consumer-info/maintenance.md)
