@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -49,6 +49,8 @@ tags:
 * 주행 화면에 카메라 영상 표시 여부를 설정합니다.
   * **전체 카메라**: 카메라를 한 번에 켜거나 끕니다.
   * **유턴 시 자동 켜짐**: 유턴할 때 카메라가 자동으로 켜집니다.
+  * **카메라 좌우 반전**: 카메라 영상의 좌우를 바꿔 표시합니다.
+  * **카메라 상하 반전**: 카메라 영상의 상하를 바꿔 표시합니다.
 
 ***
 

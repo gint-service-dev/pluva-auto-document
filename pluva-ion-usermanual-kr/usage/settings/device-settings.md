@@ -22,7 +22,7 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -55,6 +55,8 @@ tags:
 * 주행 화면에 카메라 영상 표시 여부를 설정합니다.
   * **전체 카메라**: 카메라를 한 번에 켜거나 끕니다.
   * **유턴 시 자동 켜짐**: 유턴할 때 카메라가 자동으로 켜집니다.
+  * **카메라 좌우 반전**: 카메라 영상의 좌우를 바꿔 표시합니다.
+  * **카메라 상하 반전**: 카메라 영상의 상하를 바꿔 표시합니다.
 
 ***
 
@@ -62,7 +64,7 @@ tags:
 
 주행시 표시되는 지도 소스를 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **일반 지도**: 한국 공공 지도 서비스의 위성 사진 데이터를 사용합니다.
 * **구글 지도**: 구글에서 제공하는 위성 사진 데이터를 사용합니다.

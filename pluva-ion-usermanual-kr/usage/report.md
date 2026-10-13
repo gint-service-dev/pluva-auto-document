@@ -163,11 +163,11 @@
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> **정렬**
+<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> **정렬**
 
 * 최신순·오래된순으로 목록을 정렬합니다.
 
-<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> **작업 공유**
+<img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> **작업 공유**
 
 * \[작업 공유] 버튼을 눌러 리포트를 선택한 뒤 공유할 수 있습니다.
 * 코드를 확인 후 \[확인] 버튼을 눌러 리포트 공유가 가능합니다.
