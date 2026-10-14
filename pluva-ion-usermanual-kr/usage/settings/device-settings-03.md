@@ -65,7 +65,7 @@ tags:
 
 ***
 
-### 입력설정
+### 입력 설정
 
 키보드 입력 방식과 원터치 스위치의 버튼 작동음을 설정합니다.
 
@@ -139,7 +139,7 @@ tags:
 
 <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> **블루투스 연결**
 
-* 블루투스를 연결을 켜거나 끕니다.
+* 블루투스 연결을 켜거나 끕니다.
 
 <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **등록된 기기**
 
