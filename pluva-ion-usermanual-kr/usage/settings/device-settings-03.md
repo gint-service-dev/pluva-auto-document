@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -67,22 +67,45 @@ tags:
 
 ### 입력설정
 
-키보드 입력 방식을 선택합니다.
+키보드 입력 방식과 원터치 스위치의 버튼 작동음을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../../.gitbook/assets/image (190).png" alt="" data-size="line"> **키보드 설정**
+
+* Kana(가나): 가나 문자를 직접 입력합니다.
+* Romaji(로마자): 로마자로 입력합니다.
 
 {% hint style="info" %}
-유튜브 검색 시에는 가나 입력이 되지 않으며, 로마자만 입력할 수 있습니다.
+**유튜브 검색 안내**
+
+유튜브에서는 \[Kana]를 사용할 수 없습니다. \[Romaji]를 선택해 로마자로 검색어를 입력해 주세요.
 {% endhint %}
 
 {% hint style="info" %}
 **키보드 업데이트가 필요한 경우**
 
-키보드 업데이트가 필요하면 화면에 “키보드 업데이트가 필요합니다” 안내와 \[지금 설치] 버튼이 표시됩니다.
+“키보드 업데이트가 필요합니다”라는 안내가 나타나면 \[지금 설치]를 눌러 업데이트합니다.
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../.gitbook/assets/image (194).png>)
+{% endhint %}
 
-\[지금 설치]를 누르면 업데이트가 진행됩니다.
+<img src="../../.gitbook/assets/image (191).png" alt="" data-size="line"> **원터치 스위치**
+
+* 원터치 스위치 음량: 버튼 작동음을 켜거나 끕니다.
+* 버튼 작동음 안내: 작동음의 종류와 의미를 확인합니다.
+
+{% hint style="info" %}
+- \[원터치 스위치 음량]을 켠 뒤, \[버튼 작동음 안내] 옆의 ⓘ를 누릅니다.
+- \[예시 듣기]를 눌러 각 작동음을 미리 들어볼 수 있습니다.
+
+![](<../../.gitbook/assets/image (203).png>)
+{% endhint %}
+
+{% hint style="info" %}
+**작동음별 의미**
+
+\[OK] 버튼으로 선택 내용을 확인하면 확인음이 재생됩니다. LED가 꺼진 버튼은 현재 사용할 수 없으며, 누르면 사용 불가음이 재생됩니다.
 {% endhint %}
 
 ***
@@ -112,7 +135,7 @@ tags:
 
 주변 블루투스 기기를 태블릿에 연결하고, 연결 상태와 음량을 관리합니다.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> **블루투스 연결**
 

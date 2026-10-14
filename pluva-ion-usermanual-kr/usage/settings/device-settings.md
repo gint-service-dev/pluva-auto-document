@@ -22,7 +22,7 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -64,7 +64,7 @@ tags:
 
 주행시 표시되는 지도 소스를 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 * **일반 지도**: 한국 공공 지도 서비스의 위성 사진 데이터를 사용합니다.
 * **구글 지도**: 구글에서 제공하는 위성 사진 데이터를 사용합니다.
@@ -72,11 +72,35 @@ tags:
 
 ***
 
+### 입력 설정
+
+원터치 스위치의 버튼 작동음을 설정합니다.
+
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+* 원터치 스위치 음량: 버튼 작동음을 켜거나 끕니다.
+* 버튼 작동음 안내: 작동음의 종류와 의미를 확인합니다.
+
+{% hint style="info" %}
+- \[원터치 스위치 음량]을 켠 뒤, \[버튼 작동음 안내] 옆의 ⓘ를 누릅니다.
+- \[예시 듣기]를 눌러 각 작동음을 미리 들어볼 수 있습니다.
+
+![](<../../.gitbook/assets/image (203).png>)
+{% endhint %}
+
+{% hint style="info" %}
+**작동음별 의미**
+
+\[OK] 버튼으로 선택 내용을 확인하면 확인음이 재생됩니다. LED가 꺼진 버튼은 현재 사용할 수 없으며, 누르면 사용 불가음이 재생됩니다.
+{% endhint %}
+
+***
+
 ### 기기 정보
 
 기기의 기본 정보를 확인하고 저장된 작업 데이터를 초기화할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) **기기 일련번호**
 
@@ -97,7 +121,7 @@ tags:
 
 주변 블루투스 기기를 태블릿에 연결하고, 연결 상태와 음량을 관리합니다.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> **블루투스 연결**
 
