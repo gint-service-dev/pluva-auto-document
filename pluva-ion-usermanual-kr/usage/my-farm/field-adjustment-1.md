@@ -76,9 +76,17 @@ layout:
 
 ### 차량 위치로 조정하기
 
-#### 점으로 조정
+차량을 이동해 필드 경계의 점이나 선을 현재 차량 위치에 맞춰 조정합니다.
 
-필드 경계의 꼭짓점을 현재 차량 위치에 맞춰 옮깁니다.
+{% hint style="info" %}
+**차량으로 조정할 때 확인해 주세요.**
+
+선택한 뒷바퀴를 기준으로 경계가 조정됩니다. \[조정 가이드]에서 기준 위치를 확인하고, 저속 주행하거나 정차한 상태에서 진행해 주세요.
+{% endhint %}
+
+<details>
+
+<summary><strong>점으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -88,7 +96,7 @@ layout:
 {% endstep %}
 
 {% step %}
-기준으로 사용할 \[왼쪽 뒷바퀴] 또는 \[오른쪽 뒷바퀴]를 선택하고 \[다음]을 누릅니다
+기준으로 사용할 \[왼쪽 뒷바퀴] 또는 \[오른쪽 뒷바퀴]를 선택하고 \[다음]을 누릅니다.
 
 <figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -119,9 +127,13 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-#### 선으로 조정
 
-필드 경계의 한 변을 현재 차량 위치에 맞춰 옮깁니다.
+
+</details>
+
+<details>
+
+<summary><strong>선으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -140,7 +152,7 @@ layout:
 원하는 위치로 차량을 이동합니다.
 
 {% hint style="info" %}
-**조조정할 선 선택하기**
+**조정할 선 선택하기**
 
 * 지도에서 원하는 번호를 누르면 조정할 선이 선택됩니다.
 * \[지금 위치로 선 조정]을 누르면 선택한 선이 현재 차량 위치를 기준으로 이동합니다.
@@ -162,17 +174,17 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-**차량으로 조정할 때 확인해 주세요.**
 
-선택한 뒷바퀴를 기준으로 경계가 조정됩니다. \[조정 가이드]에서 기준 위치를 확인하고, 저속 주행하거나 정차한 상태에서 진행해 주세요.
-{% endhint %}
+
+</details>
 
 ### 지도에서 조정하기
 
-#### 점으로 조정
+지도에서 이동 거리와 방향을 조절해 필드 경계의 점이나 선을 조정합니다.
 
-옮길 점을 선택하고, 이동 거리와 방향을 조절합니다.
+<details>
+
+<summary><strong>점으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -187,7 +199,7 @@ layout:
 <figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-지도위의 번호를 눌러도 번호 선택이 가능합니다.
+지도에서 점 번호를 눌러 선택할 수도 있습니다.
 {% endhint %}
 {% endstep %}
 
@@ -210,9 +222,13 @@ layout:
 {% endstep %}
 {% endstepper %}
 
-#### 선으로 조정
 
-옮길 선을 선택하고, 필드 안쪽이나 바깥쪽으로 이동합니다.
+
+</details>
+
+<details>
+
+<summary><strong>선으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -246,6 +262,10 @@ layout:
 <figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
 
 ***
 
