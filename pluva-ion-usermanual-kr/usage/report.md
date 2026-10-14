@@ -163,7 +163,7 @@
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> **정렬**
+<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> **정렬**
 
 * 최신순·오래된순으로 목록을 정렬합니다.
 

@@ -68,7 +68,7 @@ layout:
 * **차량 위치로 조정:** 차량을 이동해 경계를 조정합니다.
 * **지도에서 조정:** 지도에서 이동 거리와 방향을 조절해 경계를 조정합니다.
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -84,9 +84,17 @@ layout:
 선택한 뒷바퀴를 기준으로 경계가 조정됩니다. \[조정 가이드]에서 기준 위치를 확인하고, 저속 주행하거나 정차한 상태에서 진행해 주세요.
 {% endhint %}
 
+{% hint style="info" %}
+**차량의 전폭이 등록되지 않은 경우**
+
+정확한 경계 조정을 위해 차량의 전체 너비 정보가 필요합니다. 전폭이 등록되지 않았다면 \[치수 등록] 화면이 표시됩니다. \[전폭]을 m 단위로 입력하고 \[입력 완료]를 누릅니다.
+
+![](../../.gitbook/assets/image.png)
+{% endhint %}
+
 <details>
 
-<summary><strong>점으로 조정하는 방법</strong><br>클릭하면설명이 열립니다.</summary>
+<summary><strong>점으로 조정하는 방법</strong><br>클릭하면 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
