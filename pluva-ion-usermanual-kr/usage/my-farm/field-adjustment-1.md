@@ -86,7 +86,7 @@ layout:
 
 <details>
 
-<summary><strong>점으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
+<summary><strong>점으로 조정하는 방법</strong><br>클릭하면설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -133,7 +133,7 @@ layout:
 
 <details>
 
-<summary><strong>선으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
+<summary><strong>선으로 조정하는 방법</strong><br>클릭하면 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -184,7 +184,7 @@ layout:
 
 <details>
 
-<summary><strong>점으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
+<summary><strong>점으로 조정하는 방법</strong><br>클릭하면 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
@@ -228,7 +228,7 @@ layout:
 
 <details>
 
-<summary><strong>선으로 조정하는 방법</strong><br>누르면 상세 설명이 열립니다.</summary>
+<summary><strong>선으로 조정하는 방법</strong><br>클릭하면 설명이 열립니다.</summary>
 
 {% stepper %}
 {% step %}
