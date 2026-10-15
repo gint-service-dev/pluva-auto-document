@@ -40,12 +40,45 @@ layout:
 왼쪽 메뉴에서 \[시스템 진단]을 선택합니다.
 
 <figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+### 진단 상태 확인
+
+**진단 상태 안내**
+
+<table><thead><tr><th width="121.27996826171875">상태</th><th width="565.0907592773438">설명</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (182).png" alt=""></td><td>정상적으로 작동하고 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (183).png" alt=""></td><td>상태를 확인하고 주의해야 합니다.</td></tr><tr><td><img src="../.gitbook/assets/image (184).png" alt=""></td><td>오류가 발생했거나 기능이 제한될 수 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (185).png" alt=""></td><td>심각한 오류가 발생했거나 작업할 수 없는 상태입니다.</td></tr><tr><td><img src="../.gitbook/assets/image (186).png" alt=""></td><td>연결 문제 등으로 해당 항목의 상태를 확인할 수 없습니다.</td></tr></tbody></table>
 
 {% hint style="info" %}
-주행 화면 상단에 이상 상태를 알리는 아이콘이 나타나면, 아이콘을 눌러 시스템 진단 화면으로 바로 이동할 수 있습니다.
+**진단 상태 안내**
 
-![](<../.gitbook/assets/image (166).png>)
+* 문제가 해결되면 상태가 자동으로 \[정상]으로 바뀝니다.
+* 일부 항목에는 최근 복구 시간도 표시됩니다.
 {% endhint %}
+
+***
+
+### 경고·위험 상태 확인하기
+
+\[경고] 또는 \[위험] 상태인 항목은 화면 상단의 ‘확인 필요’ 영역에 표시됩니다. 해당 항목의 원인과 조치 방법을 확인합니다.
+
+{% stepper %}
+{% step %}
+주행 화면 상단에 경고 아이콘이 나타나면 아이콘을 누릅니다.
+
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+시스템 진단 화면의 ‘확인 필요’에서 원인과 조치 방법을 확인합니다.&#x20;
+
+* \[경고] 또는 \[위험] 상태인 항목이 화면 상단에 표시됩니다.
+* 화면의 안내에 따라 조치한 뒤, 상태가 \[정상]으로 바뀌었는지 확인합니다.
+* 문제가 계속되면 대리점에 문의합니다.
+
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -70,40 +103,3 @@ layout:
 <img src="../.gitbook/assets/image (172).png" alt="" data-size="line"> **온도**
 
 * 태블릿 온도와 과열 여부를 확인합니다.
-
-***
-
-### 진단 상태 확인 및 조치
-
-**진단 상태 안내**
-
-<table><thead><tr><th width="121.27996826171875">상태</th><th width="565.0907592773438">설명</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (182).png" alt=""></td><td>정상적으로 작동하고 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (183).png" alt=""></td><td>상태를 확인하고 주의해야 합니다.</td></tr><tr><td><img src="../.gitbook/assets/image (184).png" alt=""></td><td>오류가 발생했거나 기능이 제한될 수 있습니다.</td></tr><tr><td><img src="../.gitbook/assets/image (185).png" alt=""></td><td>심각한 오류가 발생했거나 작업할 수 없는 상태입니다.</td></tr><tr><td><img src="../.gitbook/assets/image (186).png" alt=""></td><td>연결 문제 등으로 해당 항목의 상태를 확인할 수 없습니다.</td></tr></tbody></table>
-
-{% hint style="info" %}
-**진단 상태 안내**
-
-* 문제가 해결되면 상태가 자동으로 \[정상]으로 바뀝니다.
-* 일부 항목에는 최근 복구 시간도 표시됩니다.
-{% endhint %}
-
-### 경고·위험 상태 확인하기
-
-\[경고] 또는 \[위험] 상태인 항목은 화면 상단의 ‘확인 필요’ 영역에 표시됩니다. 해당 항목의 원인과 조치 방법을 확인합니다.
-
-{% stepper %}
-{% step %}
-주행 화면 상단에 경고 아이콘이 나타나면 아이콘을 누릅니다.
-
-<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-시스템 진단 화면의 ‘확인 필요’에서 원인과 조치 방법을 확인합니다.&#x20;
-
-* \[경고] 또는 \[위험] 상태인 항목이 화면 상단에 표시됩니다.
-* 화면의 안내에 따라 조치한 뒤, 상태가 \[정상]으로 바뀌었는지 확인합니다.
-* 문제가 계속되면 대리점에 문의합니다.
-
-<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-{% endstepper %}
