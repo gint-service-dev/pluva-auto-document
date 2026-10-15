@@ -115,29 +115,21 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 * 시작점은 경로를 시작할 위치이며, 시작 방향은 처음 주행할 변을 정합니다.
 * 선택 결과는 미리보기의 파란색 선과 화살표로 표시됩니다.
 {% endhint %}
+{% endstep %}
+
+{% step %}
+중앙 작업 라인을 확인하고 \[주행 시작]을 누릅니다.
 
 {% hint style="info" %}
-**주행 방식별 시작 방법**
-
-\[밖 → 안]
-
-시작점과 시작 방향을 선택한 뒤 \[주행 시작]을 누르고 안내된 시작점으로 이동합니다.
-
-***
-
-\[안 → 밖]
-
-* 시작점과 시작 방향을 선택한 뒤 \[다음]을 누르면 '중앙 작업 라인 설정 화면'이 나타납니다.
-* 라인을 확인하고, 방향을 바꾸려면 \[방향 변경]을 누릅니다.
-* 설정을 마치면 \[주행 시작]을 누릅니다.
-
-![](<../../.gitbook/assets/image (244).png>)
+지도에 표시된 라인을 확인하고, 작업 방향을 바꾸려면 \[방향 변경]을 누릅니다.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 화면 안내에 따라 시작 위치로 이동합니다. \[자율주행 시작] 버튼이 활성화되면 눌러 주행을 시작합니다.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
