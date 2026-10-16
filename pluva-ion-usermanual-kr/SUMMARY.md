@@ -72,13 +72,13 @@
 * [엔터테인먼트](usage/entertainment-03.md)
 * [기타 설정](usage/settings/README.md)
   * [시스템 설정](usage/settings/system.md)
-  * [기기 설정](usage/settings/device-settings.md)
-  * [기기 설정](usage/settings/device-settings-03.md)
+  * [기기 설정 (업데이트)](usage/settings/device-settings.md)
+  * [기기 설정 (업데이트)](usage/settings/device-settings-03.md)
   * [내 정보](usage/settings/my-info.md)
 
 ## 고객 지원 <a href="#consumer-info" id="consumer-info"></a>
 
-* [시스템 진단](consumer-info/system-diagnostics.md)
+* [시스템 진단 (업데이트)](consumer-info/system-diagnostics.md)
 * [문제해결 안내 (업데이트)](consumer-info/problem-solving.md)
 * [원격 지원](consumer-info/remote-support.md)
 * [정비](consumer-info/maintenance.md)
