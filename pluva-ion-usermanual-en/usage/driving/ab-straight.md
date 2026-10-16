@@ -1,0 +1,124 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
+# AB직진
+
+AB 직진
+
+* A점과 B점을 잇는 방향으로 직진 주행합니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/ab-straight-forward.png" alt="" width="200"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+**AB라인 설정 시 유의 사항**
+
+* AB라인은 현재 선택한 필드 경계 안에서 설정해야 합니다.
+* 차량을 경계 안으로 이동한 후 A점과 B점을 다시 설정하세요.
+* 새로운 필드 등록이 필요한 경우, [필드 등록](https://usermanual.pluva.io/ion/korea/kr/usage/my-farm/field-add)을 참고하여 필드와 바운더리(경계선)을 등록해주세요.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+<img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> 버튼을 눌러 A점을 생성합니다.
+
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+A점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (89).png>) 버튼을 눌러 A점을 다시 생성합니다.
+
+![](<../../.gitbook/assets/image (138).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+필드 경계 안에서 10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B점을 생성합니다.
+
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+B점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (93).png>) 버튼을 눌러 다시 생성합니다.
+
+![](<../../.gitbook/assets/image (142).png>)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[자율주행 시작] 버튼을 눌러 자율주행을 시작합니다.
+
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+***
+
+#### 자동 AB 라인 생성
+
+**\[자동 AB 라인 생성]**&#xC740; 등록된 필드의 바운더리(경계선)를 기준으로, 필드 안에서 AB점을 직접 찍지 않고 작업 라인(AB 라인)을 자동으로 생성합니다.\
+간격·여유 구간 값을 설정해 자동 생성된 라인을 작업 상황에 맞게 조정할 수 있으며, 현재 위치에서 즉시 라인을 생성해 준비 시간을 줄이고 빠르게 작업을 시작할 수 있습니다.
+
+{% stepper %}
+{% step %}
+AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.svg" alt="" data-size="original"> **\[AB 라인 자동 생성 버튼]**&#xC744; 누릅니다.
+
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+필드없이 주행을 선택한 경우, AB라인 자동 생성 버튼은 노출되지않습니다.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+미리보기가 표시됩니다. 필요에 따라 설정을 조정한 후 **\[확인]**&#xC744; 누르세요.
+
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+다음 설정으로 세부 조정이 가능합니다.
+
+* 내 위치 기준 생성: 현재 위치를 기준으로 라인을 생성합니다.
+* ![](../../.gitbook/assets/my-location--criteria.png)
+  * 기존 생성 라인: 하얀색
+  * 내 위치 기준 생성 라인: 파란색
+* 방향 변경: 진행 방향 기준을 전환합니다. 클릭 시 세로 주행 버튼으로 전환됩니다.
+* ![縦走行](../../.gitbook/assets/vertical--drive.png)
+  * 세로주행
+* ![縦走行](../../.gitbook/assets/horizontal--drive.png)
+  * 가로주행
+* A/B점 교체: A점과 B점을 서로 바꿉니다.
+* ![](../../.gitbook/assets/before--replace-abpoints.png)
+  * 변경 전
+* ![](../../.gitbook/assets/after--replace-abpoints.png)
+  * 변경 후
+* AB이동: 수치로 AB라인과 바운더리 간격을 조절합니다.
+* ![](../../.gitbook/assets/ab--move.png)
+* AB 길이: 수치로 AB라인의 길이를 조절합니다.
+* ![](../../.gitbook/assets/ab--length.png)
+{% endhint %}
+{% endstep %}
+
+{% step %}
+<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">**\[자율주행]**&#xBC84;튼을 누르면 생성된 경로를 따라 주행이 시작됩니다.
+
+<figure><img src="../../.gitbook/assets/automatic-path-explanation-3.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
