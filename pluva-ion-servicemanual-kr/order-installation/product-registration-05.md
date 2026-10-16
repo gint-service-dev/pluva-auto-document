@@ -46,20 +46,20 @@ tags:
 * GNSS 수신기
 * 전동 스티어링 휠
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **2. 플루바 아이온 Expansion Kit (확장키트)**
 
 * GNSS 수신기
 * 전동 스티어링 휠
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. 추가 옵션**
 
 * 스위치
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 
