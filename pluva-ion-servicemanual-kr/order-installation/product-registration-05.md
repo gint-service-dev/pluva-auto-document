@@ -151,7 +151,7 @@ tags:
 
 #### 제품 개통 방법
 
-기본 키트와 확장 키트는 같은 방법으로 등록합니다. 설치할 제품과 옵션을 선택한 후 패키지 또는 구성품을 등록해 주세요.
+아래는 플루바 아이온 기본키트의 개통 절차입니다. 확장키트나 스위치를 등록할 때 달라지는 내용은 각 단계의 안내를 참고해 주세요.
 
 {% stepper %}
 {% step %}
@@ -161,19 +161,15 @@ tags:
 {% endstep %}
 
 {% step %}
-설치할 기본 키트 또는 확장 키트와 함께 등록할 옵션을 선택합니다.
+설치 제품에서 \[플루바 아이온]을 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**스위치 등록 안내**
+**확장키트나 스위치만 등록하는 경우**
 
-*   스위치를 함께 설치하는 경우 제품을 선택할 때 스위치도 함께 선택해 주세요.
-
-    <figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
-*   스위치 추가를 잊고 설치 등록을 완료했다면 새 설치 등록을 시작해 \[스위치]를 선택하고 별도로 등록해 주세요.
-
-    <figure><img src="../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+* **확장키트:** \[Expansion Kit]을 선택하고 GNSS 수신기와 전동 스티어링 휠을 등록합니다.
+* **스위치만 등록:** 설치 제품에서 \[스위치]만 선택하고 \[등록 시작]을 누릅니다.
 {% endhint %}
 {% endstep %}
 
@@ -186,14 +182,14 @@ tags:
 {% step %}
 \[패키지로 한번에 개통]을 눌러 주요 제품을 개통합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (459).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **구성품을 개별 등록하는 경우**
 
 등록할 구성품을 선택한 후 QR 코드를 스캔하거나 시리얼 번호를 직접 입력해 주세요.
 
-![](<../.gitbook/assets/image (403).png>)
+![](<../.gitbook/assets/image (460).png>)
 {% endhint %}
 {% endstep %}
 
@@ -228,13 +224,24 @@ tags:
 스캔이 완료되면 \[다음]을 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**스위치만 등록하는 경우**
+
+스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
+
+![](<../.gitbook/assets/image (458).png>)
+{% endhint %}
 {% endstep %}
 
 {% step %}
 유심 등록 단계에서 \[등록] 버튼을 누릅니다.
 
 {% hint style="info" %}
-유심은 제품 등록 후에도 등록할 수 있습니다.
+**유심 등록 안내**
+
+* 유심 등록은 플루바 아이온 기본키트에만 해당하며, 제품 등록을 마친 뒤에도 등록할 수 있습니다.
+* 확장 키트나 스위치만 등록할 때는 유심 등록 화면이 표시되지 않습니다.
 {% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -263,13 +270,13 @@ tags:
 {% step %}
 설치 정보에서 제품명을 눌러 구성품 정보를 펼칩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (467).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 유심 정보의 유심 번호 옆 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (474).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -306,11 +313,11 @@ tags:
 아래 안내는 유심 등록 정보에 대한 것으로, 유심 고장이나 통신 불가를 뜻하지 않습니다.
 
 * **다른 제품에 등록된 유심 번호입니다.**\
-  해당 유심 번호가 이미 다른 제품에 등록되어 있습니다.
+  이미 다른 제품에서 사용 중인 유심 번호입니다.
 * **존재하지 않는 유심 번호입니다.**\
   시스템에 해당 유심 번호의 정보가 등록되어 있지 않습니다.
 
-유심 번호를 다시 확인해 주세요. 번호가 맞아도 같은 안내가 나오면, 번호와 안내 화면을 지원 담당자에게 보내 등록 정보 확인을 요청해 주세요.
+유심 번호를 다시 확인해 주세요. 번호가 맞아도 같은 안내가 나타나면, 유심 번호와 표시된 안내 문구를 확인한 뒤 대표 상담 번호 1533-5502로 문의해 주세요.
 {% endhint %}
 {% endstep %}
 
@@ -329,7 +336,7 @@ tags:
 {% step %}
 등록할 제품과 구성품의 시리얼 번호가 빠짐없이 등록되었는지 확인한 후 \[등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (448).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **등록 정보를 수정해야 하는 경우**
@@ -337,7 +344,7 @@ tags:
 * 시리얼 번호나 유심 정보를 수정하려면 해당 항목의 \[재등록]을 누릅니다.
 * 이전 단계의 정보를 다시 확인하려면 화면 아래의 \[이전]을 누릅니다.
 
-![](<../.gitbook/assets/image (434).png>)
+![](<../.gitbook/assets/image (471).png>)
 {% endhint %}
 {% endstep %}
 
@@ -350,7 +357,7 @@ tags:
 {% step %}
 설치 티켓이 \[설치 중] 상태로 변경되며 제품 등록이 완료됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (435).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (470).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **설치 티켓 완료 시점**
