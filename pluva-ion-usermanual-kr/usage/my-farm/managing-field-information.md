@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 필드 정보 관리
+# 필드 정보 관리 (업데이트)
 
 필드 이름, 농장 등의 정보를 수정하고 삭제할 수 있는 기능입니다.
 
@@ -45,7 +45,7 @@ layout:
 {% step %}
 팝업창에서 원하는 관리 기능을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/field-information-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -134,7 +134,7 @@ layout:
 {% step %}
 \[삭제]옵션을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/delete-field-information-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
