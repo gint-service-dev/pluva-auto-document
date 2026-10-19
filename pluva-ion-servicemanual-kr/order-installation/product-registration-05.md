@@ -24,7 +24,7 @@ tags:
     primary: true
 ---
 
-# 설치티켓으로 제품 개통
+# 설치티켓으로 제품 개통 (업데이트)
 
 설치 티켓에 제품과 구성품을 등록해 설치를 시작합니다. 퀵셋업 전에 등록을 완료해 주세요.
 
@@ -168,8 +168,8 @@ tags:
 {% hint style="info" %}
 **확장키트나 스위치만 등록하는 경우**
 
-* **확장키트:** \[Expansion Kit]을 선택하고 GNSS 수신기와 전동 스티어링 휠을 등록합니다.
-* **스위치만 등록:** 설치 제품에서 \[스위치]만 선택하고 \[등록 시작]을 누릅니다.
+* **확장키트:** 확장키트를 설치할 경우 \[Expansion Kit]을 선택하고 \[등록 시작]을 누릅니다.
+* **스위치만 등록:** 옵션(스위치)은 기본키트 또는 확장키트와 함께 등록합니다. 만약 함께 등록하는 것을 잊어버렸다면 옵션만 등록할 수 있습니다.
 {% endhint %}
 {% endstep %}
 
@@ -194,19 +194,19 @@ tags:
 {% endstep %}
 
 {% step %}
-패키지 QR 코드를 카메라로 스캔합니다.
+패키지 바코드를 카메라로 스캔합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (401).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **바코드 촬영 시 참고 사항**
 
-* QR코드를 화면 가득 확대해 주세요.
+* 바코드를 화면 가득 확대해 주세요.
 * 초점을 선명하게 맞춰주세요.
 {% endhint %}
 
 {% hint style="info" %}
-**QR 코드가 인식되지 않는 경우**
+**바코드가 인식되지 않는 경우**
 
 \[패키지 번호 직접 입력]을 눌러 패키지 번호를 입력해 주세요.
 
@@ -224,14 +224,6 @@ tags:
 스캔이 완료되면 \[다음]을 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**스위치만 등록하는 경우**
-
-스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
-
-![](<../.gitbook/assets/image (458).png>)
-{% endhint %}
 {% endstep %}
 
 {% step %}
