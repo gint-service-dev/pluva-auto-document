@@ -151,7 +151,7 @@ tags:
 
 #### 제품 개통 방법
 
-아래는 플루바 아이온 기본키트의 개통 절차입니다. 확장키트나 스위치를 등록할 때 달라지는 내용은 각 단계의 안내를 참고해 주세요.
+아래는 플루바 아이온 기본키트의 개통 절차입니다. 확장키트나 옵션만 등록할 때 달라지는 내용은 각 단계의 안내를 참고해 주세요.
 
 {% stepper %}
 {% step %}
@@ -166,11 +166,26 @@ tags:
 <figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**확장키트나 스위치만 등록하는 경우**
+**확장키트나 옵션만 등록하는 경우**
 
 * **확장키트:** 확장키트를 설치할 경우 \[Expansion Kit]을 선택하고 \[등록 시작]을 누릅니다.
-* **스위치만 등록:** 옵션(스위치)은 기본키트 또는 확장키트와 함께 등록합니다. 만약 함께 등록하는 것을 잊어버렸다면 옵션만 등록할 수 있습니다.
+* **옵션만 등록:** 옵션(스위치)은 기본키트 또는 확장키트와 함께 등록합니다. 만약 함께 등록하는 것을 잊어버렸다면 옵션만 등록할 수 있습니다.
 {% endhint %}
+
+<details>
+
+<summary><strong>옵션만 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
+
+
+
+**스위치만 등록하는 경우**
+
+*   스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
+
+    <figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+* 고객 이름이나 휴대폰 번호로 계정을 검색한 뒤 스위치를 사용할 고객의 계정을 선택하면 제품 등록이 완료됩니다.
+
+</details>
 {% endstep %}
 
 {% step %}
@@ -222,17 +237,6 @@ tags:
 스캔이 완료되면 \[다음]을 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-{% hint style="info" %}
-**스위치만 등록하는 경우**
-
-*   스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
-
-    <figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
-* 고객 이름이나 휴대폰 번호로 계정을 검색한 뒤 스위치를 사용할 고객의 계정을 선택하면 제품 등록이 완료됩니다.
-
-
-{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -242,7 +246,7 @@ tags:
 **유심 등록 안내**
 
 * 유심 등록은 플루바 아이온 기본키트에만 해당하며, 제품 등록을 마친 뒤에도 등록할 수 있습니다.
-* 확장 키트나 스위치만 등록할 때는 유심 등록 화면이 표시되지 않습니다.
+* 확장 키트나 옵션만 등록할 때는 유심 등록 화면이 표시되지 않습니다.
 {% endhint %}
 
 <div align="left"><figure><img src="../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure></div>
