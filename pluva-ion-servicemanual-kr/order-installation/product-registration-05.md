@@ -222,6 +222,17 @@ tags:
 스캔이 완료되면 \[다음]을 누릅니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+**스위치만 등록하는 경우**
+
+*   스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
+
+    <figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+* 고객 이름이나 휴대폰 번호로 계정을 검색한 뒤 스위치를 사용할 고객의 계정을 선택하면 제품 등록이 완료됩니다.
+
+
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -353,7 +364,7 @@ tags:
 **설치 티켓 완료 시점**
 
 * **기본 키트**: 태블릿에서 고객 계정 로그인을 완료하면 티켓이 자동으로 완료됩니다.
-* **확장 키트 및 스위치**: 등록한 장비가 차량에 연결되면 설치 티켓이 자동으로 완료됩니다.
+* **확장 키트** : 등록한 장비가 차량에 연결되면 설치 티켓이 자동으로 완료됩니다.
 {% endhint %}
 
 {% hint style="info" %}
