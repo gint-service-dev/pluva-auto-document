@@ -176,14 +176,73 @@ tags:
 
 <summary><strong>옵션만 등록하는 방법</strong><br>클릭하면 상세 설명이 열립니다.</summary>
 
+{% stepper %}
+{% step %}
+\[설치 정보 입력]의 \[설치 제품]에서 \[스위치]를 선택합니다.&#x20;
 
+<div align="left"><figure><img src="../.gitbook/assets/image (480).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-**스위치만 등록하는 경우**
+{% step %}
+수량을 확인하고 \[등록 시작]을 누릅니다.
 
-*   스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다. 유심 등록 화면은 표시되지 않습니다.
+<div align="left"><figure><img src="../.gitbook/assets/image (481).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-    <figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
-* 고객 이름이나 휴대폰 번호로 계정을 검색한 뒤 스위치를 사용할 고객의 계정을 선택하면 제품 등록이 완료됩니다.
+{% step %}
+\[설치 제품 등록] 화면에서 \[스위치]를 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (482).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+제품의 QR 코드를 스캔합니다. 직접 입력하려면 \[시리얼 번호 직접 입력]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+스위치에 \[완료]가 표시되면 \[다음]을 누릅니다.
+
+{% hint style="info" %}
+**유심 등록 안내**
+
+스위치만 등록할 때는 유심 등록 화면이 표시되지 않습니다.
+{% endhint %}
+
+<div align="left"><figure><img src="../.gitbook/assets/image (486).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+\[사용 계정 선택] 화면에서 고객 이름이나 휴대폰 번호로 계정을 검색합니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (487).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+스위치를 사용할 고객의 계정을 선택하고 \[다음]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (488).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+\[설치 등록 확인] 화면에서 스위치의 시리얼 번호를 확인하고 \[등록]을 누릅니다.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (489).png" alt="" width="360"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+\[설치 티켓 상세] 화면에서 등록한 스위치와 티켓의 \[설치 중] 상태를 확인합니다.
+
+{% hint style="info" %}
+**설치 티켓 완료 안내**
+
+제품 등록 후에는 티켓이 \[설치 중]으로 표시됩니다. 태블릿 동기화가 완료되면 티켓이 자동으로 완료됩니다.
+{% endhint %}
+
+<div align="left"><figure><img src="../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
 
 </details>
 {% endstep %}
