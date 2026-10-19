@@ -194,19 +194,17 @@ tags:
 {% endstep %}
 
 {% step %}
-패키지 바코드를 카메라로 스캔합니다.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (401).png" alt="" width="375"><figcaption></figcaption></figure></div>
+패키지 QR 코드를 카메라로 스캔합니다.
 
 {% hint style="info" %}
-**바코드 촬영 시 참고 사항**
+**QR 코드 촬영 시 참고 사항**
 
-* 바코드를 화면 가득 확대해 주세요.
+* &#x20;QR 코드를 화면 가득 확대해 주세요.
 * 초점을 선명하게 맞춰주세요.
 {% endhint %}
 
 {% hint style="info" %}
-**바코드가 인식되지 않는 경우**
+**QR 코드가 인식되지 않는 경우**
 
 \[패키지 번호 직접 입력]을 눌러 패키지 번호를 입력해 주세요.
 
