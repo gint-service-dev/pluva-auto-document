@@ -17,8 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-  anchors:
-    visible: true
 ---
 
 # 전동 스티어링 휠

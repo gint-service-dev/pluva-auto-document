@@ -17,8 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-  anchors:
-    visible: true
 ---
 
 # 고객 계정 정보 수정

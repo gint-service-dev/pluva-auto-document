@@ -41,7 +41,7 @@ layout:
 {% step %}
 \[업데이트] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 와이파이 환경에서 소프트웨어 업데이트를 진행할 것을 권장합니다.
@@ -55,19 +55,19 @@ layout:
 {% step %}
 업데이트가 진행됩니다.
 
-<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 업데이트 중에는 자동 재시작 됩니다. 잠시 기다려 주세요.
 
-<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[다음 단계로] 버튼을 누르면 소프트웨어 업데이트가 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

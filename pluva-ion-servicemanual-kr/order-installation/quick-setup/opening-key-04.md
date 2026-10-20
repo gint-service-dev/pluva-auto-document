@@ -17,8 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-  anchors:
-    visible: true
 tags:
   - tag: kr-jp
     primary: true

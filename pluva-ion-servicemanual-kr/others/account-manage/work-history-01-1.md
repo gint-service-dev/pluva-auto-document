@@ -24,7 +24,7 @@ tags:
     primary: true
 ---
 
-# 작업 이력 (업데이트)
+# 작업 이력
 
 고객이 수행한 작업 이력을 조회하고, 작업 경로와 데이터를 지도에서 분석·재생합니다. 작업 데이터로 상황을 재구성해 고객 문의·클레임의 원인을 파악하는 데 활용합니다.
 
@@ -36,13 +36,13 @@ tags:
 {% step %}
 목록에서 조회할 계정을 선택해 계정 상세로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 계정 상세에서 작업 탭을 선택후 원하는 작업을 선택해 작업 이력 상세에 진입합니다
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -53,7 +53,7 @@ tags:
 {% hint style="info" %}
 각 작업의 \[경로 보기]를 누르면 해당 경로를 미리 볼 수 있습니다.
 
-<img src="../../.gitbook/assets/image (134).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (120).png" alt="" data-size="original">
 {% endhint %}
 
 ***
@@ -64,25 +64,25 @@ tags:
 
 ### 데스크탑 환경
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 작업 이력 상세 화면은 크게 네개 영역으로 구분합니다.
 
-<img src="../../.gitbook/assets/image (181).png" alt="" data-size="line"> **지도 영역**
+<img src="../../.gitbook/assets/image (167).png" alt="" data-size="line"> **지도 영역**
 
-<img src="../../.gitbook/assets/image (182).png" alt="" data-size="line"> **재생 바 영역**
+<img src="../../.gitbook/assets/image (168).png" alt="" data-size="line"> **재생 바 영역**
 
-<img src="../../.gitbook/assets/image (183).png" alt="" data-size="line"> **사이드 바 상단 영역**&#x20;
+<img src="../../.gitbook/assets/image (169).png" alt="" data-size="line"> **사이드 바 상단 영역**&#x20;
 
-<img src="../../.gitbook/assets/image (184).png" alt="" data-size="line"> **사이드 바 하단 영역**
+<img src="../../.gitbook/assets/image (170).png" alt="" data-size="line"> **사이드 바 하단 영역**
 
 아래에서 영역별 상세 안내를 확인해 주세요.
 
 ***
 
-#### <img src="../../.gitbook/assets/image (203).png" alt="" data-size="line"> **지도 영역** <a href="#map-part" id="map-part"></a>
+#### <img src="../../.gitbook/assets/image (189).png" alt="" data-size="line"> **지도 영역** <a href="#map-part" id="map-part"></a>
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 1. **지도 및 경로**
 
@@ -99,7 +99,7 @@ tags:
 
 <summary><strong>경로 범례 설명 보기</strong><br>클릭하면 설명이 열립니다.</summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (276).png" alt="" width="207"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (262).png" alt="" width="207"><figcaption></figcaption></figure></div>
 
 자동: 자동으로 운용한 구간
 
@@ -129,7 +129,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 <summary><strong>작업 정보 미리보기</strong><br>클릭하면 미리보기가 열립니다.</summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -143,9 +143,9 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 * 지도상에서 자동과 수동 경로를 구분하여 볼 수 있습니다.
 
-#### <img src="../../.gitbook/assets/image (204).png" alt="" data-size="line"> 재생 바 영역 <a href="#control-panel-part" id="control-panel-part"></a>
+#### <img src="../../.gitbook/assets/image (190).png" alt="" data-size="line"> 재생 바 영역 <a href="#control-panel-part" id="control-panel-part"></a>
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 **상단**
 
@@ -158,9 +158,9 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 * 시간 건너뛰기 : 10초를 되감거나, 건너뛸 수 있습니다.
 * 자세한 재생바 : 클릭하면 RTK 품질이 낮았던 구간과 오프라인 구간이 화면에 표시됩니다.
 
-#### <img src="../../.gitbook/assets/image (206).png" alt="" data-size="line"> **사이드 바 상단 영역**
+#### <img src="../../.gitbook/assets/image (192).png" alt="" data-size="line"> **사이드 바 상단 영역**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (192).png" alt="" width="362"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (178).png" alt="" width="362"><figcaption></figcaption></figure></div>
 
 1. **작업 시작 일시**
 
@@ -175,9 +175,9 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 * \[지도보기]를 누르면 해당 위치의 지도를 확인할 수 있습니다.
 * \[로드뷰]를 누르면 해당 위치의 로드뷰를 확인할 수 있습니다.
 
-#### <img src="../../.gitbook/assets/image (213).png" alt="" data-size="line"> **사이드 바 하단 영역**
+#### <img src="../../.gitbook/assets/image (199).png" alt="" data-size="line"> **사이드 바 하단 영역**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (207).png" alt="" width="342"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (193).png" alt="" width="342"><figcaption></figcaption></figure></div>
 
 1. **경로 표시 설정**
 
@@ -198,7 +198,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 아래와 같이 선택 시 자율주행 중 RTK 품질 FIXED인 상태에서 직진한 구간만 주황색으로 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -210,7 +210,7 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 * 주행, 에러 등을 이벤트 아이콘으로 표시합니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -230,17 +230,17 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 ### 모바일 환경 <a href="#mobile-view" id="mobile-view"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (140).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (126).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<img src="../../.gitbook/assets/image (141).png" alt="" data-size="line"> **지도 및 경로**
+<img src="../../.gitbook/assets/image (127).png" alt="" data-size="line"> **지도 및 경로**
 
 * 시작 지점(E) : 지도에서 작업이 시작된 지점입니다.
 * 종료 지점(E) : 지도에서 작업이 종료된 지점입니다.
 * 지도에 해당 작업의 주행 궤적이 표시됩니다.
 * 자동/수동 주행, 조건 필터 구간, 이벤트가 색상과 아이콘으로 나타납니다.
-* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (146).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
+* 각 색상·아이콘의 의미는 <img src="../../.gitbook/assets/image (132).png" alt="" data-size="line"> 경로 범례에서 확인합니다.
 
-<img src="../../.gitbook/assets/image (142).png" alt="" data-size="line"> **재생 바 영역**
+<img src="../../.gitbook/assets/image (128).png" alt="" data-size="line"> **재생 바 영역**
 
 **상단**
 
@@ -251,23 +251,23 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 * 재생 타임 라인 : 전체 작업 구간이 표시됩니다. 특정 시점을 선택하면 해당 시점으로 이동하며, 지도의 차량 위치와 실시간 데이터가 함께 바뀝니다.
 
-<img src="../../.gitbook/assets/image (143).png" alt="" data-size="line"> **RTK 품질**
+<img src="../../.gitbook/assets/image (129).png" alt="" data-size="line"> **RTK 품질**
 
 * 재생 시점 기준 RTK 측위 품질을 표시합니다.
 
-<img src="../../.gitbook/assets/image (144).png" alt="" data-size="line"> **속도**
+<img src="../../.gitbook/assets/image (130).png" alt="" data-size="line"> **속도**
 
 * 재생 시점 기준 주행 속도를 표시합니다.
 
-<img src="../../.gitbook/assets/image (145).png" alt="" data-size="line"> **현재 위치**
+<img src="../../.gitbook/assets/image (131).png" alt="" data-size="line"> **현재 위치**
 
 * 지도를 작업 위치로 이동합니다.
 
-<img src="../../.gitbook/assets/image (146).png" alt="" data-size="line"> **경로 범례**
+<img src="../../.gitbook/assets/image (132).png" alt="" data-size="line"> **경로 범례**
 
 * 경로 범례를 누르면 지도에서 표시되는 자동, 수동, AB 라인, RTK Fixed 등의 설명을 확인할 수 있습니다.
 
-<img src="../../.gitbook/assets/image (79).png" alt="" data-size="line"> **상세 정보**
+<img src="../../.gitbook/assets/image (65).png" alt="" data-size="line"> **상세 정보**
 
 * 해당 작업의 상세 정보를 표시합니다.
 * 전체 이벤트 표시/숨김을 설정합니다.
@@ -277,5 +277,5 @@ RTK Fixed 아님: RTK 품질이 낮았던 구간
 
 모바일에서는 이벤트의 전체 표시/숨김만 설정할 수 있습니다. 조건 필터 등 세부 표시 설정은 PC에서 진행해 주세요.
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (66).png>)
 {% endhint %}

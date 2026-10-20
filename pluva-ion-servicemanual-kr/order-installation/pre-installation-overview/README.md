@@ -17,8 +17,6 @@ layout:
     visible: true
   actions:
     visible: true
-  anchors:
-    visible: true
 ---
 
 # 설치 전 준비 가이드
@@ -36,3 +34,4 @@ layout:
 {% content-ref url="preparing-accounts.md" %}
 [preparing-accounts.md](preparing-accounts.md)
 {% endcontent-ref %}
+
