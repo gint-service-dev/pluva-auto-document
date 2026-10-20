@@ -17,9 +17,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# GNSS 수신기
+# GNSS 수신기 (업데이트)
 
 플루바 아이온 자율주행에 필요한 GNSS 수신기를 설치합니다.
 

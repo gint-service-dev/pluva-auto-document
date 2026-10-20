@@ -17,9 +17,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# 고객 불편사항 대응 방법
+# 고객 불편사항 대응 방법 (업데이트)
 
 제품 사용 중 발생할 수 있는 불편 사항에 대한 대응 방법을 안내합니다.
 

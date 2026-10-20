@@ -24,7 +24,7 @@ tags:
     primary: true
 ---
 
-# 설치티켓으로 제품 개통
+# 설치티켓으로 제품 개통 (업데이트)
 
 설치 티켓에 제품과 구성품을 등록해 설치를 시작합니다. 퀵셋업 전에 등록을 완료해 주세요.
 
@@ -53,13 +53,13 @@ tags:
 * GNSS 수신기
 * 전동 스티어링 휠
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **3. 추가 옵션**
 
 * 스위치
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -137,12 +137,12 @@ tags:
 {% step %}
 설치 관리 → 설치 티켓 목록에 진입하고 \[설치 등록]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (301).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (315).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 왼쪽 상단 더보기 버튼을 누르고 설치 관리 > 설치 목록에 접속할 수 있습니다.
 
-![](<../.gitbook/assets/image (421).png>)
+![](<../.gitbook/assets/image (435).png>)
 {% endhint %}
 {% endstep %}
 {% endstepper %}
@@ -157,13 +157,13 @@ tags:
 {% step %}
 담당 조직과 설치할 제품을 선택합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (390).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (404).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 설치 제품에서 \[플루바 아이온]을 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **확장키트나 스위치만 등록하는 경우**
@@ -176,27 +176,27 @@ tags:
 {% step %}
 선택한 제품과 옵션을 확인한 후 \[등록 시작]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (398).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 \[패키지로 한번에 개통]을 눌러 주요 제품을 개통합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (459).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (473).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **구성품을 개별 등록하는 경우**
 
 등록할 구성품을 선택한 후 QR 코드를 스캔하거나 시리얼 번호를 직접 입력해 주세요.
 
-![](<../.gitbook/assets/image (460).png>)
+![](<../.gitbook/assets/image (474).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 패키지 QR 코드를 카메라로 스캔합니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (401).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (415).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **바코드 촬영 시 참고 사항**
@@ -210,27 +210,27 @@ tags:
 
 \[패키지 번호 직접 입력]을 눌러 패키지 번호를 입력해 주세요.
 
-![](<../.gitbook/assets/image (402).png>)
+![](<../.gitbook/assets/image (416).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 패키지 번호를 확인한 뒤 \[확인 완료]를 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (415).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (429).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 스캔이 완료되면 \[다음]을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (458).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **스위치만 등록하는 경우**
 
 스위치의 QR 코드 또는 시리얼 번호 등록을 마치고 \[다음]을 누르면 \[사용 계정 선택] 화면이 나타납니다.
 
-![](<../.gitbook/assets/image (458).png>)
+![](<../.gitbook/assets/image (472).png>)
 {% endhint %}
 {% endstep %}
 
@@ -252,13 +252,13 @@ tags:
 {% step %}
 확인 창에서 \[등록 완료]를 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (413).png" alt="" width="360"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (427).png" alt="" width="360"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 설치 티켓이 \[설치 중] 상태로 변경되며 제품 등록이 완료됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (476).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (490).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **설치 티켓 완료 시점**

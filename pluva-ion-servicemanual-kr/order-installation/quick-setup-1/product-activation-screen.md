@@ -21,11 +21,11 @@ layout:
     visible: true
 ---
 
-# 제품 개통 확인 화면이 나타날 때
+# 제품 개통 확인 화면이 나타날 때 (업데이트)
 
 퀵셋업을 시작하면 태블릿의 제품 등록 상태를 자동으로 확인합니다. 어드민에서 제품 등록이 완료되지 않으면 아래 화면이 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **QR 코드는 어디에서 등록하나요?**

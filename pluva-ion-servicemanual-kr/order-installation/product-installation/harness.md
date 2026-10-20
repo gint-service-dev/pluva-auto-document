@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 하네스
+# 하네스 (업데이트)
 
 플루바 아이온 자율주행에 필요한 하네스를 설치합니다.
 
@@ -186,7 +186,7 @@ layout:
 
 * 모터 커넥터의 가이드 방향에 맞춰 삽입 해주세요.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (81).png>)
 
 
 
