@@ -29,8 +29,8 @@ layout:
 [pre-installation-guide.md](pre-installation-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="pre-installation-guide-02.md" %}
-[pre-installation-guide-02.md](pre-installation-guide-02.md)
+{% content-ref url="/broken/pages/8pBfnTiSvti1keEKBxBP" %}
+[Broken link](/broken/pages/8pBfnTiSvti1keEKBxBP)
 {% endcontent-ref %}
 
 {% content-ref url="preparing-accounts.md" %}

@@ -20,9 +20,6 @@ layout:
     visible: true
   anchors:
     visible: true
-tags:
-  - tag: kr-jp
-    primary: true
 ---
 
 # 설치티켓으로 제품 개통 - 삭제 예정

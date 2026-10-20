@@ -20,9 +20,6 @@ layout:
     visible: true
   anchors:
     visible: true
-tags:
-  - tag: kr-jp
-    primary: true
 ---
 
 # 설치 완료 확인 - 삭제 예정
