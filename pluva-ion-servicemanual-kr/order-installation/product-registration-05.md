@@ -204,12 +204,6 @@ tags:
 {% step %}
 스위치에 \[완료]가 표시되면 \[다음]을 누릅니다.
 
-{% hint style="info" %}
-**유심 등록 안내**
-
-스위치만 등록할 때는 유심 등록 화면이 표시되지 않습니다.
-{% endhint %}
-
 <div align="left"><figure><img src="../.gitbook/assets/image (486).png" alt="" width="360"><figcaption></figcaption></figure></div>
 {% endstep %}
 
@@ -232,15 +226,9 @@ tags:
 {% endstep %}
 
 {% step %}
-\[설치 티켓 상세] 화면에서 등록한 스위치와 티켓의 \[설치 중] 상태를 확인합니다.
+\[설치 티켓 상세] 화면에서 등록한 스위치와 티켓의 \[완료] 상태를 확인합니다.
 
-{% hint style="info" %}
-**설치 티켓 완료 안내**
-
-제품 등록 후에는 티켓이 \[설치 중]으로 표시됩니다. 태블릿 동기화가 완료되면 티켓이 자동으로 완료됩니다.
-{% endhint %}
-
-<div align="left"><figure><img src="../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
