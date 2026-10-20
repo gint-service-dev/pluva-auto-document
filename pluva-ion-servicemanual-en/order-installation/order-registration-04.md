@@ -20,6 +20,9 @@ layout:
     visible: true
   anchors:
     visible: true
+tags:
+  - tag: kr-jp
+    primary: true
 ---
 
 # 주문 등록 - 삭제 예정

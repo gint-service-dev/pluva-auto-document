@@ -1,4 +1,4 @@
-# 계정 목록 및 상세
+# 계정 목록 및 상세 (업데이트)
 
 계정 목록 및 상세에서는 고객의 기본 정보와 제품 사용 현황을 한 화면에서 확인할 수 있습니다. 고객 문의 대응 시, 여러 화면을 오갈 필요 없이 이 화면에서 필요한 정보를 바로 찾을 수 있습니다
 
@@ -14,13 +14,13 @@
 {% step %}
 좌측 메뉴에서 **계정 목록**을 진입한 뒤 원하는 계정을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 계정 항목을 선택하면 계정 상세 진입이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -30,7 +30,7 @@
 
 #### PC 환경 <a href="#detail-desktop" id="detail-desktop"></a>
 
-<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
@@ -69,12 +69,12 @@
 * 차량을 클릭하면 해당 차량의 치수, 보정 정보, GNSS 수신기 위치, 차량 제어 설정을 볼 수 있습니다.
 * 작업기를 클릭하면 작업기의 타입, 너비, 고랑 폭, 작업기 편차를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 차량 카드에는 치수 또는 보정값을 확인해야 하는 차량이 \[이상값] 또는 \[확인 필요] 로 표시됩니다. 조치 방법은 아래에서 확인해주세요.
 
-![](<../../.gitbook/assets/image (284).png>)
+![](<../../.gitbook/assets/image (288).png>)
 {% endhint %}
 
 <details>
@@ -98,19 +98,19 @@
 {% step %}
 \[확인 필요] 뱃지가 있는 차량을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 자율주행을 확인한 뒤, 문제가 없으면 \[확인 필요]를 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 확인란을 체크하고 \[정상 처리]를 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -130,7 +130,7 @@
 
 #### 모바일 환경 <a href="#detail-mobile" id="detail-mobile"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (123).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (127).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 계정 이름
 
@@ -170,12 +170,12 @@
 * 차량을 클릭하면 해당 차량의 치수, 보정 정보, GNSS 수신기 위치, 차량 제어 설정을 볼 수 있습니다.
 * 작업기를 클릭하면 작업기의 타입, 너비, 고랑 폭, 작업기 편차를 확인할 수 있습니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (286).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (290).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 차량 카드에는 치수 또는 보정값을 확인해야 하는 차량이 \[이상값] 또는 \[확인 필요] 로 표시됩니다. 조치 방법은 아래에서 확인해주세요.
 
-![](<../../.gitbook/assets/image (294).png>)
+![](<../../.gitbook/assets/image (298).png>)
 {% endhint %}
 
 <details>
@@ -199,19 +199,19 @@
 {% step %}
 \[확인 필요] 뱃지가 있는 차량을 누릅니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (295).png" alt="" width="372"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (299).png" alt="" width="372"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 자율주행을 확인한 뒤, 문제가 없으면 \[확인 필요]를 누릅니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (296).png" alt="" width="363"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (300).png" alt="" width="363"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 확인란을 체크하고 \[정상 처리]를 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

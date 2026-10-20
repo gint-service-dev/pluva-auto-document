@@ -20,7 +20,7 @@ layout:
   anchors:
     visible: true
 tags:
-  - tag: jp
+  - tag: jp-fkk
     primary: true
 ---
 

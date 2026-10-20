@@ -19,6 +19,9 @@ layout:
     visible: true
   anchors:
     visible: true
+tags:
+  - tag: kr-jp
+    primary: true
 ---
 
 # 개통키 입력

@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 현장 기록 작성
+# 현장 기록 작성 (업데이트)
 
 제품 설치와 퀵셋업을 마친 뒤, 어드민에 설치·교육 내용과 현장에서 발생한 문제, 피드백을 기록합니다. 남긴 기록은 이후 점검과 고객 지원에 활용할 수 있습니다.
 
@@ -31,7 +31,7 @@ layout:
 {% step %}
 어드민에서 \[설치 티켓 목록]을 열고, 기록을 남길 고객의 티켓을 누릅니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (460).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (464).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -40,10 +40,10 @@ layout:
 {% hint style="info" %}
 설치, 교육, 이슈 발생, 고객 피드백, 담당자 피드백 중 내용에 맞는 항목을 선택하여 작성할 수 있습니다.
 
-![](<../.gitbook/assets/image (467).png>)
+![](<../.gitbook/assets/image (471).png>)
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (465).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -53,7 +53,7 @@ layout:
 \[사진/영상 (최대 8개)]을 눌러 파일을 첨부합니다. 사진과 동영상은 합쳐서 최대 8개까지 첨부할 수 있습니다.
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (462).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -63,12 +63,12 @@ layout:
 첨부 파일을 더 넣으려면 \[+]를, 잘못 첨부한 파일을 빼려면 해당 파일의 \[×]를 누릅니다.
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (464).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 목록에 기록이 추가됩니다.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (470).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
