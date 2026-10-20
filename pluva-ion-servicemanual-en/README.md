@@ -1,79 +1,9 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
-  anchors:
-    visible: true
-tags:
-  - tag: kr
-    primary: true
----
+# pluva ion User Manual
 
-# pluva ion Service Manual
 
-<figure><img src=".gitbook/assets/service-main-image.png" alt=""><figcaption></figcaption></figure>
 
-<details>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<summary>메뉴얼 활용 방법</summary>
+<h3 align="center">플루바 아이온을 이용해 주셔서 감사합니다.</h3>
 
-* 이 매뉴얼의 각 절차는 완료에 필요한 모든 단계를 포함하고 있습니다.
-* 일부 단계에서 다른 절차를 참조하는 경우, 해당 절차로 이동하여 진행합니다.
-* 이미 완료한 단계는 건너뛰고 다음 단계로 진행하면 됩니다.
-
-</details>
-
-### 영상 가이드 <a href="#guide" id="guide"></a>
-
-메뉴얼 정보를 간략하게 볼 수 있도록 영상 가이드를 제공합니다. 아래 영상 가이드를 통해 빠르게 내용을 확인합니다.
-
-{% embed url="https://youtu.be/cfwbHk-JCko" %}
-
-{% embed url="https://youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw&si=XKvvquRvSZQHj89V" %}
-
-{% hint style="info" %}
-[다른 영상 가이드도 보러가기](https://www.youtube.com/playlist?list=PLH3vv0_FUaJ1LRfcGwZ4NdQlejbQaYJfw)
-{% endhint %}
-
-### 목차
-
-제품 주문·설치 절차부터 제품 사용법, 어드민·오퍼레이터 관리까지 대리점 운영에 필요한 정보를 제공합니다.
-
-<details>
-
-<summary>설치</summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>주문/설치 단계 설명</td><td><a href="order-installation/order-installation-steps-04.md">order-installation-steps-04.md</a></td></tr><tr><td>주문 등록</td><td><a href="order-installation/order-registration-04.md">order-registration-04.md</a></td></tr><tr><td>설치 전 준비 가이드</td><td><a href="order-installation/pre-installation-overview/">pre-installation-overview</a></td></tr><tr><td>설치티켓으로 제품 등록</td><td><a href="order-installation/product-registration-04.md">product-registration-04.md</a></td></tr><tr><td>제품 설치</td><td><a href="order-installation/product-installation/">product-installation</a></td></tr><tr><td>퀵셋업</td><td><a href="/broken/pages/5l4f11JPsTaBWcobAyoo">Broken link</a></td></tr><tr><td>설치 완료 확인</td><td><a href="order-installation/installation-completed-04.md">installation-completed-04.md</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary>사용법</summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>초기 설정법</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/initial-setup">https://usermanual.pluva.io/ion/korea/kr/usage/initial-setup</a></td></tr><tr><td>주행모드(경로플래닝)</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/driving">https://usermanual.pluva.io/ion/korea/kr/usage/driving</a></td></tr><tr><td>턴 모드</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/uturn-mode">https://usermanual.pluva.io/ion/korea/kr/usage/uturn-mode</a></td></tr><tr><td>주행 편의 기능</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/driving-convenience-function">https://usermanual.pluva.io/ion/korea/kr/usage/driving-convenience-function</a></td></tr><tr><td>내 농장 관리</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/my-farm">https://usermanual.pluva.io/ion/korea/kr/usage/my-farm</a></td></tr><tr><td>차량 관리</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings">https://usermanual.pluva.io/ion/korea/kr/usage/vehicle-settings</a></td></tr><tr><td>작업기 관리</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/workstation-management">https://usermanual.pluva.io/ion/korea/kr/usage/workstation-management</a></td></tr><tr><td>네트워크 설정</td><td><a href="/broken/pages/pKq1PCqWofFMVP6yQfai">Broken link</a></td></tr><tr><td>작업 리포트</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/report">https://usermanual.pluva.io/ion/korea/kr/usage/report</a></td></tr><tr><td>엔터테인먼트</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/entertainment">https://usermanual.pluva.io/ion/korea/kr/usage/entertainment</a></td></tr><tr><td>기타 설정</td><td><a href="https://usermanual.pluva.io/ion/korea/kr/usage/settings">https://usermanual.pluva.io/ion/korea/kr/usage/settings</a></td></tr></tbody></table>
-
-</details>
-
-<details>
-
-<summary>기타</summary>
-
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>설치 결과 목록</td><td><a href="others/installation-result-list.md">installation-result-list.md</a></td></tr><tr><td>고객 계정 정보 수정</td><td><a href="others/customer-account-edit.md">customer-account-edit.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-manage/account-management.md">account-management.md</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-manage/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
-
-</details>
+<p align="center">온라인 사용 설명서는 현재 준비 중입니다.<br></p>
