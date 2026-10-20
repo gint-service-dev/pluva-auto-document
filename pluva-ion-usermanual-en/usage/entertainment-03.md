@@ -1,6 +1,6 @@
 ---
 tags:
-  - tag: jp-fkk
+  - tag: jp
     primary: true
 ---
 
