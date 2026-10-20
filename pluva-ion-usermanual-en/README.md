@@ -4,7 +4,7 @@
 
 
 
-<figure><img src=".gitbook/assets/icon-star-mono.svg" alt=""><figcaption></figcaption></figure>
+<div align="center"><figure><img src=".gitbook/assets/icon-star-mono.png" alt=""><figcaption></figcaption></figure></div>
 
 <h3 align="center">매뉴얼 준비중</h3>
 
