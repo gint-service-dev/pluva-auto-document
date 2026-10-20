@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 필드 등록
+# 필드 등록 (업데이트)
 
 필드를 한 번 등록해두면 각 작업에서 동일한 기준을 사용할 수 있어 작업 준비 시간을 줄이고 반복 설정을 최소화할 수 있습니다. 또한 작업 이력이 필드 단위로 누적·조회되어 필지별 작업 기록을 쉽게 확인하고 농작업을 체계적으로 관리할 수 있습니다.
 
@@ -33,25 +33,25 @@ layout:
 {% step %}
 ![](../../.gitbook/assets/ic_menu.svg) 전체 메뉴 아이콘을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-registration-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/field-registration-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ![](../../.gitbook/assets/add-button.svg) 필드 추가 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-registration-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 원하는 필드 등록 옵션을 선택하고 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-registration-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -63,13 +63,13 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 지도에서 등록 옵션을 선택한 후 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 지도에서 필드를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 기본 필드 등록은 \[지도에서 선택]으로 설정되어 있습니다. 경계를 직접 만들려면 \[직접 그리기]를 누릅니다.
@@ -79,13 +79,13 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 경계 생성 후 \[진입로 설정]을 누른 다음, 원하는 위치를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 진입출로 위치 설정 팝업에서 \[같은 위치로 설정]을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \[진출로 따로 설정]을 선택한 경우, 진입/진출 위치를 각각 지정해야 합니다.
@@ -97,7 +97,7 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 진출입로 설정이 완료되고 필드 정보를 입력한 뒤 \[등록]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/map-registration-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -186,7 +186,29 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 등록 옵션 선택 팝업에서 차량으로 등록을 선택하고 \[확인]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+진행 방향을 확인한 뒤 \[좌측] 또는 \[우측]을 선택하고 \[다음]을 누릅니다.
+
+<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**필드 생성 기준 안내**
+
+주행 거리가 충분히 확보되면 생성된 경계를 기준으로 정밀 보정됩니다. 안내 내용을 확인한 뒤 \[확인]을 누릅니다.
+
+![](<../../.gitbook/assets/image (280).png>)
+{% endhint %}
+
+{% hint style="info" %}
+**차량의 전폭이 등록되지 않은 경우**
+
+\[치수 등록] 화면에서 차량의 전체 너비인 \[전폭]을 m 단위로 입력하고 \[입력 완료]를 누릅니다.
+
+![](<../../.gitbook/assets/image (281).png>)
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -215,19 +237,19 @@ My Farm의 농장관리의 \[필드 탭] 진입이 완료됩니다.
 {% step %}
 경계 완료 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 경계 등록이 완료되면 필드 등록 버튼이 활성화됩니다. **필드 등록**을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-필드 정보 입력 화면에서 필지 이름, 농장, 작물 등을 입력합니다. **등록**을 누르면 필지 등록이 완료됩니다.
+필드 정보 입력 화면에서 필지 이름, 농장, 작물 등을 입력합니다. \[확인]을 누르면 필지 등록이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/field-add-vehicle-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

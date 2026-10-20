@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# AB직진
+# AB직진 (업데이트)
 
 AB 직진
 

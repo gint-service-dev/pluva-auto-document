@@ -158,7 +158,7 @@ tags:
 
 <details>
 
-<summary><a href="https://app.gitbook.com/s/xW59wZ70r7pl3ejnwoYs/consumer-info">고객 지원</a></summary>
+<summary><a href="https://app.gitbook.com/s/H0Flg9sQ9XRs29ob3jyl/consumer-info">고객 지원</a></summary>
 
 <table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>원격 지원</td><td><a href="consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>정비</td><td><a href="consumer-info/maintenance-01.md">maintenance-01.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="consumer-info/privacy-policy-01.md">privacy-policy-01.md</a></td></tr><tr><td>제원 정보</td><td><a href="consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 

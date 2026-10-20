@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 사각주행
+# 사각주행 (업데이트)
 
 설정한 필드 경계를 따라 바깥쪽에서 안쪽으로 또는 안쪽에서 바깥쪽으로 경로를 생성하는 주행모드입니다. 논처럼 반듯한 사각형 밭에서 효율적으로 작업할 수 있습니다.
 
@@ -91,7 +91,7 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 {% endstep %}
 
 {% step %}
-&#x20;주행 방식을 선택합니다.
+경로가 생성되면, 작업을 시작할 주행 방식을 선택합니다.
 
 {% hint style="info" %}
 **\[밖 → 안]**: 경계선부터 안쪽으로 좁혀가며 작업합니다.
@@ -105,9 +105,9 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 {% endstep %}
 
 {% step %}
-시작점과시작 방향을 선택한 뒤 \[주행 시작]을 누르고 안내된 시작점으로 이동합니다.
+시작점과 시작 방향을 선택한 뒤 \[주행 시작]을 누르고 안내된 시작점으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **시작점과 시작 방향**
@@ -118,8 +118,18 @@ D점부터 \[경계 완료]를 눌러 완료 하거나, 다음 점을 추가할 
 {% endstep %}
 
 {% step %}
-시작점 주변에서 \[자율주행 시작] 버튼이 활성화되면 주행을 시작합니다.
+중앙 작업 라인을 확인하고 \[주행 시작]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+지도에 표시된 라인을 확인하고, 작업 방향을 바꾸려면 \[방향 변경]을 누릅니다.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+화면 안내에 따라 시작 위치로 이동합니다. \[자율주행 시작] 버튼이 활성화되면 눌러 주행을 시작합니다.
+
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
