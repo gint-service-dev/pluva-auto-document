@@ -258,6 +258,8 @@ tags:
 {% step %}
 패키지 QR 코드를 카메라로 스캔합니다.
 
+<div align="left"><figure><img src="../.gitbook/assets/image (493).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
 **QR 코드 촬영 시 참고 사항**
 
