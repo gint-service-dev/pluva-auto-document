@@ -1,4 +1,4 @@
-# 계정 목록 및 상세
+# 계정 목록 및 상세 (업데이트)
 
 계정 목록 및 상세에서는 고객의 기본 정보와 제품 사용 현황을 한 화면에서 확인할 수 있습니다. 고객 문의 대응 시, 여러 화면을 오갈 필요 없이 이 화면에서 필요한 정보를 바로 찾을 수 있습니다
 
@@ -98,7 +98,7 @@
 {% step %}
 \[확인 필요] 뱃지가 있는 차량을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
