@@ -32,7 +32,7 @@ layout:
 
 * 이 화면에서 태블릿으로 QR 코드를 스캔하는 것이 아닙니다.
 * 어드민의 설치 티켓에서 패키지 또는 각 구성품의 QR 코드를 등록해 주세요.
-* 자세한 방법은 [설치 티켓으로 제품 개통](https://pluva-auto.gitbook.io/undefined/order-installation/product-registration-05)을 참고하세요.
+* 자세한 방법은 [설치티켓으로 제품 개통](../product-registration-05.md)을 참고하세요.
 {% endhint %}
 
 {% hint style="info" %}
