@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr
     primary: true
@@ -78,7 +80,7 @@ tags:
 
 <summary><a href="usage/driving/">주행 모드 (경로플래닝)</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>스마트커브</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>자동 경로 (플루바 AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>경로플래닝 설정 방법</td><td><a href="usage/driving/route-planning-settings.md">route-planning-settings.md</a></td></tr><tr><td>AB직진</td><td><a href="usage/driving/ab-straight.md">ab-straight.md</a></td></tr><tr><td>A+직진</td><td><a href="usage/driving/a-plus-straight.md">a-plus-straight.md</a></td></tr><tr><td>스마트커브</td><td><a href="usage/driving/ab-curve.md">ab-curve.md</a></td></tr><tr><td>격자주행</td><td><a href="usage/driving/cross-path.md">cross-path.md</a></td></tr><tr><td>사각주행</td><td><a href="usage/driving/square-drive.md">square-drive.md</a></td></tr><tr><td>자동 경로 (플루바 AI)</td><td><a href="usage/driving/auto-route-generation.md">auto-route-generation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -110,7 +112,7 @@ tags:
 
 <summary><a href="usage/vehicle-settings/">차량 관리</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>내 차량 추가</td><td><a href="usage/vehicle-settings/add-vehicle.md">add-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정(IMU)</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>내 차량 진입 및 화면 설명</td><td><a href="usage/vehicle-settings/entering-my-vehicle.md">entering-my-vehicle.md</a></td></tr><tr><td>내 차량 추가</td><td><a href="usage/vehicle-settings/add-vehicle.md">add-vehicle.md</a></td></tr><tr><td>오토스티어 보정</td><td><a href="usage/vehicle-settings/autostere-calibration.md">autostere-calibration.md</a></td></tr><tr><td>롤/피치/요 보정(IMU)</td><td><a href="usage/vehicle-settings/imu-calibration.md">imu-calibration.md</a></td></tr><tr><td>차량 제어 설정</td><td><a href="usage/vehicle-settings/vehicle-control-settings.md">vehicle-control-settings.md</a></td></tr><tr><td>GNSS 수신기 설정</td><td><a href="usage/vehicle-settings/gnss-receiver-setting.md">gnss-receiver-setting.md</a></td></tr><tr><td>태블릿 이전</td><td><a href="usage/vehicle-settings/tablet-relocation.md">tablet-relocation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -158,6 +160,6 @@ tags:
 
 <summary><a href="https://app.gitbook.com/s/9HnyeIfS3GCTBWJmvOCO/consumer-info">고객 지원</a></summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>문제해결 안내</td><td><a href="consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>원격 지원</td><td><a href="consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>정비</td><td><a href="consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>시스템 진단</td><td><a href="consumer-info/system-diagnostics.md">system-diagnostics.md</a></td></tr><tr><td>문제해결 안내</td><td><a href="consumer-info/problem-solving.md">problem-solving.md</a></td></tr><tr><td>원격 지원</td><td><a href="consumer-info/remote-support.md">remote-support.md</a></td></tr><tr><td>정비</td><td><a href="consumer-info/maintenance.md">maintenance.md</a></td></tr><tr><td>개인정보 처리 방침</td><td><a href="https://pluva.jp/pluva_ion/privacy-policy/">https://pluva.jp/pluva_ion/privacy-policy/</a></td></tr><tr><td>제원 정보</td><td><a href="consumer-info/specification-information.md">specification-information.md</a></td></tr></tbody></table>
 
 </details>
