@@ -48,6 +48,10 @@ layout:
 [ota.md](ota.md)
 {% endcontent-ref %}
 
+{% content-ref url="product-activation-screen.md" %}
+[product-activation-screen.md](product-activation-screen.md)
+{% endcontent-ref %}
+
 {% content-ref url="gnss-connect.md" %}
 [gnss-connect.md](gnss-connect.md)
 {% endcontent-ref %}

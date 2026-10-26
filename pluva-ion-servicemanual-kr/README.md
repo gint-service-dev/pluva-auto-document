@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 tags:
   - tag: kr
     primary: true
@@ -56,7 +58,7 @@ tags:
 
 <summary>설치</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>주문/설치 단계 설명</td><td><a href="order-installation/order-installation-steps-04.md">order-installation-steps-04.md</a></td></tr><tr><td>주문 등록</td><td><a href="order-installation/order-registration-04.md">order-registration-04.md</a></td></tr><tr><td>설치 전 준비 가이드</td><td><a href="order-installation/pre-installation-overview/">pre-installation-overview</a></td></tr><tr><td>설치티켓으로 제품 등록</td><td><a href="order-installation/product-registration-04.md">product-registration-04.md</a></td></tr><tr><td>제품 설치</td><td><a href="order-installation/product-installation/">product-installation</a></td></tr><tr><td>퀵셋업</td><td><a href="order-installation/quick-setup/">quick-setup</a></td></tr><tr><td>설치 완료 확인</td><td><a href="order-installation/installation-completed-04.md">installation-completed-04.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>개통/설치 단계 설명</td><td><a href="order-installation/order-installation-steps-04.md">order-installation-steps-04.md</a></td></tr><tr><td>설치 전 준비 가이드</td><td><a href="order-installation/pre-installation-overview/">pre-installation-overview</a></td></tr><tr><td>설치티켓으로 제품 개통</td><td><a href="order-installation/product-registration-05.md">product-registration-05.md</a></td></tr><tr><td>제품 설치</td><td><a href="order-installation/product-installation/">product-installation</a></td></tr><tr><td>퀵셋업</td><td><a href="order-installation/quick-setup-1/">quick-setup-1</a></td></tr><tr><td>현장 기록 작성</td><td><a href="order-installation/create-record.md">create-record.md</a></td></tr><tr><td>확장 키트 설치</td><td><a href="order-installation/expansion-kit-installation.md">expansion-kit-installation.md</a></td></tr></tbody></table>
 
 </details>
 
@@ -72,6 +74,6 @@ tags:
 
 <summary>기타</summary>
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>설치 결과 목록</td><td><a href="others/installation-result-list.md">installation-result-list.md</a></td></tr><tr><td>고객 계정 정보 수정</td><td><a href="others/customer-account-edit.md">customer-account-edit.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-manage/account-management.md">account-management.md</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-manage/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>고객 불편사항 대응 방법</td><td><a href="others/initial-setup.md">initial-setup.md</a></td></tr><tr><td>어드민 로그인</td><td><a href="others/admin-login.md">admin-login.md</a></td></tr><tr><td>대시보드</td><td><a href="others/dashboard.md">dashboard.md</a></td></tr><tr><td>설치 결과 목록</td><td><a href="others/installation-result-list.md">installation-result-list.md</a></td></tr><tr><td>고객 계정 정보 수정</td><td><a href="others/customer-account-edit.md">customer-account-edit.md</a></td></tr><tr><td>계정 관리</td><td><a href="others/account-manage/">account-manage</a></td></tr><tr><td>제품 관리</td><td><a href="others/product-management.md">product-management.md</a></td></tr><tr><td>오퍼레이터 계정 관리</td><td><a href="others/operator-manage/operator-management.md">operator-management.md</a></td></tr><tr><td>원격 지원</td><td><a href="others/monitorning.md">monitorning.md</a></td></tr></tbody></table>
 
 </details>
