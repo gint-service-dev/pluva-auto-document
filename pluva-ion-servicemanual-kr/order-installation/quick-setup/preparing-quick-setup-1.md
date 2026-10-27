@@ -20,7 +20,7 @@ layout:
   anchors:
     visible: true
 tags:
-  - tag: kr
+  - tag: jp
     primary: true
 ---
 
@@ -36,17 +36,17 @@ tags:
 
 퀵셋업은 총 11단계로 이루어져 있습니다.
 
-1. [언어 설정](../quick-setup/language-settings.md)
-2. [네트워크 설정](../quick-setup/network-settings.md)
-3. [소프트웨어 업데이트 (OTA)](../quick-setup/ota.md)
+1. [언어 설정](/broken/pages/llfCE3IcJnLe6Sb043DZ)
+2. [네트워크 설정](/broken/pages/pKq1PCqWofFMVP6yQfai)
+3. [소프트웨어 업데이트 (OTA)](/broken/pages/03SXam5bJolrpGjRuSax)
 4. [제품 개통 확인](product-activation-screen.md)
-5. [GNSS  수신기 연결 확인](../quick-setup/gnss-connect.md)
-6. [위치보정 설정](../quick-setup/rtk-setting.md)
-7. [차량 추가](../quick-setup/add-vehicle.md)
-8. [차량 보정](../quick-setup/vehicle-calibration.md)
-9. [작업기 추가 (선택)](../quick-setup/add-worker.md)
-10. [로그인](../quick-setup/login.md)
-11. [작업지 설정](../quick-setup/farm-setting.md)
+5. [GNSS  수신기 연결 확인](/broken/pages/mFLbZ6Gc0l9uLf8GvhSo)
+6. [위치보정 설정](/broken/pages/LxADZZSJvPhkXFWKhfDz)
+7. [차량 추가](/broken/pages/cdd4wc7f3oTo0sgaeKud)
+8. [차량 보정](/broken/pages/OLqmr5pAULzt4Tbxo7ZA)
+9. [작업기 추가 (선택)](/broken/pages/4NMIuJPGUPL4kvfJOCEm)
+10. [로그인](/broken/pages/sd2v2aY6nf9Dk4wB4CZm)
+11. [작업지 설정](/broken/pages/XweEKeoKLzy14WNwvs6I)
 
 ***
 

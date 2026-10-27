@@ -26,7 +26,7 @@ tags:
 
 # 퀵셋업 설명 및 준비
 
-#### **퀵셋업은 무엇인가요?**
+#### 퀵셋업**은 무엇인가요?**
 
 퀵셋업은 고객이 제품을 바로 사용할 수 있도록 기본 설정을 진행하는 작업입니다.
 
@@ -34,23 +34,19 @@ tags:
 
 #### 퀵셋업 단계
 
-퀵셋업은 총 10단계로 이루어져 있습니다.
+퀵셋업은 총 11단계로 이루어져 있습니다.
 
-{% hint style="info" %}
-확장 키트 설치시 6번 GNSS 수신기 연결 확인부터 참고하세요.
-{% endhint %}
-
-1. [언어 설정](language-settings.md)
-2. [네트워크 설정](network-settings.md)
-3. [소프트웨어 업데이트 (OTA)](ota.md)
-4. [로그인](login.md)
-5. [개통키 입력](opening-key-04.md)
-6. [GNSS수신기 연결 확인](gnss-connect.md)
-7. [위치보정 설정](rtk-setting.md)
-8. [차량 추가](add-vehicle.md)
-9. [차량 보정](vehicle-calibration.md)
-10. [작업기 추가 (선택)](add-worker.md)
-11. [작업지 설정](farm-setting.md)
+1. [언어 설정](/broken/pages/llfCE3IcJnLe6Sb043DZ)
+2. [네트워크 설정](/broken/pages/pKq1PCqWofFMVP6yQfai)
+3. [소프트웨어 업데이트 (OTA)](/broken/pages/03SXam5bJolrpGjRuSax)
+4. [제품 개통 확인](product-activation-screen.md)
+5. [GNSS  수신기 연결 확인](/broken/pages/mFLbZ6Gc0l9uLf8GvhSo)
+6. [위치보정 설정](/broken/pages/LxADZZSJvPhkXFWKhfDz)
+7. [차량 추가](/broken/pages/cdd4wc7f3oTo0sgaeKud)
+8. [차량 보정](/broken/pages/OLqmr5pAULzt4Tbxo7ZA)
+9. [작업기 추가 (선택)](/broken/pages/4NMIuJPGUPL4kvfJOCEm)
+10. [로그인](/broken/pages/sd2v2aY6nf9Dk4wB4CZm)
+11. [작업지 설정](/broken/pages/XweEKeoKLzy14WNwvs6I)
 
 ***
 
@@ -62,7 +58,15 @@ tags:
 * 제품 등록 전 [회원가입 사이트](https://gint.pluva.kr/)에서 가입을 진행해 주세요.
 * 계정이 없으면 제품과 고객 계정을 연결할 수 없으며, 서비스 이용이 불가합니다.
 
-**네트워크 환경을 확인하세요.**
+**제품 개통 완료**
+
+* 어드민에서 설치 티켓을 생성합니다.
+* 패키지 또는 구성품의 시리얼 번호를 등록합니다.
+* 설치 티켓이 \[설치 중] 상태인지 확인합니다.
+
+자세한 방법은 [설치 티켓으로 제품 개통](../product-registration-05.md)을 참고하세요.
+
+**네트워크 환경을 확인**
 
 * 원활한 네트워크 환경에서만 퀵셋업 작업이 가능합니다.
 * 네트워크 환경은 태블릿 상단 네트워크 아이콘 표시를 확인하세요.

@@ -68,7 +68,7 @@ tags:
 {% endhint %}
 
 * 태블릿 화면 안내에 따라 네트워크와 장비 연결을 확인하고, 차량 등록·보정과 고객 계정 로그인 등 초기 설정을 진행합니다.
-* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](quick-setup-1/)을 참고하세요.
+* 자세한 내용은 [<mark style="color:$primary;">퀵셋업</mark>](quick-setup/)을 참고하세요.
 {% endstep %}
 
 {% step %}

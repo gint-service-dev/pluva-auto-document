@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout:
   width: default
   title:
@@ -24,7 +23,14 @@ layout:
 
 # 퀵셋업
 
-퀵셋업은 제품 사용을 시작하기 전에 필요한 기본 설정을 설치자가 진행하는 기능입니다. 언어 및 네트워크 설정, 로그인, 개통키 입력, GNSS 수신기 연결 확인, RTK 설정, 차량 추가 및 설정을 순서대로 완료해 제품을 사용할 준비를 마칠 수 있습니다. 설정 진행 중에는 단계별 안내가 화면에 표시되며, 안내에 따라 필요한 정보를 입력하고 연결 상태를 확인할 수 있습니다.
+퀵셋업은 제품 설치 후 태블릿에서 사용에 필요한 초기 설정을 진행하는 과정입니다. 화면 안내에 따라 네트워크와 장비 연결을 확인하고, 차량 등록·보정과 고객 계정 로그인 등을 진행합니다.
+
+{% hint style="info" %}
+**퀵셋업 시작 전 확인**
+
+* 어드민에서 제품과 구성품 등록을 완료하고, 설치 티켓이 \[설치 중] 상태인지 확인해 주세요.
+* 자세한 방법은 [설치티켓으로 제품 개통](../product-registration-05.md)을 참고하세요.
+{% endhint %}
 
 {% content-ref url="preparing-quick-setup.md" %}
 [preparing-quick-setup.md](preparing-quick-setup.md)
@@ -42,12 +48,8 @@ layout:
 [ota.md](ota.md)
 {% endcontent-ref %}
 
-{% content-ref url="login.md" %}
-[login.md](login.md)
-{% endcontent-ref %}
-
-{% content-ref url="opening-key-04.md" %}
-[opening-key-04.md](opening-key-04.md)
+{% content-ref url="product-activation-screen.md" %}
+[product-activation-screen.md](product-activation-screen.md)
 {% endcontent-ref %}
 
 {% content-ref url="gnss-connect.md" %}
@@ -68,6 +70,10 @@ layout:
 
 {% content-ref url="add-worker.md" %}
 [add-worker.md](add-worker.md)
+{% endcontent-ref %}
+
+{% content-ref url="login.md" %}
+[login.md](login.md)
 {% endcontent-ref %}
 
 {% content-ref url="farm-setting.md" %}
