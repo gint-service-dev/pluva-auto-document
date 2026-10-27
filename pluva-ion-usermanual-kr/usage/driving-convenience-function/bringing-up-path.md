@@ -30,9 +30,7 @@ layout:
 #### 경로 불러오기
 
 {% hint style="info" %}
-경로 불러오기 기능은 자동 경로 불러오기 및 메모리 주행 모드에서만 지원되며, 해당 모드를 선택하지 않으면 비활성화됩니다.
-
-<img src="../../.gitbook/assets/calling-path-mode.png" alt="" data-size="original">
+경로 불러오기 목록에는 **\[경로 저장]으로 저장해 둔 경로만** 표시되며, 그중 **현재 선택한 주행 모드에 해당하는 경로만** 나타납니다.
 {% endhint %}
 
 {% stepper %}
@@ -46,10 +44,6 @@ layout:
 경로 불러오기를 누릅니다.
 
 <figure><img src="../../.gitbook/assets/calling-path-explanation-2.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-불러오기 목록에는 현재 주행 모드의 경로만 표시됩니다.
-{% endhint %}
 
 {% hint style="info" %}
 스마트커브 경로는 해당 경로를 저장한 차량에서만 확인할 수 있습니다.
