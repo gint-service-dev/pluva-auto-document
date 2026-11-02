@@ -456,7 +456,7 @@ GNSS 수신기의 종방향, 횡방향, 설치 높이를 입력하고 \[확인]�
 
 {% step %}
 **2차 직진 조향 보정**을 완료하면 퀵턴 차량 오토스티어 보정이 완료됩니다.\
-\&#xNAN;**\[다음 단계로]** 를 눌러 **작업지 설정**으로 진입합니다.
+**\[다음 단계로]** 를 눌러 **작업지 설정**으로 진입합니다.
 
 <figure><img src="../../.gitbook/assets/calibration-speed-10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
