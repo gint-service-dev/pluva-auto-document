@@ -41,31 +41,31 @@ AB 직진
 {% step %}
 <img src="../../.gitbook/assets/a-button.svg" alt="" data-size="original"> 버튼을 눌러 A점을 생성합니다.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-A점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (72).png>) 버튼을 눌러 A점을 다시 생성합니다.
+A점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (89).png>) 버튼을 눌러 A점을 다시 생성합니다.
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../../.gitbook/assets/image (138).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 필드 경계 안에서 10m 이상 직진 주행한 뒤, 원하는 지점에서 <img src="../../.gitbook/assets/b-button.svg" alt="" data-size="original"> 버튼을 눌러 B점을 생성합니다.
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-B점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (76).png>) 버튼을 눌러 다시 생성합니다.
+B점을 잘못 설정 했을 경우, ![](<../../.gitbook/assets/image (93).png>) 버튼을 눌러 다시 생성합니다.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](<../../.gitbook/assets/image (142).png>)
 {% endhint %}
 {% endstep %}
 
 {% step %}
 AB 직진 경로가 생성되면<img src="../../.gitbook/assets/drive-button.svg" alt="" data-size="original">\[자율주행 시작] 버튼을 눌러 자율주행을 시작합니다.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

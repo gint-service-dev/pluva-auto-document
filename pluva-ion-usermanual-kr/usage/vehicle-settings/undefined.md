@@ -36,13 +36,13 @@ layout:
 {% step %}
 확인되는 팝업에서 \[확인]을 누릅니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (125).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 \[차량 변경]에서 차량을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **차량 변경 시 유의 사항**

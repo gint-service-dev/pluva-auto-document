@@ -137,20 +137,20 @@
 
 {% stepper %}
 {% step %}
-홈 화면에서 ![](<../.gitbook/assets/image (21).png>) 버튼을 누릅니다.
+홈 화면에서 ![](<../.gitbook/assets/image (38).png>) 버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[작업 리포트]를 누르면 작업 리포트 목록으로 진입합니다.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 작업 완료 직후에는 완료 화면의 \[작업 기록 보기]를 누르면 바로 진입할 수 있습니다.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (42).png>)
 {% endhint %}
 {% endstep %}
 {% endstepper %}
@@ -161,35 +161,35 @@
 
 작업 이력 목록은 날짜별로 묶인 카드 형태로 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> **정렬**
+<img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> **정렬**
 
 * 최신순·오래된순으로 목록을 정렬합니다.
 
-<img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> **작업 공유**
+<img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> **작업 공유**
 
 * \[작업 공유] 버튼을 눌러 리포트를 선택한 뒤 공유할 수 있습니다.
 * 코드를 확인 후 \[확인] 버튼을 눌러 리포트 공유가 가능합니다.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> **날짜 선택**
+<img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> **날짜 선택**
 
 * 주간 달력에서 원하는 날짜를 선택하면 해당 날짜의 작업 기록을 확인할 수 있습니다.
 * 상단의 년/월 또는 달력 아이콘을 탭하면 년/월을 변경할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> **작업 시간**
+<img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> **작업 시간**
 
 * 작업 시작·종료 시각입니다.
 
-<img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> **소요 시간 및 면적**
+<img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> **소요 시간 및 면적**
 
 * 작업에 소요된 시간과 완료된 총 작업 면적입니다.
 
-<img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **작업 태그**
+<img src="../.gitbook/assets/image (24).png" alt="" data-size="line"> **작업 태그**
 
 * 작업시 특징을 태그로 손쉽게 확인할 수 있습니다.
 
@@ -200,11 +200,11 @@
 - **풍량 태그** : 작업시 풍량
 {% endhint %}
 
-<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="line"> **작업지 주소**
+<img src="../.gitbook/assets/image (25).png" alt="" data-size="line"> **작업지 주소**
 
 * 작업한 곳의 주소입니다.
 
-<img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **작업 지도**
+<img src="../.gitbook/assets/image (26).png" alt="" data-size="line"> **작업 지도**
 
 * 작업한 곳의 지도입니다.
 
@@ -214,13 +214,13 @@
 
 목록에서 카드를 누르면 해당 작업의 상세 정보를 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> **작업 시간**
+<img src="../.gitbook/assets/image (28).png" alt="" data-size="line"> **작업 시간**
 
 * 작업 시작·종료 시각입니다.
 
-<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> **작업 지도**
+<img src="../.gitbook/assets/image (29).png" alt="" data-size="line"> **작업 지도**
 
 * 작업 경로와 작업 완료 구간을 지도 위에 시각화하여 보여줍니다.
 * 지도 상단에는 작업 필지의 주소와 필드 이름이 표시됩니다.
@@ -236,27 +236,27 @@
 크게보기 버튼을 탭하면 지도를 전체 화면으로 확인할 수 있습니다.
 {% endhint %}
 
-<img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="line"> **작업 면적**
+<img src="../.gitbook/assets/image (30).png" alt="" data-size="line"> **작업 면적**
 
 * 자율주행으로 완료된 총 작업 면적입니다.
 
-<img src="../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> **주행 거리**
+<img src="../.gitbook/assets/image (31).png" alt="" data-size="line"> **주행 거리**
 
 * 작업 주행 합산 거리를 표시합니다. 자동·수동 거리도 함께 표시합니다.
 
-<img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> **작업 시간 정보**
+<img src="../.gitbook/assets/image (32).png" alt="" data-size="line"> **작업 시간 정보**
 
 * 작업시간은 자율주행 또는 수동으로 실제 작업을 수행한 총 시간입니다.
 * 작업이 이루어진 시간대(오전작업 / 오후작업)가 함께 표시됩니다.
 
-<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **메모**
+<img src="../.gitbook/assets/image (33).png" alt="" data-size="line"> **메모**
 
 * 작업 시 입력한 메모를 확인합니다.
 
-<img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> **차량**
+<img src="../.gitbook/assets/image (34).png" alt="" data-size="line"> **차량**
 
 * 작업에 사용한 차량 정보입니다
 
-<img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> **작업기**
+<img src="../.gitbook/assets/image (35).png" alt="" data-size="line"> **작업기**
 
 * 작업에 사용한 작업기와 작업폭입니다.

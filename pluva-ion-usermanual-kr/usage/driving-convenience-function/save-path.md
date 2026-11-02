@@ -41,7 +41,7 @@ layout:
 {% step %}
 이름 설정을 원할 경우 '경로 이름 영역'을 눌러 경로 이름을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 경로 이름은 최대 30자 이하로 입력해주세요.
@@ -51,7 +51,7 @@ layout:
 {% step %}
 \[저장]을 누릅니다. 저장이 완료됩니다.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

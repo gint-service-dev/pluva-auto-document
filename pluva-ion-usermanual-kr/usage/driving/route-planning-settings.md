@@ -61,7 +61,7 @@ A+직진
 
 * 사각 주행은 사각형 밭의 네 변을 따라 외곽부터 안쪽으로 좁혀가며 작업하는 주행모드입니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (80).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (97).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 자동 경로 (pluva AI)
 

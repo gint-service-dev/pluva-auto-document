@@ -22,7 +22,7 @@ tags:
 {% step %}
 왼쪽 메뉴에서 \[기기 설정]을 누르면 기기 설정 화면으로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,7 +32,7 @@ tags:
 
 화면 밝기와 음량, 카메라 표시를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;![](../../.gitbook/assets/icon-square-1.svg) **화면 밝기**
 
@@ -58,7 +58,7 @@ tags:
 
 주행시 표시되는 지도 소스를 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 * **구글 지도**: 구글에서 제공하는 위성 사진 데이터를 사용합니다.
 * **2D 지도**: 위성 사진이 아닌 평면 지도를 사용합니다.
@@ -69,9 +69,9 @@ tags:
 
 키보드 입력 방식과 원터치 스위치의 버튼 작동음을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (190).png" alt="" data-size="line"> **키보드 설정**
+<img src="../../.gitbook/assets/image (207).png" alt="" data-size="line"> **키보드 설정**
 
 * Kana(가나): 가나 문자를 직접 입력합니다.
 * Romaji(로마자): 로마자로 입력합니다.
@@ -87,10 +87,10 @@ tags:
 
 “키보드 업데이트가 필요합니다”라는 안내가 나타나면 \[지금 설치]를 눌러 업데이트합니다.
 
-![](<../../.gitbook/assets/image (194).png>)
+![](<../../.gitbook/assets/image (211).png>)
 {% endhint %}
 
-<img src="../../.gitbook/assets/image (191).png" alt="" data-size="line"> **원터치 스위치**
+<img src="../../.gitbook/assets/image (208).png" alt="" data-size="line"> **원터치 스위치**
 
 * 원터치 스위치 음량: 버튼 작동음을 켜거나 끕니다.
 * 버튼 작동음 안내: 작동음의 종류와 의미를 확인합니다.
@@ -100,7 +100,7 @@ tags:
 - \[예시 듣기]를 눌러 각 작동음을 미리 들어볼 수 있습니다.
 - \[원터치 스위치 음량]이 꺼져 있으면 \[예시 듣기]가 표시되지 않습니다.
 
-![](<../../.gitbook/assets/image (203).png>)
+![](<../../.gitbook/assets/image (220).png>)
 {% endhint %}
 
 {% hint style="info" %}
@@ -115,7 +115,7 @@ tags:
 
 기기의 기본 정보를 확인하고 저장된 작업 데이터를 초기화 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 기기 일련번호
 
@@ -136,22 +136,22 @@ tags:
 
 주변 블루투스 기기를 태블릿에 연결하고, 연결 상태와 음량을 관리합니다.
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> **블루투스 연결**
+<img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> **블루투스 연결**
 
 * 블루투스 연결을 켜거나 끕니다.
 
-<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> **등록된 기기**
+<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> **등록된 기기**
 
 * 등록한 기기와 연결 상태를 확인합니다. \[연결] 또는 \[연결 해제]를 눌러 연결을 관리합니다.
 * ⓘ를 누르면 기기 정보를 확인하거나 \[기기 지우기]를 선택할 수 있습니다.
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> **블루투스 음량**
+<img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> **블루투스 음량**
 
 * 슬라이더로 음량을 조절합니다. \[예시 듣기]를 눌러 소리를 확인할 수 있습니다.
 
-<img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> **근처 기기**
+<img src="../../.gitbook/assets/image (16).png" alt="" data-size="line"> **근처 기기**
 
 * 주변에서 검색된 기기를 확인합니다. \[기기 검색]을 누르면 이름으로 기기를 찾을 수 있습니다.
 
