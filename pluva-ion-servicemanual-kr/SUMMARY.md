@@ -52,7 +52,6 @@
 * [어드민 로그인](others/admin-login.md)
 * [대시보드](others/dashboard.md)
 * [고객 계정 정보 수정](others/customer-account-edit.md)
-* [설치 결과 목록](others/installation-result-list.md)
 * [계정 관리](others/account-manage/README.md)
   * [계정 목록 및 상세](others/account-manage/account-management.md)
   * [작업 이력](others/account-manage/work-history-01.md)
