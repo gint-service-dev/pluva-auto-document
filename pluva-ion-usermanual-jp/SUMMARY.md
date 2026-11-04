@@ -69,7 +69,7 @@
 ## カスタマーサポート <a href="#consumer-info" id="consumer-info"></a>
 
 * [시스템 진단 - 신규](consumer-info/undefined.md)
-* [トラブルシューティング - 수정](consumer-info/problem-solving.md)
+* [トラブルシューティング - 문구 수정](consumer-info/problem-solving.md)
 * [リモートサポート](consumer-info/remote-support.md)
 * [整備](consumer-info/maintenance.md)
 * [個人情報処理方針](consumer-info/privacy-policy.md)
