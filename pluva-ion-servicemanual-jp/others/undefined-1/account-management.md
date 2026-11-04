@@ -1,4 +1,4 @@
-# アカウント管理
+# アカウント管理 - 수정 (계정 목록 및 상세)
 
 お客様のアカウントの基本情報および保有する製品・機器・取り付け履歴を確認できます。
 
@@ -14,13 +14,13 @@
 {% step %}
 左側のメニューから**アカウント管理**を選択します。
 
-<figure><img src="../.gitbook/assets/account-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-menu-open-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ご希望のアカウントを選択すると、アカウントの詳細へアクセスできます。
 
-<figure><img src="../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-menu-select-1.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -32,13 +32,13 @@
 
 #### PC環境
 
-<figure><img src="../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-detail-pc-1.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) アカウント名
+![](../../.gitbook/assets/icon-square-1.svg) アカウント名
 
-![](../.gitbook/assets/icon-square-2.svg) 所属部署および作成日
+![](../../.gitbook/assets/icon-square-2.svg) 所属部署および作成日
 
-![](../.gitbook/assets/icon-square-3.svg) アカウント情報
+![](../../.gitbook/assets/icon-square-3.svg) アカウント情報
 
 * 該当するアカウントに登録されている、携帯電話番号とメールアドレスが表示されます。
 
@@ -46,12 +46,12 @@
 **ご参照：**&#x643A;帯電話番号とメールアドレスの右側にあるコピーアイコンをクリックすると、クリップボードにコピーされます。
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) メモ
+![](../../.gitbook/assets/icon-square-4.svg) メモ
 
 * **⋮ ボタン**をクリックし、内容を修正及び削除できます。
 * **作成者名**と**作成日時**が併せて表示されます。
 
-![](../.gitbook/assets/icon-square-5.svg) アカウントの詳細情報
+![](../../.gitbook/assets/icon-square-5.svg) アカウントの詳細情報
 
 * アカウントの詳細画面の下部にある「**製品、機器、作業、取り付け**」タブを選択すると、それぞれの履歴を確認できます。\
   リストの確認のみが可能であり、直接追加及び修正はできません。
@@ -68,13 +68,13 @@
 
 #### モバイル環境
 
-<figure><img src="../.gitbook/assets/account-management-detail-mobile-1.png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management-detail-mobile-1.png" alt="" width="287"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/icon-square-1.svg) アカウント名
+![](../../.gitbook/assets/icon-square-1.svg) アカウント名
 
-![](../.gitbook/assets/icon-square-2.svg) 所属部署及び作成日
+![](../../.gitbook/assets/icon-square-2.svg) 所属部署及び作成日
 
-![](../.gitbook/assets/icon-square-3.svg) アカウント情報
+![](../../.gitbook/assets/icon-square-3.svg) アカウント情報
 
 * 該当するアカウントに登録済みの携帯電話番号とメールアドレスが表示されます。
 
@@ -82,12 +82,12 @@
 **ご参照：**&#x643A;帯電話番号とメールアドレスの右側にあるコピーアイコンをクリックすると、クリップボードにコピーされます。
 {% endhint %}
 
-![](../.gitbook/assets/icon-square-4.svg) メモ
+![](../../.gitbook/assets/icon-square-4.svg) メモ
 
 * **⋮ ボタン**をクリックし、内容を修正及び削除できます。
 * **作成者名**と**作成日時**が併せて表示されます。
 
-![](../.gitbook/assets/icon-square-5.svg) アカウントの詳細情報
+![](../../.gitbook/assets/icon-square-5.svg) アカウントの詳細情報
 
 * アカウントの詳細画面の下部にある「**製品、機器、作業、取り付け**」タブを選択し、それぞれの履歴を確認できます。\
   リストの確認のみが可能であり、直接追加及び修正はできません。
