@@ -18,13 +18,13 @@
   * [構成品のご用意](order-installation/product-installation/preparing-components.md)
   * [構成品の取り付け位置](order-installation/product-installation/product-location.md)
   * [電動ステアリングホイール](order-installation/product-installation/electric-steering-wheel.md)
-  * [GNSS受信機 - 수정](order-installation/product-installation/gnss-receiver.md)
+  * [GNSS受信機 - 문구 수정](order-installation/product-installation/gnss-receiver.md)
   * [タブレット](order-installation/product-installation/tablet.md)
   * [ハーネス - 수정](order-installation/product-installation/harness.md)
   * [カメラ](order-installation/product-installation/camera.md)
   * [ワンタッチスイッチ](order-installation/product-installation/switch.md)
-* [簡単セットアップ - 수정](order-installation/quick-setup/README.md)
-  * [簡単セットアップのご案内および準備 - 수정](order-installation/quick-setup/preparing-quick-setup-01.md)
+* [簡単セットアップ - 문구 수정](order-installation/quick-setup/README.md)
+  * [簡単セットアップのご案内および準備 - 문구 수정](order-installation/quick-setup/preparing-quick-setup-01.md)
   * [簡単セットアップのご案内および準備](order-installation/quick-setup/preparing-quick-setup-02.md)
   * [言語設定](order-installation/quick-setup/language-settings.md)
   * [ネットワーク設定](order-installation/quick-setup/network-settings.md)
@@ -46,7 +46,7 @@
 
 ## その他 <a href="#others" id="others"></a>
 
-* [お客様のお困りごとへの対応策 - 수정](others/initial-setup.md)
+* [お客様のお困りごとへの対応策 - 문구 수정](others/initial-setup.md)
 * [アドミンへのログイン](others/admin-login.md)
 * [대시보드 - 신규](others/undefined.md)
 * [お客様アカウント情報の修正](others/customer-account-edit.md)
