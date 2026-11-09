@@ -1,4 +1,4 @@
 # pluva ion User Manual
 
-<figure><img src=".gitbook/assets/icon-star-mono (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coming-soon.png" alt=""><figcaption></figcaption></figure>
 
