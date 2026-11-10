@@ -104,13 +104,25 @@ A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 
 
 AB 직진 턴
 
-* AB 라인 기준점을 중심으로 설정값에 따라 턴합니다.
+* AB 라인 기준점을 중심으로 설정값에 따라 턴 타입입니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/ab-straight-uturn.png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 AB직진 모드에서만 사용할 수 있으며, 이외의 모드에서는 비활성화됩니다.
 {% endhint %}
+
+A+ 턴
+
+* A+ 직진 경로를 기준으로 방향을 전환하는 턴 타입입니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (314).png" alt="" width="146"><figcaption></figcaption></figure></div>
+
+스마트커브 턴
+
+* AB 커브 경로를 기준으로 방향을 전환하는 턴 타입입니다.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (315).png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 ***
 
