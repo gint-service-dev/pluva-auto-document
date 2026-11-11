@@ -86,19 +86,19 @@ A,B점 동일하게 조정: 위치 수정 값을 입력하면 A,B 점 위치가 
 {% step %}
 사용할 턴 타입을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/uturn-type-explanation-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 \[다음]을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/uturn-type-explanation-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 #### 턴 타입 설명
 
-<figure><img src="../../.gitbook/assets/uturn-type-explanation-screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/icon-square-1.svg) 턴 타입
 
@@ -111,18 +111,6 @@ AB 직진 턴
 {% hint style="info" %}
 AB직진 모드에서만 사용할 수 있으며, 이외의 모드에서는 비활성화됩니다.
 {% endhint %}
-
-A+ 턴
-
-* A+ 직진 경로를 기준으로 방향을 전환하는 턴 타입입니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (314).png" alt="" width="146"><figcaption></figcaption></figure></div>
-
-스마트커브 턴
-
-* AB 커브 경로를 기준으로 방향을 전환하는 턴 타입입니다.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (315).png" alt="" width="146"><figcaption></figcaption></figure></div>
 
 ***
 

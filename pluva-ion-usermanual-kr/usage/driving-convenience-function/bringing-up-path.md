@@ -119,7 +119,7 @@ layout:
 {% step %}
 모달의 \[삭제] 버튼을 누릅니다.
 
-<figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

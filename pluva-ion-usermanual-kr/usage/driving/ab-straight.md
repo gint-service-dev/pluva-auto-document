@@ -99,19 +99,19 @@ AB 직진 모드에서, <img src="../../.gitbook/assets/automatic-path-button.sv
 * ![](../../.gitbook/assets/my-location--criteria.png)
   * 기존 생성 라인: 하얀색
   * 내 위치 기준 생성 라인: 파란색
-* 방향 변경: AB 라인이 필드 경계의 다음 변(반시계 방향)을 기준으로 바뀝니다.
+* 방향 변경: AB 라인이 필드 경계의 다음 변(시계 방향)을 기준으로 바뀝니다.
   1.  왼쪽
 
       <div align="left"><figure><img src="../../.gitbook/assets/image (298).png" alt="" width="304"><figcaption></figcaption></figure></div>
-  2.  아래쪽
+  2.  위쪽
 
-      <div align="left"><figure><img src="../../.gitbook/assets/image (300).png" alt="" width="304"><figcaption></figcaption></figure></div>
+      <div align="left"><figure><img src="../../.gitbook/assets/image (302).png" alt="" width="304"><figcaption></figcaption></figure></div>
   3.  오른쪽
 
       <div align="left"><figure><img src="../../.gitbook/assets/image (301).png" alt="" width="304"><figcaption></figcaption></figure></div>
-  4.  위쪽
+  4.  아래쪽
 
-      <div align="left"><figure><img src="../../.gitbook/assets/image (302).png" alt="" width="304"><figcaption></figcaption></figure></div>
+      <div align="left"><figure><img src="../../.gitbook/assets/image (300).png" alt="" width="304"><figcaption></figcaption></figure></div>
 * A/B점 교체: A점과 B점을 서로 바꿉니다.
 * ![](../../.gitbook/assets/before--replace-abpoints.png)
   * 변경 전
